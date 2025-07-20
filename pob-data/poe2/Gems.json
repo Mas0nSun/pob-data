@@ -2788,6 +2788,33 @@
     },
     "variantId":"CrescendoSupport"
   },
+  "Metadata/Items/Gems/SkillGemCrossbowRequiem":{
+    "Tier":0,
+    "additionalGrantedEffectId1":"CrossbowRequiemPlayer",
+    "baseTypeName":"Compose Requiem",
+    "gameId":"Metadata/Items/Gem/SkillGemCrossbowRequiem",
+    "gemType":"Attack",
+    "grantedEffectId":"CrossbowRequiemAmmoPlayer",
+    "name":"Requiem",
+    "naturalMaxLevel":20,
+    "reqDex":50,
+    "reqInt":0,
+    "reqStr":50,
+    "tagString":"AoE, Ammunition, Projectile, Cold, Conditional",
+    "tags":{
+      "ammunition":true,
+      "area":true,
+      "attack":true,
+      "cold":true,
+      "conditional":true,
+      "dexterity":true,
+      "grants_active_skill":true,
+      "projectile":true,
+      "strength":true
+    },
+    "variantId":"CrossbowRequiem",
+    "weaponRequirements":"Crossbow"
+  },
   "Metadata/Items/Gems/SkillGemCullTheWeak":{
     "Tier":3,
     "baseTypeName":"Cull the Weak",
@@ -4161,6 +4188,27 @@
       "support":true
     },
     "variantId":"ExpediteSupport"
+  },
+  "Metadata/Items/Gems/SkillGemExplodingPoisonToad":{
+    "Tier":0,
+    "baseTypeName":"Bursting Fen Toad",
+    "gameId":"Metadata/Items/Gem/SkillGemExplodingPoisonToad",
+    "gemType":"Attack",
+    "grantedEffectId":"ExplodingPoisonToadPlayer",
+    "name":"Bursting Fen Toad",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":0,
+    "reqStr":0,
+    "tagString":"AoE, Physical, Chaos",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "chaos":true,
+      "grants_active_skill":true,
+      "physical":true
+    },
+    "variantId":"ExplodingPoisonToad"
   },
   "Metadata/Items/Gems/SkillGemExploitWeaknessSupport":{
     "Tier":2,
@@ -5550,6 +5598,29 @@
     "variantId":"HandOfChayula",
     "weaponRequirements":"Quarterstaff, Unarmed"
   },
+  "Metadata/Items/Gems/SkillGemHeartOfIce":{
+    "Tier":0,
+    "baseTypeName":"Heart of Ice",
+    "gameId":"Metadata/Items/Gem/SkillGemHeartOfIce",
+    "gemType":"Spell",
+    "grantedEffectId":"HeartOfIcePlayer",
+    "name":"Heart of Ice",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Buff, Persistent, Aura, Cold",
+    "tags":{
+      "aura":true,
+      "buff":true,
+      "cold":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "persistent":true,
+      "spell":true
+    },
+    "variantId":"HeartOfIce"
+  },
   "Metadata/Items/Gems/SkillGemHeftSupport":{
     "Tier":3,
     "gameId":"Metadata/Items/Gem/SupportGemHeft",
@@ -5999,6 +6070,32 @@
     "variantId":"IceStrike",
     "weaponRequirements":"Quarterstaff"
   },
+  "Metadata/Items/Gems/SkillGemIcestorm":{
+    "Tier":0,
+    "additionalStatSet1":"IcestormEmpoweredPlayer",
+    "baseTypeName":"Icestorm",
+    "gameId":"Metadata/Items/Gem/SkillGemIcestorm",
+    "gemType":"Barrageable",
+    "grantedEffectId":"IcestormPlayer",
+    "name":"Icestorm",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Spell, AoE, Sustained, Cold, Duration, Payoff",
+    "tags":{
+      "area":true,
+      "barrageable":true,
+      "cold":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "payoff":true,
+      "spell":true,
+      "sustained":true
+    },
+    "variantId":"Icestorm"
+  },
   "Metadata/Items/Gems/SkillGemIcicleSupport":{
     "Tier":2,
     "gameId":"Metadata/Items/Gem/SupportGemIcicle",
@@ -6125,6 +6222,29 @@
       "support":true
     },
     "variantId":"ImpetusSupport"
+  },
+  "Metadata/Items/Gems/SkillGemImpurity":{
+    "Tier":0,
+    "baseTypeName":"Impurity",
+    "gameId":"Metadata/Items/Gems/SkillGemImpurity",
+    "gemType":"Buff",
+    "grantedEffectId":"ImpurityPlayer",
+    "name":"Impurity",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":75,
+    "reqStr":25,
+    "tagString":"Persistent, Aura, Chaos",
+    "tags":{
+      "aura":true,
+      "buff":true,
+      "chaos":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "persistent":true,
+      "strength":true
+    },
+    "variantId":"Impurity"
   },
   "Metadata/Items/Gems/SkillGemIncendiaryShot":{
     "Tier":3,
@@ -7935,6 +8055,30 @@
       "support":true
     },
     "variantId":"PinSupport"
+  },
+  "Metadata/Items/Gems/SkillGemPinnacleOfPower":{
+    "Tier":0,
+    "baseTypeName":"Pinnacle of Power",
+    "gameId":"Metadata/Items/Gem/SkillGemPinnacleOfPower",
+    "gemType":"Spell",
+    "grantedEffectId":"PinnacleOfPowerPlayer",
+    "name":"Pinnacle of Power",
+    "naturalMaxLevel":1,
+    "reqDex":0,
+    "reqInt":0,
+    "reqStr":0,
+    "tagString":"Buff, Lightning, Cold, Fire, Duration, Conditional",
+    "tags":{
+      "buff":true,
+      "cold":true,
+      "conditional":true,
+      "duration":true,
+      "fire":true,
+      "grants_active_skill":true,
+      "lightning":true,
+      "spell":true
+    },
+    "variantId":"PinnacleOfPower"
   },
   "Metadata/Items/Gems/SkillGemPinpointCritical":{
     "Tier":2,

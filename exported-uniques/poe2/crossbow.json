@@ -18,11 +18,26 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"crossbow",
-    "modifiers":["(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","100% chance to not consume a bolt if you've Reloaded Recently","30% reduced Reload Speed"],
+    "modifiers":["(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","100% chance to not consume a bolt if you've Reloaded Recently"],
     "name":"Rampart Raptor",
-    "originalString":"Rampart Raptor\nTense Crossbow\nImplicits: 1\n(20-30)% increased Bolt Speed\n(40-60)% increased Physical Damage\n(30-40)% increased Attack Speed\n100% chance to not consume a bolt if you've Reloaded Recently\n30% reduced Reload Speed\n",
+    "originalString":"Rampart Raptor\nTense Crossbow\nImplicits: 1\n(20-30)% increased Bolt Speed\n(40-60)% increased Physical Damage\n(30-40)% increased Attack Speed\n30% reduced Reload Speed\n100% chance to not consume a bolt if you've Reloaded Recently\n",
     "requirements":[],
-    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","100% chance to not consume a bolt if you've Reloaded Recently","30% reduced Reload Speed"],
+    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","100% chance to not consume a bolt if you've Reloaded Recently"],
+    "variants":[]
+  },
+  "The Last Lament":{
+    "baseType":"Desolate Crossbow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Compose Requiem",
+    "implicitCount":1,
+    "itemType":"crossbow",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill"],
+    "name":"The Last Lament",
+    "originalString":"The Last Lament\nDesolate Crossbow\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Compose Requiem\n(250-300)% increased Physical Damage\n(10-20)% increased Attack Speed\n(40-60)% reduced Reload Speed\nLeeches (5-10)% of Physical Damage as Life\n(10-20)% chance to load a bolt into all Crossbow skills on Kill\nSacrifice 300 Life to not consume the last bolt when firing\n",
+    "requirements":[],
+    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill","Sacrifice 300 Life to not consume the last bolt when firing"],
     "variants":[]
   }
 }

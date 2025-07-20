@@ -92,6 +92,20 @@
     "stats":["Bronzebeard","Horned Crown","Variant: Pre 0.1.1","Variant: Current","10% reduced Movement Speed","(50-100)% increased Armour and Energy Shield","{variant:1}+(40-60) to maximum Life","{variant:2}+100 to maximum Life","(35-50)% reduced Effect of Chill on you","(35-50)% reduced effect of Ignite on you","(35-50)% reduced effect of Shock on you"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Constricting Command":{
+    "baseType":"Viper Cap",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(80-120) to maximum Life","+(10-15) to all Attributes"],
+    "name":"Constricting Command",
+    "originalString":"Constricting Command\nViper Cap\nLeague: Dawn of the Hunt\n+(80-120) to maximum Life\n+(10-15) to all Attributes\n(8-12) Life Regeneration per second\nPin Enemies which are Primed for Pinning\n",
+    "requirements":[],
+    "stats":["Constricting Command","Viper Cap","League: Dawn of the Hunt","+(80-120) to maximum Life","+(10-15) to all Attributes","(8-12) Life Regeneration per second","Pin Enemies which are Primed for Pinning"],
+    "variants":[]
+  },
   "Cornathaum":{
     "baseType":"Heavy Crown",
     "flags":[],
@@ -383,6 +397,20 @@
     "stats":["Mask of the Stitched Demon","Feathered Tiara","(120-160)% increased Energy Shield","+(17-23)% to Chaos Resistance","Cannot have Energy Shield","Regenerate 0.05 Life per second per Maximum Energy Shield"],
     "variants":[]
   },
+  "Mind of the Council":{
+    "baseType":"Death Mask",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
+    "name":"Mind of the Council",
+    "originalString":"Mind of the Council\nDeath Mask\nLeague: Dawn of the Hunt\n(60-90)% increased Evasion and Energy Shield\n+(60-90) to maximum Mana\n+(20-30)% to Lightning Resistance\nAttacks cost an additional 6% of your maximum Mana\nAttacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana\n",
+    "requirements":[],
+    "stats":["Mind of the Council","Death Mask","League: Dawn of the Hunt","(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
+    "variants":[]
+  },
   "Myris Uxor":{
     "baseType":"Covert Hood",
     "flags":[],
@@ -486,12 +514,12 @@
     "implicitCount":0,
     "itemType":"helmet",
     "league":" Dawn of the Hunt",
-    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating"],
+    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance"],
     "name":"The Bringer of Rain",
-    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
+    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n{variant:2}100% increased Critical Hit Chance\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
     "requirements":[],
-    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
-    "variants":[]
+    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "The Deepest Tower":{
     "baseType":"Spiritbone Crown",

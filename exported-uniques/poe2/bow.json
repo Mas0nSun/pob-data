@@ -26,6 +26,20 @@
     "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","Adds (5-7) to (10-12) Physical Damage","+10 to Dexterity","(30-50)% increased Mana Regeneration Rate","Attacks with this Weapon gain 50% of Physical damage as Extra damage of each Element"],
     "variants":[]
   },
+  "Lioneye's Glare":{
+    "baseType":"Heavy Bow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"bow",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently"],
+    "name":"Lioneye's Glare",
+    "originalString":"Lioneye's Glare\nHeavy Bow\nLeague: Dawn of the Hunt\n(150-240)% increased Physical Damage\n+(300-500) to Accuracy Rating\n10% increased Attack Speed\n+(20-30) to Dexterity\n+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently\n-1 metre to Dodge Roll distance if you've Dodge Rolled Recently\nBarrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence\n",
+    "requirements":[],
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently","Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence"],
+    "variants":[]
+  },
   "Quill Rain":{
     "baseType":"Shortbow",
     "flags":[],

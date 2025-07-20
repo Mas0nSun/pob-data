@@ -163,5 +163,20 @@
     "requirements":[],
     "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}No Physical Damage","{variant:1}Adds (8-12) to (16-20) Fire Damage","{variant:2}Adds (25-32) to (40-50) Fire Damage","{variant:2}+(30-50) to Accuracy Rating","+20% to Fire Resistance","100% increased chance to Ignite","30% increased Light Radius"],
     "variants":["Pre 0.1.1","Current"]
+  },
+  "The Whispering Ice":{
+    "baseType":"Permafrost Staff",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Icestorm",
+    "implicitCount":2,
+    "itemType":"staff",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%"],
+    "name":"The Whispering Ice",
+    "originalString":"The Whispering Ice\nPermafrost Staff\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Level (1-20) Heart of Ice\nGrants Skill: Level (1-20) Icestorm\n+(2-4) to Level of all Cold Spell Skills\n(10-20)% reduced Cast Speed\n(5-15)% increased Intelligence\n4% increased Spell Damage per 10 Intelligence\nInflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%\n",
+    "requirements":[],
+    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Heart of Ice","Grants Skill: Level (1-20) Icestorm","+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%"],
+    "variants":[]
   }
 }

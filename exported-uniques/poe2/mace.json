@@ -81,16 +81,16 @@
     "baseType":"Torment Club",
     "flags":[],
     "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Lightning Spell on Melee Hit",
+    "grantSkill":"Level (1-20) Thundergod's Wrath",
     "implicitCount":1,
     "itemType":"mace",
     "league":" Dawn of the Hunt",
-    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
+    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
     "name":"Mjolner",
-    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Lightning Spell on Melee Hit\n+200 Intelligence Requirement\n+100 Strength Requirement\n(150-200)% increased Physical Damage\n(10-20)% increased Attack Speed\n+(1-2) to Level of all Lightning Skills\n",
+    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Level (1-20) Thundergod's Wrath\n+200 Intelligence Requirement\n+100 Strength Requirement\n{variant:1}(150-200)% increased Physical Damage\n{variant:2}(250-350)% increased Physical Damage\n(10-20)% increased Attack Speed\n{variant:1}+1 to Level of all Lightning Skills\n{variant:2}+(2-4) to Level of all Lightning Skills\n",
     "requirements":[],
-    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Lightning Spell on Melee Hit","+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
-    "variants":[]
+    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Nebuloch":{
     "baseType":"Brigand Mace",
@@ -195,12 +195,12 @@
     "implicitCount":0,
     "itemType":"mace",
     "league":" Dawn of the Hunt",
-    "modifiers":["(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate"],
+    "modifiers":["{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
     "name":"The Hammer of Faith",
-    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\n(200-250)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\nGain a random Shrine buff every 10 seconds\n",
+    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n{variant:1}(200-250)% increased Physical Damage\n{variant:2}(250-300)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\n{variant:1}Gain a random Shrine buff every 10 seconds\n",
     "requirements":[],
-    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","Gain a random Shrine buff every 10 seconds"],
-    "variants":[]
+    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Tidebreaker":{
     "baseType":"Pointed Maul",

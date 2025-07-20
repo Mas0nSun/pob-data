@@ -39,6 +39,35 @@
     "stats":["Blackgleam","Fire Quiver","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Adds 3 to 5 Fire damage to Attacks","{variant:2}Adds (3-5) to (6-9) Fire damage to Attacks","+(30-50) to maximum Mana","50% increased chance to Ignite","Projectiles Pierce all Ignited enemies","Attacks Gain (5-10)% of Damage as Extra Fire Damage"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Cadiro's Gambit":{
+    "baseType":"Primed Quiver",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"quiver",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(7-10)% increased Attack Speed"],
+    "name":"Cadiro's Gambit",
+    "originalString":"Cadiro's Gambit\nPrimed Quiver\nLeague: Dawn of the Hunt\n(7-10)% increased Attack Speed\nEach Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow\n",
+    "requirements":[],
+    "stats":["Cadiro's Gambit","Primed Quiver","League: Dawn of the Hunt","(7-10)% increased Attack Speed","Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow"],
+    "variants":[]
+  },
+  "Murkshaft":{
+    "baseType":"Toxic Quiver",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Bursting Fen Toad",
+    "implicitCount":1,
+    "itemType":"quiver",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(10-20)% increased Poison Duration","(10-15)% chance to Poison on Hit with Attacks","(20-30)% chance to Poison on Hit with Attacks"],
+    "name":"Murkshaft",
+    "originalString":"Murkshaft\nToxic Quiver\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Bursting Fen Toad\nAdds (6-10) to (13-17) Physical Damage to Attacks\nGain (10-15) Mana per Enemy Killed\n(10-20)% increased Poison Duration\n(10-15)% chance to Poison on Hit with Attacks\n(20-30)% chance to Poison on Hit with Attacks\nBlind Targets when you Poison them\n",
+    "requirements":[],
+    "stats":["Murkshaft","Toxic Quiver","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Bursting Fen Toad","Adds (6-10) to (13-17) Physical Damage to Attacks","Gain (10-15) Mana per Enemy Killed","(10-20)% increased Poison Duration","(10-15)% chance to Poison on Hit with Attacks","(20-30)% chance to Poison on Hit with Attacks","Blind Targets when you Poison them"],
+    "variants":[]
+  },
   "Rearguard":{
     "baseType":"Blunt Quiver",
     "flags":[],

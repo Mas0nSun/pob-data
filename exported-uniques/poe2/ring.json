@@ -58,13 +58,13 @@
     "implicitCount":1,
     "itemType":"ring",
     "league":" Dawn of the Hunt",
-    "modifiers":["(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","Attacks have added Physical damage equal to 3% of maximum Life"],
+    "modifiers":["(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life"],
     "name":"Bursting Decay",
-    "originalString":"Bursting Decay\nUnset Ring\nLeague: Dawn of the Hunt\nRequires Level 60\nImplicits: 1\nGrants 1 additional Skill Slot\n(15-25)% increased Rarity of Items found\n{tags:chaos}+(17-23)% to Chaos Resistance\nLose 5% of maximum Life per second\nAttacks have added Physical damage equal to 3% of maximum Life\n",
+    "originalString":"Bursting Decay\nUnset Ring\nLeague: Dawn of the Hunt\nRequires Level 60\nImplicits: 1\nGrants 1 additional Skill Slot\n(15-25)% increased Rarity of Items found\n{tags:chaos}+(17-23)% to Chaos Resistance\nLose 5% of maximum Life per second\n{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life\n",
     "requirements":{
       "level":60
     },
-    "stats":["Bursting Decay","Unset Ring","League: Dawn of the Hunt","Requires Level 60","Implicits: 1","Grants 1 additional Skill Slot","(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","Attacks have added Physical damage equal to 3% of maximum Life"],
+    "stats":["Bursting Decay","Unset Ring","League: Dawn of the Hunt","Requires Level 60","Implicits: 1","Grants 1 additional Skill Slot","(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life"],
     "variants":[]
   },
   "Call of the Brotherhood":{
@@ -419,13 +419,13 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"ring",
-    "modifiers":["{tags:cold}+(20-30)% to Cold Resistance","(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
+    "modifiers":["{tags:cold}+(20-30)% to Cold Resistance","{tags:speed}(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
     "name":"Whisper of the Brotherhood",
-    "originalString":"Whisper of the Brotherhood\nSapphire Ring\nRequires Level 32\nImplicits: 1\n{tags:cold}+(20-30)% to Cold Resistance\n(5-10)% increased Skill Speed\n{tags:attribute}+(10-20) to Dexterity\n{tags:mana}(25-35)% increased Mana Regeneration Rate\n100% of Cold Damage Converted to Lightning Damage\n",
+    "originalString":"Whisper of the Brotherhood\nSapphire Ring\nRequires Level 32\nImplicits: 1\n{tags:cold}+(20-30)% to Cold Resistance\n{tags:speed}(5-10)% increased Skill Speed\n{tags:attribute}+(10-20) to Dexterity\n{tags:mana}(25-35)% increased Mana Regeneration Rate\n100% of Cold Damage Converted to Lightning Damage\n",
     "requirements":{
       "level":32
     },
-    "stats":["Whisper of the Brotherhood","Sapphire Ring","Requires Level 32","Implicits: 1","{tags:cold}+(20-30)% to Cold Resistance","(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
+    "stats":["Whisper of the Brotherhood","Sapphire Ring","Requires Level 32","Implicits: 1","{tags:cold}+(20-30)% to Cold Resistance","{tags:speed}(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
     "variants":[]
   }
 }

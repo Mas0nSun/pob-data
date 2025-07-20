@@ -13,6 +13,21 @@
     "stats":["Ab Aeterno","Grand Cuisses","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","(15-30)% increased Movement Speed","(60-80)% increased Armour, Evasion and Energy Shield","Dodge Roll avoids all Hits","10% less Movement and Skill Speed per Dodge Roll in the past 20 seconds"],
     "variants":[]
   },
+  "Adonia's Ego":{
+    "baseType":"Siphoning Wand",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level 20 Pinnacle of Power",
+    "implicitCount":2,
+    "itemType":"wand.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(100-150) to maximum Mana","+3 to Level of all Spell Skills","(15-30)% increased Cast Speed","-10% to all Elemental Resistances per Power Charge","+(-1-1) to Maximum Power Charges"],
+    "name":"Adonia's Ego",
+    "originalString":"Adonia's Ego\nSiphoning Wand\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Level (1-20) Power Siphon\nGrants Skill: Level 20 Pinnacle of Power\n+(100-150) to maximum Mana\n+3 to Level of all Spell Skills\n(15-30)% increased Cast Speed\n-10% to all Elemental Resistances per Power Charge\n+(-1-1) to Maximum Power Charges\n",
+    "requirements":[],
+    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","+(100-150) to maximum Mana","+3 to Level of all Spell Skills","(15-30)% increased Cast Speed","-10% to all Elemental Resistances per Power Charge","+(-1-1) to Maximum Power Charges"],
+    "variants":[]
+  },
   "Aerisvane's Wings":{
     "baseType":"Burnished Gauntlets",
     "flags":[],
@@ -619,13 +634,13 @@
     "implicitCount":1,
     "itemType":"ring.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","Attacks have added Physical damage equal to 3% of maximum Life"],
+    "modifiers":["(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life"],
     "name":"Bursting Decay",
-    "originalString":"Bursting Decay\nUnset Ring\nLeague: Dawn of the Hunt\nRequires Level 60\nImplicits: 1\nGrants 1 additional Skill Slot\n(15-25)% increased Rarity of Items found\n{tags:chaos}+(17-23)% to Chaos Resistance\nLose 5% of maximum Life per second\nAttacks have added Physical damage equal to 3% of maximum Life\n",
+    "originalString":"Bursting Decay\nUnset Ring\nLeague: Dawn of the Hunt\nRequires Level 60\nImplicits: 1\nGrants 1 additional Skill Slot\n(15-25)% increased Rarity of Items found\n{tags:chaos}+(17-23)% to Chaos Resistance\nLose 5% of maximum Life per second\n{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life\n",
     "requirements":{
       "level":60
     },
-    "stats":["Bursting Decay","Unset Ring","League: Dawn of the Hunt","Requires Level 60","Implicits: 1","Grants 1 additional Skill Slot","(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","Attacks have added Physical damage equal to 3% of maximum Life"],
+    "stats":["Bursting Decay","Unset Ring","League: Dawn of the Hunt","Requires Level 60","Implicits: 1","Grants 1 additional Skill Slot","(15-25)% increased Rarity of Items found","{tags:chaos}+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","{tags:physical}Attacks have added Physical damage equal to 3% of maximum Life"],
     "variants":[]
   },
   "Bushwhack":{
@@ -639,6 +654,20 @@
     "originalString":"Bushwhack\nLizardscale Boots\n(15-25)% increased Movement Speed\n(50-80)% increased Evasion Rating\n+(10-20) to Dexterity\nPhysical Damage is Pinning\n",
     "requirements":[],
     "stats":["Bushwhack","Lizardscale Boots","(15-25)% increased Movement Speed","(50-80)% increased Evasion Rating","+(10-20) to Dexterity","Physical Damage is Pinning"],
+    "variants":[]
+  },
+  "Cadiro's Gambit":{
+    "baseType":"Primed Quiver",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"quiver.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(7-10)% increased Attack Speed"],
+    "name":"Cadiro's Gambit",
+    "originalString":"Cadiro's Gambit\nPrimed Quiver\nLeague: Dawn of the Hunt\n(7-10)% increased Attack Speed\nEach Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow\n",
+    "requirements":[],
+    "stats":["Cadiro's Gambit","Primed Quiver","League: Dawn of the Hunt","(7-10)% increased Attack Speed","Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow"],
     "variants":[]
   },
   "Calgyra's Arc":{
@@ -760,12 +789,12 @@
     "grantSkill":"Level (1-20) Lightning Bolt",
     "implicitCount":2,
     "itemType":"amulet.min",
-    "modifiers":["{tags:attribute}+(10-15) to Dexterity","{tags:lightning}+(20-30)% to Lightning Resistance"],
+    "modifiers":["{tags:attribute}+(10-15) to Dexterity","{tags:lightning}+(20-30)% to Lightning Resistance","{tags:lightning}Critical Hits Ignore Enemy Monster Lightning Resistance"],
     "name":"Choir of the Storm",
-    "originalString":"Choir of the Storm\nJade Amulet\nSource: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}\nImplicits: 2\nGrants Skill: Level (1-20) Lightning Bolt\n{tags:attribute}+(10-15) to Dexterity\n{tags:lightning}+(20-30)% to Lightning Resistance\nCritical Hits Ignore Enemy Monster Lightning Resistance\nTrigger Lightning Bolt Skill on Critical Hit\n",
+    "originalString":"Choir of the Storm\nJade Amulet\nSource: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}\nImplicits: 2\nGrants Skill: Level (1-20) Lightning Bolt\n{tags:attribute}+(10-15) to Dexterity\n{tags:lightning}+(20-30)% to Lightning Resistance\n{tags:lightning}Critical Hits Ignore Enemy Monster Lightning Resistance\nTrigger Lightning Bolt Skill on Critical Hit\n",
     "requirements":[],
     "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "stats":["Choir of the Storm","Jade Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 2","Grants Skill: Level (1-20) Lightning Bolt","{tags:attribute}+(10-15) to Dexterity","{tags:lightning}+(20-30)% to Lightning Resistance","Critical Hits Ignore Enemy Monster Lightning Resistance","Trigger Lightning Bolt Skill on Critical Hit"],
+    "stats":["Choir of the Storm","Jade Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 2","Grants Skill: Level (1-20) Lightning Bolt","{tags:attribute}+(10-15) to Dexterity","{tags:lightning}+(20-30)% to Lightning Resistance","{tags:lightning}Critical Hits Ignore Enemy Monster Lightning Resistance","Trigger Lightning Bolt Skill on Critical Hit"],
     "variants":[]
   },
   "Cloak of Defiance":{
@@ -820,6 +849,20 @@
     "requirements":[],
     "source":"Drops from unique{Kosis, The Revelation}",
     "stats":["Collapsing Horizon","Wyrm Quarterstaff","Source: Drops from unique{Kosis, The Revelation}","100% increased Elemental Damage with Attacks","+(5-10)% to Critical Hit Chance","+(2-4) to Level of all Elemental Skills","Trigger skills refund half of Energy spent"],
+    "variants":[]
+  },
+  "Constricting Command":{
+    "baseType":"Viper Cap",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(80-120) to maximum Life","+(10-15) to all Attributes"],
+    "name":"Constricting Command",
+    "originalString":"Constricting Command\nViper Cap\nLeague: Dawn of the Hunt\n+(80-120) to maximum Life\n+(10-15) to all Attributes\n(8-12) Life Regeneration per second\nPin Enemies which are Primed for Pinning\n",
+    "requirements":[],
+    "stats":["Constricting Command","Viper Cap","League: Dawn of the Hunt","+(80-120) to maximum Life","+(10-15) to all Attributes","(8-12) Life Regeneration per second","Pin Enemies which are Primed for Pinning"],
     "variants":[]
   },
   "Controlled Metamorphosis":{
@@ -1097,14 +1140,14 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"amulet.min",
-    "modifiers":["{tags:attribute}+(10-15) to Dexterity","{tags:life}(6-10)% increased maximum Life","{tags:attribute}+(10-20) to Strength","{tags:mana}(25-40)% increased Mana Regeneration Rate","{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy","{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy"],
+    "modifiers":["{tags:attribute}+(10-15) to Dexterity","{tags:life}(6-10)% increased maximum Life","{tags:attribute}+(10-20) to Strength","{tags:mana}(25-40)% increased Mana Regeneration Rate","{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy","{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy","{variant:3}{tags:life}Recover (10-20)% of Missing Life before being Hit by an Enemy"],
     "name":"Defiance of Destiny",
-    "originalString":"Defiance of Destiny\nJade Amulet\nVariant: Pre 0.1.1\nVariant: Current\nRequires Level 56\nImplicits: 1\n{tags:attribute}+(10-15) to Dexterity\n{tags:life}(6-10)% increased maximum Life\n{tags:attribute}+(10-20) to Strength\n{tags:mana}(25-40)% increased Mana Regeneration Rate\n{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy\n{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy\n",
+    "originalString":"Defiance of Destiny\nJade Amulet\nVariant: Pre 0.1.1\nVariant: Pre 0.2.1\nVariant: Current\nRequires Level 56\nImplicits: 1\n{tags:attribute}+(10-15) to Dexterity\n{tags:life}(6-10)% increased maximum Life\n{tags:attribute}+(10-20) to Strength\n{tags:mana}(25-40)% increased Mana Regeneration Rate\n{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy\n{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy\n{variant:3}{tags:life}Recover (10-20)% of Missing Life before being Hit by an Enemy\n",
     "requirements":{
       "level":56
     },
-    "stats":["Defiance of Destiny","Jade Amulet","Variant: Pre 0.1.1","Variant: Current","Requires Level 56","Implicits: 1","{tags:attribute}+(10-15) to Dexterity","{tags:life}(6-10)% increased maximum Life","{tags:attribute}+(10-20) to Strength","{tags:mana}(25-40)% increased Mana Regeneration Rate","{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy","{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Defiance of Destiny","Jade Amulet","Variant: Pre 0.1.1","Variant: Pre 0.2.1","Variant: Current","Requires Level 56","Implicits: 1","{tags:attribute}+(10-15) to Dexterity","{tags:life}(6-10)% increased maximum Life","{tags:attribute}+(10-20) to Strength","{tags:mana}(25-40)% increased Mana Regeneration Rate","{variant:1}{tags:life}Recover 5% of Missing Life before being Hit by an Enemy","{variant:2}{tags:life}Recover 10% of Missing Life before being Hit by an Enemy","{variant:3}{tags:life}Recover (10-20)% of Missing Life before being Hit by an Enemy"],
+    "variants":["Pre 0.1.1","Pre 0.2.1","Current"]
   },
   "Deidbell":{
     "baseType":"Elite Greathelm",
@@ -1771,12 +1814,57 @@
     "gameVersion":"poe2",
     "implicitCount":3,
     "itemType":"sceptre.min",
-    "modifiers":["{variant:1}Grants Skill: Level (1-20) Purity of Fire","{variant:2}Grants Skill: Level (1-20) Purity of Ice","{variant:3}Grants Skill: Level (1-20) Purity of Lightning","{variant:1}Allies in your Presence deal (4-6) to (7-10) additional Attack Fire Damage","{variant:2}Allies in your Presence deal (3-5) to (6-8) additional Attack Cold Damage","{variant:3}Allies in your Presence deal 1 to (10-15) additional Attack Lightning Damage","+(5-10) to all Attributes","25% increased Light Radius","50% of your Life Regeneration is granted to Allies in your Presence"],
+    "modifiers":["{variant:1}Allies in your Presence deal (4-6) to (7-10) added Attack Fire Damage","{variant:4}Allies in your Presence deal (15-23) to (28-35) added Attack Fire Damage","{variant:2}Allies in your Presence deal (3-5) to (6-8) added Attack Cold Damage","{variant:5}Allies in your Presence deal (15-23) to (28-35) added Attack Cold Damage","{variant:3}Allies in your Presence deal 1 to (10-15) added Attack Lightning Damage","{variant:6}Allies in your Presence deal 1 to (56-70) added Attack Lightning Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(5-10) to all Attributes","25% increased Light Radius"],
     "name":"Guiding Palm",
-    "originalString":"Guiding Palm\nShrine Sceptre\nVariant: Fire\nVariant: Cold\nVariant: Lightning\nImplicits: 3\n{variant:1}Grants Skill: Level (1-20) Purity of Fire\n{variant:2}Grants Skill: Level (1-20) Purity of Ice\n{variant:3}Grants Skill: Level (1-20) Purity of Lightning\n{variant:1}Allies in your Presence deal (4-6) to (7-10) additional Attack Fire Damage\n{variant:2}Allies in your Presence deal (3-5) to (6-8) additional Attack Cold Damage\n{variant:3}Allies in your Presence deal 1 to (10-15) additional Attack Lightning Damage\n+(5-10) to all Attributes\n25% increased Light Radius\n50% of your Life Regeneration is granted to Allies in your Presence\n",
+    "originalString":"Guiding Palm\nShrine Sceptre\nVariant: Fire (Pre 0.2.1 )\nVariant: Cold (Pre 0.2.1 )\nVariant: Lightning (Pre 0.2.1 )\nVariant: Fire\nVariant: Cold\nVariant: Lightning\nImplicits: 3\n{variant:1,4}Grants Skill: Level (1-20) Purity of Fire\n{variant:2,5}Grants Skill: Level (1-20) Purity of Ice\n{variant:3,6}Grants Skill: Level (1-20) Purity of Lightning\n{variant:1}Allies in your Presence deal (4-6) to (7-10) added Attack Fire Damage\n{variant:4}Allies in your Presence deal (15-23) to (28-35) added Attack Fire Damage\n{variant:2}Allies in your Presence deal (3-5) to (6-8) added Attack Cold Damage\n{variant:5}Allies in your Presence deal (15-23) to (28-35) added Attack Cold Damage\n{variant:3}Allies in your Presence deal 1 to (10-15) added Attack Lightning Damage\n{variant:6}Allies in your Presence deal 1 to (56-70) added Attack Lightning Damage\n50% of your Base Life Regeneration is granted to Allies in your Presence\n+(5-10) to all Attributes\n25% increased Light Radius\n",
     "requirements":[],
-    "stats":["Guiding Palm","Shrine Sceptre","Variant: Fire","Variant: Cold","Variant: Lightning","Implicits: 3","{variant:1}Grants Skill: Level (1-20) Purity of Fire","{variant:2}Grants Skill: Level (1-20) Purity of Ice","{variant:3}Grants Skill: Level (1-20) Purity of Lightning","{variant:1}Allies in your Presence deal (4-6) to (7-10) additional Attack Fire Damage","{variant:2}Allies in your Presence deal (3-5) to (6-8) additional Attack Cold Damage","{variant:3}Allies in your Presence deal 1 to (10-15) additional Attack Lightning Damage","+(5-10) to all Attributes","25% increased Light Radius","50% of your Life Regeneration is granted to Allies in your Presence"],
-    "variants":["Fire","Cold","Lightning"]
+    "stats":["Guiding Palm","Shrine Sceptre","Variant: Fire (Pre 0.2.1 )","Variant: Cold (Pre 0.2.1 )","Variant: Lightning (Pre 0.2.1 )","Variant: Fire","Variant: Cold","Variant: Lightning","Implicits: 3","{variant:1,4}Grants Skill: Level (1-20) Purity of Fire","{variant:2,5}Grants Skill: Level (1-20) Purity of Ice","{variant:3,6}Grants Skill: Level (1-20) Purity of Lightning","{variant:1}Allies in your Presence deal (4-6) to (7-10) added Attack Fire Damage","{variant:4}Allies in your Presence deal (15-23) to (28-35) added Attack Fire Damage","{variant:2}Allies in your Presence deal (3-5) to (6-8) added Attack Cold Damage","{variant:5}Allies in your Presence deal (15-23) to (28-35) added Attack Cold Damage","{variant:3}Allies in your Presence deal 1 to (10-15) added Attack Lightning Damage","{variant:6}Allies in your Presence deal 1 to (56-70) added Attack Lightning Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(5-10) to all Attributes","25% increased Light Radius"],
+    "variants":["Fire (Pre 0.2.1 )","Cold (Pre 0.2.1 )","Lightning (Pre 0.2.1 )","Fire","Cold","Lightning"]
+  },
+  "Guiding Palm of the Eye":{
+    "baseType":"Shrine Sceptre",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Purity of Ice",
+    "implicitCount":1,
+    "itemType":"sceptre.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["Gain 25% of Damage as Extra Cold Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Intelligence","25% increased Light Radius"],
+    "name":"Guiding Palm of the Eye",
+    "originalString":"Guiding Palm of the Eye\nShrine Sceptre\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Purity of Ice\nGain 25% of Damage as Extra Cold Damage\nAllies in your Presence deal (15-23) to (28-35) added Attack Cold Damage\n50% of your Base Life Regeneration is granted to Allies in your Presence\n+(20-30) to Intelligence\n25% increased Light Radius\nGrants effect of Guided Freezing Shrine\n",
+    "requirements":[],
+    "stats":["Guiding Palm of the Eye","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Ice","Gain 25% of Damage as Extra Cold Damage","Allies in your Presence deal (15-23) to (28-35) added Attack Cold Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Intelligence","25% increased Light Radius","Grants effect of Guided Freezing Shrine"],
+    "variants":[]
+  },
+  "Guiding Palm of the Heart":{
+    "baseType":"Shrine Sceptre",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Purity of Fire",
+    "implicitCount":1,
+    "itemType":"sceptre.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["Gain 25% of Damage as Extra Fire Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Strength","25% increased Light Radius"],
+    "name":"Guiding Palm of the Heart",
+    "originalString":"Guiding Palm of the Heart\nShrine Sceptre\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Purity of Fire\nGain 25% of Damage as Extra Fire Damage\nAllies in your Presence deal (15-23) to (28-35) added Attack Fire Damage\n50% of your Base Life Regeneration is granted to Allies in your Presence\n+(20-30) to Strength\n25% increased Light Radius\nGrants effect of Guided Meteoric Shrine\n",
+    "requirements":[],
+    "stats":["Guiding Palm of the Heart","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Fire","Gain 25% of Damage as Extra Fire Damage","Allies in your Presence deal (15-23) to (28-35) added Attack Fire Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Strength","25% increased Light Radius","Grants effect of Guided Meteoric Shrine"],
+    "variants":[]
+  },
+  "Guiding Palm of the Mind":{
+    "baseType":"Shrine Sceptre",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Purity of Lightning",
+    "implicitCount":1,
+    "itemType":"sceptre.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["Gain 25% of Damage as Extra Lightning Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Dexterity","25% increased Light Radius"],
+    "name":"Guiding Palm of the Mind",
+    "originalString":"Guiding Palm of the Mind\nShrine Sceptre\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Purity of Lightning\nGain 25% of Damage as Extra Lightning Damage\nAllies in your Presence deal 1 to (56-70) added Attack Lightning Damage\n50% of your Base Life Regeneration is granted to Allies in your Presence\n+(20-30) to Dexterity\n25% increased Light Radius\nGrants effect of Guided Tempest Shrine\n",
+    "requirements":[],
+    "stats":["Guiding Palm of the Mind","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Lightning","Gain 25% of Damage as Extra Lightning Damage","Allies in your Presence deal 1 to (56-70) added Attack Lightning Damage","50% of your Base Life Regeneration is granted to Allies in your Presence","+(20-30) to Dexterity","25% increased Light Radius","Grants effect of Guided Tempest Shrine"],
+    "variants":[]
   },
   "Hand of Wisdom and Action":{
     "baseType":"Variant: Pre 0.2.0",
@@ -1814,9 +1902,9 @@
     "itemType":"belt.min",
     "modifiers":["(20-30)% increased Stun Threshold","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity"],
     "name":"Headhunter",
-    "originalString":"Headhunter\nHeavy Belt\nImplicits: 2\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n+(40-60) to maximum Life\n+(20-40) to Strength\n+(20-40) to Dexterity\nWhen you Kill a Rare monster, you gain its Modifiers for 20 seconds\n",
+    "originalString":"Headhunter\nHeavy Belt\nImplicits: 2\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n+(40-60) to maximum Life\n+(20-40) to Strength\n+(20-40) to Dexterity\nWhen you Kill a Rare monster, you gain its Modifiers for 60 seconds\n",
     "requirements":[],
-    "stats":["Headhunter","Heavy Belt","Implicits: 2","(20-30)% increased Stun Threshold","Has (1-3) Charm Slot","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity","When you Kill a Rare monster, you gain its Modifiers for 20 seconds"],
+    "stats":["Headhunter","Heavy Belt","Implicits: 2","(20-30)% increased Stun Threshold","Has (1-3) Charm Slot","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity","When you Kill a Rare monster, you gain its Modifiers for 60 seconds"],
     "variants":[]
   },
   "Heartbound Loop":{
@@ -2108,12 +2196,12 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"body.min",
-    "modifiers":["(30-40)% increased Stun Threshold","+1000 to maximum Life"],
+    "modifiers":["(30-40)% increased Stun Threshold","{variant:1}+1000 to maximum Life","{variant:2}+1500 to maximum Life"],
     "name":"Kaom's Heart",
-    "originalString":"Kaom's Heart\nConqueror Plate\nImplicits: 1\n(30-40)% increased Stun Threshold\n+1000 to maximum Life\nYou have no Spirit\n",
+    "originalString":"Kaom's Heart\nConqueror Plate\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\n(30-40)% increased Stun Threshold\n{variant:1}+1000 to maximum Life\n{variant:2}+1500 to maximum Life\nYou have no Spirit\n",
     "requirements":[],
-    "stats":["Kaom's Heart","Conqueror Plate","Implicits: 1","(30-40)% increased Stun Threshold","+1000 to maximum Life","You have no Spirit"],
-    "variants":[]
+    "stats":["Kaom's Heart","Conqueror Plate","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","(30-40)% increased Stun Threshold","{variant:1}+1000 to maximum Life","{variant:2}+1500 to maximum Life","You have no Spirit"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Keelhaul":{
     "baseType":"Linen Belt",
@@ -2261,6 +2349,20 @@
       "level":35
     },
     "stats":["Ligurium Talisman","Lapis Amulet","Requires Level 35","Implicits: 1","{tags:attribute}+(10-15) to Intelligence","{tags:defences}+(30-40) to maximum Energy Shield","+(25-35) to Spirit","{tags:attribute}+(20-30) to Intelligence","Life Regeneration is applied to Energy Shield instead"],
+    "variants":[]
+  },
+  "Lioneye's Glare":{
+    "baseType":"Heavy Bow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"bow.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently"],
+    "name":"Lioneye's Glare",
+    "originalString":"Lioneye's Glare\nHeavy Bow\nLeague: Dawn of the Hunt\n(150-240)% increased Physical Damage\n+(300-500) to Accuracy Rating\n10% increased Attack Speed\n+(20-30) to Dexterity\n+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently\n-1 metre to Dodge Roll distance if you've Dodge Rolled Recently\nBarrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence\n",
+    "requirements":[],
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently","Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence"],
     "variants":[]
   },
   "Lochtonial Caress":{
@@ -2411,6 +2513,20 @@
     "stats":["Midnight Braid","Rawhide Belt","Implicits: 2","(20-30)% increased Life Recovery from Flasks","Has (1-3) Charm Slot","+(30-50) to maximum Mana","+(5-10)% to all Elemental Resistances","50% of Damage taken Recouped as Mana"],
     "variants":[]
   },
+  "Mind of the Council":{
+    "baseType":"Death Mask",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
+    "name":"Mind of the Council",
+    "originalString":"Mind of the Council\nDeath Mask\nLeague: Dawn of the Hunt\n(60-90)% increased Evasion and Energy Shield\n+(60-90) to maximum Mana\n+(20-30)% to Lightning Resistance\nAttacks cost an additional 6% of your maximum Mana\nAttacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana\n",
+    "requirements":[],
+    "stats":["Mind of the Council","Death Mask","League: Dawn of the Hunt","(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
+    "variants":[]
+  },
   "Ming's Heart":{
     "baseType":"Amethyst Ring",
     "flags":[],
@@ -2441,16 +2557,16 @@
     "baseType":"Torment Club",
     "flags":[],
     "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Lightning Spell on Melee Hit",
+    "grantSkill":"Level (1-20) Thundergod's Wrath",
     "implicitCount":1,
     "itemType":"mace.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
+    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
     "name":"Mjolner",
-    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Lightning Spell on Melee Hit\n+200 Intelligence Requirement\n+100 Strength Requirement\n(150-200)% increased Physical Damage\n(10-20)% increased Attack Speed\n+(1-2) to Level of all Lightning Skills\n",
+    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Level (1-20) Thundergod's Wrath\n+200 Intelligence Requirement\n+100 Strength Requirement\n{variant:1}(150-200)% increased Physical Damage\n{variant:2}(250-350)% increased Physical Damage\n(10-20)% increased Attack Speed\n{variant:1}+1 to Level of all Lightning Skills\n{variant:2}+(2-4) to Level of all Lightning Skills\n",
     "requirements":[],
-    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Lightning Spell on Melee Hit","+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
-    "variants":[]
+    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Morior Invictus":{
     "baseType":"Grand Regalia",
@@ -2467,6 +2583,21 @@
     "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
     "stats":["Morior Invictus","Grand Regalia","Has Alt Variant: true","Has Alt Variant Two: true","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Selected Variant: 2","Selected Alt Variant: 4","Selected Alt Variant Two: 6","Variant: Spirit (Pre 0.2.0)","Variant: Spirit","Variant: Life (Pre 0.2.0)","Variant: Life","Variant: Mana (Pre 0.2.0)","Variant: Mana","Variant: Global Defences (Pre 0.2.0)","Variant: Global Defences","Variant: Item Rarity (Pre 0.2.0)","Variant: All Resistances (Pre 0.2.0)","Variant: All Resistances","Variant: Attributes (Pre 0.2.0)","Variant: Attributes","Variant: Chaos Resistance","Variant: Stun Threshold","Variant: Life Regeneration","Variant: Reduced Crit Damage","Sockets: S S S S","(200-300)% increased Armour, Evasion and Energy Shield","{variant:13}+(4-6) to all Attributes per Socket filled","{variant:12}5% increased Attributes per Socket filled","{variant:14}+(7-10)% to Chaos Resistance per Socket filled","{variant:16}(4-6) Life Regeneration per second per Socket filled","{variant:4}+(25-40) to maximum Life per Socket filled","{variant:6}+(20-30) to maximum Mana per Socket filled","{variant:17}Hits against you have (10-15)% reduced Critical Damage Bonus per Socket filled","{variant:7}10% increased Global Defences per Socket filled","{variant:8}(6-10)% increased Global Defences per Socket filled","{variant:9}10% increased Rarity of Items found per Socket filled","{variant:3}5% increased Maximum Life per Socket filled","{variant:5}5% increased Maximum Mana per Socket filled","{variant:10}+10% to all Elemental Resistances per Socket filled","{variant:11}+(5-7)% to all Elemental Resistances per Socket filled","{variant:1}+10 to Spirit per Socket filled","{variant:2}+(6-10) to Spirit per Socket filled","{variant:15}+(40-60) to Stun Threshold per Socket filled"],
     "variants":["Spirit (Pre 0.2.0)","Spirit","Life (Pre 0.2.0)","Life","Mana (Pre 0.2.0)","Mana","Global Defences (Pre 0.2.0)","Global Defences","Item Rarity (Pre 0.2.0)","All Resistances (Pre 0.2.0)","All Resistances","Attributes (Pre 0.2.0)","Attributes","Chaos Resistance","Stun Threshold","Life Regeneration","Reduced Crit Damage"]
+  },
+  "Murkshaft":{
+    "baseType":"Toxic Quiver",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Bursting Fen Toad",
+    "implicitCount":1,
+    "itemType":"quiver.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(10-20)% increased Poison Duration","(10-15)% chance to Poison on Hit with Attacks","(20-30)% chance to Poison on Hit with Attacks"],
+    "name":"Murkshaft",
+    "originalString":"Murkshaft\nToxic Quiver\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Bursting Fen Toad\nAdds (6-10) to (13-17) Physical Damage to Attacks\nGain (10-15) Mana per Enemy Killed\n(10-20)% increased Poison Duration\n(10-15)% chance to Poison on Hit with Attacks\n(20-30)% chance to Poison on Hit with Attacks\nBlind Targets when you Poison them\n",
+    "requirements":[],
+    "stats":["Murkshaft","Toxic Quiver","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Bursting Fen Toad","Adds (6-10) to (13-17) Physical Damage to Attacks","Gain (10-15) Mana per Enemy Killed","(10-20)% increased Poison Duration","(10-15)% chance to Poison on Hit with Attacks","(20-30)% chance to Poison on Hit with Attacks","Blind Targets when you Poison them"],
+    "variants":[]
   },
   "Myris Uxor":{
     "baseType":"Covert Hood",
@@ -2672,6 +2803,21 @@
     "stats":["Painter's Servant","Torn Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:1}+(5-10)% to Fire Resistance","{variant:1}+(5-10)% to Cold Resistance","{variant:1}+(5-10)% to Lightning Resistance","{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage","{variant:2}Gain (5-10)% of Elemental Damage Damage as Extra Lightning Damage","33% of Elemental Damage Converted to Cold Damage","33% of Elemental Damage Converted to Fire Damage","33% of Elemental Damage Converted to Lightning Damage"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Palm of the Dreamer":{
+    "baseType":"Shrine Sceptre",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Impurity",
+    "implicitCount":1,
+    "itemType":"sceptre.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(7-13) to all Attributes","23% reduced Light Radius","(-13-13)% reduced Skill Effect Duration","Gain 27% of Damage as Extra Chaos Damage"],
+    "name":"Palm of the Dreamer",
+    "originalString":"Palm of the Dreamer\nShrine Sceptre\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Impurity\nAllies in your Presence deal (13-17) to (25-37) added Attack Chaos Damage\n+(7-13) to all Attributes\n23% reduced Light Radius\n(-13-13)% reduced Skill Effect Duration\nGain 27% of Damage as Extra Chaos Damage\nGrants effect of Dreaming Gloom Shrine\n",
+    "requirements":[],
+    "stats":["Palm of the Dreamer","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Impurity","Allies in your Presence deal (13-17) to (25-37) added Attack Chaos Damage","+(7-13) to all Attributes","23% reduced Light Radius","(-13-13)% reduced Skill Effect Duration","Gain 27% of Damage as Extra Chaos Damage","Grants effect of Dreaming Gloom Shrine"],
+    "variants":[]
+  },
   "Pariah's Embrace":{
     "baseType":"Cloaked Mail",
     "flags":[],
@@ -2799,12 +2945,12 @@
     "implicitCount":1,
     "itemType":"shield.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
+    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
     "name":"Prism Guardian",
-    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n+1 to Maximum Spirit per 50 Maximum Life\n",
+    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n{variant:1}+1 to Maximum Spirit per 50 Maximum Life\n{variant:2}+1 to Maximum Spirit per 25 Maximum Life\n",
     "requirements":[],
-    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
-    "variants":[]
+    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Prized Pain":{
     "baseType":"Iron Ring",
@@ -2893,11 +3039,11 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"crossbow.min",
-    "modifiers":["(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","100% chance to not consume a bolt if you've Reloaded Recently","30% reduced Reload Speed"],
+    "modifiers":["(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","100% chance to not consume a bolt if you've Reloaded Recently"],
     "name":"Rampart Raptor",
-    "originalString":"Rampart Raptor\nTense Crossbow\nImplicits: 1\n(20-30)% increased Bolt Speed\n(40-60)% increased Physical Damage\n(30-40)% increased Attack Speed\n100% chance to not consume a bolt if you've Reloaded Recently\n30% reduced Reload Speed\n",
+    "originalString":"Rampart Raptor\nTense Crossbow\nImplicits: 1\n(20-30)% increased Bolt Speed\n(40-60)% increased Physical Damage\n(30-40)% increased Attack Speed\n30% reduced Reload Speed\n100% chance to not consume a bolt if you've Reloaded Recently\n",
     "requirements":[],
-    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","100% chance to not consume a bolt if you've Reloaded Recently","30% reduced Reload Speed"],
+    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","100% chance to not consume a bolt if you've Reloaded Recently"],
     "variants":[]
   },
   "Rathpith Globe":{
@@ -3018,11 +3164,11 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"amulet.min",
-    "modifiers":["{tags:defences}+(20-30) to maximum Energy Shield","(15-30)% increased Skill Speed","(20-30)% increased Critical Hit Chance","{tags:fire,cold,lightning}-30% to all Elemental Resistances","(30-50)% increased Damage"],
+    "modifiers":["{tags:defences}+(20-30) to maximum Energy Shield","{tags:speed}(15-30)% increased Skill Speed","(20-30)% increased Critical Hit Chance","{tags:fire,cold,lightning}-30% to all Elemental Resistances","(30-50)% increased Damage"],
     "name":"Rondel of Fragility",
-    "originalString":"Rondel of Fragility\nLunar Amulet\nImplicits: 1\n{tags:defences}+(20-30) to maximum Energy Shield\n(15-30)% increased Skill Speed\n(20-30)% increased Critical Hit Chance\n{tags:fire,cold,lightning}-30% to all Elemental Resistances\n(30-50)% increased Damage\n",
+    "originalString":"Rondel of Fragility\nLunar Amulet\nImplicits: 1\n{tags:defences}+(20-30) to maximum Energy Shield\n{tags:speed}(15-30)% increased Skill Speed\n(20-30)% increased Critical Hit Chance\n{tags:fire,cold,lightning}-30% to all Elemental Resistances\n(30-50)% increased Damage\n",
     "requirements":[],
-    "stats":["Rondel of Fragility","Lunar Amulet","Implicits: 1","{tags:defences}+(20-30) to maximum Energy Shield","(15-30)% increased Skill Speed","(20-30)% increased Critical Hit Chance","{tags:fire,cold,lightning}-30% to all Elemental Resistances","(30-50)% increased Damage"],
+    "stats":["Rondel of Fragility","Lunar Amulet","Implicits: 1","{tags:defences}+(20-30) to maximum Energy Shield","{tags:speed}(15-30)% increased Skill Speed","(20-30)% increased Critical Hit Chance","{tags:fire,cold,lightning}-30% to all Elemental Resistances","(30-50)% increased Damage"],
     "variants":[]
   },
   "Ryslatha's Coil":{
@@ -3045,12 +3191,12 @@
     "grantSkill":"Level (1-20) Purity of Fire",
     "implicitCount":1,
     "itemType":"sceptre.min",
-    "modifiers":["Gain (40-60)% of Damage as Extra Fire Damage","Allies in your Presence Gain (20-30)% of Damage as Extra Fire Damage","Allies in your Presence Regenerate (2-3)% of their Maximum Life per second"],
+    "modifiers":["Gain (40-60)% of Damage as Extra Fire Damage","Allies in your Presence Regenerate (2-3)% of their Maximum Life per second","Allies in your Presence Gain (20-30)% of Damage as Extra Fire Damage"],
     "name":"Sacred Flame",
-    "originalString":"Sacred Flame\nShrine Sceptre\nSource: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}\nImplicits: 1\nGrants Skill: Level (1-20) Purity of Fire\nGain (40-60)% of Damage as Extra Fire Damage\nAllies in your Presence Gain (20-30)% of Damage as Extra Fire Damage\nAllies in your Presence Regenerate (2-3)% of their Maximum Life per second\nEnemies in your Presence Resist Elemental Damage based on their Lowest Resistance\n",
+    "originalString":"Sacred Flame\nShrine Sceptre\nSource: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}\nImplicits: 1\nGrants Skill: Level (1-20) Purity of Fire\nGain (40-60)% of Damage as Extra Fire Damage\nAllies in your Presence Regenerate (2-3)% of their Maximum Life per second\nAllies in your Presence Gain (20-30)% of Damage as Extra Fire Damage\nEnemies in your Presence Resist Elemental Damage based on their Lowest Resistance\n",
     "requirements":[],
     "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
-    "stats":["Sacred Flame","Shrine Sceptre","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Implicits: 1","Grants Skill: Level (1-20) Purity of Fire","Gain (40-60)% of Damage as Extra Fire Damage","Allies in your Presence Gain (20-30)% of Damage as Extra Fire Damage","Allies in your Presence Regenerate (2-3)% of their Maximum Life per second","Enemies in your Presence Resist Elemental Damage based on their Lowest Resistance"],
+    "stats":["Sacred Flame","Shrine Sceptre","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Implicits: 1","Grants Skill: Level (1-20) Purity of Fire","Gain (40-60)% of Damage as Extra Fire Damage","Allies in your Presence Regenerate (2-3)% of their Maximum Life per second","Allies in your Presence Gain (20-30)% of Damage as Extra Fire Damage","Enemies in your Presence Resist Elemental Damage based on their Lowest Resistance"],
     "variants":[]
   },
   "Sacrosanctum":{
@@ -3477,12 +3623,12 @@
     "implicitCount":2,
     "itemType":"spear.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["(15-20)% increased Attack Speed","Leeches (6-10)% of Physical Damage as Life"],
+    "modifiers":["(15-20)% increased Attack Speed","{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life","{variant:2}Leeches (10-20)% of Physical Damage as Life","{variant:1}Adds (106-146) to (181-221) Chaos damage","{variant:2}Adds (167-201) to (267-333) Chaos damage"],
     "name":"Spire of Ire",
-    "originalString":"Spire of Ire\nHelix Spear\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Spear Throw\nGrants Skill: Level (1-20) Chaotic Infusion\n(15-20)% increased Attack Speed\nLeeches (6-10)% of Physical Damage as Life\nAdds (106-146) to (181-221) Chaos damage\nWhen you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion\nLife Leech recovers based on your Chaos damage instead of Physical damage\n",
+    "originalString":"Spire of Ire\nHelix Spear\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 2\nGrants Skill: Spear Throw\nGrants Skill: Level (1-20) Chaotic Infusion\n(15-20)% increased Attack Speed\n{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life\n{variant:2}Leeches (10-20)% of Physical Damage as Life\n{variant:1}Adds (106-146) to (181-221) Chaos damage\n{variant:2}Adds (167-201) to (267-333) Chaos damage\nWhen you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion\nLife Leech recovers based on your Chaos damage instead of Physical damage\n",
     "requirements":[],
-    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","(15-20)% increased Attack Speed","Leeches (6-10)% of Physical Damage as Life","Adds (106-146) to (181-221) Chaos damage","When you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion","Life Leech recovers based on your Chaos damage instead of Physical damage"],
-    "variants":[]
+    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","(15-20)% increased Attack Speed","{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life","{variant:2}Leeches (10-20)% of Physical Damage as Life","{variant:1}Adds (106-146) to (181-221) Chaos damage","{variant:2}Adds (167-201) to (267-333) Chaos damage","When you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion","Life Leech recovers based on your Chaos damage instead of Physical damage"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Splinter of Loratta":{
     "baseType":"Hardwood Spear",
@@ -3675,11 +3821,11 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"amulet.min",
-    "modifiers":["{tags:life}+(30-40) to maximum Life","{tags:speed}10% reduced Movement Speed","10% reduced Skill Speed","{tags:defences}(25-50)% increased Armour","{variant:1}20% increased Block chance","{variant:2}25% increased Block chance","+(3-5)% to maximum Block chance"],
+    "modifiers":["{tags:life}+(30-40) to maximum Life","{tags:speed}10% reduced Movement Speed","{tags:speed}10% reduced Skill Speed","{tags:defences}(25-50)% increased Armour","{variant:1}20% increased Block chance","{variant:2}25% increased Block chance","+(3-5)% to maximum Block chance"],
     "name":"The Anvil",
-    "originalString":"The Anvil\nBloodstone Amulet\nVariant: Pre 0.2.0\nVariant: Current\nImplicits: 1\n{tags:life}+(30-40) to maximum Life\n{tags:speed}10% reduced Movement Speed\n10% reduced Skill Speed\n{tags:defences}(25-50)% increased Armour\n{variant:1}20% increased Block chance\n{variant:2}25% increased Block chance\n+(3-5)% to maximum Block chance\n",
+    "originalString":"The Anvil\nBloodstone Amulet\nVariant: Pre 0.2.0\nVariant: Current\nImplicits: 1\n{tags:life}+(30-40) to maximum Life\n{tags:speed}10% reduced Movement Speed\n{tags:speed}10% reduced Skill Speed\n{tags:defences}(25-50)% increased Armour\n{variant:1}20% increased Block chance\n{variant:2}25% increased Block chance\n+(3-5)% to maximum Block chance\n",
     "requirements":[],
-    "stats":["The Anvil","Bloodstone Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","{tags:life}+(30-40) to maximum Life","{tags:speed}10% reduced Movement Speed","10% reduced Skill Speed","{tags:defences}(25-50)% increased Armour","{variant:1}20% increased Block chance","{variant:2}25% increased Block chance","+(3-5)% to maximum Block chance"],
+    "stats":["The Anvil","Bloodstone Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","{tags:life}+(30-40) to maximum Life","{tags:speed}10% reduced Movement Speed","{tags:speed}10% reduced Skill Speed","{tags:defences}(25-50)% increased Armour","{variant:1}20% increased Block chance","{variant:2}25% increased Block chance","+(3-5)% to maximum Block chance"],
     "variants":["Pre 0.2.0","Current"]
   },
   "The Barrow Dweller":{
@@ -3769,12 +3915,12 @@
     "implicitCount":0,
     "itemType":"helmet.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating"],
+    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance"],
     "name":"The Bringer of Rain",
-    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
+    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n{variant:2}100% increased Critical Hit Chance\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
     "requirements":[],
-    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
-    "variants":[]
+    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "The Burden of Shadows":{
     "baseType":"Chiming Staff",
@@ -3977,12 +4123,12 @@
     "implicitCount":0,
     "itemType":"mace.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate"],
+    "modifiers":["{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
     "name":"The Hammer of Faith",
-    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\n(200-250)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\nGain a random Shrine buff every 10 seconds\n",
+    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n{variant:1}(200-250)% increased Physical Damage\n{variant:2}(250-300)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\n{variant:1}Gain a random Shrine buff every 10 seconds\n",
     "requirements":[],
-    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","Gain a random Shrine buff every 10 seconds"],
-    "variants":[]
+    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "The Hollow Mask":{
     "baseType":"Hewn Mask",
@@ -4022,6 +4168,21 @@
     "requirements":[],
     "stats":["The Knight-errant","Mail Sabatons","Variant: Pre 0.1.1","Variant: Current","10% increased Movement Speed","(30-50)% increased Armour and Evasion","+(30-50) to Stun Threshold","{variant:2}+(30-50) to Ailment Threshold","Iron Reflexes"],
     "variants":["Pre 0.1.1","Current"]
+  },
+  "The Last Lament":{
+    "baseType":"Desolate Crossbow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Compose Requiem",
+    "implicitCount":1,
+    "itemType":"crossbow.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill"],
+    "name":"The Last Lament",
+    "originalString":"The Last Lament\nDesolate Crossbow\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Compose Requiem\n(250-300)% increased Physical Damage\n(10-20)% increased Attack Speed\n(40-60)% reduced Reload Speed\nLeeches (5-10)% of Physical Damage as Life\n(10-20)% chance to load a bolt into all Crossbow skills on Kill\nSacrifice 300 Life to not consume the last bolt when firing\n",
+    "requirements":[],
+    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill","Sacrifice 300 Life to not consume the last bolt when firing"],
+    "variants":[]
   },
   "The Lethal Draw":{
     "baseType":"Sacral Quiver",
@@ -4212,6 +4373,21 @@
     "originalString":"The Wailing Wall\nEffigial Tower Shield\nImplicits: 1\nGrants Skill: Raise Shield\n10% reduced Movement Speed\n(100-150)% increased Armour\n+(100-150) to Stun Threshold\nCan Block damage from all Hits\nCannot use Shield Skills\n",
     "requirements":[],
     "stats":["The Wailing Wall","Effigial Tower Shield","Implicits: 1","Grants Skill: Raise Shield","10% reduced Movement Speed","(100-150)% increased Armour","+(100-150) to Stun Threshold","Can Block damage from all Hits","Cannot use Shield Skills"],
+    "variants":[]
+  },
+  "The Whispering Ice":{
+    "baseType":"Permafrost Staff",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Icestorm",
+    "implicitCount":2,
+    "itemType":"staff.min",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%"],
+    "name":"The Whispering Ice",
+    "originalString":"The Whispering Ice\nPermafrost Staff\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Level (1-20) Heart of Ice\nGrants Skill: Level (1-20) Icestorm\n+(2-4) to Level of all Cold Spell Skills\n(10-20)% reduced Cast Speed\n(5-15)% increased Intelligence\n4% increased Spell Damage per 10 Intelligence\nInflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%\n",
+    "requirements":[],
+    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Heart of Ice","Grants Skill: Level (1-20) Icestorm","+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Cold Exposure on Hit, lowering Total Cold Resistance by (20-30)%"],
     "variants":[]
   },
   "The Wicked Quill":{
@@ -4605,13 +4781,13 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"ring.min",
-    "modifiers":["{tags:cold}+(20-30)% to Cold Resistance","(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
+    "modifiers":["{tags:cold}+(20-30)% to Cold Resistance","{tags:speed}(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
     "name":"Whisper of the Brotherhood",
-    "originalString":"Whisper of the Brotherhood\nSapphire Ring\nRequires Level 32\nImplicits: 1\n{tags:cold}+(20-30)% to Cold Resistance\n(5-10)% increased Skill Speed\n{tags:attribute}+(10-20) to Dexterity\n{tags:mana}(25-35)% increased Mana Regeneration Rate\n100% of Cold Damage Converted to Lightning Damage\n",
+    "originalString":"Whisper of the Brotherhood\nSapphire Ring\nRequires Level 32\nImplicits: 1\n{tags:cold}+(20-30)% to Cold Resistance\n{tags:speed}(5-10)% increased Skill Speed\n{tags:attribute}+(10-20) to Dexterity\n{tags:mana}(25-35)% increased Mana Regeneration Rate\n100% of Cold Damage Converted to Lightning Damage\n",
     "requirements":{
       "level":32
     },
-    "stats":["Whisper of the Brotherhood","Sapphire Ring","Requires Level 32","Implicits: 1","{tags:cold}+(20-30)% to Cold Resistance","(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
+    "stats":["Whisper of the Brotherhood","Sapphire Ring","Requires Level 32","Implicits: 1","{tags:cold}+(20-30)% to Cold Resistance","{tags:speed}(5-10)% increased Skill Speed","{tags:attribute}+(10-20) to Dexterity","{tags:mana}(25-35)% increased Mana Regeneration Rate","100% of Cold Damage Converted to Lightning Damage"],
     "variants":[]
   },
   "Widow's Reign":{
@@ -4728,12 +4904,12 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"amulet.min",
-    "modifiers":["{tags:attribute}+(10-15) to Strength","{tags:life}(10-15)% increased maximum Life","{tags:fire}+(20-30)% to Fire Resistance"],
+    "modifiers":["{tags:attribute}+(10-15) to Strength","{tags:life}(10-15)% increased maximum Life","{tags:fire}+(20-30)% to Fire Resistance","{tags:fire}Enemies in your Presence have Fire Exposure"],
     "name":"Xoph's Blood",
-    "originalString":"Xoph's Blood\nAmber Amulet\nSource: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}\nImplicits: 1\n{tags:attribute}+(10-15) to Strength\n{tags:life}(10-15)% increased maximum Life\n{tags:fire}+(20-30)% to Fire Resistance\nEnemies in your Presence have Fire Exposure\n",
+    "originalString":"Xoph's Blood\nAmber Amulet\nSource: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}\nImplicits: 1\n{tags:attribute}+(10-15) to Strength\n{tags:life}(10-15)% increased maximum Life\n{tags:fire}+(20-30)% to Fire Resistance\n{tags:fire}Enemies in your Presence have Fire Exposure\n",
     "requirements":[],
     "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "stats":["Xoph's Blood","Amber Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 1","{tags:attribute}+(10-15) to Strength","{tags:life}(10-15)% increased maximum Life","{tags:fire}+(20-30)% to Fire Resistance","Enemies in your Presence have Fire Exposure"],
+    "stats":["Xoph's Blood","Amber Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 1","{tags:attribute}+(10-15) to Strength","{tags:life}(10-15)% increased maximum Life","{tags:fire}+(20-30)% to Fire Resistance","{tags:fire}Enemies in your Presence have Fire Exposure"],
     "variants":[]
   },
   "Yoke of Suffering":{
@@ -4743,12 +4919,12 @@
     "implicitCount":1,
     "itemType":"amulet.min",
     "league":" Dawn of the Hunt",
-    "modifiers":["{tags:life}+(30-40) to maximum Life","{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances","(15-30)% increased Elemental Damage","Enemies take (5-10)% increased Damage for each Elemental Ailment type among","(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies"],
+    "modifiers":["{tags:life}+(30-40) to maximum Life","{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances","(15-30)% increased Elemental Damage","{variant:1}Enemies take (5-10)% increased Damage for each Elemental Ailment type among","{variant:2}Enemies take (15-20)% increased Damage for each Elemental Ailment type among","{variant:1}your Ailments on them","{variant:2}your Ailments on them","{variant:1}(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies","{variant:2}(30-40)% reduced Duration of Ignite, Shock and Chill on Enemies"],
     "name":"Yoke of Suffering",
-    "originalString":"Yoke of Suffering\nBloodstone Amulet\nLeague: Dawn of the Hunt\nImplicits: 1\n{tags:life}+(30-40) to maximum Life\n{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances\n(15-30)% increased Elemental Damage\nEnemies take (5-10)% increased Damage for each Elemental Ailment type among\nyour Ailments on them\n(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies\n",
+    "originalString":"Yoke of Suffering\nBloodstone Amulet\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\n{tags:life}+(30-40) to maximum Life\n{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances\n(15-30)% increased Elemental Damage\n{variant:1}Enemies take (5-10)% increased Damage for each Elemental Ailment type among\n{variant:2}Enemies take (15-20)% increased Damage for each Elemental Ailment type among\n{variant:1}your Ailments on them\n{variant:2}your Ailments on them\n{variant:1}(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies\n{variant:2}(30-40)% reduced Duration of Ignite, Shock and Chill on Enemies\n",
     "requirements":[],
-    "stats":["Yoke of Suffering","Bloodstone Amulet","League: Dawn of the Hunt","Implicits: 1","{tags:life}+(30-40) to maximum Life","{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances","(15-30)% increased Elemental Damage","Enemies take (5-10)% increased Damage for each Elemental Ailment type among","your Ailments on them","(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies"],
-    "variants":[]
+    "stats":["Yoke of Suffering","Bloodstone Amulet","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","{tags:life}+(30-40) to maximum Life","{tags:fire,cold,lightning}+(10-15)% to all Elemental Resistances","(15-30)% increased Elemental Damage","{variant:1}Enemies take (5-10)% increased Damage for each Elemental Ailment type among","{variant:2}Enemies take (15-20)% increased Damage for each Elemental Ailment type among","{variant:1}your Ailments on them","{variant:2}your Ailments on them","{variant:1}(20-30)% reduced Duration of Ignite, Shock and Chill on Enemies","{variant:2}(30-40)% reduced Duration of Ignite, Shock and Chill on Enemies"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Yriel's Fostering":{
     "baseType":"Strider Vest",

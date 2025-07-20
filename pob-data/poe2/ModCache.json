@@ -116,6 +116,13 @@
   "+(9-14)% to Cold Resistance":[null,"+(9-14)% to Cold Resistance "],
   "+(9-14)% to Fire Resistance":[null,"+(9-14)% to Fire Resistance "],
   "+(9-14)% to Lightning Resistance":[null,"+(9-14)% to Lightning Resistance "],
+  "+0 to Maximum Power Charges":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PowerChargesMax",
+        "type":"BASE",
+        "value":0
+      }]],
   "+0% to Cold Resistance":[[{
         "flags":0,
         "keywordFlags":0,
@@ -1254,6 +1261,13 @@
         "type":"BASE",
         "value":150
       }]],
+  "+1500 to maximum Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Life",
+        "type":"BASE",
+        "value":1500
+      }]],
   "+16 to Evasion Rating":[[{
         "flags":0,
         "keywordFlags":0,
@@ -1338,6 +1352,8 @@
         "type":"BASE",
         "value":2
       }]],
+  "+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently":[[]," metres to Dodge Roll distance if you haven't Dodge Rolled Recently "],
+  "+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently -1 metre to Dodge Roll distance if you've Dodge Rolled Recently":[[]," metres to Dodge Roll distance if you haven't Dodge Rolled Recently -1 metre to Dodge Roll distance  "],
   "+2 to Evasion Rating per 1 Energy Shield on Equipped Helmet":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2379,6 +2395,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Bursting Fen Toad Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"bursting fen toad",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Cast on Block Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2580,6 +2608,18 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"cold snap",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Cold Spell Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keywordList":["cold","spell"],
           "value":3
         }
       }]],
@@ -3485,6 +3525,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Heart of Ice Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"heart of ice",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Herald of Ash Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3626,6 +3678,30 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"ice strike",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Icestorm Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"icestorm",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Impurity Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"impurity",
           "value":3
         }
       }]],
@@ -4073,6 +4149,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Pinnacle of Power Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"pinnacle of power",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Plague Bearer Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4310,6 +4398,18 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"reaper's invocation",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Requiem Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"requiem",
           "value":3
         }
       }]],
@@ -5778,6 +5878,18 @@
           "value":4
         }
       }]],
+  "+4 to Level of all Cold Spell Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keywordList":["cold","spell"],
+          "value":4
+        }
+      }]],
   "+4 to Level of all Elemental Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5811,6 +5923,18 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keywordList":["fire","spell"],
+          "value":4
+        }
+      }]],
+  "+4 to Level of all Lightning Skills":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"lightning",
           "value":4
         }
       }]],
@@ -6448,6 +6572,13 @@
         "type":"BASE",
         "value":50
       }]],
+  "+500 to Accuracy Rating":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Accuracy",
+        "type":"BASE",
+        "value":500
+      }]],
   "+52 to Spirit":[[{
         "flags":0,
         "keywordFlags":0,
@@ -7077,6 +7208,8 @@
         "type":"BASE",
         "value":94
       }]],
+  "-1 metre to Dodge Roll distance if you've Dodge Rolled Recently":[[]," metre to Dodge Roll distance  "],
+  "-1 metre to Dodge Roll distance if you've Dodge Rolled Recently Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence":[[]," metre to Dodge Roll distance  Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence "],
   "-1 to all Attributes per Level":[[{
         "flags":0,
         "keywordFlags":0,
@@ -7166,6 +7299,17 @@
         "name":"ElementalResist",
         "type":"BASE",
         "value":-10
+      }]],
+  "-10% to all Elemental Resistances per Power Charge":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ElementalResist",
+        "type":"BASE",
+        "value":-10,
+        "1":{
+          "type":"Multiplier",
+          "var":"PowerCharge"
+        }
       }]],
   "-10% to maximum Block chance":[[{
         "flags":0,
@@ -7353,6 +7497,13 @@
         "flags":0,
         "keywordFlags":0,
         "name":"LootRarity",
+        "type":"INC",
+        "value":0
+      }]],
+  "0% reduced Skill Effect Duration":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Duration",
         "type":"INC",
         "value":0
       }]],
@@ -9094,13 +9245,6 @@
         "value":-10
       }]],
   "100% chance to not consume a bolt if you've Reloaded Recently":[[]," to not consume a bolt if you've Reloaded Recently "],
-  "100% chance to not consume a bolt if you've Reloaded Recently 30% reduced Reload Speed":[[{
-        "flags":1,
-        "keywordFlags":0,
-        "name":"ReloadSpeed",
-        "type":"BASE",
-        "value":100
-      }]," to not consume a bolt if you've Reloaded Recently 30% reduced  "],
   "100% faster start of Energy Shield Recharge":[[{
         "flags":0,
         "keywordFlags":0,
@@ -10334,6 +10478,13 @@
         "type":"INC",
         "value":-13
       }]],
+  "13% reduced Skill Effect Duration":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Duration",
+        "type":"INC",
+        "value":-13
+      }]],
   "13% reduced maximum Mana":[[{
         "flags":0,
         "keywordFlags":0,
@@ -11216,6 +11367,13 @@
         "value":15
       }]," Parried Debuff  "],
   "15% increased Pin Buildup":[[]," Pin Buildup "],
+  "15% increased Poison Duration":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyPoisonDuration",
+        "type":"INC",
+        "value":15
+      }]],
   "15% increased Presence Area of Effect":[[{
         "flags":0,
         "keywordFlags":0,
@@ -12186,6 +12344,13 @@
         "type":"INC",
         "value":19
       }]],
+  "195% increased Physical Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamage",
+        "type":"INC",
+        "value":195
+      }]],
   "2 Mana gained when you Block":[[{
         "flags":0,
         "keywordFlags":0,
@@ -12461,6 +12626,23 @@
         "type":"BASE",
         "value":20
       }]],
+  "20% chance to load a bolt into all Crossbow skills on Kill":[[]," to load a bolt into all  skills  "],
+  "20% chance to load a bolt into all Crossbow skills on Kill Sacrifice 300 Life to not consume the last bolt when firing":[[{
+        "flags":67108864,
+        "keywordFlags":0,
+        "name":"Life",
+        "type":"BASE",
+        "value":20,
+        "1":{
+          "type":"Condition",
+          "var":"KilledRecently"
+        },
+        "2":{
+          "includeTransfigured":true,
+          "skillName":"Sacrifice",
+          "type":"SkillName"
+        }
+      }]," to load a bolt into all  skills 300  to not consume the last bolt when firing "],
   "20% faster start of Energy Shield Recharge":[[{
         "flags":0,
         "keywordFlags":0,
@@ -13342,6 +13524,13 @@
         "value":20
       }]],
   "20% increased Pin Buildup":[[]," Pin Buildup "],
+  "20% increased Poison Duration":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyPoisonDuration",
+        "type":"INC",
+        "value":20
+      }]],
   "20% increased Power Charge Duration":[[{
         "flags":0,
         "keywordFlags":0,
@@ -14004,13 +14193,6 @@
         "type":"INC",
         "value":225
       }]],
-  "225% increased Physical Damage":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"PhysicalDamage",
-        "type":"INC",
-        "value":225
-      }]],
   "23% chance to Gain 25% of Damage with Hits as Extra Chaos Damage":[[{
         "flags":4,
         "keywordFlags":0,
@@ -14020,6 +14202,13 @@
       }]],
   "23% increased Attack Speed":[[{
         "flags":1,
+        "keywordFlags":0,
+        "name":"Speed",
+        "type":"INC",
+        "value":23
+      }]],
+  "23% increased Cast Speed":[[{
+        "flags":16,
         "keywordFlags":0,
         "name":"Speed",
         "type":"INC",
@@ -14131,6 +14320,13 @@
         }
       }]],
   "24% reduced Slowing Potency of Debuffs on You":[[]," Slowing Potency of Debuffs on You "],
+  "240% increased Physical Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamage",
+        "type":"INC",
+        "value":240
+      }]],
   "25 Life Regeneration per second":[[{
         "flags":0,
         "keywordFlags":0,
@@ -14218,6 +14414,13 @@
   "25% chance to Poison on Hit":[[{
         "flags":0,
         "keywordFlags":0,
+        "name":"PoisonChance",
+        "type":"BASE",
+        "value":25
+      }]],
+  "25% chance to Poison on Hit with Attacks":[[{
+        "flags":0,
+        "keywordFlags":65536,
         "name":"PoisonChance",
         "type":"BASE",
         "value":25
@@ -15369,25 +15572,6 @@
         "type":"INC",
         "value":-25
       }]],
-  "25% reduced Duration of Ignite, Shock and Chill on Enemies":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnemyShockDuration",
-        "type":"INC",
-        "value":-25
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnemyChillDuration",
-        "type":"INC",
-        "value":-25
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnemyIgniteDuration",
-        "type":"INC",
-        "value":-25
-      }]],
   "25% reduced Effect of Chill on you":[[{
         "flags":0,
         "keywordFlags":0,
@@ -15609,6 +15793,13 @@
         "name":"FlaskChargesUsed",
         "type":"INC",
         "value":-26
+      }]],
+  "275% increased Physical Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamage",
+        "type":"INC",
+        "value":275
       }]],
   "28% increased maximum Energy Shield":[[{
         "flags":0,
@@ -16041,6 +16232,13 @@
   "30% chance to Poison on Hit":[[{
         "flags":0,
         "keywordFlags":0,
+        "name":"PoisonChance",
+        "type":"BASE",
+        "value":30
+      }]],
+  "30% chance to Poison on Hit with Attacks":[[{
+        "flags":0,
+        "keywordFlags":65536,
         "name":"PoisonChance",
         "type":"BASE",
         "value":30
@@ -17469,6 +17667,13 @@
         "type":"INC",
         "value":300
       }]],
+  "300% increased Physical Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamage",
+        "type":"INC",
+        "value":300
+      }]],
   "31 to 49 Physical Thorns damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -17736,6 +17941,32 @@
           "type":"SkillType"
         }
       }]],
+  "35% reduced Duration of Ignite, Shock and Chill on Enemies":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyShockDuration",
+        "type":"INC",
+        "value":-35
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyChillDuration",
+        "type":"INC",
+        "value":-35
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyIgniteDuration",
+        "type":"INC",
+        "value":-35
+      }]],
+  "350% increased Physical Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamage",
+        "type":"INC",
+        "value":350
+      }]],
   "36% increased Damage if you've dealt a Critical Hit in the past 8 seconds":[[{
         "flags":0,
         "keywordFlags":0,
@@ -17922,6 +18153,18 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":4
+      }]],
+  "4% increased Spell Damage per 10 Intelligence":[[{
+        "flags":2,
+        "keywordFlags":0,
+        "name":"Damage",
+        "type":"INC",
+        "value":4,
+        "1":{
+          "div":10,
+          "stat":"Int",
+          "type":"PerStat"
+        }
       }]],
   "4% increased Strength":[[{
         "flags":0,
@@ -18784,6 +19027,25 @@
         "flags":0,
         "keywordFlags":0,
         "name":"Damage",
+        "type":"INC",
+        "value":-40
+      }]],
+  "40% reduced Duration of Ignite, Shock and Chill on Enemies":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyShockDuration",
+        "type":"INC",
+        "value":-40
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyChillDuration",
+        "type":"INC",
+        "value":-40
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyIgniteDuration",
         "type":"INC",
         "value":-40
       }]],
@@ -20302,7 +20564,7 @@
           "var":"AvgCharmChargesUsed"
         }
       }]],
-  "50% of your Life Regeneration is granted to Allies in your Presence":[[{
+  "50% of your Base Life Regeneration is granted to Allies in your Presence":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"ExtraAura",
@@ -20317,7 +20579,71 @@
           },
           "onlyAllies":true
         }
-      }]," your  is granted to "],
+      }]," your Base  is granted to "],
+  "50% of your Base Life Regeneration is granted to Allies in your Presence +10 to all Attributes":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"LifeRegen",
+            "type":"BASE",
+            "value":50
+          },
+          "onlyAllies":true
+        }
+      }]," your Base  is granted to +10 to all Attributes "],
+  "50% of your Base Life Regeneration is granted to Allies in your Presence +30 to Dexterity":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"LifeRegen",
+            "type":"BASE",
+            "value":50
+          },
+          "onlyAllies":true
+        }
+      }]," your Base  is granted to +30 to Dexterity "],
+  "50% of your Base Life Regeneration is granted to Allies in your Presence +30 to Intelligence":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"LifeRegen",
+            "type":"BASE",
+            "value":50
+          },
+          "onlyAllies":true
+        }
+      }]," your Base  is granted to +30 to Intelligence "],
+  "50% of your Base Life Regeneration is granted to Allies in your Presence +30 to Strength":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"LifeRegen",
+            "type":"BASE",
+            "value":50
+          },
+          "onlyAllies":true
+        }
+      }]," your Base  is granted to +30 to Strength "],
   "50% reduced Amount Recovered":[[{
         "flags":0,
         "keywordFlags":0,
@@ -20413,6 +20739,13 @@
         "flags":0,
         "keywordFlags":0,
         "name":"PresenceArea",
+        "type":"INC",
+        "value":-50
+      }]],
+  "50% reduced Reload Speed":[[{
+        "flags":1,
+        "keywordFlags":0,
+        "name":"ReloadSpeed",
         "type":"INC",
         "value":-50
       }]],
@@ -21018,6 +21351,13 @@
         "type":"INC",
         "value":-60
       }]],
+  "60% reduced Reload Speed":[[{
+        "flags":1,
+        "keywordFlags":0,
+        "name":"ReloadSpeed",
+        "type":"INC",
+        "value":-60
+      }]],
   "65% increased Armour":[[{
         "flags":0,
         "keywordFlags":0,
@@ -21305,6 +21645,13 @@
         "flags":0,
         "keywordFlags":0,
         "name":"Evasion",
+        "type":"INC",
+        "value":75
+      }]],
+  "75% increased Evasion and Energy Shield":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EvasionAndEnergyShield",
         "type":"INC",
         "value":75
       }]],
@@ -22487,6 +22834,19 @@
         "type":"BASE",
         "value":17
       }]],
+  "Adds 10 to 17 Physical Damage to Attacks":[[{
+        "flags":0,
+        "keywordFlags":65536,
+        "name":"PhysicalMin",
+        "type":"BASE",
+        "value":10
+      },{
+        "flags":0,
+        "keywordFlags":65536,
+        "name":"PhysicalMax",
+        "type":"BASE",
+        "value":17
+      }]],
   "Adds 10 to 18 Cold Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -22616,19 +22976,6 @@
         "name":"PhysicalMax",
         "type":"BASE",
         "value":35
-      }]],
-  "Adds 126 to 201 Chaos damage":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"ChaosMin",
-        "type":"BASE",
-        "value":126
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"ChaosMax",
-        "type":"BASE",
-        "value":201
       }]],
   "Adds 13 to 24 Physical Damage":[[{
         "flags":0,
@@ -22812,6 +23159,19 @@
         "type":"BASE",
         "value":36
       }]],
+  "Adds 184 to 300 Chaos damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ChaosMin",
+        "type":"BASE",
+        "value":184
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ChaosMax",
+        "type":"BASE",
+        "value":300
+      }]],
   "Adds 20 to 26 Physical Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -22863,6 +23223,19 @@
         "name":"ColdMax",
         "type":"BASE",
         "value":31
+      }]],
+  "Adds 201 to 333 Chaos damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ChaosMin",
+        "type":"BASE",
+        "value":201
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ChaosMax",
+        "type":"BASE",
+        "value":333
       }]],
   "Adds 22 to 28 Physical Damage":[[{
         "flags":0,
@@ -23618,6 +23991,19 @@
         "type":"BASE",
         "value":14
       }]],
+  "Adds 8 to 15 Physical Damage to Attacks":[[{
+        "flags":0,
+        "keywordFlags":65536,
+        "name":"PhysicalMin",
+        "type":"BASE",
+        "value":8
+      },{
+        "flags":0,
+        "keywordFlags":65536,
+        "name":"PhysicalMax",
+        "type":"BASE",
+        "value":15
+      }]],
   "Adds 9 to 14 Cold Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -23925,39 +24311,8 @@
         }
       }]],
   "Allies in your Presence Regenerate 3% of their Maximum Life per second":[[]," "],
-  "Allies in your Presence Regenerate 3% of their Maximum Life per second Enemies in your Presence Resist Elemental Damage based on their Lowest Resistance":[[]," Enemies in your Presence Resist  based on their Lowest Resistance "],
-  "Allies in your Presence deal 1 to 13 additional Attack Lightning Damage":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"ExtraAura",
-        "type":"LIST",
-        "value":{
-          "mod":{
-            "flags":0,
-            "keywordFlags":65536,
-            "name":"LightningMin",
-            "type":"BASE",
-            "value":1
-          },
-          "onlyAllies":true
-        }
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"ExtraAura",
-        "type":"LIST",
-        "value":{
-          "mod":{
-            "flags":0,
-            "keywordFlags":65536,
-            "name":"LightningMax",
-            "type":"BASE",
-            "value":13
-          },
-          "onlyAllies":true
-        }
-      }]],
-  "Allies in your Presence deal 1 to 15 additional Attack Lightning Damage":[[{
+  "Allies in your Presence Regenerate 3% of their Maximum Life per second Allies in your Presence Gain 30% of Damage as Extra Fire Damage":[[]," Allies in your Presence Gain 30% of  as Extra Fire Damage "],
+  "Allies in your Presence deal 1 to 15 added Attack Lightning Damage":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"ExtraAura",
@@ -23988,7 +24343,255 @@
           "onlyAllies":true
         }
       }]],
-  "Allies in your Presence deal 5 to 8 additional Attack Cold Damage":[[{
+  "Allies in your Presence deal 1 to 63 added Attack Lightning Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"LightningMin",
+            "type":"BASE",
+            "value":1
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"LightningMax",
+            "type":"BASE",
+            "value":63
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 1 to 70 added Attack Lightning Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"LightningMin",
+            "type":"BASE",
+            "value":1
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"LightningMax",
+            "type":"BASE",
+            "value":70
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 15 to 31 added Attack Chaos Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ChaosMin",
+            "type":"BASE",
+            "value":15
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ChaosMax",
+            "type":"BASE",
+            "value":31
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 17 to 37 added Attack Chaos Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ChaosMin",
+            "type":"BASE",
+            "value":17
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ChaosMax",
+            "type":"BASE",
+            "value":37
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 19 to 32 added Attack Cold Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ColdMin",
+            "type":"BASE",
+            "value":19
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ColdMax",
+            "type":"BASE",
+            "value":32
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 19 to 32 added Attack Fire Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"FireMin",
+            "type":"BASE",
+            "value":19
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"FireMax",
+            "type":"BASE",
+            "value":32
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 23 to 35 added Attack Cold Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ColdMin",
+            "type":"BASE",
+            "value":23
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"ColdMax",
+            "type":"BASE",
+            "value":35
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 23 to 35 added Attack Fire Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"FireMin",
+            "type":"BASE",
+            "value":23
+          },
+          "onlyAllies":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":65536,
+            "name":"FireMax",
+            "type":"BASE",
+            "value":35
+          },
+          "onlyAllies":true
+        }
+      }]],
+  "Allies in your Presence deal 5 to 8 added Attack Cold Damage":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"ExtraAura",
@@ -24035,7 +24638,7 @@
           "onlyAllies":true
         }
       }]],
-  "Allies in your Presence deal 6 to 10 additional Attack Fire Damage":[[{
+  "Allies in your Presence deal 6 to 10 added Attack Fire Damage":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"ExtraAura",
@@ -28645,6 +29248,18 @@
       }]],
   "Attacks consume an Endurance Charge to Critically Hit":[null,"Attacks consume an Endurance Charge to Critically Hit "],
   "Attacks consume an Endurance Charge to Critically Hit Take 100 Chaos damage per second per Endurance Charge":[null,"Attacks consume an Endurance Charge to Critically Hit Take 100 Chaos damage per second per Endurance Charge "],
+  "Attacks cost an additional 6% of your maximum Mana":[[{
+        "flags":0,
+        "keywordFlags":65536,
+        "name":"ManaCost",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "percent":6,
+          "stat":"Mana",
+          "type":"PercentStat"
+        }
+      }]],
   "Attacks gain increased Accuracy Rating equal to their Critical Hit Chance":[null,"increased Accuracy Rating equal to their Critical Hit Chance "],
   "Attacks have +1% to Critical Hit Chance":[[{
         "flags":1,
@@ -28655,6 +29270,38 @@
       }]],
   "Attacks have 10% chance to Maim on Hit":[[]," to Maim  "],
   "Attacks have 25% chance to Maim on Hit":[[]," to Maim  "],
+  "Attacks have Added maximum Lightning Damage equal to 8% of maximum Mana":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"LightningMax",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "percent":8,
+          "stat":"Mana",
+          "type":"PercentStat"
+        },
+        "2":{
+          "skillType":1,
+          "type":"SkillType"
+        }
+      }]],
+  "Attacks have Added maximum Lightning Damage equal to 9% of maximum Mana":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"LightningMax",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "percent":9,
+          "stat":"Mana",
+          "type":"PercentStat"
+        },
+        "2":{
+          "skillType":1,
+          "type":"SkillType"
+        }
+      }]],
   "Attacks have added Physical damage equal to 3% of maximum Life":[[{
         "flags":0,
         "keywordFlags":0,
@@ -28959,6 +29606,7 @@
         }
       }]],
   "Banners always have maximum Valour":[null,"Banners always have maximum Valour "],
+  "Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence":[null,"Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence "],
   "Base Bleeding Duration is 1 second":[[{
         "flags":0,
         "keywordFlags":0,
@@ -29049,6 +29697,7 @@
       }]],
   "Blind Chilled enemies on Hit":[null,"Blind Chilled enemies on Hit "],
   "Blind Enemies when they Stun you":[null,"Blind Enemies when they Stun you "],
+  "Blind Targets when you Poison them":[null,"Blind Targets when you Poison them "],
   "Blind does not affect your Light Radius":[null,"Blind does not affect your Light Radius "],
   "Blind does not affect your Light Radius 25% more Melee Critical Hit Chance while Blinded":[null,"Blind does not affect your Light Radius 25% more Melee Critical Hit Chance while Blinded "],
   "Block Chance is doubled":[[{
@@ -30545,6 +31194,7 @@
       }]],
   "Drop Ignited Ground while moving, which lasts 8 seconds and Ignites as though dealing Fire Damage equal to 10% of your maximum Life":[null,"Drop Ignited Ground while moving, which lasts 8 seconds and Ignites as though dealing Fire Damage equal to 10% of your maximum Life "],
   "Drop Shocked Ground while moving, lasting 8 seconds":[null,"Drop Shocked Ground while moving, lasting 8 seconds "],
+  "Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow":[null,"Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow "],
   "Effect and Duration of Flames of Chayula on You is Doubled":[[{
         "flags":0,
         "keywordFlags":0,
@@ -31044,7 +31694,9 @@
   "Enemies near Enemies you Mark are Blinded Enemies you Mark cannot deal Critical Hits":[null,"Enemies near Enemies you Mark are Blinded Enemies you Mark cannot deal Critical Hits "],
   "Enemies regain 10% of Concentration every second if they haven't lost Concentration in the past 5 seconds":[null,"Enemies regain 10% of Concentration every second if they haven't lost Concentration in the past 5 seconds "],
   "Enemies take 10% increased Damage for each Elemental Ailment type among":[null,"Enemies take 10% increased Damage for each Elemental Ailment type among "],
-  "Enemies take 10% increased Damage for each Elemental Ailment type among your Ailments on them":[null,"Enemies take 10% increased Damage for each Elemental Ailment type among your Ailments on them "],
+  "Enemies take 10% increased Damage for each Elemental Ailment type among Enemies take 20% increased Damage for each Elemental Ailment type among":[null,"Enemies take 10% increased Damage for each Elemental Ailment type among Enemies take 20% increased Damage for each Elemental Ailment type among "],
+  "Enemies take 20% increased Damage for each Elemental Ailment type among":[null,"Enemies take 20% increased Damage for each Elemental Ailment type among "],
+  "Enemies take 20% increased Damage for each Elemental Ailment type among your Ailments on them":[null,"Enemies take 20% increased Damage for each Elemental Ailment type among your Ailments on them "],
   "Enemies you Curse are Hindered, with 15% reduced Movement Speed":[[{
         "flags":0,
         "keywordFlags":0,
@@ -31709,6 +32361,27 @@
           "var":"Frozen"
         }
       }]],
+  "Gain 25% of Damage as Extra Cold Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"DamageGainAsCold",
+        "type":"BASE",
+        "value":25
+      }]],
+  "Gain 25% of Damage as Extra Fire Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"DamageGainAsFire",
+        "type":"BASE",
+        "value":25
+      }]],
+  "Gain 25% of Damage as Extra Lightning Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"DamageGainAsLightning",
+        "type":"BASE",
+        "value":25
+      }]],
   "Gain 26% of Damage as Extra Cold Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -31729,6 +32402,13 @@
         "name":"DamageGainAsLightning",
         "type":"BASE",
         "value":26
+      }]],
+  "Gain 27% of Damage as Extra Chaos Damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"DamageGainAsChaos",
+        "type":"BASE",
+        "value":27
       }]],
   "Gain 3 Life per Enemy Hit with Attacks":[[{
         "flags":4,
@@ -32567,6 +33247,16 @@
           "skillId":"BoneBlastPlayer"
         }
       }]],
+  "Grants Skill: Level 11 Bursting Fen Toad":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"ExplodingPoisonToadPlayer"
+        }
+      }]],
   "Grants Skill: Level 11 Chaos Bolt":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32585,6 +33275,16 @@
         "value":{
           "level":11,
           "skillId":"ChaosSpearTriggerChaosInfusionPlayer"
+        }
+      }]],
+  "Grants Skill: Level 11 Compose Requiem":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"CrossbowRequiemAmmoPlayer"
         }
       }]],
   "Grants Skill: Level 11 Decompose":[[{
@@ -32637,6 +33337,16 @@
           "skillId":"FreezingShardsPlayer"
         }
       }]],
+  "Grants Skill: Level 11 Heart of Ice":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"HeartOfIcePlayer"
+        }
+      }]],
   "Grants Skill: Level 11 Herald of Ash":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32665,6 +33375,26 @@
         "value":{
           "level":11,
           "skillId":"HeraldOfThunderPlayer"
+        }
+      }]],
+  "Grants Skill: Level 11 Icestorm":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"IcestormPlayer"
+        }
+      }]],
+  "Grants Skill: Level 11 Impurity":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"ImpurityPlayer"
         }
       }]],
   "Grants Skill: Level 11 Lightning Bolt":[[{
@@ -32717,6 +33447,16 @@
           "skillId":"ParryPlayer"
         }
       }]],
+  "Grants Skill: Level 11 Pinnacle of Power":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"PinnacleOfPowerPlayer"
+        }
+      }]],
   "Grants Skill: Level 11 Power Siphon":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32735,6 +33475,16 @@
         "value":{
           "level":11,
           "skillId":"PurityOfFirePlayer"
+        }
+      }]],
+  "Grants Skill: Level 11 Purity of Ice":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"PurityOfIcePlayer"
         }
       }]],
   "Grants Skill: Level 11 Purity of Lightning":[[{
@@ -32787,6 +33537,16 @@
           "skillId":"SparkPlayer"
         }
       }]],
+  "Grants Skill: Level 11 Thundergod's Wrath":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":11,
+          "skillId":"MetaCastLightningSpellOnHitPlayer"
+        }
+      }]],
   "Grants Skill: Level 11 Volatile Dead":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32807,6 +33567,16 @@
           "skillId":"BoneBlastPlayer"
         }
       }]],
+  "Grants Skill: Level 20 Bursting Fen Toad":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"ExplodingPoisonToadPlayer"
+        }
+      }]],
   "Grants Skill: Level 20 Chaos Bolt":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32825,6 +33595,16 @@
         "value":{
           "level":20,
           "skillId":"ChaosSpearTriggerChaosInfusionPlayer"
+        }
+      }]],
+  "Grants Skill: Level 20 Compose Requiem":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"CrossbowRequiemAmmoPlayer"
         }
       }]],
   "Grants Skill: Level 20 Decompose":[[{
@@ -32877,6 +33657,16 @@
           "skillId":"FreezingShardsPlayer"
         }
       }]],
+  "Grants Skill: Level 20 Heart of Ice":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"HeartOfIcePlayer"
+        }
+      }]],
   "Grants Skill: Level 20 Herald of Ash":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32907,6 +33697,26 @@
           "skillId":"HeraldOfThunderPlayer"
         }
       }]],
+  "Grants Skill: Level 20 Icestorm":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"IcestormPlayer"
+        }
+      }]],
+  "Grants Skill: Level 20 Impurity":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"ImpurityPlayer"
+        }
+      }]],
   "Grants Skill: Level 20 Lightning Bolt":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32917,8 +33727,6 @@
           "skillId":"LightningBoltPlayer"
         }
       }]],
-  "Grants Skill: Level 20 Lightning Spell on Melee Hit":[],
-  "Grants Skill: Level 20 Lightning Spell on Melee Hit +200 Intelligence Requirement":[],
   "Grants Skill: Level 20 Living Bomb":[[{
         "flags":0,
         "keywordFlags":0,
@@ -32957,6 +33765,16 @@
         "value":{
           "level":20,
           "skillId":"ParryPlayer"
+        }
+      }]],
+  "Grants Skill: Level 20 Pinnacle of Power":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"PinnacleOfPowerPlayer"
         }
       }]],
   "Grants Skill: Level 20 Power Siphon":[[{
@@ -33037,6 +33855,16 @@
         "value":{
           "level":20,
           "skillId":"SparkPlayer"
+        }
+      }]],
+  "Grants Skill: Level 20 Thundergod's Wrath":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":20,
+          "skillId":"MetaCastLightningSpellOnHitPlayer"
         }
       }]],
   "Grants Skill: Level 20 Volatile Dead":[[{
@@ -33231,6 +34059,10 @@
       }]],
   "Grants a Frenzy Charge on use":[null,"Grants a Frenzy Charge on use "],
   "Grants a Power Charge on use":[null,"Grants a Power Charge on use "],
+  "Grants effect of Dreaming Gloom Shrine":[null,"Grants effect of Dreaming Gloom Shrine "],
+  "Grants effect of Guided Freezing Shrine":[null,"Grants effect of Guided Freezing Shrine "],
+  "Grants effect of Guided Meteoric Shrine":[null,"Grants effect of Guided Meteoric Shrine "],
+  "Grants effect of Guided Tempest Shrine":[null,"Grants effect of Guided Tempest Shrine "],
   "Grants up to your maximum Rage on use":[null,"Grants up to your maximum Rage on use "],
   "Grenade Skills Fire an additional Projectile":[[{
         "flags":1024,
@@ -33620,6 +34452,7 @@
       }]],
   "Infinite Projectile Parry Range":[null,"Infinite Projectile Parry Range "],
   "Infinite Projectile Parry Range 50% increased Parried Debuff Duration":[null,"Infinite Projectile Parry Range 50% increased Parried Debuff Duration "],
+  "Inflict Cold Exposure on Hit, lowering Total Cold Resistance by 30%":[null,"Inflict Cold Exposure on Hit, lowering Total Cold Resistance by 30% "],
   "Inflict Cold Exposure on Igniting an Enemy":[null,"Inflict Cold Exposure on Igniting an Enemy "],
   "Inflict Cold Exposure on Igniting an Enemy Inflict Fire Exposure on Shocking an Enemy":[null,"Inflict Cold Exposure on Igniting an Enemy Inflict Fire Exposure on Shocking an Enemy "],
   "Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of":[null,"Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of "],
@@ -33811,6 +34644,13 @@
           "var":"CriticalStrike"
         }
       }]],
+  "Leeches 0.1% of Physical Damage as Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamageLifeLeech",
+        "type":"BASE",
+        "value":0.1
+      }]],
   "Leeches 1% of maximum Life when you Cast a Spell":[null,"Leeches 1% of maximum Life when you Cast a Spell "],
   "Leeches 10% of Physical Damage as Life":[[{
         "flags":0,
@@ -33818,6 +34658,20 @@
         "name":"PhysicalDamageLifeLeech",
         "type":"BASE",
         "value":10
+      }]],
+  "Leeches 15% of Physical Damage as Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamageLifeLeech",
+        "type":"BASE",
+        "value":15
+      }]],
+  "Leeches 20% of Physical Damage as Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamageLifeLeech",
+        "type":"BASE",
+        "value":20
       }]],
   "Leeches 5.5% of Physical Damage as Mana":[[{
         "flags":0,
@@ -33839,6 +34693,13 @@
         "name":"PhysicalDamageManaLeech",
         "type":"BASE",
         "value":7
+      }]],
+  "Leeches 7.5% of Physical Damage as Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamageLifeLeech",
+        "type":"BASE",
+        "value":7.5
       }]],
   "Leeches 8% of Physical Damage as Life":[[{
         "flags":0,
@@ -36208,6 +37069,7 @@
         "value":true
       }]],
   "Physical Damage is Pinning":[null,"Physical Damage is Pinning "],
+  "Pin Enemies which are Primed for Pinning":[null,"Pin Enemies which are Primed for Pinning "],
   "Pinned enemies cannot perform actions":[null,"Pinned enemies cannot perform actions "],
   "Possessed by Spirit Of The Bear for 20 seconds on use":[null,"Possessed by Spirit Of The Bear for 20 seconds on use "],
   "Possessed by Spirit Of The Bear for 20 seconds on use Possessed by Spirit Of The Boar for 20 seconds on use":[null,"Possessed by Spirit Of The Bear for 20 seconds on use Possessed by Spirit Of The Boar for 20 seconds on use "],
@@ -36436,6 +37298,7 @@
         }
       }]],
   "Recover 10% of Missing Life before being Hit by an Enemy":[null,"Recover 10% of Missing Life before being Hit by an Enemy "],
+  "Recover 10% of Missing Life before being Hit by an Enemy Recover 20% of Missing Life before being Hit by an Enemy":[null,"Recover 10% of Missing Life before being Hit by an Enemy Recover 20% of Missing Life before being Hit by an Enemy "],
   "Recover 2% of maximum Life and Mana when you use a Warcry":[null,"Recover 2% of maximum Life and Mana when you use a Warcry "],
   "Recover 2% of maximum Life and Mana when you use a Warcry 24% increased Warcry Speed":[null,"Recover 2% of maximum Life and Mana when you use a Warcry 24% increased Warcry Speed "],
   "Recover 2% of maximum Life and Mana when you use a Warcry 24% increased Warcry Speed 18% increased Warcry Cooldown Recovery Rate":[null,"Recover 2% of maximum Life and Mana when you use a Warcry 24% increased Warcry Speed 18% increased Warcry Cooldown Recovery Rate "],
@@ -36475,6 +37338,7 @@
         "type":"BASE",
         "value":20
       }]],
+  "Recover 20% of Missing Life before being Hit by an Enemy":[null,"Recover 20% of Missing Life before being Hit by an Enemy "],
   "Recover 20% of maximum Life when you Heavy Stun a Rare or Unique Enemy":[null,"Recover 20% of maximum Life when you Heavy Stun a Rare or Unique Enemy "],
   "Recover 3% of maximum Life for each Endurance Charge consumed":[null,"Recover 3% of maximum Life for each Endurance Charge consumed "],
   "Recover 3% of maximum Life for each Endurance Charge consumed +1 to Maximum Endurance Charges":[null,"Recover 3% of maximum Life for each Endurance Charge consumed +1 to Maximum Endurance Charges "],
@@ -36813,6 +37677,18 @@
           "type":"SkillName"
         }
       }],"  and they Leech that Mana "],
+  "Sacrifice 300 Life to not consume the last bolt when firing":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Life",
+        "type":"BASE",
+        "value":300,
+        "1":{
+          "includeTransfigured":true,
+          "skillName":"Sacrifice",
+          "type":"SkillName"
+        }
+      }],"  to not consume the last bolt when firing "],
   "Share Charges with Allies in your Presence":[null,"Share Charges with "],
   "Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius":[null,"Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius "],
   "Shocks you when you reach maximum Power Charges":[null,"Shocks you when you reach maximum Power Charges "],
@@ -37495,7 +38371,7 @@
   "When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion":[null,"When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion "],
   "When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion When you Consume a Frenzy Charge Trigger Infuse Weapon to gain 2 Lightning Infusion":[null,"When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion When you Consume a Frenzy Charge Trigger Infuse Weapon to gain 2 Lightning Infusion "],
   "When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion When you Consume a Frenzy Charge Trigger Infuse Weapon to gain 2 Lightning Infusion Grants Skill: Infuse Weapon":[null,"When you Consume an Endurance Charge Trigger Infuse Weapon to gain 2 Fire Infusion When you Consume a Frenzy Charge Trigger Infuse Weapon to gain 2 Lightning Infusion Grants Skill: Infuse Weapon "],
-  "When you Kill a Rare monster, you gain its Modifiers for 20 seconds":[null,"When you Kill a Rare monster, you gain its Modifiers for 20 seconds "],
+  "When you Kill a Rare monster, you gain its Modifiers for 60 seconds":[null,"When you Kill a Rare monster, you gain its Modifiers for 60 seconds "],
   "When you Leech Life from a Hit, Allies in your Presence also Leech the same amount of Life":[null,"When you Leech Life from a Hit, also Leech the same amount of Life "],
   "When you leave your Banner's Area, recover 15% of the Valour consumed for that Banner":[null,"When you leave your Banner's Area, recover 15% of the Valour consumed for that Banner "],
   "While not on Full Life, Sacrifice 1% of Mana per Second to Recover that much Life":[[{
@@ -37957,6 +38833,7 @@
   "until you take no Damage to Life for 5 seconds":[null,"until you take no Damage to Life for 5 seconds "],
   "your Ailments on them":[null,"your Ailments on them "],
   "your Ailments on them 30% reduced Duration of Ignite, Shock and Chill on Enemies":[null,"your Ailments on them 30% reduced Duration of Ignite, Shock and Chill on Enemies "],
+  "your Ailments on them your Ailments on them":[null,"your Ailments on them your Ailments on them "],
   "your maximum Life as Physical damage per second":[null,"your maximum Life as Physical damage per second "],
   "your maximum number of Power Charges":[null,"your maximum number of Power Charges "],
   "your maximum number of Power Charges +1 to Maximum Power Charges":[null,"your maximum number of Power Charges +1 to Maximum Power Charges "]

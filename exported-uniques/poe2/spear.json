@@ -67,12 +67,12 @@
     "implicitCount":2,
     "itemType":"spear",
     "league":" Dawn of the Hunt",
-    "modifiers":["(15-20)% increased Attack Speed","Leeches (6-10)% of Physical Damage as Life"],
+    "modifiers":["(15-20)% increased Attack Speed","{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life","{variant:2}Leeches (10-20)% of Physical Damage as Life","{variant:1}Adds (106-146) to (181-221) Chaos damage","{variant:2}Adds (167-201) to (267-333) Chaos damage"],
     "name":"Spire of Ire",
-    "originalString":"Spire of Ire\nHelix Spear\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Spear Throw\nGrants Skill: Level (1-20) Chaotic Infusion\n(15-20)% increased Attack Speed\nLeeches (6-10)% of Physical Damage as Life\nAdds (106-146) to (181-221) Chaos damage\nWhen you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion\nLife Leech recovers based on your Chaos damage instead of Physical damage\n",
+    "originalString":"Spire of Ire\nHelix Spear\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 2\nGrants Skill: Spear Throw\nGrants Skill: Level (1-20) Chaotic Infusion\n(15-20)% increased Attack Speed\n{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life\n{variant:2}Leeches (10-20)% of Physical Damage as Life\n{variant:1}Adds (106-146) to (181-221) Chaos damage\n{variant:2}Adds (167-201) to (267-333) Chaos damage\nWhen you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion\nLife Leech recovers based on your Chaos damage instead of Physical damage\n",
     "requirements":[],
-    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","(15-20)% increased Attack Speed","Leeches (6-10)% of Physical Damage as Life","Adds (106-146) to (181-221) Chaos damage","When you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion","Life Leech recovers based on your Chaos damage instead of Physical damage"],
-    "variants":[]
+    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","(15-20)% increased Attack Speed","{variant:1}Leeches (0.06-0.1)% of Physical Damage as Life","{variant:2}Leeches (10-20)% of Physical Damage as Life","{variant:1}Adds (106-146) to (181-221) Chaos damage","{variant:2}Adds (167-201) to (267-333) Chaos damage","When you Consume a Charge Trigger Chaotic Infusion to gain 2 Chaos Infusion","Life Leech recovers based on your Chaos damage instead of Physical damage"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Splinter of Loratta":{
     "baseType":"Hardwood Spear",

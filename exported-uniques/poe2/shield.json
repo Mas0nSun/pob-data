@@ -223,12 +223,12 @@
     "implicitCount":1,
     "itemType":"shield",
     "league":" Dawn of the Hunt",
-    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
+    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
     "name":"Prism Guardian",
-    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n+1 to Maximum Spirit per 50 Maximum Life\n",
+    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n{variant:1}+1 to Maximum Spirit per 50 Maximum Life\n{variant:2}+1 to Maximum Spirit per 25 Maximum Life\n",
     "requirements":[],
-    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
-    "variants":[]
+    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Redblade Banner":{
     "baseType":"Heraldric Tower Shield",
