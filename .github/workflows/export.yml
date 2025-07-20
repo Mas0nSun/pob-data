@@ -29,7 +29,7 @@ jobs:
       - name: checkout pob2
         uses: actions/checkout@v4.2.2
         with:
-          repository: PathOfBuildingCommunity/PathOfBuilding-PoE2
+          repository: Mas0nSun/PathOfBuilding-PoE2
           path: PathOfBuilding2
       - name: install json
         run: luarocks install dkjson
