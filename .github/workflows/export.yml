@@ -41,6 +41,12 @@ jobs:
         run: find PathOfBuilding2/src/Data/ -type d | sed 's|PathOfBuilding2/src/Data|RePoE/pob-data/poe2/|g' | while read DIR; do mkdir -p $DIR; done
       - name: run poe2 lua
         run: find PathOfBuilding2/src/Data/ -name '*.lua' -exec luajit RePoE/lua/Generate.lua '{}' RePoE/pob-data/poe2/ \;
+      - name: export unique items
+        run: luajit RePoE/lua/export_uniques_to_json.lua RePoE
+        working-directory: .
+      - name: merge unique items
+        run: luajit RePoE/lua/merge_uniques.lua RePoE all
+        working-directory: .
       - name: commit changes
         id: autocommit
         uses: stefanzweifel/git-auto-commit-action@v5.2.0

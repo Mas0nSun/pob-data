@@ -1,0 +1,345 @@
+{
+  "Arakaali's Fang":{
+    "baseType":"Fiend Dagger",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["40% increased Global Critical Strike Chance","100% chance to Trigger Level 1 Raise Spiders on Kill","(170-200)% increased Physical Damage","15% chance to Poison on Hit"],
+    "name":"Arakaali's Fang",
+    "originalString":"Arakaali's Fang\nFiend Dagger\nRequires Level 53, 58 Dex, 123 Int\nImplicits: 1\n40% increased Global Critical Strike Chance\n100% chance to Trigger Level 1 Raise Spiders on Kill\n(170-200)% increased Physical Damage\nAdds (8-13) to (20-30) Physical Damage\nAdds 1 to 59 Chaos Damage\n15% chance to Poison on Hit\n",
+    "requirements":{
+      "level":53
+    },
+    "stats":["Arakaali's Fang","Fiend Dagger","Requires Level 53, 58 Dex, 123 Int","Implicits: 1","40% increased Global Critical Strike Chance","100% chance to Trigger Level 1 Raise Spiders on Kill","(170-200)% increased Physical Damage","Adds (8-13) to (20-30) Physical Damage","Adds 1 to 59 Chaos Damage","15% chance to Poison on Hit"],
+    "variants":[]
+  },
+  "Bino's Kitchen Knife":{
+    "baseType":"Slaughter Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","{variant:1,2}30% increased Damage over Time","{variant:3}Adds (140-155) to (210-235) Physical Damage","(40-50)% increased Critical Strike Chance","{variant:1}+(10-15)% to Global Critical Strike Multiplier","{variant:2,3}+(15-25)% to Global Critical Strike Multiplier","+(8-12)% to Chaos Resistance"],
+    "name":"Bino's Kitchen Knife",
+    "originalString":"Bino's Kitchen Knife\nSlaughter Knife\nVariant: Pre 2.2.0\nVariant: Pre 3.20.0\nVariant: Current\nRequires Level 65, 81 Dex, 117 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n{variant:1,2}30% increased Damage over Time\n{variant:1,2}Adds (50-60) to (120-140) Physical Damage\n{variant:3}Adds (140-155) to (210-235) Physical Damage\n(40-50)% increased Critical Strike Chance\n{variant:1}+(10-15)% to Global Critical Strike Multiplier\n{variant:2,3}+(15-25)% to Global Critical Strike Multiplier\n+(8-12)% to Chaos Resistance\nOn Killing a Poisoned Enemy, nearby Enemies are Poisoned\nand nearby Allies Regenerate 200 Life per second\n",
+    "requirements":{
+      "level":65
+    },
+    "stats":["Bino's Kitchen Knife","Slaughter Knife","Variant: Pre 2.2.0","Variant: Pre 3.20.0","Variant: Current","Requires Level 65, 81 Dex, 117 Int","Implicits: 1","30% increased Global Critical Strike Chance","{variant:1,2}30% increased Damage over Time","{variant:1,2}Adds (50-60) to (120-140) Physical Damage","{variant:3}Adds (140-155) to (210-235) Physical Damage","(40-50)% increased Critical Strike Chance","{variant:1}+(10-15)% to Global Critical Strike Multiplier","{variant:2,3}+(15-25)% to Global Critical Strike Multiplier","+(8-12)% to Chaos Resistance","On Killing a Poisoned Enemy, nearby Enemies are Poisoned","and nearby Allies Regenerate 200 Life per second"],
+    "variants":["Pre 2.2.0","Pre 3.20.0","Current"]
+  },
+  "Bloodplay":{
+    "baseType":"Stiletto",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","+20 to Dexterity","(20-40)% increased Physical Damage","10% increased Attack Speed","{variant:1}10% chance to cause Bleeding on Hit","{variant:2}30% chance to cause Bleeding on Hit"],
+    "name":"Bloodplay",
+    "originalString":"Bloodplay\nStiletto\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 15, 30 Dex, 30 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n+20 to Dexterity\n(20-40)% increased Physical Damage\nAdds (3-6) to (9-13) Physical Damage\n10% increased Attack Speed\nExtra Gore\n{variant:1}10% chance to cause Bleeding on Hit\n{variant:2}30% chance to cause Bleeding on Hit\n",
+    "requirements":{
+      "level":15
+    },
+    "stats":["Bloodplay","Stiletto","Variant: Pre 2.6.0","Variant: Current","Requires Level 15, 30 Dex, 30 Int","Implicits: 1","30% increased Global Critical Strike Chance","+20 to Dexterity","(20-40)% increased Physical Damage","Adds (3-6) to (9-13) Physical Damage","10% increased Attack Speed","Extra Gore","{variant:1}10% chance to cause Bleeding on Hit","{variant:2}30% chance to cause Bleeding on Hit"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Cold Iron Point":{
+    "baseType":"Ezomyte Dagger",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","+3 to Level of all Physical Spell Skill Gems"],
+    "name":"Cold Iron Point",
+    "originalString":"Cold Iron Point\nEzomyte Dagger\nRequires Level 62, 95 Dex, 131 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n+3 to Level of all Physical Spell Skill Gems\nDeal no Elemental Damage\n",
+    "requirements":{
+      "level":62
+    },
+    "stats":["Cold Iron Point","Ezomyte Dagger","Requires Level 62, 95 Dex, 131 Int","Implicits: 1","30% increased Global Critical Strike Chance","+3 to Level of all Physical Spell Skill Gems","Deal no Elemental Damage"],
+    "variants":[]
+  },
+  "Divinarius":{
+    "baseType":"Imperial Skean",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Legion",
+    "modifiers":["30% increased Global Critical Strike Chance","{variant:1,2}(50-70)% increased Spell Damage","{variant:3}(150-200)% increased Spell Damage","{variant:1}Gain 10 Life per Enemy Killed","{variant:2}Gain 30 Life per Enemy Killed","{variant:3}Gain (100-200) Life per Enemy Killed","{variant:1}Gain 5 Mana per Enemy Killed","{variant:2}Gain 10 Mana per Enemy Killed","{variant:3}Gain (50-100) Mana per Enemy Killed","{variant:1,2}10% increased Area of Effect","{variant:3}30% increased Area of Effect","{variant:2}(125-175)% increased Critical Strike Chance for Spells if you've Killed Recently","{variant:3}(200-250)% increased Critical Strike Chance for Spells if you've Killed Recently","{variant:2}+(40-60)% to Critical Strike Multiplier for Spells if you haven't Killed Recently","{variant:3}+(60-100)% to Critical Strike Multiplier for Spells if you haven't Killed Recently"],
+    "name":"Divinarius",
+    "originalString":"Divinarius\nImperial Skean\nLeague: Legion\nVariant: Pre 3.7.0\nVariant: Pre 3.20.0\nVariant: Current\nRequires Level 66, 95 Dex, 131 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n{variant:1,2}(50-70)% increased Spell Damage\n{variant:3}(150-200)% increased Spell Damage\n{variant:1}Gain 10 Life per Enemy Killed\n{variant:2}Gain 30 Life per Enemy Killed\n{variant:3}Gain (100-200) Life per Enemy Killed\n{variant:1}Gain 5 Mana per Enemy Killed\n{variant:2}Gain 10 Mana per Enemy Killed\n{variant:3}Gain (50-100) Mana per Enemy Killed\n{variant:1,2}10% increased Area of Effect\n{variant:3}30% increased Area of Effect\n{variant:2}(125-175)% increased Critical Strike Chance for Spells if you've Killed Recently\n{variant:3}(200-250)% increased Critical Strike Chance for Spells if you've Killed Recently\n{variant:2}+(40-60)% to Critical Strike Multiplier for Spells if you haven't Killed Recently\n{variant:3}+(60-100)% to Critical Strike Multiplier for Spells if you haven't Killed Recently\n",
+    "requirements":{
+      "level":66
+    },
+    "stats":["Divinarius","Imperial Skean","League: Legion","Variant: Pre 3.7.0","Variant: Pre 3.20.0","Variant: Current","Requires Level 66, 95 Dex, 131 Int","Implicits: 1","30% increased Global Critical Strike Chance","{variant:1,2}(50-70)% increased Spell Damage","{variant:3}(150-200)% increased Spell Damage","{variant:1}Gain 10 Life per Enemy Killed","{variant:2}Gain 30 Life per Enemy Killed","{variant:3}Gain (100-200) Life per Enemy Killed","{variant:1}Gain 5 Mana per Enemy Killed","{variant:2}Gain 10 Mana per Enemy Killed","{variant:3}Gain (50-100) Mana per Enemy Killed","{variant:1,2}10% increased Area of Effect","{variant:3}30% increased Area of Effect","{variant:2}(125-175)% increased Critical Strike Chance for Spells if you've Killed Recently","{variant:3}(200-250)% increased Critical Strike Chance for Spells if you've Killed Recently","{variant:2}+(40-60)% to Critical Strike Multiplier for Spells if you haven't Killed Recently","{variant:3}+(60-100)% to Critical Strike Multiplier for Spells if you haven't Killed Recently"],
+    "variants":["Pre 3.7.0","Pre 3.20.0","Current"]
+  },
+  "Goblinedge":{
+    "baseType":"Ambusher",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Ritual",
+    "modifiers":["30% increased Global Critical Strike Chance","(200-250)% increased Physical Damage","(20-25)% increased Attack Speed if you haven't gained a Frenzy Charge Recently","(60-80)% increased Critical Strike Chance if you haven't gained a Power Charge Recently","+3 seconds to Duration of Frenzy and Power Charges on Culling Strike"],
+    "name":"Goblinedge",
+    "originalString":"Goblinedge\nAmbusher\nLeague: Ritual\nRequires Level 60, 113 Dex, 113 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n(200-250)% increased Physical Damage\n(20-25)% increased Attack Speed if you haven't gained a Frenzy Charge Recently\n(60-80)% increased Critical Strike Chance if you haven't gained a Power Charge Recently\n+3 seconds to Duration of Frenzy and Power Charges on Culling Strike\nGain (120-150) Life on Culling Strike\nGain (10-20) Mana on Culling Strike\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Goblinedge","Ambusher","League: Ritual","Requires Level 60, 113 Dex, 113 Int","Implicits: 1","30% increased Global Critical Strike Chance","(200-250)% increased Physical Damage","(20-25)% increased Attack Speed if you haven't gained a Frenzy Charge Recently","(60-80)% increased Critical Strike Chance if you haven't gained a Power Charge Recently","+3 seconds to Duration of Frenzy and Power Charges on Culling Strike","Gain (120-150) Life on Culling Strike","Gain (10-20) Mana on Culling Strike"],
+    "variants":[]
+  },
+  "Goredrill":{
+    "baseType":"Skinning Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","+(10-15) to Dexterity","(50-70)% increased Physical Damage","30% increased Critical Strike Chance","50% chance to cause Bleeding on Critical Strike","40% increased Attack Damage against Bleeding Enemies"],
+    "name":"Goredrill",
+    "originalString":"Goredrill\nSkinning Knife\nRequires Level 5, 16 Dex\nImplicits: 1\n30% increased Global Critical Strike Chance\n+(10-15) to Dexterity\n(50-70)% increased Physical Damage\nAdds (1-2) to (3-5) Physical Damage\n30% increased Critical Strike Chance\n50% chance to cause Bleeding on Critical Strike\n40% increased Attack Damage against Bleeding Enemies\n",
+    "requirements":{
+      "level":5
+    },
+    "stats":["Goredrill","Skinning Knife","Requires Level 5, 16 Dex","Implicits: 1","30% increased Global Critical Strike Chance","+(10-15) to Dexterity","(50-70)% increased Physical Damage","Adds (1-2) to (3-5) Physical Damage","30% increased Critical Strike Chance","50% chance to cause Bleeding on Critical Strike","40% increased Attack Damage against Bleeding Enemies"],
+    "variants":[]
+  },
+  "Heartbreaker":{
+    "baseType":"Royal Skean",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","{variant:1}(40-50)% increased Spell Damage","{variant:2,3}(60-70)% increased Spell Damage","{variant:1,2}10% faster start of Energy Shield Recharge","{variant:3}(40-80)% faster start of Energy Shield Recharge","{variant:3}+(60-100) to maximum Mana"],
+    "name":"Heartbreaker",
+    "originalString":"Heartbreaker\nRoyal Skean\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 50, 71 Dex, 102 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n{variant:1}(40-50)% increased Spell Damage\n{variant:2,3}(60-70)% increased Spell Damage\n{variant:1,2}+50 to maximum Energy Shield\n{variant:1,2}10% faster start of Energy Shield Recharge\n{variant:3}(40-80)% faster start of Energy Shield Recharge\n{variant:1,2}+(40-50) to maximum Mana\n{variant:3}+(60-100) to maximum Mana\nYour Spells have Culling Strike\n",
+    "requirements":{
+      "level":50
+    },
+    "stats":["Heartbreaker","Royal Skean","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 50, 71 Dex, 102 Int","Implicits: 1","30% increased Global Critical Strike Chance","{variant:1}(40-50)% increased Spell Damage","{variant:2,3}(60-70)% increased Spell Damage","{variant:1,2}+50 to maximum Energy Shield","{variant:1,2}10% faster start of Energy Shield Recharge","{variant:3}(40-80)% faster start of Energy Shield Recharge","{variant:1,2}+(40-50) to maximum Mana","{variant:3}+(60-100) to maximum Mana","Your Spells have Culling Strike"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Mark of the Doubting Knight":{
+    "baseType":"Platinum Kris",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["50% increased Global Critical Strike Chance","+5% Chance to Block Attack Damage while Dual Wielding","{variant:1}(180-210)% increased Physical Damage","{variant:2}(210-240)% increased Physical Damage","{variant:3,4}(250-270)% increased Physical Damage","{variant:1,2,3}10% reduced Attack Speed","{variant:4}20% reduced Attack Speed","{variant:1,2,3}+(6-10)% to all Elemental Resistances","{variant:1,2}Melee Critical Strikes have 25% chance to cause Bleeding","{variant:3,4}50% chance to Cause Bleeding on Critical Strike","{variant:1,2}Melee Critical Strikes have 25% chance to Poison the Enemy","{variant:3,4}50% chance to Cause Poison on Critical Strike","{variant:4}(20-30)% increased Critical Strike Chance","{variant:4}+(30-40)% to Global Critical Strike Multiplier"],
+    "name":"Mark of the Doubting Knight",
+    "originalString":"Mark of the Doubting Knight\nPlatinum Kris\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.26.0\nVariant: Current\nRequires Level 64, 76 Dex, 149 Int\nImplicits: 1\n50% increased Global Critical Strike Chance\n+5% Chance to Block Attack Damage while Dual Wielding\n{variant:1}(180-210)% increased Physical Damage\n{variant:2}(210-240)% increased Physical Damage\n{variant:3,4}(250-270)% increased Physical Damage\n{variant:1,2,3}10% reduced Attack Speed\n{variant:4}20% reduced Attack Speed\n{variant:1,2,3}+(6-10)% to all Elemental Resistances\n{variant:1,2}Melee Critical Strikes have 25% chance to cause Bleeding\n{variant:3,4}50% chance to Cause Bleeding on Critical Strike\n{variant:1,2}Melee Critical Strikes have 25% chance to Poison the Enemy\n{variant:3,4}50% chance to Cause Poison on Critical Strike\n{variant:4}(20-30)% increased Critical Strike Chance\n{variant:4}+(30-40)% to Global Critical Strike Multiplier\n",
+    "requirements":{
+      "level":64
+    },
+    "stats":["Mark of the Doubting Knight","Platinum Kris","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Pre 3.26.0","Variant: Current","Requires Level 64, 76 Dex, 149 Int","Implicits: 1","50% increased Global Critical Strike Chance","+5% Chance to Block Attack Damage while Dual Wielding","{variant:1}(180-210)% increased Physical Damage","{variant:2}(210-240)% increased Physical Damage","{variant:3,4}(250-270)% increased Physical Damage","{variant:1,2,3}10% reduced Attack Speed","{variant:4}20% reduced Attack Speed","{variant:1,2,3}+(6-10)% to all Elemental Resistances","{variant:1,2}Melee Critical Strikes have 25% chance to cause Bleeding","{variant:3,4}50% chance to Cause Bleeding on Critical Strike","{variant:1,2}Melee Critical Strikes have 25% chance to Poison the Enemy","{variant:3,4}50% chance to Cause Poison on Critical Strike","{variant:4}(20-30)% increased Critical Strike Chance","{variant:4}+(30-40)% to Global Critical Strike Multiplier"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Pre 3.26.0","Current"]
+  },
+  "Mightflay":{
+    "baseType":"Flaying Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","(80-100)% increased Physical Damage","+25 to Strength"],
+    "name":"Mightflay",
+    "originalString":"Mightflay\nFlaying Knife\nRequires Level 35, 73 Dex, 51 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n(80-100)% increased Physical Damage\nAdds 12 to 24 Physical Damage\n+25 to Strength\nGain 10 Life per Enemy Hit with Attacks\n",
+    "requirements":{
+      "level":35
+    },
+    "stats":["Mightflay","Flaying Knife","Requires Level 35, 73 Dex, 51 Int","Implicits: 1","30% increased Global Critical Strike Chance","(80-100)% increased Physical Damage","Adds 12 to 24 Physical Damage","+25 to Strength","Gain 10 Life per Enemy Hit with Attacks"],
+    "variants":[]
+  },
+  "Replica Bloodplay":{
+    "baseType":"Stiletto",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Heist",
+    "modifiers":["30% increased Global Critical Strike Chance","+20 to Strength","(20-40)% increased Physical Damage","30% chance to cause Bleeding on Hit","(100-150)% increased Critical Strike Chance against Bleeding Enemies"],
+    "name":"Replica Bloodplay",
+    "originalString":"Replica Bloodplay\nStiletto\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 15, 30 Dex, 30 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n+20 to Strength\n(20-40)% increased Physical Damage\nAdds (3-6) to (9-13) Physical Damage\n30% chance to cause Bleeding on Hit\n(100-150)% increased Critical Strike Chance against Bleeding Enemies\nExtra gore\n",
+    "requirements":{
+      "level":15
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Bloodplay","Stiletto","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 15, 30 Dex, 30 Int","Implicits: 1","30% increased Global Critical Strike Chance","+20 to Strength","(20-40)% increased Physical Damage","Adds (3-6) to (9-13) Physical Damage","30% chance to cause Bleeding on Hit","(100-150)% increased Critical Strike Chance against Bleeding Enemies","Extra gore"],
+    "variants":[]
+  },
+  "Replica Cold Iron Point":{
+    "baseType":"Ezomyte Dagger",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Heist",
+    "modifiers":["30% increased Global Critical Strike Chance","+3 to Level of all Cold Spell Skill Gems"],
+    "name":"Replica Cold Iron Point",
+    "originalString":"Replica Cold Iron Point\nEzomyte Dagger\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 62, 95 Dex, 131 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n+3 to Level of all Cold Spell Skill Gems\nDeal no Cold Damage\n",
+    "requirements":{
+      "level":62
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Cold Iron Point","Ezomyte Dagger","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 62, 95 Dex, 131 Int","Implicits: 1","30% increased Global Critical Strike Chance","+3 to Level of all Cold Spell Skill Gems","Deal no Cold Damage"],
+    "variants":[]
+  },
+  "Replica Heartbreaker":{
+    "baseType":"Royal Skean",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Heist",
+    "modifiers":["30% increased Global Critical Strike Chance","(60-70)% increased Spell Damage","{variant:1}+50 to maximum Energy Shield","{variant:1}10% faster start of Energy Shield Recharge","{variant:2}(40-80)% faster start of Energy Shield Recharge","{variant:1}+(40-50) to maximum Life","{variant:2}+(30-50) to maximum Life","20% increased Impale Effect","20% chance to Impale on Spell Hit"],
+    "name":"Replica Heartbreaker",
+    "originalString":"Replica Heartbreaker\nRoyal Skean\nVariant: Pre 3.19.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 50, 71 Dex, 102 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n(60-70)% increased Spell Damage\n{variant:1}+50 to maximum Energy Shield\n{variant:1}10% faster start of Energy Shield Recharge\n{variant:2}(40-80)% faster start of Energy Shield Recharge\n{variant:1}+(40-50) to maximum Life\n{variant:2}+(30-50) to maximum Life\n20% increased Impale Effect\n20% chance to Impale on Spell Hit\n",
+    "requirements":{
+      "level":50
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Heartbreaker","Royal Skean","Variant: Pre 3.19.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 50, 71 Dex, 102 Int","Implicits: 1","30% increased Global Critical Strike Chance","(60-70)% increased Spell Damage","{variant:1}+50 to maximum Energy Shield","{variant:1}10% faster start of Energy Shield Recharge","{variant:2}(40-80)% faster start of Energy Shield Recharge","{variant:1}+(40-50) to maximum Life","{variant:2}+(30-50) to maximum Life","20% increased Impale Effect","20% chance to Impale on Spell Hit"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Replica Ungil's Gauche":{
+    "baseType":"Boot Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Heist",
+    "modifiers":["30% increased Global Critical Strike Chance","+18% Chance to Block Attack Damage while Dual Wielding","+(10-20) to Dexterity","10% increased Attack Speed","50% increased Global Critical Strike Chance"],
+    "name":"Replica Ungil's Gauche",
+    "originalString":"Replica Ungil's Gauche\nBoot Knife\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 20, 31 Dex, 45 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n+18% Chance to Block Attack Damage while Dual Wielding\n+(10-20) to Dexterity\n10% increased Attack Speed\n50% increased Global Critical Strike Chance\nChill Attackers for 4 seconds on Block\nShock Attackers for 4 seconds on Block\n",
+    "requirements":{
+      "level":20
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Ungil's Gauche","Boot Knife","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 20, 31 Dex, 45 Int","Implicits: 1","30% increased Global Critical Strike Chance","+18% Chance to Block Attack Damage while Dual Wielding","+(10-20) to Dexterity","10% increased Attack Speed","50% increased Global Critical Strike Chance","Chill Attackers for 4 seconds on Block","Shock Attackers for 4 seconds on Block"],
+    "variants":[]
+  },
+  "Sanguine Gambol":{
+    "baseType":"Skinning Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","(50-70)% increased Physical Damage","+(10-15) to Dexterity","30% increased Critical Strike Chance","50% chance to cause Bleeding on Critical Strike","40% increased Attack Damage against Bleeding Enemies"],
+    "name":"Sanguine Gambol",
+    "originalString":"Sanguine Gambol\nSkinning Knife\nSource: No longer obtainable\nRequires Level 59\nImplicits: 1\n30% increased Global Critical Strike Chance\n(50-70)% increased Physical Damage\nAdds (70-85) to (110-118) Physical Damage\n+(10-15) to Dexterity\n30% increased Critical Strike Chance\n50% chance to cause Bleeding on Critical Strike\n40% increased Attack Damage against Bleeding Enemies\nYou have Crimson Dance if you have dealt a Critical Strike Recently\n",
+    "requirements":{
+      "level":59
+    },
+    "source":"No longer obtainable",
+    "stats":["Sanguine Gambol","Skinning Knife","Source: No longer obtainable","Requires Level 59","Implicits: 1","30% increased Global Critical Strike Chance","(50-70)% increased Physical Damage","Adds (70-85) to (110-118) Physical Damage","+(10-15) to Dexterity","30% increased Critical Strike Chance","50% chance to cause Bleeding on Critical Strike","40% increased Attack Damage against Bleeding Enemies","You have Crimson Dance if you have dealt a Critical Strike Recently"],
+    "variants":[]
+  },
+  "Taproot":{
+    "baseType":"Ambusher",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","(180-200)% increased Physical Damage","(10-15)% increased Attack Speed","(15-20)% increased Poison Duration","0.5% of Attack Damage Leeched as Mana against Poisoned Enemies","0.5% of Attack Damage Leeched as Life against Maimed Enemies","(15-20)% chance to Maim on Hit","20% chance to Poison on Hit"],
+    "name":"Taproot",
+    "originalString":"Taproot\nAmbusher\nRequires Level 60, 113 Dex, 113 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n(180-200)% increased Physical Damage\n(10-15)% increased Attack Speed\n(15-20)% increased Poison Duration\n0.5% of Attack Damage Leeched as Mana against Poisoned Enemies\n0.5% of Attack Damage Leeched as Life against Maimed Enemies\n(15-20)% chance to Maim on Hit\n20% chance to Poison on Hit\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Taproot","Ambusher","Requires Level 60, 113 Dex, 113 Int","Implicits: 1","30% increased Global Critical Strike Chance","(180-200)% increased Physical Damage","(10-15)% increased Attack Speed","(15-20)% increased Poison Duration","0.5% of Attack Damage Leeched as Mana against Poisoned Enemies","0.5% of Attack Damage Leeched as Life against Maimed Enemies","(15-20)% chance to Maim on Hit","20% chance to Poison on Hit"],
+    "variants":[]
+  },
+  "The Consuming Dark":{
+    "baseType":"Fiend Dagger",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["40% increased Global Critical Strike Chance","+1 to Level of all Fire Spell Skill Gems","(40-60)% increased Fire Damage","+(20-40) to Intelligence","{variant:1}45% of Fire Damage Converted to Chaos Damage","{variant:2,3}30% of Fire Damage Converted to Chaos Damage","{variant:3}Your Chaos Damage has 60% chance to Poison Enemies"],
+    "name":"The Consuming Dark",
+    "originalString":"The Consuming Dark\nFiend Dagger\nVariant: Pre 2.2.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 53, 58 Dex, 123 Int\nImplicits: 1\n40% increased Global Critical Strike Chance\n+1 to Level of all Fire Spell Skill Gems\n(40-60)% increased Fire Damage\n+(20-40) to Intelligence\n{variant:1}45% of Fire Damage Converted to Chaos Damage\n{variant:2,3}30% of Fire Damage Converted to Chaos Damage\n{variant:1,2}Your Chaos Damage Poisons Enemies\n{variant:3}Your Chaos Damage has 60% chance to Poison Enemies\n",
+    "requirements":{
+      "level":53
+    },
+    "stats":["The Consuming Dark","Fiend Dagger","Variant: Pre 2.2.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 53, 58 Dex, 123 Int","Implicits: 1","40% increased Global Critical Strike Chance","+1 to Level of all Fire Spell Skill Gems","(40-60)% increased Fire Damage","+(20-40) to Intelligence","{variant:1}45% of Fire Damage Converted to Chaos Damage","{variant:2,3}30% of Fire Damage Converted to Chaos Damage","{variant:1,2}Your Chaos Damage Poisons Enemies","{variant:3}Your Chaos Damage has 60% chance to Poison Enemies"],
+    "variants":["Pre 2.2.0","Pre 3.0.0","Current"]
+  },
+  "The Hidden Blade":{
+    "baseType":"Ambusher",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "league":" Heist",
+    "modifiers":["30% increased Global Critical Strike Chance","+(20-40) to Dexterity","(230-260)% increased Physical Damage","30% reduced Attack Speed while Phasing"],
+    "name":"The Hidden Blade",
+    "originalString":"The Hidden Blade\nAmbusher\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 60, 113 Dex, 113 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\nTrigger Level 20 Unseen Strike every 0.5 seconds while Phasing\n+(20-40) to Dexterity\n(230-260)% increased Physical Damage\n30% reduced Attack Speed while Phasing\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["The Hidden Blade","Ambusher","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 60, 113 Dex, 113 Int","Implicits: 1","30% increased Global Critical Strike Chance","Trigger Level 20 Unseen Strike every 0.5 seconds while Phasing","+(20-40) to Dexterity","(230-260)% increased Physical Damage","30% reduced Attack Speed while Phasing"],
+    "variants":[]
+  },
+  "Ungil's Gauche":{
+    "baseType":"Boot Knife",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","{variant:2}+20% Chance to Block Attack Damage while Dual Wielding","{variant:1,3}+12% Chance to Block Attack Damage while Dual Wielding","(80-100)% increased Physical Damage","+(10-20) to Dexterity","10% increased Attack Speed","50% increased Global Critical Strike Chance"],
+    "name":"Ungil's Gauche",
+    "originalString":"Ungil's Gauche\nBoot Knife\nVariant: Pre 1.1.0\nVariant: Pre 1.3.0\nVariant: Current\nRequires Level 20, 31 Dex, 45 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n{variant:2}+20% Chance to Block Attack Damage while Dual Wielding\n{variant:1,3}+12% Chance to Block Attack Damage while Dual Wielding\n(80-100)% increased Physical Damage\n+(10-20) to Dexterity\nAdds 3 to 30 Lightning Damage\n10% increased Attack Speed\n50% increased Global Critical Strike Chance\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Ungil's Gauche","Boot Knife","Variant: Pre 1.1.0","Variant: Pre 1.3.0","Variant: Current","Requires Level 20, 31 Dex, 45 Int","Implicits: 1","30% increased Global Critical Strike Chance","{variant:2}+20% Chance to Block Attack Damage while Dual Wielding","{variant:1,3}+12% Chance to Block Attack Damage while Dual Wielding","(80-100)% increased Physical Damage","+(10-20) to Dexterity","Adds 3 to 30 Lightning Damage","10% increased Attack Speed","50% increased Global Critical Strike Chance"],
+    "variants":["Pre 1.1.0","Pre 1.3.0","Current"]
+  },
+  "Vulconus":{
+    "baseType":"Demon Dagger",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["40% increased Global Critical Strike Chance","{variant:2}50% chance to cause Bleeding on Hit","{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Fire Damage to Bleeding Enemies","{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Physical Damage to Ignited Enemies","{variant:1}Attacks with this Weapon have 25% chance to inflict Bleeding against Ignited Enemies","{variant:2}(75-100)% increased Fire Damage with Hits and Ailments against Bleeding Enemies","{variant:2}(75-100)% increased Physical Damage with Hits and Ailments against Ignited Enemies","{variant:1}(80-120)% increased Critical Strike Chance while you have Avatar of Fire","{variant:2}(160-200)% increased Critical Strike Chance while you have Avatar of Fire","50% of Physical Damage Converted to Fire while you have Avatar of Fire","{variant:1}+1000 Armour while you do not have Avatar of Fire","{variant:2}+2000 Armour while you do not have Avatar of Fire"],
+    "name":"Vulconus",
+    "originalString":"Vulconus\nDemon Dagger\nVariant: Pre 3.5.0\nVariant: Current\nRequires Level 68, 76 Dex, 149 Int\nImplicits: 1\n40% increased Global Critical Strike Chance\nAdds (85-110) to (130-150) Physical Damage\nAdds (130-160) to (220-240) Fire Damage\n{variant:2}50% chance to cause Bleeding on Hit\n{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Fire Damage to Bleeding Enemies\n{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Physical Damage to Ignited Enemies\n{variant:1}Attacks with this Weapon have 25% chance to inflict Bleeding against Ignited Enemies\n{variant:2}(75-100)% increased Fire Damage with Hits and Ailments against Bleeding Enemies\n{variant:2}(75-100)% increased Physical Damage with Hits and Ailments against Ignited Enemies\nEvery 8 seconds, gain Avatar of Fire for 4 seconds\n{variant:1}(80-120)% increased Critical Strike Chance while you have Avatar of Fire\n{variant:2}(160-200)% increased Critical Strike Chance while you have Avatar of Fire\n50% of Physical Damage Converted to Fire while you have Avatar of Fire\n{variant:1}+1000 Armour while you do not have Avatar of Fire\n{variant:2}+2000 Armour while you do not have Avatar of Fire\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["Vulconus","Demon Dagger","Variant: Pre 3.5.0","Variant: Current","Requires Level 68, 76 Dex, 149 Int","Implicits: 1","40% increased Global Critical Strike Chance","Adds (85-110) to (130-150) Physical Damage","Adds (130-160) to (220-240) Fire Damage","{variant:2}50% chance to cause Bleeding on Hit","{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Fire Damage to Bleeding Enemies","{variant:1}Attacks with this Weapon deal (80-100) to (160-200) added Physical Damage to Ignited Enemies","{variant:1}Attacks with this Weapon have 25% chance to inflict Bleeding against Ignited Enemies","{variant:2}(75-100)% increased Fire Damage with Hits and Ailments against Bleeding Enemies","{variant:2}(75-100)% increased Physical Damage with Hits and Ailments against Ignited Enemies","Every 8 seconds, gain Avatar of Fire for 4 seconds","{variant:1}(80-120)% increased Critical Strike Chance while you have Avatar of Fire","{variant:2}(160-200)% increased Critical Strike Chance while you have Avatar of Fire","50% of Physical Damage Converted to Fire while you have Avatar of Fire","{variant:1}+1000 Armour while you do not have Avatar of Fire","{variant:2}+2000 Armour while you do not have Avatar of Fire"],
+    "variants":["Pre 3.5.0","Current"]
+  },
+  "White Wind":{
+    "baseType":"Imperial Skean",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","(10-15)% increased Attack Speed","{variant:1}+(300-400) to Evasion Rating","{variant:1,2}(15-25)% chance to Suppress Spell Damage while your Off Hand is empty","{variant:3}(30-40)% chance to Suppress Spell Damage while your Off Hand is empty","{variant:1}100% increased Cold Damage while your Off Hand is empty","{variant:2,3}(100-200)% increased Cold Damage while your Off Hand is empty"],
+    "name":"White Wind",
+    "originalString":"White Wind\nImperial Skean\nVariant: Pre 3.11.0\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 66, 95 Dex, 131 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\nAdds (160-190) to (280-320) Cold Damage\n(10-15)% increased Attack Speed\n{variant:1}+(300-400) to Evasion Rating\n{variant:2,3}+(1000-1500) to Evasion Rating\n{variant:1,2}(15-25)% chance to Suppress Spell Damage while your Off Hand is empty\n{variant:3}(30-40)% chance to Suppress Spell Damage while your Off Hand is empty\n{variant:1}100% increased Cold Damage while your Off Hand is empty\n{variant:2,3}(100-200)% increased Cold Damage while your Off Hand is empty\n",
+    "requirements":{
+      "level":66
+    },
+    "stats":["White Wind","Imperial Skean","Variant: Pre 3.11.0","Variant: Pre 3.16.0","Variant: Current","Requires Level 66, 95 Dex, 131 Int","Implicits: 1","30% increased Global Critical Strike Chance","Adds (160-190) to (280-320) Cold Damage","(10-15)% increased Attack Speed","{variant:1}+(300-400) to Evasion Rating","{variant:2,3}+(1000-1500) to Evasion Rating","{variant:1,2}(15-25)% chance to Suppress Spell Damage while your Off Hand is empty","{variant:3}(30-40)% chance to Suppress Spell Damage while your Off Hand is empty","{variant:1}100% increased Cold Damage while your Off Hand is empty","{variant:2,3}(100-200)% increased Cold Damage while your Off Hand is empty"],
+    "variants":["Pre 3.11.0","Pre 3.16.0","Current"]
+  },
+  "Widowmaker":{
+    "baseType":"Boot Blade",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"dagger",
+    "modifiers":["30% increased Global Critical Strike Chance","{variant:1}Adds (15-25) to (35-45) Physical Damage","{variant:2}Adds (35-40) to (55-60) Physical Damage","(22-30)% increased Critical Strike Chance","+(30-40)% to Global Critical Strike Multiplier","100% increased Critical Strike Chance against Enemies on Full Life","1% of Attack Damage Leeched as Life on Critical Strike"],
+    "name":"Widowmaker",
+    "originalString":"Widowmaker\nBoot Blade\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 44, 63 Dex, 90 Int\nImplicits: 1\n30% increased Global Critical Strike Chance\n{variant:1}Adds (15-25) to (35-45) Physical Damage\n{variant:2}Adds (35-40) to (55-60) Physical Damage\n(22-30)% increased Critical Strike Chance\n+(30-40)% to Global Critical Strike Multiplier\n100% increased Critical Strike Chance against Enemies on Full Life\n1% of Attack Damage Leeched as Life on Critical Strike\n",
+    "requirements":{
+      "level":44
+    },
+    "stats":["Widowmaker","Boot Blade","Variant: Pre 3.0.0","Variant: Current","Requires Level 44, 63 Dex, 90 Int","Implicits: 1","30% increased Global Critical Strike Chance","{variant:1}Adds (15-25) to (35-45) Physical Damage","{variant:2}Adds (35-40) to (55-60) Physical Damage","(22-30)% increased Critical Strike Chance","+(30-40)% to Global Critical Strike Multiplier","100% increased Critical Strike Chance against Enemies on Full Life","1% of Attack Damage Leeched as Life on Critical Strike"],
+    "variants":["Pre 3.0.0","Current"]
+  }
+}

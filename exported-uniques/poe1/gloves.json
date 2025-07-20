@@ -1,0 +1,1309 @@
+{
+  "Abhorrent Interrogation":{
+    "baseType":"Ambush Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Harvest",
+    "modifiers":["(100-150)% increased Evasion and Energy Shield","(5-7)% increased Attack and Cast Speed","(20-25)% chance to inflict Withered for 2 seconds on Hit","Enemies take 4% increased Elemental Damage from your Hits for"],
+    "name":"Abhorrent Interrogation",
+    "originalString":"Abhorrent Interrogation\nAmbush Mitts\nLeague: Harvest\nSource: Drops from unique{Oshabi, Avatar of the Grove}\nRequires Level 45, 35 Dex, 35 Int\n(100-150)% increased Evasion and Energy Shield\n(5-7)% increased Attack and Cast Speed\n(20-25)% chance to inflict Withered for 2 seconds on Hit\nEnemies take 4% increased Elemental Damage from your Hits for\neach Withered you have inflicted on them\nYour Hits cannot Penetrate or ignore Elemental Resistances\n",
+    "requirements":{
+      "level":45
+    },
+    "source":"Drops from unique{Oshabi, Avatar of the Grove}",
+    "stats":["Abhorrent Interrogation","Ambush Mitts","League: Harvest","Source: Drops from unique{Oshabi, Avatar of the Grove}","Requires Level 45, 35 Dex, 35 Int","(100-150)% increased Evasion and Energy Shield","(5-7)% increased Attack and Cast Speed","(20-25)% chance to inflict Withered for 2 seconds on Hit","Enemies take 4% increased Elemental Damage from your Hits for","each Withered you have inflicted on them","Your Hits cannot Penetrate or ignore Elemental Resistances"],
+    "variants":[]
+  },
+  "Admiral's Arrogance":{
+    "baseType":"Antique Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Settlers of Kalguur",
+    "modifiers":["(6-12)% increased Attack Speed","(100-140)% increased Armour","(10-20)% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage","+(1-3) to Level of all Melee Skill Gems"],
+    "name":"Admiral's Arrogance",
+    "originalString":"Admiral's Arrogance\nAntique Gauntlets\nLeague: Settlers of Kalguur\nRequires Level 39, 58 Str\n(6-12)% increased Attack Speed\n(100-140)% increased Armour\n(10-20)% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage\n+(1-3) to Level of all Melee Skill Gems\n",
+    "requirements":{
+      "level":39
+    },
+    "stats":["Admiral's Arrogance","Antique Gauntlets","League: Settlers of Kalguur","Requires Level 39, 58 Str","(6-12)% increased Attack Speed","(100-140)% increased Armour","(10-20)% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage","+(1-3) to Level of all Melee Skill Gems"],
+    "variants":[]
+  },
+  "Algor Mortis":{
+    "baseType":"Carnal Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Delirium",
+    "modifiers":["+(50-70) to maximum Energy Shield","+(15-20)% to Cold and Lightning Resistances","(20-30)% chance to Sap Enemies in Chilling Areas","Enemies in your Chilling Areas take (25-35)% increased Lightning Damage","(15-20)% increased Effect of Non-Damaging Ailments"],
+    "name":"Algor Mortis",
+    "originalString":"Algor Mortis\nCarnal Mitts\nLeague: Delirium\nSource: Drops from the Simulacrum Encounter\nRequires Level 50, 39 Dex, 39 Int\n+(50-70) to maximum Energy Shield\n+(15-20)% to Cold and Lightning Resistances\n(20-30)% chance to Sap Enemies in Chilling Areas\nEnemies in your Chilling Areas take (25-35)% increased Lightning Damage\n(15-20)% increased Effect of Non-Damaging Ailments\n",
+    "requirements":{
+      "level":50
+    },
+    "source":"Drops from the Simulacrum Encounter",
+    "stats":["Algor Mortis","Carnal Mitts","League: Delirium","Source: Drops from the Simulacrum Encounter","Requires Level 50, 39 Dex, 39 Int","+(50-70) to maximum Energy Shield","+(15-20)% to Cold and Lightning Resistances","(20-30)% chance to Sap Enemies in Chilling Areas","Enemies in your Chilling Areas take (25-35)% increased Lightning Damage","(15-20)% increased Effect of Non-Damaging Ailments"],
+    "variants":[]
+  },
+  "Allelopathy":{
+    "baseType":"{variant:1}Sorcerer Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:2}Satin Gloves","{variant:3}Grants Level 25 Blight Skill","{variant:1}(20-30)% increased Damage over Time","(100-120)% increased Energy Shield","10% increased Area of Effect of Area Skills","Blight has (20-30)% increased Hinder Duration"],
+    "name":"Allelopathy",
+    "originalString":"Allelopathy\n{variant:1}Sorcerer Gloves\n{variant:2}Satin Gloves\nVariant: Pre 3.19.0\nVariant: Pre 3.26.0\nVariant: Current\n{variant:1,2}Grants Level 22 Blight Skill\n{variant:3}Grants Level 25 Blight Skill\n{variant:1}(20-30)% increased Damage over Time\n(100-120)% increased Energy Shield\n10% increased Area of Effect of Area Skills\nBlight has (20-30)% increased Hinder Duration\nYou cannot be Hindered\n",
+    "requirements":[],
+    "stats":["Allelopathy","{variant:1}Sorcerer Gloves","{variant:2}Satin Gloves","Variant: Pre 3.19.0","Variant: Pre 3.26.0","Variant: Current","{variant:1,2}Grants Level 22 Blight Skill","{variant:3}Grants Level 25 Blight Skill","{variant:1}(20-30)% increased Damage over Time","(100-120)% increased Energy Shield","10% increased Area of Effect of Area Skills","Blight has (20-30)% increased Hinder Duration","You cannot be Hindered"],
+    "variants":["Pre 3.19.0","Pre 3.26.0","Current"]
+  },
+  "Architect's Hand":{
+    "baseType":"{variant:1}Strapped Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Incursion",
+    "modifiers":["{variant:2}Ambush Mitts","{variant:1}Requires Level 16","{variant:2}Requires Level 45, 35 Dex, 35 Int","+(30-40) to Dexterity","{variant:1}(100-125)% increased Evasion and Energy Shield","{variant:2}(200-250)% increased Evasion and Energy Shield","(20-30)% reduced Trap Throwing Speed","{variant:1}Skills used by Traps have (10-20)% increased Area of Effect","{variant:2}(4-6)% chance to throw up to 4 additional Traps"],
+    "name":"Architect's Hand",
+    "originalString":"Architect's Hand\n{variant:1}Strapped Mitts\n{variant:2}Ambush Mitts\nVariant: Pre 3.14.0\nVariant: Current\nLeague: Incursion\nSource: Opening normal{Fortified Casket} in normal{Defense Research Lab}\nUpgrade: Upgrades to unique{Slavedriver's Hand} via currency{Vial of Dominance}\n{variant:1}Requires Level 16\n{variant:2}Requires Level 45, 35 Dex, 35 Int\n+(30-40) to Dexterity\n{variant:1}(100-125)% increased Evasion and Energy Shield\n{variant:2}(200-250)% increased Evasion and Energy Shield\n(20-30)% reduced Trap Throwing Speed\n{variant:1}Skills used by Traps have (10-20)% increased Area of Effect\n{variant:2}(4-6)% chance to throw up to 4 additional Traps\nIncreases and Reductions to Cast Speed also Apply to Trap Throwing Speed\n",
+    "requirements":[],
+    "source":"Opening normal{Fortified Casket} in normal{Defense Research Lab}",
+    "stats":["Architect's Hand","{variant:1}Strapped Mitts","{variant:2}Ambush Mitts","Variant: Pre 3.14.0","Variant: Current","League: Incursion","Source: Opening normal{Fortified Casket} in normal{Defense Research Lab}","Upgrade: Upgrades to unique{Slavedriver's Hand} via currency{Vial of Dominance}","{variant:1}Requires Level 16","{variant:2}Requires Level 45, 35 Dex, 35 Int","+(30-40) to Dexterity","{variant:1}(100-125)% increased Evasion and Energy Shield","{variant:2}(200-250)% increased Evasion and Energy Shield","(20-30)% reduced Trap Throwing Speed","{variant:1}Skills used by Traps have (10-20)% increased Area of Effect","{variant:2}(4-6)% chance to throw up to 4 additional Traps","Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed"],
+    "upgrade":"Upgrades to unique{Slavedriver's Hand} via currency{Vial of Dominance}",
+    "variants":["Pre 3.14.0","Current"]
+  },
+  "Asenath's Gentle Touch":{
+    "baseType":"Silk Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Legion",
+    "modifiers":["+(20-30) to Intelligence","{variant:3}+(60-80) to maximum Life","{variant:3}+(60-80) to maximum Mana","{variant:3}Non-Aura Curses you inflict are not removed from Dying Enemies","{variant:3}Enemies near Corpses affected by your Curses are Blinded","{variant:3}Enemies killed near Corpses affected by your Curses explode, dealing","{variant:3}3% of their Life as Physical Damage"],
+    "name":"Asenath's Gentle Touch",
+    "originalString":"Asenath's Gentle Touch\nSilk Gloves\nLeague: Legion\nVariant: Pre 2.6.0\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 25, 39 Int\n+(20-30) to Intelligence\n{variant:1,2}+(20-30) to maximum Life\n{variant:3}+(60-80) to maximum Life\n{variant:1,2}+(20-30) to maximum Mana\n{variant:3}+(60-80) to maximum Mana\n{variant:1,2,3}Curse Enemies with Temporal Chains on Hit\n{variant:3}Non-Aura Curses you inflict are not removed from Dying Enemies\n{variant:3}Enemies near Corpses affected by your Curses are Blinded\n{variant:3}Enemies killed near Corpses affected by your Curses explode, dealing\n{variant:3}3% of their Life as Physical Damage\n",
+    "requirements":{
+      "level":25
+    },
+    "stats":["Asenath's Gentle Touch","Silk Gloves","League: Legion","Variant: Pre 2.6.0","Variant: Pre 3.7.0","Variant: Current","Requires Level 25, 39 Int","+(20-30) to Intelligence","{variant:1,2}+(20-30) to maximum Life","{variant:3}+(60-80) to maximum Life","{variant:1,2}+(20-30) to maximum Mana","{variant:3}+(60-80) to maximum Mana","{variant:1,2,3}Curse Enemies with Temporal Chains on Hit","{variant:3}Non-Aura Curses you inflict are not removed from Dying Enemies","{variant:3}Enemies near Corpses affected by your Curses are Blinded","{variant:3}Enemies killed near Corpses affected by your Curses explode, dealing","{variant:3}3% of their Life as Physical Damage"],
+    "variants":["Pre 2.6.0","Pre 3.7.0","Current"]
+  },
+  "Atziri's Acuity":{
+    "baseType":"Vaal Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(60-80) to Intelligence","+(60-75) to maximum Life","(200-220)% increased Armour","{variant:2}(25-35)% increased Global Critical Strike Chance","{variant:3}(40-60)% increased Global Critical Strike Chance","{variant:1}Life and Mana Leech from Critical Strikes are instant"],
+    "name":"Atziri's Acuity",
+    "originalString":"Atziri's Acuity\nVaal Gauntlets\nSource: Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}\nVariant: Pre 3.1.0\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 75, 100 Str\n+(60-80) to Intelligence\n+(60-75) to maximum Life\n(200-220)% increased Armour\n{variant:2}(25-35)% increased Global Critical Strike Chance\n{variant:3}(40-60)% increased Global Critical Strike Chance\n{variant:1}Life and Mana Leech from Critical Strikes are instant\n{variant:2,3}You have Vaal Pact if you've dealt a Critical Strike Recently\n",
+    "requirements":{
+      "level":75
+    },
+    "source":"Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
+    "stats":["Atziri's Acuity","Vaal Gauntlets","Source: Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}","Variant: Pre 3.1.0","Variant: Pre 3.16.0","Variant: Current","Requires Level 75, 100 Str","+(60-80) to Intelligence","+(60-75) to maximum Life","(200-220)% increased Armour","{variant:2}(25-35)% increased Global Critical Strike Chance","{variant:3}(40-60)% increased Global Critical Strike Chance","{variant:1}Life and Mana Leech from Critical Strikes are instant","{variant:2,3}You have Vaal Pact if you've dealt a Critical Strike Recently"],
+    "variants":["Pre 3.1.0","Pre 3.16.0","Current"]
+  },
+  "Aukuna's Will":{
+    "baseType":"Clasped Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Legion",
+    "modifiers":["+(30-40) to Dexterity","(5-7)% increased Cast Speed","(100-150)% increased Evasion and Energy Shield","Raised Zombies have (80-100)% increased maximum Life"],
+    "name":"Aukuna's Will",
+    "originalString":"Aukuna's Will\nClasped Mitts\nLeague: Legion\nRequires Level 31, 25 Dex 25 Int\n+(30-40) to Dexterity\n(5-7)% increased Cast Speed\n(100-150)% increased Evasion and Energy Shield\nRaised Zombies have (80-100)% increased maximum Life\nRaise Zombie does not require a Corpse\nYour Raised Zombies count as Corpses\n",
+    "requirements":{
+      "level":31
+    },
+    "stats":["Aukuna's Will","Clasped Mitts","League: Legion","Requires Level 31, 25 Dex 25 Int","+(30-40) to Dexterity","(5-7)% increased Cast Speed","(100-150)% increased Evasion and Energy Shield","Raised Zombies have (80-100)% increased maximum Life","Raise Zombie does not require a Corpse","Your Raised Zombies count as Corpses"],
+    "variants":[]
+  },
+  "Aurseize":{
+    "baseType":"Steelscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(40-60)% increased Armour and Evasion","+15% to all Elemental Resistances","(40-50)% increased Rarity of Items found","5% reduced Movement Speed"],
+    "name":"Aurseize",
+    "originalString":"Aurseize\nSteelscale Gauntlets\nRequires Level 36, 29 Str, 29 Dex\n(40-60)% increased Armour and Evasion\n+15% to all Elemental Resistances\n(40-50)% increased Rarity of Items found\n5% reduced Movement Speed\n",
+    "requirements":{
+      "level":36
+    },
+    "stats":["Aurseize","Steelscale Gauntlets","Requires Level 36, 29 Str, 29 Dex","(40-60)% increased Armour and Evasion","+15% to all Elemental Resistances","(40-50)% increased Rarity of Items found","5% reduced Movement Speed"],
+    "variants":[]
+  },
+  "Black Zenith":{
+    "baseType":"Fingerless Silk Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"gloves",
+    "modifiers":["(12-16)% increased Spell Damage","Socketed Projectile Spells deal 150% more Damage with Hits","Socketed Projectile Spells have 80% less Skill Effect Duration","(140-180)% increased Energy Shield"],
+    "name":"Black Zenith",
+    "originalString":"Black Zenith\nFingerless Silk Gloves\nSource: Drops from unique{The Infinite Hunger}\nRequires Level 70, 95 Int\nImplicits: 1\n(12-16)% increased Spell Damage\nSocketed Projectile Spells deal 150% more Damage with Hits\nSocketed Projectile Spells have +4 seconds to Cooldown\nSocketed Projectile Spells fire 4 additional Projectiles\nSocketed Projectile Spells fire Projectiles in a circle\nSocketed Projectile Spells have 80% less Skill Effect Duration\n(140-180)% increased Energy Shield\n",
+    "requirements":{
+      "level":70
+    },
+    "source":"Drops from unique{The Infinite Hunger}",
+    "stats":["Black Zenith","Fingerless Silk Gloves","Source: Drops from unique{The Infinite Hunger}","Requires Level 70, 95 Int","Implicits: 1","(12-16)% increased Spell Damage","Socketed Projectile Spells deal 150% more Damage with Hits","Socketed Projectile Spells have +4 seconds to Cooldown","Socketed Projectile Spells fire 4 additional Projectiles","Socketed Projectile Spells fire Projectiles in a circle","Socketed Projectile Spells have 80% less Skill Effect Duration","(140-180)% increased Energy Shield"],
+    "variants":[]
+  },
+  "Blasphemer's Grasp":{
+    "baseType":"Assassin's Mitts",
+    "flags":{
+      "elderItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(40-50) to Dexterity","(150-200)% increased Evasion and Energy Shield","+(50-60) to maximum Life","+6 to Maximum Life per Elder Item Equipped","+4% to Damage over Time Multiplier for Ailments per Elder Item Equipped","8% increased Effect of non-Damaging Ailments per Elder Item Equipped"],
+    "name":"Blasphemer's Grasp",
+    "originalString":"Blasphemer's Grasp\nAssassin's Mitts\nElder Item\nSource: Drops from unique{The Elder}\nRequires Level 58, 45 Dex, 45 Int\n+(40-50) to Dexterity\n(150-200)% increased Evasion and Energy Shield\n+(50-60) to maximum Life\n+6 to Maximum Life per Elder Item Equipped\n+4% to Damage over Time Multiplier for Ailments per Elder Item Equipped\n8% increased Effect of non-Damaging Ailments per Elder Item Equipped\nRemove an Ailment when you use a Flask if all Equipped Items are Elder Items\n",
+    "requirements":{
+      "level":58
+    },
+    "source":"Drops from unique{The Elder}",
+    "stats":["Blasphemer's Grasp","Assassin's Mitts","Elder Item","Source: Drops from unique{The Elder}","Requires Level 58, 45 Dex, 45 Int","+(40-50) to Dexterity","(150-200)% increased Evasion and Energy Shield","+(50-60) to maximum Life","+6 to Maximum Life per Elder Item Equipped","+4% to Damage over Time Multiplier for Ailments per Elder Item Equipped","8% increased Effect of non-Damaging Ailments per Elder Item Equipped","Remove an Ailment when you use a Flask if all Equipped Items are Elder Items"],
+    "variants":[]
+  },
+  "Breathstealer":{
+    "baseType":"Hydrascale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Blight",
+    "modifiers":["(100-150)% increased Armour and Evasion","+(30-50) to maximum Mana","+(10-16)% to all Elemental Resistances","(5-10)% increased Attack and Cast Speed"],
+    "name":"Breathstealer",
+    "originalString":"Breathstealer\nHydrascale Gauntlets\nRequires Level 59, 45 Str, 45 Dex\nLeague: Blight\nSource: Drops in Blighted Maps\n(100-150)% increased Armour and Evasion\n+(30-50) to maximum Mana\n+(10-16)% to all Elemental Resistances\n(5-10)% increased Attack and Cast Speed\nCreate a Blighted Spore when your Skills or Minions Kill a Rare Monster\nThis item can be anointed by Cassia\n",
+    "requirements":{
+      "level":59
+    },
+    "source":"Drops in Blighted Maps",
+    "stats":["Breathstealer","Hydrascale Gauntlets","Requires Level 59, 45 Str, 45 Dex","League: Blight","Source: Drops in Blighted Maps","(100-150)% increased Armour and Evasion","+(30-50) to maximum Mana","+(10-16)% to all Elemental Resistances","(5-10)% increased Attack and Cast Speed","Create a Blighted Spore when your Skills or Minions Kill a Rare Monster","This item can be anointed by Cassia"],
+    "variants":[]
+  },
+  "Ceaseless Feast":{
+    "baseType":"Spiked Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"gloves",
+    "modifiers":["(16-20)% increased Melee Damage","(100-150)% increased Armour","(20-30)% chance to inflict Corrosion on Hit with Attacks","(20-30)% chance to gain an Endurance Charge on Hitting an Enemy with no Armour","(20-30)% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating"],
+    "name":"Ceaseless Feast",
+    "originalString":"Ceaseless Feast\nSpiked Gloves\nSource: Drops from unique{The Infinite Hunger}\nRequires Level 70, 95 Str\nImplicits: 1\n(16-20)% increased Melee Damage\nAdds (2-3) to (22-26) Physical Damage to Attacks\n(100-150)% increased Armour\n(20-30)% chance to inflict Corrosion on Hit with Attacks\n(20-30)% chance to gain an Endurance Charge on Hitting an Enemy with no Armour\n(20-30)% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating\n",
+    "requirements":{
+      "level":70
+    },
+    "source":"Drops from unique{The Infinite Hunger}",
+    "stats":["Ceaseless Feast","Spiked Gloves","Source: Drops from unique{The Infinite Hunger}","Requires Level 70, 95 Str","Implicits: 1","(16-20)% increased Melee Damage","Adds (2-3) to (22-26) Physical Damage to Attacks","(100-150)% increased Armour","(20-30)% chance to inflict Corrosion on Hit with Attacks","(20-30)% chance to gain an Endurance Charge on Hitting an Enemy with no Armour","(20-30)% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating"],
+    "variants":[]
+  },
+  "Command of the Pit":{
+    "baseType":"Riveted Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Delve",
+    "modifiers":["{variant:1}Has 1 Abyssal Socket","{variant:2}Has 2 Abyssal Sockets","(6-10)% increased Cast Speed","(4-6)% increased maximum Life"],
+    "name":"Command of the Pit",
+    "originalString":"Command of the Pit\nRiveted Gloves\nLeague: Delve\nSource: Drops from unique{Kurgal, the Blackblooded}\nVariant: One Abyssal Socket\nVariant: Two Abyssal Sockets\nRequires Level 37, 29 Str, 29 Int\n{variant:1}Has 1 Abyssal Socket\n{variant:2}Has 2 Abyssal Sockets\n(6-10)% increased Cast Speed\n(4-6)% increased maximum Life\nWith a Ghastly Eye Jewel Socketed, Minions have +1000 to Accuracy Rating\nWith a Hypnotic Eye Jewel Socketed, gain Arcane Surge on Hit with Spells\n",
+    "requirements":{
+      "level":37
+    },
+    "source":"Drops from unique{Kurgal, the Blackblooded}",
+    "stats":["Command of the Pit","Riveted Gloves","League: Delve","Source: Drops from unique{Kurgal, the Blackblooded}","Variant: One Abyssal Socket","Variant: Two Abyssal Sockets","Requires Level 37, 29 Str, 29 Int","{variant:1}Has 1 Abyssal Socket","{variant:2}Has 2 Abyssal Sockets","(6-10)% increased Cast Speed","(4-6)% increased maximum Life","With a Ghastly Eye Jewel Socketed, Minions have +1000 to Accuracy Rating","With a Hypnotic Eye Jewel Socketed, gain Arcane Surge on Hit with Spells"],
+    "variants":["One Abyssal Socket","Two Abyssal Sockets"]
+  },
+  "Craiceann's Pincers":{
+    "baseType":"Titan Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Bestiary",
+    "modifiers":["(150-200)% increased Armour","+(30-40)% to Fire Resistance","3% increased Damage per Crab Barrier","10% chance that if you would gain a Crab Barrier, you instead gain up to"],
+    "name":"Craiceann's Pincers",
+    "originalString":"Craiceann's Pincers\nTitan Gauntlets\nLeague: Bestiary\nSource: Drops from unique{Craiceann, First of the Deep}\nRequires Level 69, 98 Str\n(150-200)% increased Armour\nRegenerate (50-70) Life per second\n+(30-40)% to Fire Resistance\n3% increased Damage per Crab Barrier\n10% chance that if you would gain a Crab Barrier, you instead gain up to\nyour maximum number of Crab Barriers\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{Craiceann, First of the Deep}",
+    "stats":["Craiceann's Pincers","Titan Gauntlets","League: Bestiary","Source: Drops from unique{Craiceann, First of the Deep}","Requires Level 69, 98 Str","(150-200)% increased Armour","Regenerate (50-70) Life per second","+(30-40)% to Fire Resistance","3% increased Damage per Crab Barrier","10% chance that if you would gain a Crab Barrier, you instead gain up to","your maximum number of Crab Barriers"],
+    "variants":[]
+  },
+  "Demon Stitcher":{
+    "baseType":"Satin Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Delve",
+    "modifiers":["(15-20)% increased Cast Speed","{variant:1}+(50-70) to maximum Energy Shield","{variant:2}+(100-120) to maximum Energy Shield","{variant:1}+(50-70) to maximum Life","{variant:2}+(100-120) to maximum Life","{variant:1}Sacrifice 5% of Life to gain that much Energy Shield when you Cast a Spell","{variant:2}Sacrifice (5-25)% of Life to gain that much Energy Shield when you Cast a Spell"],
+    "name":"Demon Stitcher",
+    "originalString":"Demon Stitcher\nSatin Gloves\nVariant: Pre 3.19.0\nVariant: Current\nLeague: Delve\nRequires Level 41, 60 Int\n(15-20)% increased Cast Speed\n{variant:1}+(50-70) to maximum Energy Shield\n{variant:2}+(100-120) to maximum Energy Shield\n{variant:1}+(50-70) to maximum Life\n{variant:2}+(100-120) to maximum Life\n{variant:1}Sacrifice 5% of Life to gain that much Energy Shield when you Cast a Spell\n{variant:2}Sacrifice (5-25)% of Life to gain that much Energy Shield when you Cast a Spell\n",
+    "requirements":{
+      "level":41
+    },
+    "stats":["Demon Stitcher","Satin Gloves","Variant: Pre 3.19.0","Variant: Current","League: Delve","Requires Level 41, 60 Int","(15-20)% increased Cast Speed","{variant:1}+(50-70) to maximum Energy Shield","{variant:2}+(100-120) to maximum Energy Shield","{variant:1}+(50-70) to maximum Life","{variant:2}+(100-120) to maximum Life","{variant:1}Sacrifice 5% of Life to gain that much Energy Shield when you Cast a Spell","{variant:2}Sacrifice (5-25)% of Life to gain that much Energy Shield when you Cast a Spell"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Doedre's Malevolence":{
+    "baseType":"Velvet Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(50-60)% increased Spell Damage","+20 to Intelligence","15% reduced Cast Speed","+(64-96) to maximum Energy Shield","{variant:1}+50 to Total Mana Cost of Skills","{variant:2}Skills Supported by Unleash have (30-50)% increased Seal gain frequency"],
+    "name":"Doedre's Malevolence",
+    "originalString":"Doedre's Malevolence\nVelvet Gloves\nSource: No longer obtainable\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 64, 21 Int\n(50-60)% increased Spell Damage\n+20 to Intelligence\nAdds (48-56) to (73-84) Chaos Damage to Spells\n15% reduced Cast Speed\n+(64-96) to maximum Energy Shield\n{variant:1}+50 to Total Mana Cost of Skills\n{variant:2}Skills Supported by Unleash have (30-50)% increased Seal gain frequency\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"No longer obtainable",
+    "stats":["Doedre's Malevolence","Velvet Gloves","Source: No longer obtainable","Variant: Pre 3.11.0","Variant: Current","Requires Level 64, 21 Int","(50-60)% increased Spell Damage","+20 to Intelligence","Adds (48-56) to (73-84) Chaos Damage to Spells","15% reduced Cast Speed","+(64-96) to maximum Energy Shield","{variant:1}+50 to Total Mana Cost of Skills","{variant:2}Skills Supported by Unleash have (30-50)% increased Seal gain frequency"],
+    "variants":["Pre 3.11.0","Current"]
+  },
+  "Doedre's Tenure":{
+    "baseType":"Velvet Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:1}+10 to Intelligence","{variant:2}+20 to Intelligence","{variant:3}+(20-50) to Intelligence","{variant:1}(40-50)% increased Spell Damage","{variant:2}(50-60)% increased Spell Damage","{variant:3}100% increased Spell Damage","{variant:1}20% reduced Cast Speed","{variant:2}15% reduced Cast Speed","{variant:3}(15-25)% reduced Cast Speed","{variant:1}+16 to maximum Energy Shield","{variant:2}+32 to maximum Energy Shield"],
+    "name":"Doedre's Tenure",
+    "originalString":"Doedre's Tenure\nVelvet Gloves\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 12, 21 Int\n{variant:1}+10 to Intelligence\n{variant:2}+20 to Intelligence\n{variant:3}+(20-50) to Intelligence\n{variant:1}(40-50)% increased Spell Damage\n{variant:2}(50-60)% increased Spell Damage\n{variant:3}100% increased Spell Damage\n{variant:1}20% reduced Cast Speed\n{variant:2}15% reduced Cast Speed\n{variant:3}(15-25)% reduced Cast Speed\n{variant:1}+16 to maximum Energy Shield\n{variant:2}+32 to maximum Energy Shield\n",
+    "requirements":{
+      "level":12
+    },
+    "stats":["Doedre's Tenure","Velvet Gloves","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 12, 21 Int","{variant:1}+10 to Intelligence","{variant:2}+20 to Intelligence","{variant:3}+(20-50) to Intelligence","{variant:1}(40-50)% increased Spell Damage","{variant:2}(50-60)% increased Spell Damage","{variant:3}100% increased Spell Damage","{variant:1}20% reduced Cast Speed","{variant:2}15% reduced Cast Speed","{variant:3}(15-25)% reduced Cast Speed","{variant:1}+16 to maximum Energy Shield","{variant:2}+32 to maximum Energy Shield"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Doryani's Fist":{
+    "baseType":"Vaal Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:4}+(80-100) to maximum Energy Shield","{variant:1,2,3}10% chance to Shock","{variant:4}30% chance to Shock","{variant:4}+(200-250) Energy Shield gained on Killing a Shocked Enemy","{variant:4}30% increased Effect of Lightning Ailments"],
+    "name":"Doryani's Fist",
+    "originalString":"Doryani's Fist\nVaal Gauntlets\nVariant: Pre 3.0.0\nVariant: Pre 3.5.0\nVariant: Pre 3.10.0\nVariant: Current\nRequires Level 63, 100 Str\n{variant:2,3,4}Grants Level 20 Doryani's Touch Skill\n{variant:1,2,3}+30 to maximum Energy Shield\n{variant:4}+(80-100) to maximum Energy Shield\n{variant:1,2,3}10% chance to Shock\n{variant:4}30% chance to Shock\n{variant:1,2}Adds (225-335) to (785-900) Lightning Damage to Unarmed Attacks\n{variant:3,4}Adds (150-225) to (525-600) Lightning Damage to Unarmed Melee Hits\n{variant:1,2}Adds (60-90) to (210-240) Lightning Damage to Spells while Unarmed\n{variant:3,4}Adds (90-135) to (315-360) Lightning Damage to Spells while Unarmed\n{variant:1,2,3}+30 Energy Shield gained on Killing a Shocked Enemy\n{variant:4}+(200-250) Energy Shield gained on Killing a Shocked Enemy\n{variant:4}30% increased Effect of Lightning Ailments\n",
+    "requirements":{
+      "level":63
+    },
+    "stats":["Doryani's Fist","Vaal Gauntlets","Variant: Pre 3.0.0","Variant: Pre 3.5.0","Variant: Pre 3.10.0","Variant: Current","Requires Level 63, 100 Str","{variant:2,3,4}Grants Level 20 Doryani's Touch Skill","{variant:1,2,3}+30 to maximum Energy Shield","{variant:4}+(80-100) to maximum Energy Shield","{variant:1,2,3}10% chance to Shock","{variant:4}30% chance to Shock","{variant:1,2}Adds (225-335) to (785-900) Lightning Damage to Unarmed Attacks","{variant:3,4}Adds (150-225) to (525-600) Lightning Damage to Unarmed Melee Hits","{variant:1,2}Adds (60-90) to (210-240) Lightning Damage to Spells while Unarmed","{variant:3,4}Adds (90-135) to (315-360) Lightning Damage to Spells while Unarmed","{variant:1,2,3}+30 Energy Shield gained on Killing a Shocked Enemy","{variant:4}+(200-250) Energy Shield gained on Killing a Shocked Enemy","{variant:4}30% increased Effect of Lightning Ailments"],
+    "variants":["Pre 3.0.0","Pre 3.5.0","Pre 3.10.0","Current"]
+  },
+  "Empire's Grasp":{
+    "baseType":"Goliath Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(400-600) to Armour"],
+    "name":"Empire's Grasp",
+    "originalString":"Empire's Grasp\nGoliath Gauntlets\nRequires Level 53, 76 Str\n+(400-600) to Armour\nKnockback direction is reversed\nSocketed Gems are Supported by Level 10 Knockback\n",
+    "requirements":{
+      "level":53
+    },
+    "stats":["Empire's Grasp","Goliath Gauntlets","Requires Level 53, 76 Str","+(400-600) to Armour","Knockback direction is reversed","Socketed Gems are Supported by Level 10 Knockback"],
+    "variants":[]
+  },
+  "Entropic Devastation":{
+    "baseType":"Assassin's Mitts",
+    "flags":{
+      "shaperItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(100-150)% increased Evasion and Energy Shield","(30-50)% increased Effect of Impales inflicted with Spells"],
+    "name":"Entropic Devastation",
+    "originalString":"Entropic Devastation\nAssassin's Mitts\nSource: Drops from unique{The Shaper} (Uber)\nShaper Item\nGrants Call of Steel\n(100-150)% increased Evasion and Energy Shield\n(30-50)% increased Effect of Impales inflicted with Spells\nCritical Strikes with Spells inflict Impale\n",
+    "requirements":[],
+    "source":"Drops from unique{The Shaper} (Uber)",
+    "stats":["Entropic Devastation","Assassin's Mitts","Source: Drops from unique{The Shaper} (Uber)","Shaper Item","Grants Call of Steel","(100-150)% increased Evasion and Energy Shield","(30-50)% increased Effect of Impales inflicted with Spells","Critical Strikes with Spells inflict Impale"],
+    "variants":[]
+  },
+  "Facebreaker":{
+    "baseType":"Strapped Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:1,2}+60% to Global Critical Strike Multiplier","{variant:3}+90% to Global Critical Strike Multiplier","{variant:4}+45% to Global Critical Strike Multiplier","{variant:5,6}+30% to Global Critical Strike Multiplier","10% reduced Enemy Stun Threshold","{variant:1}(800-1000)% more Unarmed Physical Damage","{variant:2,3,4,5}(600-800)% more Physical Damage with Unarmed Melee Attacks","{variant:6}(600-1000)% more Physical Damage with Unarmed Melee Attacks"],
+    "name":"Facebreaker",
+    "originalString":"Facebreaker\nStrapped Mitts\nVariant: Pre 1.0.0\nVariant: Pre 2.2.0\nVariant: Pre 2.5.0\nVariant: Pre 3.0.0\nVariant: Pre 3.26.0\nVariant: Current\nRequires Level 16, 14 Dex, 14 Int\n{variant:1,2}+60% to Global Critical Strike Multiplier\n{variant:3}+90% to Global Critical Strike Multiplier\n{variant:4}+45% to Global Critical Strike Multiplier\n{variant:5,6}+30% to Global Critical Strike Multiplier\n10% reduced Enemy Stun Threshold\n{variant:1}(800-1000)% more Unarmed Physical Damage\n{variant:2,3,4,5}(600-800)% more Physical Damage with Unarmed Melee Attacks\n{variant:6}(600-1000)% more Physical Damage with Unarmed Melee Attacks\nExtra gore\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Facebreaker","Strapped Mitts","Variant: Pre 1.0.0","Variant: Pre 2.2.0","Variant: Pre 2.5.0","Variant: Pre 3.0.0","Variant: Pre 3.26.0","Variant: Current","Requires Level 16, 14 Dex, 14 Int","{variant:1,2}+60% to Global Critical Strike Multiplier","{variant:3}+90% to Global Critical Strike Multiplier","{variant:4}+45% to Global Critical Strike Multiplier","{variant:5,6}+30% to Global Critical Strike Multiplier","10% reduced Enemy Stun Threshold","{variant:1}(800-1000)% more Unarmed Physical Damage","{variant:2,3,4,5}(600-800)% more Physical Damage with Unarmed Melee Attacks","{variant:6}(600-1000)% more Physical Damage with Unarmed Melee Attacks","Extra gore"],
+    "variants":["Pre 1.0.0","Pre 2.2.0","Pre 2.5.0","Pre 3.0.0","Pre 3.26.0","Current"]
+  },
+  "Farrul's Pounce":{
+    "baseType":"Hydrascale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Bestiary",
+    "modifiers":["(100-140)% increased Armour and Evasion","+(50-70) to maximum Life","+(400-500) to Accuracy against Bleeding Enemies","(40-50)% increased Damage with Hits and Ailments against Bleeding Enemies"],
+    "name":"Farrul's Pounce",
+    "originalString":"Farrul's Pounce\nHydrascale Gauntlets\nLeague: Bestiary\nSource: Drops from unique{Farrul, First of the Plains}\nRequires Level 59, 45 Str, 45 Dex\n(100-140)% increased Armour and Evasion\n+(50-70) to maximum Life\n+(400-500) to Accuracy against Bleeding Enemies\nAttacks always inflict Bleeding while you have Cat's Stealth\n(40-50)% increased Damage with Hits and Ailments against Bleeding Enemies\nYou have Crimson Dance while you have Cat's Stealth\n",
+    "requirements":{
+      "level":59
+    },
+    "source":"Drops from unique{Farrul, First of the Plains}",
+    "stats":["Farrul's Pounce","Hydrascale Gauntlets","League: Bestiary","Source: Drops from unique{Farrul, First of the Plains}","Requires Level 59, 45 Str, 45 Dex","(100-140)% increased Armour and Evasion","+(50-70) to maximum Life","+(400-500) to Accuracy against Bleeding Enemies","Attacks always inflict Bleeding while you have Cat's Stealth","(40-50)% increased Damage with Hits and Ailments against Bleeding Enemies","You have Crimson Dance while you have Cat's Stealth"],
+    "variants":[]
+  },
+  "Fenumus' Weave":{
+    "baseType":"Carnal Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Bestiary",
+    "modifiers":["(120-170)% increased Evasion and Energy Shield","+(40-50) to maximum Life","(6-9)% increased Attack and Cast Speed","(40-60)% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs"],
+    "name":"Fenumus' Weave",
+    "originalString":"Fenumus' Weave\nCarnal Mitts\nLeague: Bestiary\nSource: Drops from unique{Fenumus, First of the Night}\nRequires Level 50, 39 Dex, 39 Int\nGrants Level 20 Aspect of the Spider Skill\n(120-170)% increased Evasion and Energy Shield\n+(40-50) to maximum Life\n(6-9)% increased Attack and Cast Speed\n(40-60)% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs\nAdds (8-10) to (13-15) Chaos Damage for each Spider's Web on the Enemy\n",
+    "requirements":{
+      "level":50
+    },
+    "source":"Drops from unique{Fenumus, First of the Night}",
+    "stats":["Fenumus' Weave","Carnal Mitts","League: Bestiary","Source: Drops from unique{Fenumus, First of the Night}","Requires Level 50, 39 Dex, 39 Int","Grants Level 20 Aspect of the Spider Skill","(120-170)% increased Evasion and Energy Shield","+(40-50) to maximum Life","(6-9)% increased Attack and Cast Speed","(40-60)% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs","Adds (8-10) to (13-15) Chaos Damage for each Spider's Web on the Enemy"],
+    "variants":[]
+  },
+  "Flesh and Spirit":{
+    "baseType":"Ironscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Rampage",
+    "modifiers":["(6-9)% increased Attack Speed","(80-120)% increased Armour and Evasion","Recover 20% of Life on Rampage"],
+    "name":"Flesh and Spirit",
+    "originalString":"Flesh and Spirit\nIronscale Gauntlets\nLeague: Rampage\nRequires Level 15\n(6-9)% increased Attack Speed\n(80-120)% increased Armour and Evasion\nRegenerate (3-4) Life per second\nRecover 20% of Life on Rampage\nKills grant an additional Vaal Soul if you have Rampaged Recently\nRampage\n",
+    "requirements":{
+      "level":15
+    },
+    "stats":["Flesh and Spirit","Ironscale Gauntlets","League: Rampage","Requires Level 15","(6-9)% increased Attack Speed","(80-120)% increased Armour and Evasion","Regenerate (3-4) Life per second","Recover 20% of Life on Rampage","Kills grant an additional Vaal Soul if you have Rampaged Recently","Rampage"],
+    "variants":[]
+  },
+  "Giantsbane":{
+    "baseType":"Bronze Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(30-40) to Strength","{variant:1}Adds (3-6) to (10-12) Physical Damage to Attacks","{variant:2}Adds (5-8) to (12-16) Physical Damage to Attacks","{variant:2}10% reduced Attack Speed","(80-100)% increased Armour","{variant:2}Arrows Pierce 2 additional Targets"],
+    "name":"Giantsbane",
+    "originalString":"Giantsbane\nBronze Gauntlets\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level: 23, 36 Str\n+(30-40) to Strength\n{variant:1}Adds (3-6) to (10-12) Physical Damage to Attacks\n{variant:2}Adds (5-8) to (12-16) Physical Damage to Attacks\n{variant:2}10% reduced Attack Speed\n(80-100)% increased Armour\n{variant:2}Arrows Pierce 2 additional Targets\nIron Grip\n",
+    "requirements":[],
+    "stats":["Giantsbane","Bronze Gauntlets","Variant: Pre 3.19.0","Variant: Current","Requires Level: 23, 36 Str","+(30-40) to Strength","{variant:1}Adds (3-6) to (10-12) Physical Damage to Attacks","{variant:2}Adds (5-8) to (12-16) Physical Damage to Attacks","{variant:2}10% reduced Attack Speed","(80-100)% increased Armour","{variant:2}Arrows Pierce 2 additional Targets","Iron Grip"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Gravebind":{
+    "baseType":"Hydrascale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(100-150)% increased Armour and Evasion","+(19-29)% to Chaos Resistance"],
+    "name":"Gravebind",
+    "originalString":"Gravebind\nHydrascale Gauntlets\nRequires Level 59, 45 Str, 45 Dex\nImplicits: 0\n(100-150)% increased Armour and Evasion\n+(19-29)% to Chaos Resistance\nGain (15-25) Life per Enemy Killed\nNearby Enemies Killed by anyone count as being Killed by you instead\n",
+    "requirements":{
+      "level":59
+    },
+    "stats":["Gravebind","Hydrascale Gauntlets","Requires Level 59, 45 Str, 45 Dex","Implicits: 0","(100-150)% increased Armour and Evasion","+(19-29)% to Chaos Resistance","Gain (15-25) Life per Enemy Killed","Nearby Enemies Killed by anyone count as being Killed by you instead"],
+    "variants":[]
+  },
+  "Great Old One's Tentacles":{
+    "baseType":"Eelskin Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(50-70) to maximum Life","(10-20)% chance to Impale Enemies on Hit with Attacks","50% chance for Impales on Enemies you Kill to Reflect Damage to surrounding Enemies"],
+    "name":"Great Old One's Tentacles",
+    "originalString":"Great Old One's Tentacles\nEelskin Gloves\nRequires Level 38, 56 Dex\nAdds (8-12) to (15-20) Physical Damage to Attacks\n+(50-70) to maximum Life\n(10-20)% chance to Impale Enemies on Hit with Attacks\n50% chance for Impales on Enemies you Kill to Reflect Damage to surrounding Enemies\n",
+    "requirements":{
+      "level":38
+    },
+    "stats":["Great Old One's Tentacles","Eelskin Gloves","Requires Level 38, 56 Dex","Adds (8-12) to (15-20) Physical Damage to Attacks","+(50-70) to maximum Life","(10-20)% chance to Impale Enemies on Hit with Attacks","50% chance for Impales on Enemies you Kill to Reflect Damage to surrounding Enemies"],
+    "variants":[]
+  },
+  "Grip of the Council":{
+    "baseType":"Arcanist Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+30 to Strength","+(30-50) to maximum Life","+(20-40)% to Cold Resistance","Minions have 10% reduced Movement Speed","Minions have +40% to Cold Resistance","Minions gain 20% of Physical Damage as Extra Cold Damage"],
+    "name":"Grip of the Council",
+    "originalString":"Grip of the Council\nArcanist Gloves\nRequires Level 60, 95 Int\n+30 to Strength\n+(30-50) to maximum Life\n+(20-40)% to Cold Resistance\nMinions have 10% reduced Movement Speed\nMinions have +40% to Cold Resistance\nMinions gain 20% of Physical Damage as Extra Cold Damage\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Grip of the Council","Arcanist Gloves","Requires Level 60, 95 Int","+30 to Strength","+(30-50) to maximum Life","+(20-40)% to Cold Resistance","Minions have 10% reduced Movement Speed","Minions have +40% to Cold Resistance","Minions gain 20% of Physical Damage as Extra Cold Damage"],
+    "variants":[]
+  },
+  "Haemophilia":{
+    "baseType":"Serpentscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(20-30) to Strength","25% increased Damage over Time","Attacks have 25% chance to cause Bleeding","(25-40)% increased Attack Damage against Bleeding Enemies","Bleeding Enemies you Kill Explode, dealing 5% of","25% reduced Bleed duration"],
+    "name":"Haemophilia",
+    "originalString":"Haemophilia\nSerpentscale Gauntlets\nRequires Level 43, 34 Str, 34 Dex\n+(20-30) to Strength\n25% increased Damage over Time\nAttacks have 25% chance to cause Bleeding\n(25-40)% increased Attack Damage against Bleeding Enemies\nBleeding Enemies you Kill Explode, dealing 5% of\ntheir Maximum Life as Physical Damage\n25% reduced Bleed duration\n",
+    "requirements":{
+      "level":43
+    },
+    "stats":["Haemophilia","Serpentscale Gauntlets","Requires Level 43, 34 Str, 34 Dex","+(20-30) to Strength","25% increased Damage over Time","Attacks have 25% chance to cause Bleeding","(25-40)% increased Attack Damage against Bleeding Enemies","Bleeding Enemies you Kill Explode, dealing 5% of","their Maximum Life as Physical Damage","25% reduced Bleed duration"],
+    "variants":[]
+  },
+  "Hand of the Fervent":{
+    "baseType":"Zealot Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Ritual",
+    "modifiers":["(70-130)% increased Armour and Energy Shield","+(50-70) to maximum Life","Gain Sacrificial Zeal when you use a Skill, dealing you 150% of the Skill's Mana Cost as Physical Damage per Second","{variant:1}Hits Overwhelm (10-15)% of Physical Damage Reduction while you have Sacrificial Zeal","{variant:2}(35-50)% chance for Hits to ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal"],
+    "name":"Hand of the Fervent",
+    "originalString":"Hand of the Fervent\nZealot Gloves\nVariant: Pre 3.25.0\nVariant: Current\nLeague: Ritual\nSource: Purchase from Ritual Reward\nRequires Level 43, 34 Str, 34 Int\n(70-130)% increased Armour and Energy Shield\n+(50-70) to maximum Life\nGain Sacrificial Zeal when you use a Skill, dealing you 150% of the Skill's Mana Cost as Physical Damage per Second\n{variant:1}Hits Overwhelm (10-15)% of Physical Damage Reduction while you have Sacrificial Zeal\n{variant:2}(35-50)% chance for Hits to ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal\n",
+    "requirements":{
+      "level":43
+    },
+    "source":"Purchase from Ritual Reward",
+    "stats":["Hand of the Fervent","Zealot Gloves","Variant: Pre 3.25.0","Variant: Current","League: Ritual","Source: Purchase from Ritual Reward","Requires Level 43, 34 Str, 34 Int","(70-130)% increased Armour and Energy Shield","+(50-70) to maximum Life","Gain Sacrificial Zeal when you use a Skill, dealing you 150% of the Skill's Mana Cost as Physical Damage per Second","{variant:1}Hits Overwhelm (10-15)% of Physical Damage Reduction while you have Sacrificial Zeal","{variant:2}(35-50)% chance for Hits to ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal"],
+    "variants":["Pre 3.25.0","Current"]
+  },
+  "Hands of the High Templar":{
+    "baseType":"Crusader Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(150-200)% increased Armour and Energy Shield","(7-12)% increased maximum Life","+(20-30)% to Fire and Lightning Resistances"],
+    "name":"Hands of the High Templar",
+    "originalString":"Hands of the High Templar\nCrusader Gloves\nSource: Drops from unique{Sirus, Awakener of Worlds}\nCan be modified while Corrupted\nCan have up to 5 Implicit Modifiers while Item has this Modifier\n(150-200)% increased Armour and Energy Shield\n(7-12)% increased maximum Life\n+(20-30)% to Fire and Lightning Resistances\n",
+    "requirements":[],
+    "source":"Drops from unique{Sirus, Awakener of Worlds}",
+    "stats":["Hands of the High Templar","Crusader Gloves","Source: Drops from unique{Sirus, Awakener of Worlds}","Can be modified while Corrupted","Can have up to 5 Implicit Modifiers while Item has this Modifier","(150-200)% increased Armour and Energy Shield","(7-12)% increased maximum Life","+(20-30)% to Fire and Lightning Resistances"],
+    "variants":[]
+  },
+  "Hateforge":{
+    "baseType":"Ancient Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Ultimatum",
+    "modifiers":["(120-150)% increased Armour","(10-25)% reduced Rage Cost of Skills"],
+    "name":"Hateforge",
+    "originalString":"Hateforge\nAncient Gauntlets\nLeague: Ultimatum\nSource: Drops from unique{The Trialmaster}\nRequires Level 47, 68 Str\nSocketed Gems are Supported by Level 30 Rage\n(120-150)% increased Armour\n(10-25)% reduced Rage Cost of Skills\nVaal Attack Skills Cost Rage instead of requiring Souls to Use\nYou cannot gain Rage during Soul Gain Prevention\n",
+    "requirements":{
+      "level":47
+    },
+    "source":"Drops from unique{The Trialmaster}",
+    "stats":["Hateforge","Ancient Gauntlets","League: Ultimatum","Source: Drops from unique{The Trialmaster}","Requires Level 47, 68 Str","Socketed Gems are Supported by Level 30 Rage","(120-150)% increased Armour","(10-25)% reduced Rage Cost of Skills","Vaal Attack Skills Cost Rage instead of requiring Souls to Use","You cannot gain Rage during Soul Gain Prevention"],
+    "variants":[]
+  },
+  "Hrimburn":{
+    "baseType":"Goathide Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(20-30) to Strength","{variant:1}50% increased Evasion Rating","{variant:2}+(40-50) to Evasion Rating","{variant:1}+(10-20)% to Cold Resistance","{variant:2}+(20-30)% to Cold Resistance","{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks","{variant:1}25% of Physical Damage Converted to Cold Damage","{variant:2}50% of Physical Damage Converted to Cold Damage"],
+    "name":"Hrimburn",
+    "originalString":"Hrimburn\nGoathide Gloves\nSource: No longer obtainable\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 24, 17 Dex\n+(20-30) to Strength\n{variant:1}50% increased Evasion Rating\n{variant:2}+(40-50) to Evasion Rating\n{variant:1}+(10-20)% to Cold Resistance\n{variant:2}+(20-30)% to Cold Resistance\n{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks\n{variant:1}25% of Physical Damage Converted to Cold Damage\n{variant:2}50% of Physical Damage Converted to Cold Damage\nReflects 10 Cold Damage to Melee Attackers\nYour Cold Damage can Ignite\n",
+    "requirements":{
+      "level":24
+    },
+    "source":"No longer obtainable",
+    "stats":["Hrimburn","Goathide Gloves","Source: No longer obtainable","Variant: Pre 2.6.0","Variant: Current","Requires Level 24, 17 Dex","+(20-30) to Strength","{variant:1}50% increased Evasion Rating","{variant:2}+(40-50) to Evasion Rating","{variant:1}+(10-20)% to Cold Resistance","{variant:2}+(20-30)% to Cold Resistance","{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks","{variant:1}25% of Physical Damage Converted to Cold Damage","{variant:2}50% of Physical Damage Converted to Cold Damage","Reflects 10 Cold Damage to Melee Attackers","Your Cold Damage can Ignite"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Hrimsorrow":{
+    "baseType":"Goathide Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(20-30) to Strength","{variant:1}50% increased Evasion Rating","{variant:1}+(10-20)% to Cold Resistance","{variant:2,3}+(20-30)% to Cold Resistance","{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks","{variant:1}25% of Physical Damage Converted to Cold Damage","{variant:2}50% of Physical Damage Converted to Cold Damage","{variant:3}100% of Physical Damage Converted to Cold Damage","{variant:3}Reflects 100 Cold Damage to Melee Attackers"],
+    "name":"Hrimsorrow",
+    "originalString":"Hrimsorrow\nGoathide Gloves\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 9, 17 Dex\n+(20-30) to Strength\n{variant:1}50% increased Evasion Rating\n{variant:2,3}+(40-50) to Evasion Rating\n{variant:1}+(10-20)% to Cold Resistance\n{variant:2,3}+(20-30)% to Cold Resistance\n{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks\n{variant:1}25% of Physical Damage Converted to Cold Damage\n{variant:2}50% of Physical Damage Converted to Cold Damage\n{variant:3}100% of Physical Damage Converted to Cold Damage\n{variant:1,2}Reflects 10 Cold Damage to Melee Attackers\n{variant:3}Reflects 100 Cold Damage to Melee Attackers\n",
+    "requirements":{
+      "level":9
+    },
+    "stats":["Hrimsorrow","Goathide Gloves","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 9, 17 Dex","+(20-30) to Strength","{variant:1}50% increased Evasion Rating","{variant:2,3}+(40-50) to Evasion Rating","{variant:1}+(10-20)% to Cold Resistance","{variant:2,3}+(20-30)% to Cold Resistance","{variant:2}Adds (5-7) to (13-15) Cold Damage to Spells and Attacks","{variant:1}25% of Physical Damage Converted to Cold Damage","{variant:2}50% of Physical Damage Converted to Cold Damage","{variant:3}100% of Physical Damage Converted to Cold Damage","{variant:1,2}Reflects 10 Cold Damage to Melee Attackers","{variant:3}Reflects 100 Cold Damage to Melee Attackers"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Kalisa's Grace":{
+    "baseType":"Samite Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(20-30) to Intelligence","+(50-80) to maximum Energy Shield","+(50-70) to maximum Life","Gain +2% to Critical Strike Chance for 2 seconds after Spending a total of 800 Mana"],
+    "name":"Kalisa's Grace",
+    "originalString":"Kalisa's Grace\nSamite Gloves\nRequires Level 55, 68 Int\nSocketed Gems are Supported by Level 18 Faster Casting\n+(20-30) to Intelligence\n+(50-80) to maximum Energy Shield\n+(50-70) to maximum Life\nGain +2% to Critical Strike Chance for 2 seconds after Spending a total of 800 Mana\n",
+    "requirements":{
+      "level":55
+    },
+    "stats":["Kalisa's Grace","Samite Gloves","Requires Level 55, 68 Int","Socketed Gems are Supported by Level 18 Faster Casting","+(20-30) to Intelligence","+(50-80) to maximum Energy Shield","+(50-70) to maximum Life","Gain +2% to Critical Strike Chance for 2 seconds after Spending a total of 800 Mana"],
+    "variants":[]
+  },
+  "Kaom's Spirit":{
+    "baseType":"Titan Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(50-70) to Maximum Life","+(20-30)% to Fire Resistance","(0.3-0.5)% of Physical Attack Damage Leeched as Life","{variant:1}Regenerate 1 Rage per second for every 100 Life Recovery per second from Regeneration","{variant:2}Regenerate 1 Rage per second for every 300 Life Recovery per second from Regeneration","{variant:3}Regenerate 1 Rage per second for every 200 Life Recovery per second from Regeneration"],
+    "name":"Kaom's Spirit",
+    "originalString":"Kaom's Spirit\nTitan Gauntlets\nVariant: Pre 3.23.0\nVariant: Pre 3.26.0\nVariant: Current\n+(50-70) to Maximum Life\n+(20-30)% to Fire Resistance\n(0.3-0.5)% of Physical Attack Damage Leeched as Life\nLife Recovery from Regeneration is not applied\n{variant:1}Regenerate 1 Rage per second for every 100 Life Recovery per second from Regeneration\n{variant:2}Regenerate 1 Rage per second for every 300 Life Recovery per second from Regeneration\n{variant:3}Regenerate 1 Rage per second for every 200 Life Recovery per second from Regeneration\nDoes not delay Inherent Loss of Rage\n",
+    "requirements":[],
+    "stats":["Kaom's Spirit","Titan Gauntlets","Variant: Pre 3.23.0","Variant: Pre 3.26.0","Variant: Current","+(50-70) to Maximum Life","+(20-30)% to Fire Resistance","(0.3-0.5)% of Physical Attack Damage Leeched as Life","Life Recovery from Regeneration is not applied","{variant:1}Regenerate 1 Rage per second for every 100 Life Recovery per second from Regeneration","{variant:2}Regenerate 1 Rage per second for every 300 Life Recovery per second from Regeneration","{variant:3}Regenerate 1 Rage per second for every 200 Life Recovery per second from Regeneration","Does not delay Inherent Loss of Rage"],
+    "variants":["Pre 3.23.0","Pre 3.26.0","Current"]
+  },
+  "Lochtonial Caress":{
+    "baseType":"Iron Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(10-15)% increased Attack Speed","{variant:1}+(10-20) to Armour","{variant:2}+(20-30) to maximum Life","(10-15)% increased Cast Speed","(10-15)% reduced maximum Mana","{variant:2}10% chance to gain a Power, Frenzy or Endurance Charge on Kill","{variant:3}(10-15)% chance to gain a Power, Frenzy or Endurance Charge on Kill"],
+    "name":"Lochtonial Caress",
+    "originalString":"Lochtonial Caress\nIron Gauntlets\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\n(10-15)% increased Attack Speed\n{variant:1}+(10-20) to Armour\n{variant:2}+(20-30) to maximum Life\n(10-15)% increased Cast Speed\n(10-15)% reduced maximum Mana\n{variant:2}10% chance to gain a Power, Frenzy or Endurance Charge on Kill\n{variant:3}(10-15)% chance to gain a Power, Frenzy or Endurance Charge on Kill\nConduit\n",
+    "requirements":[],
+    "stats":["Lochtonial Caress","Iron Gauntlets","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","(10-15)% increased Attack Speed","{variant:1}+(10-20) to Armour","{variant:2}+(20-30) to maximum Life","(10-15)% increased Cast Speed","(10-15)% reduced maximum Mana","{variant:2}10% chance to gain a Power, Frenzy or Endurance Charge on Kill","{variant:3}(10-15)% chance to gain a Power, Frenzy or Endurance Charge on Kill","Conduit"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Machina Mitts":{
+    "baseType":"Murder Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Blight",
+    "modifiers":["(200-250)% increased Evasion and Energy Shield","1% of Damage dealt by your Mines is Leeched to you as Life","(20-30)% reduced Recovery rate of Life and Energy Shield","5% increased Recovery rate of Life and Energy Shield per Power Charge"],
+    "name":"Machina Mitts",
+    "originalString":"Machina Mitts\nMurder Mitts\nRequires Level: 67\nLeague: Blight\n(200-250)% increased Evasion and Energy Shield\n1% of Damage dealt by your Mines is Leeched to you as Life\n(20-30)% reduced Recovery rate of Life and Energy Shield\n5% increased Recovery rate of Life and Energy Shield per Power Charge\nLose a Power Charge each second if you have not Detonated Mines Recently\n",
+    "requirements":[],
+    "stats":["Machina Mitts","Murder Mitts","Requires Level: 67","League: Blight","(200-250)% increased Evasion and Energy Shield","1% of Damage dealt by your Mines is Leeched to you as Life","(20-30)% reduced Recovery rate of Life and Energy Shield","5% increased Recovery rate of Life and Energy Shield per Power Charge","Lose a Power Charge each second if you have not Detonated Mines Recently"],
+    "variants":[]
+  },
+  "Malachai's Mark":{
+    "baseType":"Murder Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(80-100)% increased Evasion and Energy Shield","+(60-80) to maximum Life"],
+    "name":"Malachai's Mark",
+    "originalString":"Malachai's Mark\nMurder Mitts\nRequires Level 67, 51 Dex, 51 Int\n(80-100)% increased Evasion and Energy Shield\n+(60-80) to maximum Life\nGain (15-25) Life per Enemy Hit with Attacks\nGain (15-25) Energy Shield per Enemy Hit with Attacks\nGrants Malachai's Endurance, Frenzy and Power for 6 seconds each, in sequence\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Malachai's Mark","Murder Mitts","Requires Level 67, 51 Dex, 51 Int","(80-100)% increased Evasion and Energy Shield","+(60-80) to maximum Life","Gain (15-25) Life per Enemy Hit with Attacks","Gain (15-25) Energy Shield per Enemy Hit with Attacks","Grants Malachai's Endurance, Frenzy and Power for 6 seconds each, in sequence"],
+    "variants":[]
+  },
+  "Maligaro's Virtuosity":{
+    "baseType":"Deerskin Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Legion",
+    "modifiers":["+(20-30) to Dexterity","5% increased Attack Speed","50% increased Global Critical Strike Chance","{variant:1}+(40-50)% to Global Critical Strike Multiplier","{variant:2}+(28-36)% to Global Critical Strike Multiplier","{variant:3}+(20-30)% to Global Critical Strike Multiplier","{variant:4}Your Critical Strike Multiplier is 300%","(60-80)% increased Evasion Rating"],
+    "name":"Maligaro's Virtuosity",
+    "originalString":"Maligaro's Virtuosity\nDeerskin Gloves\nLeague: Legion\nVariant: Pre 1.1.0\nVariant: Pre 3.0.0\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 21, 33 Dex\n+(20-30) to Dexterity\n5% increased Attack Speed\n50% increased Global Critical Strike Chance\n{variant:1}+(40-50)% to Global Critical Strike Multiplier\n{variant:2}+(28-36)% to Global Critical Strike Multiplier\n{variant:3}+(20-30)% to Global Critical Strike Multiplier\n{variant:4}Your Critical Strike Multiplier is 300%\n(60-80)% increased Evasion Rating\n",
+    "requirements":{
+      "level":21
+    },
+    "stats":["Maligaro's Virtuosity","Deerskin Gloves","League: Legion","Variant: Pre 1.1.0","Variant: Pre 3.0.0","Variant: Pre 3.7.0","Variant: Current","Requires Level 21, 33 Dex","+(20-30) to Dexterity","5% increased Attack Speed","50% increased Global Critical Strike Chance","{variant:1}+(40-50)% to Global Critical Strike Multiplier","{variant:2}+(28-36)% to Global Critical Strike Multiplier","{variant:3}+(20-30)% to Global Critical Strike Multiplier","{variant:4}Your Critical Strike Multiplier is 300%","(60-80)% increased Evasion Rating"],
+    "variants":["Pre 1.1.0","Pre 3.0.0","Pre 3.7.0","Current"]
+  },
+  "Medved's Challenge":{
+    "baseType":"Runic Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Expedition",
+    "modifiers":["800% increased Attribute Requirements","(30-50)% increased Ward","+(15-25)% to all Elemental Resistances","80% less Flask Charges gained from Kills"],
+    "name":"Medved's Challenge",
+    "originalString":"Medved's Challenge\nRunic Gauntlets\nRequires Level 69, 38 Str, 38 Dex, 38 Int\nLeague: Expedition\n800% increased Attribute Requirements\n(30-50)% increased Ward\n+(15-25)% to all Elemental Resistances\n80% less Flask Charges gained from Kills\nFlasks gain 1 Charge per second if you've Hit a Unique Enemy Recently\n",
+    "requirements":{
+      "level":69
+    },
+    "stats":["Medved's Challenge","Runic Gauntlets","Requires Level 69, 38 Str, 38 Dex, 38 Int","League: Expedition","800% increased Attribute Requirements","(30-50)% increased Ward","+(15-25)% to all Elemental Resistances","80% less Flask Charges gained from Kills","Flasks gain 1 Charge per second if you've Hit a Unique Enemy Recently"],
+    "variants":[]
+  },
+  "Meginord's Vise":{
+    "baseType":"Steel Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:4}Melee Strike Skills deal Splash Damage to surrounding targets","{variant:1,2,3}10% increased Global Physical Damage","{variant:4}+50 to Strength","{variant:1}(5-15)% reduced Attack Speed","{variant:1,2,3}(40-60)% increased Armour","{variant:4}(150-200)% increased Armour","{variant:3}Regenerate 2% of Life per second with at least 400 Strength","{variant:4}100% increased Knockback Distance","{variant:4}Melee Hits with Strike Skills always Knockback"],
+    "name":"Meginord's Vise",
+    "originalString":"Meginord's Vise\nSteel Gauntlets\nVariant: Pre 1.1.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 35, 52 Str\n{variant:4}Melee Strike Skills deal Splash Damage to surrounding targets\n{variant:1,2,3}10% increased Global Physical Damage\n{variant:1,2,3}+100 to Strength\n{variant:4}+50 to Strength\n{variant:1}(5-15)% reduced Attack Speed\n{variant:1,2,3}(40-60)% increased Armour\n{variant:4}(150-200)% increased Armour\n{variant:3}Regenerate 2% of Life per second with at least 400 Strength\n{variant:4}100% increased Knockback Distance\n{variant:4}Melee Hits with Strike Skills always Knockback\n",
+    "requirements":{
+      "level":35
+    },
+    "stats":["Meginord's Vise","Steel Gauntlets","Variant: Pre 1.1.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 35, 52 Str","{variant:4}Melee Strike Skills deal Splash Damage to surrounding targets","{variant:1,2,3}10% increased Global Physical Damage","{variant:1,2,3}+100 to Strength","{variant:4}+50 to Strength","{variant:1}(5-15)% reduced Attack Speed","{variant:1,2,3}(40-60)% increased Armour","{variant:4}(150-200)% increased Armour","{variant:3}Regenerate 2% of Life per second with at least 400 Strength","{variant:4}100% increased Knockback Distance","{variant:4}Melee Hits with Strike Skills always Knockback"],
+    "variants":["Pre 1.1.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Mercenary's Lot":{
+    "baseType":"Slink Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["+(80-120) to Evasion Rating","(5-8)% increased Attack and Cast Speed","Mark Skills have (10-15)% increased Cast Speed","(30-50)% increased Damage with Hits and Ailments against Marked Enemy","{variant:2}8% of Damage from Hits is taken from Marked Target's Life before you"],
+    "name":"Mercenary's Lot",
+    "originalString":"Mercenary's Lot\nSlink Gloves\nLeague: Heist\nVariant: Pre 3.26.0\nVariant: Current\nRequires Level 70, 95 Dex\n+(80-120) to Evasion Rating\n(5-8)% increased Attack and Cast Speed\nMark Skills have (10-15)% increased Cast Speed\n(30-50)% increased Damage with Hits and Ailments against Marked Enemy\nYour Mark transfers to another Enemy when Marked Enemy dies\n{variant:2}8% of Damage from Hits is taken from Marked Target's Life before you\n",
+    "requirements":{
+      "level":70
+    },
+    "stats":["Mercenary's Lot","Slink Gloves","League: Heist","Variant: Pre 3.26.0","Variant: Current","Requires Level 70, 95 Dex","+(80-120) to Evasion Rating","(5-8)% increased Attack and Cast Speed","Mark Skills have (10-15)% increased Cast Speed","(30-50)% increased Damage with Hits and Ailments against Marked Enemy","Your Mark transfers to another Enemy when Marked Enemy dies","{variant:2}8% of Damage from Hits is taken from Marked Target's Life before you"],
+    "variants":["Pre 3.26.0","Current"]
+  },
+  "Nightgrip":{
+    "baseType":"Runic Gages",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Expedition",
+    "modifiers":["(33-48)% increased Ward","+(17-23)% to Chaos Resistance","{variant:1}Gain Added Chaos Damage equal to 25% of Ward","{variant:2}Gain Added Chaos Damage equal to 20% of Ward","{variant:3}Gain Added Chaos Damage equal to 10% of Ward","75% of Damage taken bypasses Ward"],
+    "name":"Nightgrip",
+    "originalString":"Nightgrip\nRunic Gages\nVariant: Pre 3.16.0\nVariant: Pre 3.25.0\nVariant: Current\nLeague: Expedition\nRequires Level 48, 31 Str, 31 Dex, 31 Int\n(33-48)% increased Ward\n+(17-23)% to Chaos Resistance\n{variant:1}Gain Added Chaos Damage equal to 25% of Ward\n{variant:2}Gain Added Chaos Damage equal to 20% of Ward\n{variant:3}Gain Added Chaos Damage equal to 10% of Ward\n75% of Damage taken bypasses Ward\n",
+    "requirements":{
+      "level":48
+    },
+    "stats":["Nightgrip","Runic Gages","Variant: Pre 3.16.0","Variant: Pre 3.25.0","Variant: Current","League: Expedition","Requires Level 48, 31 Str, 31 Dex, 31 Int","(33-48)% increased Ward","+(17-23)% to Chaos Resistance","{variant:1}Gain Added Chaos Damage equal to 25% of Ward","{variant:2}Gain Added Chaos Damage equal to 20% of Ward","{variant:3}Gain Added Chaos Damage equal to 10% of Ward","75% of Damage taken bypasses Ward"],
+    "variants":["Pre 3.16.0","Pre 3.25.0","Current"]
+  },
+  "Null and Void":{
+    "baseType":"Legion Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Rampage",
+    "modifiers":["+(20-30) to Strength","(150-180)% increased Armour and Energy Shield","+(50-70) to maximum Life","(20-40)% increased Mana Regeneration Rate"],
+    "name":"Null and Void",
+    "originalString":"Null and Void\nLegion Gloves\nLeague: Rampage\nRequires Level 57, 44 Str, 44 Int\n+(20-30) to Strength\n(150-180)% increased Armour and Energy Shield\n+(50-70) to maximum Life\n(20-40)% increased Mana Regeneration Rate\nDispels Elemental Ailments on Rampage\nGain Immunity to Physical Damage for 1.5 seconds on Rampage\nRampage\n",
+    "requirements":{
+      "level":57
+    },
+    "stats":["Null and Void","Legion Gloves","League: Rampage","Requires Level 57, 44 Str, 44 Int","+(20-30) to Strength","(150-180)% increased Armour and Energy Shield","+(50-70) to maximum Life","(20-40)% increased Mana Regeneration Rate","Dispels Elemental Ailments on Rampage","Gain Immunity to Physical Damage for 1.5 seconds on Rampage","Rampage"],
+    "variants":[]
+  },
+  "Offering to the Serpent":{
+    "baseType":"Legion Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Synthesis",
+    "modifiers":["+(15-25) to all Attributes","(150-200)% increased Armour and Energy Shield","50% reduced Maximum Recovery per Life Leech","(6-10)% increased Attack and Cast Speed","(15-25)% increased Damage while Leeching"],
+    "name":"Offering to the Serpent",
+    "originalString":"Offering to the Serpent\nLegion Gloves\nLeague: Synthesis\nSource: Drops from unique{Synthete Nightmare} in normal{The Cortex}\nRequires Level 57, 44 Str, 44 Int\n+(15-25) to all Attributes\n(150-200)% increased Armour and Energy Shield\n50% reduced Maximum Recovery per Life Leech\n(6-10)% increased Attack and Cast Speed\n(15-25)% increased Damage while Leeching\nLife Leech effects are not removed when Unreserved Life is Filled\n",
+    "requirements":{
+      "level":57
+    },
+    "source":"Drops from unique{Synthete Nightmare} in normal{The Cortex}",
+    "stats":["Offering to the Serpent","Legion Gloves","League: Synthesis","Source: Drops from unique{Synthete Nightmare} in normal{The Cortex}","Requires Level 57, 44 Str, 44 Int","+(15-25) to all Attributes","(150-200)% increased Armour and Energy Shield","50% reduced Maximum Recovery per Life Leech","(6-10)% increased Attack and Cast Speed","(15-25)% increased Damage while Leeching","Life Leech effects are not removed when Unreserved Life is Filled"],
+    "variants":[]
+  },
+  "Ondar's Clasp":{
+    "baseType":"Wrapped Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:1}20% increased Attack Speed when on Full Life","{variant:2,3}30% increased Attack Speed when on Full Life","{variant:3}Adds (1-4) to (30-50) Lightning Damage to Attacks","{variant:3}+(100-200) to Accuracy Rating","{variant:1}(10-15)% increased Movement Speed when on Low Life","{variant:2,3}20% increased Movement Speed when on Low Life"],
+    "name":"Ondar's Clasp",
+    "originalString":"Ondar's Clasp\nWrapped Mitts\nVariant: Pre 1.1.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 5\n{variant:1}20% increased Attack Speed when on Full Life\n{variant:2,3}30% increased Attack Speed when on Full Life\n{variant:1,2}Adds 1 to 13 Lightning Damage to Attacks\n{variant:3}Adds (1-4) to (30-50) Lightning Damage to Attacks\n{variant:1,2}+(50-80) to Accuracy Rating\n{variant:3}+(100-200) to Accuracy Rating\n{variant:1}(10-15)% increased Movement Speed when on Low Life\n{variant:2,3}20% increased Movement Speed when on Low Life\n",
+    "requirements":{
+      "level":5
+    },
+    "stats":["Ondar's Clasp","Wrapped Mitts","Variant: Pre 1.1.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 5","{variant:1}20% increased Attack Speed when on Full Life","{variant:2,3}30% increased Attack Speed when on Full Life","{variant:1,2}Adds 1 to 13 Lightning Damage to Attacks","{variant:3}Adds (1-4) to (30-50) Lightning Damage to Attacks","{variant:1,2}+(50-80) to Accuracy Rating","{variant:3}+(100-200) to Accuracy Rating","{variant:1}(10-15)% increased Movement Speed when on Low Life","{variant:2,3}20% increased Movement Speed when on Low Life"],
+    "variants":["Pre 1.1.0","Pre 3.19.0","Current"]
+  },
+  "Oskarm":{
+    "baseType":"Nubuck Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(30-40)% increased Accuracy Rating","+(40-50) to maximum Life","-(20-10)% to Chaos Resistance","{variant:1}(7-8)% chance to Suppress Spell Damage","{variant:2}(10-12)% chance to Suppress Spell Damage","2% increased Attack Critical Strike Chance per 200 Accuracy Rating"],
+    "name":"Oskarm",
+    "originalString":"Oskarm\nNubuck Gloves\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 52, 50 Dex\nTrigger Level 10 Assassin's Mark when you Hit a Rare or Unique Enemy\n(30-40)% increased Accuracy Rating\n+(40-50) to maximum Life\n-(20-10)% to Chaos Resistance\n{variant:1}(7-8)% chance to Suppress Spell Damage\n{variant:2}(10-12)% chance to Suppress Spell Damage\n2% increased Attack Critical Strike Chance per 200 Accuracy Rating\n",
+    "requirements":{
+      "level":52
+    },
+    "stats":["Oskarm","Nubuck Gloves","Variant: Pre 3.16.0","Variant: Current","Requires Level 52, 50 Dex","Trigger Level 10 Assassin's Mark when you Hit a Rare or Unique Enemy","(30-40)% increased Accuracy Rating","+(40-50) to maximum Life","-(20-10)% to Chaos Resistance","{variant:1}(7-8)% chance to Suppress Spell Damage","{variant:2}(10-12)% chance to Suppress Spell Damage","2% increased Attack Critical Strike Chance per 200 Accuracy Rating"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Painseeker":{
+    "baseType":"Shagreen Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(60-120)% increased Evasion Rating","Inflict non-Damaging Ailments as though dealing (100-200)% more Damage"],
+    "name":"Painseeker",
+    "originalString":"Painseeker\nShagreen Gloves\nRequires Level 54, 78 Dex\nAdds (16-19) to (25-29) Fire Damage\nAdds (16-19) to (25-29) Cold Damage\nAdds (6-10) to (33-38) Lightning Damage\n(60-120)% increased Evasion Rating\nCritical Strikes do not inherently apply non-Damaging Ailments\nInflict non-Damaging Ailments as though dealing (100-200)% more Damage\n",
+    "requirements":{
+      "level":54
+    },
+    "stats":["Painseeker","Shagreen Gloves","Requires Level 54, 78 Dex","Adds (16-19) to (25-29) Fire Damage","Adds (16-19) to (25-29) Cold Damage","Adds (6-10) to (33-38) Lightning Damage","(60-120)% increased Evasion Rating","Critical Strikes do not inherently apply non-Damaging Ailments","Inflict non-Damaging Ailments as though dealing (100-200)% more Damage"],
+    "variants":[]
+  },
+  "Repentance":{
+    "baseType":"Crusader Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["500% increased Attribute Requirements","{variant:2}(6-12)% increased Strength","{variant:1}(0-30)% reduced Spell Damage","{variant:1}(120-180)% increased Armour and Energy Shield","{variant:2}(400-500)% increased Armour and Energy Shield","{variant:1}+(8-16) to maximum Energy Shield"],
+    "name":"Repentance",
+    "originalString":"Repentance\nCrusader Gloves\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 66, 306 Str, 306 Int\n500% increased Attribute Requirements\n{variant:2}(6-12)% increased Strength\n{variant:1}(0-30)% reduced Spell Damage\n{variant:1}(120-180)% increased Armour and Energy Shield\n{variant:2}(400-500)% increased Armour and Energy Shield\n{variant:1}+(8-16) to maximum Energy Shield\nIron Will\n",
+    "requirements":{
+      "level":66
+    },
+    "stats":["Repentance","Crusader Gloves","Variant: Pre 3.19.0","Variant: Current","Requires Level 66, 306 Str, 306 Int","500% increased Attribute Requirements","{variant:2}(6-12)% increased Strength","{variant:1}(0-30)% reduced Spell Damage","{variant:1}(120-180)% increased Armour and Energy Shield","{variant:2}(400-500)% increased Armour and Energy Shield","{variant:1}+(8-16) to maximum Energy Shield","Iron Will"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Replica Allelopathy":{
+    "baseType":"{variant:1}Sorcerer Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["{variant:2}Satin Gloves","{variant:3}Grants Level 25 Wintertide Brand","{variant:1}(20-30)% increased Damage over Time","(100-120)% increased Energy Shield","10% increased Area of Effect","Wintertide Brand has (20-30)% increased Chill Effect"],
+    "name":"Replica Allelopathy",
+    "originalString":"Replica Allelopathy\n{variant:1}Sorcerer Gloves\n{variant:2}Satin Gloves\nVariant: Pre 3.19.0\nVariant: Pre 3.26.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\n{variant:1,2}Grants Level 22 Wintertide Brand\n{variant:3}Grants Level 25 Wintertide Brand\n{variant:1}(20-30)% increased Damage over Time\n(100-120)% increased Energy Shield\n10% increased Area of Effect\nImmune to Chill\nWintertide Brand has (20-30)% increased Chill Effect\n",
+    "requirements":[],
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Allelopathy","{variant:1}Sorcerer Gloves","{variant:2}Satin Gloves","Variant: Pre 3.19.0","Variant: Pre 3.26.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","{variant:1,2}Grants Level 22 Wintertide Brand","{variant:3}Grants Level 25 Wintertide Brand","{variant:1}(20-30)% increased Damage over Time","(100-120)% increased Energy Shield","10% increased Area of Effect","Immune to Chill","Wintertide Brand has (20-30)% increased Chill Effect"],
+    "variants":["Pre 3.19.0","Pre 3.26.0","Current"]
+  },
+  "Replica Atziri's Acuity":{
+    "baseType":"Vaal Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["+(60-80) to Intelligence","(25-35)% increased Global Critical Strike Chance","(200-220)% increased Armour","+(60-75) to maximum Life"],
+    "name":"Replica Atziri's Acuity",
+    "originalString":"Replica Atziri's Acuity\nVaal Gauntlets\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 63, 100 Str\n+(60-80) to Intelligence\n(25-35)% increased Global Critical Strike Chance\n(200-220)% increased Armour\n+(60-75) to maximum Life\nYou have Perfect Agony if you've dealt a Critical Strike recently\n",
+    "requirements":{
+      "level":63
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Atziri's Acuity","Vaal Gauntlets","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 63, 100 Str","+(60-80) to Intelligence","(25-35)% increased Global Critical Strike Chance","(200-220)% increased Armour","+(60-75) to maximum Life","You have Perfect Agony if you've dealt a Critical Strike recently"],
+    "variants":[]
+  },
+  "Replica Grip of the Council":{
+    "baseType":"Arcanist Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["+30 to Strength","+(30-50) to maximum Life","+(20-40)% to Fire Resistance","Minions have 10% reduced maximum Life","Minions have +40% to Fire Resistance","Minions gain 20% of Physical Damage as Extra Fire Damage"],
+    "name":"Replica Grip of the Council",
+    "originalString":"Replica Grip of the Council\nArcanist Gloves\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 60, 95 Int\n+30 to Strength\n+(30-50) to maximum Life\n+(20-40)% to Fire Resistance\nMinions have 10% reduced maximum Life\nMinions have +40% to Fire Resistance\nMinions gain 20% of Physical Damage as Extra Fire Damage\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Grip of the Council","Arcanist Gloves","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 60, 95 Int","+30 to Strength","+(30-50) to maximum Life","+(20-40)% to Fire Resistance","Minions have 10% reduced maximum Life","Minions have +40% to Fire Resistance","Minions gain 20% of Physical Damage as Extra Fire Damage"],
+    "variants":[]
+  },
+  "Replica Kalisa's Grace":{
+    "baseType":"Samite Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["+(20-30) to Intelligence","+(50-80) to maximum Energy Shield","+(50-70) to maximum Life","Gain 40% increased Area of Effect for 2 seconds after Spending a total of 800 Mana"],
+    "name":"Replica Kalisa's Grace",
+    "originalString":"Replica Kalisa's Grace\nSamite Gloves\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 55, 68 Int\nSocketed Gems are Supported by Level 18 Unleash\n+(20-30) to Intelligence\n+(50-80) to maximum Energy Shield\n+(50-70) to maximum Life\nGain 40% increased Area of Effect for 2 seconds after Spending a total of 800 Mana\n",
+    "requirements":{
+      "level":55
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Kalisa's Grace","Samite Gloves","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 55, 68 Int","Socketed Gems are Supported by Level 18 Unleash","+(20-30) to Intelligence","+(50-80) to maximum Energy Shield","+(50-70) to maximum Life","Gain 40% increased Area of Effect for 2 seconds after Spending a total of 800 Mana"],
+    "variants":[]
+  },
+  "Replica Volkuur's Guidance":{
+    "baseType":"Zealot Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Heist",
+    "modifiers":["+(50-70) to maximum Life","+(29-41)% to Chaos Resistance","Chaos Skills have 20% chance to Ignite","50% less Ignite Duration"],
+    "name":"Replica Volkuur's Guidance",
+    "originalString":"Replica Volkuur's Guidance\nZealot Gloves\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 43, 34 Str, 34 Int\nAdds (17-23) to (29-31) Chaos Damage\n+(50-70) to maximum Life\n+(29-41)% to Chaos Resistance\nYour Chaos Damage can Ignite\nChaos Skills have 20% chance to Ignite\n50% less Ignite Duration\n",
+    "requirements":{
+      "level":43
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Volkuur's Guidance","Zealot Gloves","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 43, 34 Str, 34 Int","Adds (17-23) to (29-31) Chaos Damage","+(50-70) to maximum Life","+(29-41)% to Chaos Resistance","Your Chaos Damage can Ignite","Chaos Skills have 20% chance to Ignite","50% less Ignite Duration"],
+    "variants":[]
+  },
+  "Sadima's Touch":{
+    "baseType":"Wool Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+18 to maximum Energy Shield","{variant:1}(18-24)% increased Quantity of Items found","{variant:2}(12-16)% increased Quantity of Items found","{variant:3}(5-10)% increased Quantity of Items found","{variant:4}(10-15)% increased Rarity of Items found"],
+    "name":"Sadima's Touch",
+    "originalString":"Sadima's Touch\nWool Gloves\nVariant: Pre 1.1.0\nVariant: Pre 3.5.0\nVariant: Pre 3.25.0\nVariant: Current\nRequires Level 11\nAdds 4 to 8 Fire Damage to Attacks\nAdds 1 to 13 Lightning Damage to Attacks\n+18 to maximum Energy Shield\n{variant:1}(18-24)% increased Quantity of Items found\n{variant:2}(12-16)% increased Quantity of Items found\n{variant:3}(5-10)% increased Quantity of Items found\n{variant:4}(10-15)% increased Rarity of Items found\n",
+    "requirements":{
+      "level":11
+    },
+    "stats":["Sadima's Touch","Wool Gloves","Variant: Pre 1.1.0","Variant: Pre 3.5.0","Variant: Pre 3.25.0","Variant: Current","Requires Level 11","Adds 4 to 8 Fire Damage to Attacks","Adds 1 to 13 Lightning Damage to Attacks","+18 to maximum Energy Shield","{variant:1}(18-24)% increased Quantity of Items found","{variant:2}(12-16)% increased Quantity of Items found","{variant:3}(5-10)% increased Quantity of Items found","{variant:4}(10-15)% increased Rarity of Items found"],
+    "variants":["Pre 1.1.0","Pre 3.5.0","Pre 3.25.0","Current"]
+  },
+  "Saqawal's Winds":{
+    "baseType":"Soldier Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Bestiary",
+    "modifiers":["(140-180)% increased Armour and Energy Shield","+(30-60) to maximum Life","+(20-25)% to Cold and Lightning Resistances","+(-2-2) seconds to Avian's Might Duration"],
+    "name":"Saqawal's Winds",
+    "originalString":"Saqawal's Winds\nSoldier Gloves\nLeague: Bestiary\nSource: Drops from unique{Saqawal, First of the Sky}\nRequires Level 51, 40 Str, 40 Int\n(140-180)% increased Armour and Energy Shield\n+(30-60) to maximum Life\n+(20-25)% to Cold and Lightning Resistances\n+(-2-2) seconds to Avian's Might Duration\nAdds (20-25) to (37-40) Cold Damage while you have Avian's Might\nAdds (1-3) to (55-62) Lightning Damage while you have Avian's Might\n",
+    "requirements":{
+      "level":51
+    },
+    "source":"Drops from unique{Saqawal, First of the Sky}",
+    "stats":["Saqawal's Winds","Soldier Gloves","League: Bestiary","Source: Drops from unique{Saqawal, First of the Sky}","Requires Level 51, 40 Str, 40 Int","(140-180)% increased Armour and Energy Shield","+(30-60) to maximum Life","+(20-25)% to Cold and Lightning Resistances","+(-2-2) seconds to Avian's Might Duration","Adds (20-25) to (37-40) Cold Damage while you have Avian's Might","Adds (1-3) to (55-62) Lightning Damage while you have Avian's Might"],
+    "variants":[]
+  },
+  "Shackles of the Wretched":{
+    "baseType":"Chain Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(40-60)% increased Stun and Block Recovery","{variant:1}You cannot be Shocked for 1 second after being Shocked","{variant:2}You cannot be Shocked for 3 seconds after being Shocked"],
+    "name":"Shackles of the Wretched",
+    "originalString":"Shackles of the Wretched\nChain Gloves\nVariant: Pre 1.2.0\nVariant: Current\nRequires Level 7, 17 Dex\n(40-60)% increased Stun and Block Recovery\nHexes applied by Socketed Curse Skills are Reflected back to you\nYou cannot be Chilled for 3 seconds after being Chilled\nYou cannot be Frozen for 3 seconds after being Frozen\nYou cannot be Ignited for 3 seconds after being Ignited\n{variant:1}You cannot be Shocked for 1 second after being Shocked\n{variant:2}You cannot be Shocked for 3 seconds after being Shocked\nYou grant (4-6) Frenzy Charges to allies on Death\n",
+    "requirements":{
+      "level":7
+    },
+    "stats":["Shackles of the Wretched","Chain Gloves","Variant: Pre 1.2.0","Variant: Current","Requires Level 7, 17 Dex","(40-60)% increased Stun and Block Recovery","Hexes applied by Socketed Curse Skills are Reflected back to you","You cannot be Chilled for 3 seconds after being Chilled","You cannot be Frozen for 3 seconds after being Frozen","You cannot be Ignited for 3 seconds after being Ignited","{variant:1}You cannot be Shocked for 1 second after being Shocked","{variant:2}You cannot be Shocked for 3 seconds after being Shocked","You grant (4-6) Frenzy Charges to allies on Death"],
+    "variants":["Pre 1.2.0","Current"]
+  },
+  "Shadows and Dust":{
+    "baseType":"Clasped Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Rampage",
+    "modifiers":["(20-30)% increased Global Critical Strike Chance","{variant:1}+(15-30)% to Global Critical Strike Multiplier","{variant:2}+(25-45)% to Global Critical Strike Multiplier","{variant:3}+(20-30)% to Global Critical Strike Multiplier","(100-130)% increased Evasion and Energy Shield","0.2% of Physical Attack Damage Leeched as Mana"],
+    "name":"Shadows and Dust",
+    "originalString":"Shadows and Dust\nClasped Mitts\nLeague: Rampage\nVariant: Pre 2.2.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 31, 25 Dex, 25 Int\n(20-30)% increased Global Critical Strike Chance\n{variant:1}+(15-30)% to Global Critical Strike Multiplier\n{variant:2}+(25-45)% to Global Critical Strike Multiplier\n{variant:3}+(20-30)% to Global Critical Strike Multiplier\n(100-130)% increased Evasion and Energy Shield\n0.2% of Physical Attack Damage Leeched as Mana\nCreates a Smoke Cloud on Rampage\nGain Unholy Might for 3 seconds on Rampage\nRampage\n",
+    "requirements":{
+      "level":31
+    },
+    "stats":["Shadows and Dust","Clasped Mitts","League: Rampage","Variant: Pre 2.2.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 31, 25 Dex, 25 Int","(20-30)% increased Global Critical Strike Chance","{variant:1}+(15-30)% to Global Critical Strike Multiplier","{variant:2}+(25-45)% to Global Critical Strike Multiplier","{variant:3}+(20-30)% to Global Critical Strike Multiplier","(100-130)% increased Evasion and Energy Shield","0.2% of Physical Attack Damage Leeched as Mana","Creates a Smoke Cloud on Rampage","Gain Unholy Might for 3 seconds on Rampage","Rampage"],
+    "variants":["Pre 2.2.0","Pre 3.0.0","Current"]
+  },
+  "Shaper's Touch":{
+    "baseType":"Crusader Gloves",
+    "flags":{
+      "shaperItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(80-120)% increased Armour and Energy Shield","{variant:1}+2 Accuracy Rating per 2 Intelligence","+1 Life per 4 Dexterity","{variant:2}+2 Mana per 4 Strength","{variant:1,3}1% increased Energy Shield per 10 Strength","{variant:2}2% increased Energy Shield per 10 Strength","{variant:1}1% increased Evasion Rating per 10 Intelligence","{variant:2,3}2% increased Evasion Rating per 10 Intelligence","{variant:1}1% increased Melee Physical Damage per 10 Dexterity","{variant:2,3}2% increased Melee Physical Damage per 10 Dexterity"],
+    "name":"Shaper's Touch",
+    "originalString":"Shaper's Touch\nCrusader Gloves\nShaper Item\nSource: Drops from unique{The Shaper}\nVariant: Pre 2.6.0\nVariant: Pre 3.10.0\nVariant: Current\nRequires Level 66, 51 Str, 51 Int\n(80-120)% increased Armour and Energy Shield\n{variant:1}+2 Accuracy Rating per 2 Intelligence\n{variant:2,3}+4 Accuracy Rating per 2 Intelligence\n+1 Life per 4 Dexterity\n{variant:1,3}+1 Mana per 4 Strength\n{variant:2}+2 Mana per 4 Strength\n{variant:1,3}1% increased Energy Shield per 10 Strength\n{variant:2}2% increased Energy Shield per 10 Strength\n{variant:1}1% increased Evasion Rating per 10 Intelligence\n{variant:2,3}2% increased Evasion Rating per 10 Intelligence\n{variant:1}1% increased Melee Physical Damage per 10 Dexterity\n{variant:2,3}2% increased Melee Physical Damage per 10 Dexterity\n",
+    "requirements":{
+      "level":66
+    },
+    "source":"Drops from unique{The Shaper}",
+    "stats":["Shaper's Touch","Crusader Gloves","Shaper Item","Source: Drops from unique{The Shaper}","Variant: Pre 2.6.0","Variant: Pre 3.10.0","Variant: Current","Requires Level 66, 51 Str, 51 Int","(80-120)% increased Armour and Energy Shield","{variant:1}+2 Accuracy Rating per 2 Intelligence","{variant:2,3}+4 Accuracy Rating per 2 Intelligence","+1 Life per 4 Dexterity","{variant:1,3}+1 Mana per 4 Strength","{variant:2}+2 Mana per 4 Strength","{variant:1,3}1% increased Energy Shield per 10 Strength","{variant:2}2% increased Energy Shield per 10 Strength","{variant:1}1% increased Evasion Rating per 10 Intelligence","{variant:2,3}2% increased Evasion Rating per 10 Intelligence","{variant:1}1% increased Melee Physical Damage per 10 Dexterity","{variant:2,3}2% increased Melee Physical Damage per 10 Dexterity"],
+    "variants":["Pre 2.6.0","Pre 3.10.0","Current"]
+  },
+  "Slavedriver's Hand":{
+    "baseType":"Ambush Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Incursion",
+    "modifiers":["+(30-40) to Dexterity","(200-250)% increased Evasion and Energy Shield","(20-30)% reduced Trap Throwing Speed","Skills used by Traps have (10-20)% increased Area of Effect","10% chance to gain an Endurance, Frenzy or Power Charge when any of your Traps is Triggered by an Enemy"],
+    "name":"Slavedriver's Hand",
+    "originalString":"Slavedriver's Hand\nAmbush Mitts\nLeague: Incursion\nSource: Upgraded from unique{Architect's Hand} via currency{Vial of Dominance}\nRequires Level 45, 35 Dex, 35 Int\n+(30-40) to Dexterity\n(200-250)% increased Evasion and Energy Shield\n(20-30)% reduced Trap Throwing Speed\nSkills which throw Traps Cost Life instead of Mana\nSkills used by Traps have (10-20)% increased Area of Effect\nIncreases and Reductions to Cast Speed also Apply to Trap Throwing Speed\n10% chance to gain an Endurance, Frenzy or Power Charge when any of your Traps is Triggered by an Enemy\n",
+    "requirements":{
+      "level":45
+    },
+    "source":"Upgraded from unique{Architect's Hand} via currency{Vial of Dominance}",
+    "stats":["Slavedriver's Hand","Ambush Mitts","League: Incursion","Source: Upgraded from unique{Architect's Hand} via currency{Vial of Dominance}","Requires Level 45, 35 Dex, 35 Int","+(30-40) to Dexterity","(200-250)% increased Evasion and Energy Shield","(20-30)% reduced Trap Throwing Speed","Skills which throw Traps Cost Life instead of Mana","Skills used by Traps have (10-20)% increased Area of Effect","Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed","10% chance to gain an Endurance, Frenzy or Power Charge when any of your Traps is Triggered by an Enemy"],
+    "variants":[]
+  },
+  "Slitherpinch":{
+    "baseType":"Bronzescale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(40-50) to Dexterity","{variant:1}5% increased Attack Speed","{variant:2}(5-10)% increased Attack Speed","(60-100)% increased Evasion Rating","0.6% of Physical Attack Damage Leeched as Life","0.4% of Physical Attack Damage Leeched as Mana"],
+    "name":"Slitherpinch",
+    "originalString":"Slitherpinch\nBronzescale Gauntlets\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 27, 22 Str, 22 Dex\n+(40-50) to Dexterity\n{variant:1}5% increased Attack Speed\n{variant:2}(5-10)% increased Attack Speed\n(60-100)% increased Evasion Rating\n0.6% of Physical Attack Damage Leeched as Life\n0.4% of Physical Attack Damage Leeched as Mana\n",
+    "requirements":{
+      "level":27
+    },
+    "stats":["Slitherpinch","Bronzescale Gauntlets","Variant: Pre 2.6.0","Variant: Current","Requires Level 27, 22 Str, 22 Dex","+(40-50) to Dexterity","{variant:1}5% increased Attack Speed","{variant:2}(5-10)% increased Attack Speed","(60-100)% increased Evasion Rating","0.6% of Physical Attack Damage Leeched as Life","0.4% of Physical Attack Damage Leeched as Mana"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Snakebite":{
+    "baseType":"Assassin's Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(150-180)% increased Evasion Rating","+(60-70) to maximum Life","2% increased Attack Speed per Frenzy Charge","6% increased Accuracy Rating per Frenzy Charge","10% reduced Frenzy Charge Duration per Frenzy Charge","{variant:1}While at Maximum Frenzy Charges, Attacks Poison Enemies","{variant:2,3}Attacks have 60% chance to Poison while at maximum Frenzy Charges","{variant:3}+5% to Damage over Time Multiplier for Poison per Frenzy Charge"],
+    "name":"Snakebite",
+    "originalString":"Snakebite\nAssassin's Mitts\nVariant: Pre 3.0.0\nVariant: Pre 3.9.0\nVariant: Current\nRequires Level 58, 45 Dex, 45 Int\n(150-180)% increased Evasion Rating\n+(60-70) to maximum Life\n2% increased Attack Speed per Frenzy Charge\n6% increased Accuracy Rating per Frenzy Charge\n10% reduced Frenzy Charge Duration per Frenzy Charge\n{variant:1}While at Maximum Frenzy Charges, Attacks Poison Enemies\n{variant:2,3}Attacks have 60% chance to Poison while at maximum Frenzy Charges\n{variant:3}+5% to Damage over Time Multiplier for Poison per Frenzy Charge\n",
+    "requirements":{
+      "level":58
+    },
+    "stats":["Snakebite","Assassin's Mitts","Variant: Pre 3.0.0","Variant: Pre 3.9.0","Variant: Current","Requires Level 58, 45 Dex, 45 Int","(150-180)% increased Evasion Rating","+(60-70) to maximum Life","2% increased Attack Speed per Frenzy Charge","6% increased Accuracy Rating per Frenzy Charge","10% reduced Frenzy Charge Duration per Frenzy Charge","{variant:1}While at Maximum Frenzy Charges, Attacks Poison Enemies","{variant:2,3}Attacks have 60% chance to Poison while at maximum Frenzy Charges","{variant:3}+5% to Damage over Time Multiplier for Poison per Frenzy Charge"],
+    "variants":["Pre 3.0.0","Pre 3.9.0","Current"]
+  },
+  "Soul Ascension":{
+    "baseType":"Carnal Mitts",
+    "flags":{
+      "elderItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(120-150)% increased Evasion and Energy Shield","+(17-29)% to Chaos Resistance","{variant:1}Eat a Soul when you Hit a Unique Enemy, no more than once every second","{variant:2}Eat a Soul when you Hit a Rare or Unique Enemy, no more than once every 0.5 seconds","+(-10-10) to maximum number of Eaten Souls"],
+    "name":"Soul Ascension",
+    "originalString":"Soul Ascension\nCarnal Mitts\nVariant: Pre 3.24.0\nVariant: Current\nElder Item\nSource: Drops from unique{The Elder} (Uber Uber)\n(120-150)% increased Evasion and Energy Shield\n+(17-29)% to Chaos Resistance\n{variant:1}Eat a Soul when you Hit a Unique Enemy, no more than once every second\n{variant:2}Eat a Soul when you Hit a Rare or Unique Enemy, no more than once every 0.5 seconds\n+(-10-10) to maximum number of Eaten Souls\n",
+    "requirements":[],
+    "source":"Drops from unique{The Elder} (Uber Uber)",
+    "stats":["Soul Ascension","Carnal Mitts","Variant: Pre 3.24.0","Variant: Current","Elder Item","Source: Drops from unique{The Elder} (Uber Uber)","(120-150)% increased Evasion and Energy Shield","+(17-29)% to Chaos Resistance","{variant:1}Eat a Soul when you Hit a Unique Enemy, no more than once every second","{variant:2}Eat a Soul when you Hit a Rare or Unique Enemy, no more than once every 0.5 seconds","+(-10-10) to maximum number of Eaten Souls"],
+    "variants":["Pre 3.24.0","Current"]
+  },
+  "Southbound":{
+    "baseType":"Soldier Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:3}Adds (60-72) to (88-100) Cold Damage to Attacks","(12-16)% increased maximum Life","+(40-50)% to Cold Resistance","{variant:2}50% increased Herald of Ice Damage","{variant:1,2}25% increased Freeze Duration on Enemies","{variant:3}100% increased Freeze Duration on Enemies"],
+    "name":"Southbound",
+    "originalString":"Southbound\nSoldier Gloves\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 51, 40 Str, 40 Int\n{variant:1,2}Adds (30-36) to (44-50) Cold Damage to Attacks\n{variant:3}Adds (60-72) to (88-100) Cold Damage to Attacks\n(12-16)% increased maximum Life\n+(40-50)% to Cold Resistance\n{variant:2}50% increased Herald of Ice Damage\n{variant:1,2}25% increased Freeze Duration on Enemies\n{variant:3}100% increased Freeze Duration on Enemies\nYour Hits can only Kill Frozen enemies\n",
+    "requirements":{
+      "level":51
+    },
+    "stats":["Southbound","Soldier Gloves","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 51, 40 Str, 40 Int","{variant:1,2}Adds (30-36) to (44-50) Cold Damage to Attacks","{variant:3}Adds (60-72) to (88-100) Cold Damage to Attacks","(12-16)% increased maximum Life","+(40-50)% to Cold Resistance","{variant:2}50% increased Herald of Ice Damage","{variant:1,2}25% increased Freeze Duration on Enemies","{variant:3}100% increased Freeze Duration on Enemies","Your Hits can only Kill Frozen enemies"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Storm's Gift":{
+    "baseType":"Assassin's Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Synthesis",
+    "modifiers":["(20-30)% increased Damage over Time","(250-300)% increased Evasion and Energy Shield","+(20-30)% to Lightning Resistance"],
+    "name":"Storm's Gift",
+    "originalString":"Storm's Gift\nAssassin's Mitts\nLeague: Synthesis\nRequires Level 58, 45 Dex, 45 Int\n(20-30)% increased Damage over Time\n(250-300)% increased Evasion and Energy Shield\n+(20-30)% to Lightning Resistance\nEnemies you kill are Shocked\nShocks you inflict spread to other Enemies within a Radius of 15\n",
+    "requirements":{
+      "level":58
+    },
+    "stats":["Storm's Gift","Assassin's Mitts","League: Synthesis","Requires Level 58, 45 Dex, 45 Int","(20-30)% increased Damage over Time","(250-300)% increased Evasion and Energy Shield","+(20-30)% to Lightning Resistance","Enemies you kill are Shocked","Shocks you inflict spread to other Enemies within a Radius of 15"],
+    "variants":[]
+  },
+  "Stormseeker":{
+    "baseType":"Ambush Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(40-60) to maximum Energy Shield","+(40-60) to maximum Mana","(60-100)% increased Effect of Chill you inflict while Leeching Mana","(60-100)% increased Effect of Shocks you inflict while Leeching Energy Shield"],
+    "name":"Stormseeker",
+    "originalString":"Stormseeker\nAmbush Mitts\n+(40-60) to maximum Energy Shield\n+(40-60) to maximum Mana\n(60-100)% increased Effect of Chill you inflict while Leeching Mana\n(60-100)% increased Effect of Shocks you inflict while Leeching Energy Shield\nUnaffected by Chill while Leeching Mana\nUnaffected by Shock while Leeching Energy Shield\n",
+    "requirements":[],
+    "stats":["Stormseeker","Ambush Mitts","+(40-60) to maximum Energy Shield","+(40-60) to maximum Mana","(60-100)% increased Effect of Chill you inflict while Leeching Mana","(60-100)% increased Effect of Shocks you inflict while Leeching Energy Shield","Unaffected by Chill while Leeching Mana","Unaffected by Shock while Leeching Energy Shield"],
+    "variants":[]
+  },
+  "Surgebinders":{
+    "baseType":"Dragonscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(90-110)% increased Armour and Evasion","(4-7)% increased Elemental Damage per Frenzy Charge","(4-7)% increased Physical Damage per Endurance Charge","(4-7)% increased Spell Damage per Power Charge","10% chance to Steal Power, Frenzy, and Endurance Charges on Hit","{variant:1}(10-30)% reduced Endurance, Frenzy and Power Charge Duration"],
+    "name":"Surgebinders",
+    "originalString":"Surgebinders\nDragonscale Gauntlets\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 67, 51 Str, 51 Dex\n(90-110)% increased Armour and Evasion\n(4-7)% increased Elemental Damage per Frenzy Charge\n(4-7)% increased Physical Damage per Endurance Charge\n(4-7)% increased Spell Damage per Power Charge\n10% chance to Steal Power, Frenzy, and Endurance Charges on Hit\n{variant:1}(10-30)% reduced Endurance, Frenzy and Power Charge Duration\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Surgebinders","Dragonscale Gauntlets","Variant: Pre 2.6.0","Variant: Current","Requires Level 67, 51 Str, 51 Dex","(90-110)% increased Armour and Evasion","(4-7)% increased Elemental Damage per Frenzy Charge","(4-7)% increased Physical Damage per Endurance Charge","(4-7)% increased Spell Damage per Power Charge","10% chance to Steal Power, Frenzy, and Endurance Charges on Hit","{variant:1}(10-30)% reduced Endurance, Frenzy and Power Charge Duration"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Tanu Ahi":{
+    "baseType":"Wyrmscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(8-12)% increased Attack Speed","(100-150)% increased Armour and Evasion","(2-3)% of Physical Attack Damage Leeched as Life","10% chance to gain Adrenaline for 2 Seconds when Leech is removed by Filling Unreserved Life","10% chance to gain Onslaught for 4 Seconds when Leech is removed by Filling Unreserved Life"],
+    "name":"Tanu Ahi",
+    "originalString":"Tanu Ahi\nWyrmscale Gauntlets\n(8-12)% increased Attack Speed\n(100-150)% increased Armour and Evasion\n(2-3)% of Physical Attack Damage Leeched as Life\n10% chance to gain Adrenaline for 2 Seconds when Leech is removed by Filling Unreserved Life\n10% chance to gain Onslaught for 4 Seconds when Leech is removed by Filling Unreserved Life\n",
+    "requirements":[],
+    "stats":["Tanu Ahi","Wyrmscale Gauntlets","(8-12)% increased Attack Speed","(100-150)% increased Armour and Evasion","(2-3)% of Physical Attack Damage Leeched as Life","10% chance to gain Adrenaline for 2 Seconds when Leech is removed by Filling Unreserved Life","10% chance to gain Onslaught for 4 Seconds when Leech is removed by Filling Unreserved Life"],
+    "variants":[]
+  },
+  "The Celestial Brace":{
+    "baseType":"Goliath Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(80-120)% Increased Armour","1% Increased Attack Speed per Fortification","+(1-10) to Maximum Fortification"],
+    "name":"The Celestial Brace",
+    "originalString":"The Celestial Brace\nGoliath Gauntlets\nSource: Drops from unique{The Searing Exarch} (Uber)\nRequires Level: 53, 77 Str\n(80-120)% Increased Armour\n1% Increased Attack Speed per Fortification\n+(1-10) to Maximum Fortification\nMelee Hits from Strike Skills Fortify\n",
+    "requirements":[],
+    "source":"Drops from unique{The Searing Exarch} (Uber)",
+    "stats":["The Celestial Brace","Goliath Gauntlets","Source: Drops from unique{The Searing Exarch} (Uber)","Requires Level: 53, 77 Str","(80-120)% Increased Armour","1% Increased Attack Speed per Fortification","+(1-10) to Maximum Fortification","Melee Hits from Strike Skills Fortify"],
+    "variants":[]
+  },
+  "The Embalmer":{
+    "baseType":"Carnal Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(50-70) to maximum Life","+(17-29)% to Chaos Resistance","(20-25)% increased Poison Duration"],
+    "name":"The Embalmer",
+    "originalString":"The Embalmer\nCarnal Mitts\nRequires Level 50, 39 Dex, 39 Int\nSocketed Gems are Supported by Level 20 Vile Toxins\nAdds (13-17) to (23-29) Chaos Damage\n+(50-70) to maximum Life\n+(17-29)% to Chaos Resistance\n(20-25)% increased Poison Duration\n",
+    "requirements":{
+      "level":50
+    },
+    "stats":["The Embalmer","Carnal Mitts","Requires Level 50, 39 Dex, 39 Int","Socketed Gems are Supported by Level 20 Vile Toxins","Adds (13-17) to (23-29) Chaos Damage","+(50-70) to maximum Life","+(17-29)% to Chaos Resistance","(20-25)% increased Poison Duration"],
+    "variants":[]
+  },
+  "The Hand of Phrecia":{
+    "baseType":"Mesh Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Necropolis",
+    "modifiers":["(50-70)% increased Armour and Energy Shield","+(10-15)% to all Elemental Resistances","(20-40)% increased Effect of Non-Curse Auras from your Skills while you have a Linked Target"],
+    "name":"The Hand of Phrecia",
+    "originalString":"The Hand of Phrecia\nMesh Gloves\nLeague: Necropolis\nRequires Level 32, 26 Str, 26 Int\n(50–70)% increased Armour and Energy Shield\n+(10–15)% to all Elemental Resistances\n(20–40)% increased Effect of Non-Curse Auras from your Skills while you have a Linked Target\nLinked Targets always count as in range of Non-Curse Auras from your Skills\nNon-Curse Auras from your Skills only apply to you and Linked Targets\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["The Hand of Phrecia","Mesh Gloves","League: Necropolis","Requires Level 32, 26 Str, 26 Int","(50-70)% increased Armour and Energy Shield","+(10-15)% to all Elemental Resistances","(20-40)% increased Effect of Non-Curse Auras from your Skills while you have a Linked Target","Linked Targets always count as in range of Non-Curse Auras from your Skills","Non-Curse Auras from your Skills only apply to you and Linked Targets"],
+    "variants":[]
+  },
+  "Thunderfist":{
+    "baseType":"Murder Mitts",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:4}Socketed Gems are Supported by Level 30 Added Lightning Damage","{variant:2}Adds 1 to 40 Lightning Damage to Attacks","10% increased Attack Speed","{variant:4}(150-200)% increased Evasion and Energy Shield","{variant:1,2,3}10% increased Stun Duration on Enemies","{variant:1,2,3}100% increased Duration of Lightning Ailments","{variant:4}100% increased Effect of Lightning Ailments"],
+    "name":"Thunderfist",
+    "originalString":"Thunderfist\nMurder Mitts\nVariant: Pre 1.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 67, 51 Dex, 51 Int\n{variant:1,2,3}Socketed Gems are Supported by Level 18 Added Lightning Damage\n{variant:4}Socketed Gems are Supported by Level 30 Added Lightning Damage\n{variant:1,3}Adds 1 to 100 Lightning Damage to Attacks\n{variant:2}Adds 1 to 40 Lightning Damage to Attacks\n10% increased Attack Speed\n{variant:1,2,3}+(25-30) to maximum Energy Shield\n{variant:4}(150-200)% increased Evasion and Energy Shield\n{variant:1,2,3}10% increased Stun Duration on Enemies\n{variant:1,2,3}100% increased Duration of Lightning Ailments\n{variant:4}100% increased Effect of Lightning Ailments\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Thunderfist","Murder Mitts","Variant: Pre 1.0.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 67, 51 Dex, 51 Int","{variant:1,2,3}Socketed Gems are Supported by Level 18 Added Lightning Damage","{variant:4}Socketed Gems are Supported by Level 30 Added Lightning Damage","{variant:1,3}Adds 1 to 100 Lightning Damage to Attacks","{variant:2}Adds 1 to 40 Lightning Damage to Attacks","10% increased Attack Speed","{variant:1,2,3}+(25-30) to maximum Energy Shield","{variant:4}(150-200)% increased Evasion and Energy Shield","{variant:1,2,3}10% increased Stun Duration on Enemies","{variant:1,2,3}100% increased Duration of Lightning Ailments","{variant:4}100% increased Effect of Lightning Ailments"],
+    "variants":["Pre 1.0.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Tombfist":{
+    "baseType":"Steelscale Gauntlets",
+    "flags":{
+      "hasAltVariant":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Abyss",
+    "modifiers":["{variant:4}Has 1 Abyssal Socket","{variant:5}Has 2 Abyssal Sockets","{variant:1,2}(6-10)% increased Attack Speed","{variant:3}(5-10)% increased Attack Speed","{variant:1,2}(4-6)% increased maximum Life","{variant:6}With a Murderous Eye Jewel Socketed, Intimidate Enemies for 4 seconds on Hit with Attacks","{variant:7}With a Murderous Eye Jewel Socketed, Melee Hits have 25% chance to Fortify","{variant:8}With a Murderous Eye Jewel Socketed, Melee Attacks grant 1 Rage on Hit, no more than once every second","{variant:9}With a Searching Eye Jewel Socketed, Maim Enemies for 4 seconds on Hit with Attacks","{variant:10}With a Searching Eye Jewel Socketed, Blind Enemies for 4 seconds on Hit with Attacks","{variant:11}With a Searching Eye Jewel Socketed, Attacks have 25% chance to grant Onslaught On Kill"],
+    "name":"Tombfist",
+    "originalString":"Tombfist\nSteelscale Gauntlets\nLeague: Abyss\nSource: Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}\nHas Alt Variant: true\nHas Alt Variant Two: true\nHas Alt Variant Three: true\nSelected Variant: 3\nSelected Alt Variant: 5\nSelected Alt Variant Two: 6\nSelected Alt Variant Three: 9\nVariant: Pre 3.6.0\nVariant: Pre 3.21.0\nVariant: Current\nVariant: One Abyssal Socket\nVariant: Two Abyssal Socket\nVariant: Murderous: Intimidate\nVariant: Murderous: Fortify\nVariant: Murderous: Rage\nVariant: Searching: Maim\nVariant: Searching: Blind\nVariant: Searching: Onslaught\n{variant:4}Has 1 Abyssal Socket\n{variant:5}Has 2 Abyssal Sockets\n{variant:1,2}(6-10)% increased Attack Speed\n{variant:3}(5-10)% increased Attack Speed\n{variant:1,2}(4-6)% increased maximum Life\n{variant:6}With a Murderous Eye Jewel Socketed, Intimidate Enemies for 4 seconds on Hit with Attacks\n{variant:7}With a Murderous Eye Jewel Socketed, Melee Hits have 25% chance to Fortify\n{variant:8}With a Murderous Eye Jewel Socketed, Melee Attacks grant 1 Rage on Hit, no more than once every second\n{variant:9}With a Searching Eye Jewel Socketed, Maim Enemies for 4 seconds on Hit with Attacks\n{variant:10}With a Searching Eye Jewel Socketed, Blind Enemies for 4 seconds on Hit with Attacks\n{variant:11}With a Searching Eye Jewel Socketed, Attacks have 25% chance to grant Onslaught On Kill\n",
+    "requirements":[],
+    "source":"Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
+    "stats":["Tombfist","Steelscale Gauntlets","League: Abyss","Source: Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 3","Selected Alt Variant: 5","Selected Alt Variant Two: 6","Selected Alt Variant Three: 9","Variant: Pre 3.6.0","Variant: Pre 3.21.0","Variant: Current","Variant: One Abyssal Socket","Variant: Two Abyssal Socket","Variant: Murderous: Intimidate","Variant: Murderous: Fortify","Variant: Murderous: Rage","Variant: Searching: Maim","Variant: Searching: Blind","Variant: Searching: Onslaught","{variant:4}Has 1 Abyssal Socket","{variant:5}Has 2 Abyssal Sockets","{variant:1,2}(6-10)% increased Attack Speed","{variant:3}(5-10)% increased Attack Speed","{variant:1,2}(4-6)% increased maximum Life","{variant:6}With a Murderous Eye Jewel Socketed, Intimidate Enemies for 4 seconds on Hit with Attacks","{variant:7}With a Murderous Eye Jewel Socketed, Melee Hits have 25% chance to Fortify","{variant:8}With a Murderous Eye Jewel Socketed, Melee Attacks grant 1 Rage on Hit, no more than once every second","{variant:9}With a Searching Eye Jewel Socketed, Maim Enemies for 4 seconds on Hit with Attacks","{variant:10}With a Searching Eye Jewel Socketed, Blind Enemies for 4 seconds on Hit with Attacks","{variant:11}With a Searching Eye Jewel Socketed, Attacks have 25% chance to grant Onslaught On Kill"],
+    "variants":["Pre 3.6.0","Pre 3.21.0","Current","One Abyssal Socket","Two Abyssal Socket","Murderous: Intimidate","Murderous: Fortify","Murderous: Rage","Searching: Maim","Searching: Blind","Searching: Onslaught"]
+  },
+  "Triad Grip":{
+    "baseType":"Mesh Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(80-120)% increased Armour and Energy Shield","Minions convert 25% of Physical Damage to Fire Damage per Red Socket","Minions convert 25% of Physical Damage to Cold Damage per Green Socket","Minions convert 25% of Physical Damage to Lightning Damage per Blue Socket","Minions convert 25% of Physical Damage to Chaos Damage per White Socket","Minions have (5-10)% chance to Freeze, Shock and Ignite"],
+    "name":"Triad Grip",
+    "originalString":"Triad Grip\nMesh Gloves\nRequires Level 32, 26 Str, 26 Int\n(80-120)% increased Armour and Energy Shield\nMinions convert 25% of Physical Damage to Fire Damage per Red Socket\nMinions convert 25% of Physical Damage to Cold Damage per Green Socket\nMinions convert 25% of Physical Damage to Lightning Damage per Blue Socket\nMinions convert 25% of Physical Damage to Chaos Damage per White Socket\nMinions have (5-10)% chance to Freeze, Shock and Ignite\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["Triad Grip","Mesh Gloves","Requires Level 32, 26 Str, 26 Int","(80-120)% increased Armour and Energy Shield","Minions convert 25% of Physical Damage to Fire Damage per Red Socket","Minions convert 25% of Physical Damage to Cold Damage per Green Socket","Minions convert 25% of Physical Damage to Lightning Damage per Blue Socket","Minions convert 25% of Physical Damage to Chaos Damage per White Socket","Minions have (5-10)% chance to Freeze, Shock and Ignite"],
+    "variants":[]
+  },
+  "Vaal Caress":{
+    "baseType":"Bronzescale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "league":" Ambush, Invasion",
+    "modifiers":["{variant:3}+5 to Level of Socketed Vaal Gems","{variant:3}-5 to Level of Socketed Non-Vaal Gems","(120-140)% increased Armour and Evasion","{variant:1}+(30-40) to maximum Life","{variant:1}+30% to Cold Resistance","{variant:2,3}+40% to Cold Resistance","{variant:3}You gain Onslaught for 20 seconds on using a Vaal Skill"],
+    "name":"Vaal Caress",
+    "originalString":"Vaal Caress\nBronzescale Gauntlets\nLeague: Ambush, Invasion\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\n{variant:1,2}+2 to Level of Socketed Vaal Gems\n{variant:3}+5 to Level of Socketed Vaal Gems\n{variant:3}-5 to Level of Socketed Non-Vaal Gems\n(120-140)% increased Armour and Evasion\n{variant:1}+(30-40) to maximum Life\n{variant:2,3}+(50-70) to maximum Life\n{variant:1}+30% to Cold Resistance\n{variant:2,3}+40% to Cold Resistance\n{variant:1,2}You gain Onslaught for 5 seconds on using a Vaal Skill\n{variant:3}You gain Onslaught for 20 seconds on using a Vaal Skill\n",
+    "requirements":[],
+    "stats":["Vaal Caress","Bronzescale Gauntlets","League: Ambush, Invasion","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","{variant:1,2}+2 to Level of Socketed Vaal Gems","{variant:3}+5 to Level of Socketed Vaal Gems","{variant:3}-5 to Level of Socketed Non-Vaal Gems","(120-140)% increased Armour and Evasion","{variant:1}+(30-40) to maximum Life","{variant:2,3}+(50-70) to maximum Life","{variant:1}+30% to Cold Resistance","{variant:2,3}+40% to Cold Resistance","{variant:1,2}You gain Onslaught for 5 seconds on using a Vaal Skill","{variant:3}You gain Onslaught for 20 seconds on using a Vaal Skill"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Veruso's Battering Rams":{
+    "baseType":"Titan Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(8-13)% increased Attack Speed","(120-180)% increased Armour","(3-5)% increased Movement Speed","50% increased Stun Duration on you","4% increased Melee Damage per Endurance Charge"],
+    "name":"Veruso's Battering Rams",
+    "originalString":"Veruso's Battering Rams\nTitan Gauntlets\nRequires Level 69, 98 Str\n(8-13)% increased Attack Speed\n(120-180)% increased Armour\n(3-5)% increased Movement Speed\n50% increased Stun Duration on you\n4% increased Melee Damage per Endurance Charge\nYou cannot be Shocked while at maximum Endurance Charges\n",
+    "requirements":{
+      "level":69
+    },
+    "stats":["Veruso's Battering Rams","Titan Gauntlets","Requires Level 69, 98 Str","(8-13)% increased Attack Speed","(120-180)% increased Armour","(3-5)% increased Movement Speed","50% increased Stun Duration on you","4% increased Melee Damage per Endurance Charge","You cannot be Shocked while at maximum Endurance Charges"],
+    "variants":[]
+  },
+  "Vixen's Entrapment":{
+    "baseType":"Embroidered Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(50-90) to maximum Energy Shield","0.2% of Spell Damage Leeched as Energy Shield for each Curse on Enemy","(10-20)% increased Cast Speed with Curse Skills"],
+    "name":"Vixen's Entrapment",
+    "originalString":"Vixen's Entrapment\nEmbroidered Gloves\nRequires Level 36, 54 Int\nImplicits: 0\nTrigger Socketed Curse Spell when you Cast a Curse Spell, with a 0.25 second Cooldown\n+(50-90) to maximum Energy Shield\n0.2% of Spell Damage Leeched as Energy Shield for each Curse on Enemy\nYou can apply an additional Curse\n(10-20)% increased Cast Speed with Curse Skills\n",
+    "requirements":{
+      "level":36
+    },
+    "stats":["Vixen's Entrapment","Embroidered Gloves","Requires Level 36, 54 Int","Implicits: 0","Trigger Socketed Curse Spell when you Cast a Curse Spell, with a 0.25 second Cooldown","+(50-90) to maximum Energy Shield","0.2% of Spell Damage Leeched as Energy Shield for each Curse on Enemy","You can apply an additional Curse","(10-20)% increased Cast Speed with Curse Skills"],
+    "variants":[]
+  },
+  "Voidbringer":{
+    "baseType":"Conjurer Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+1 to Level of Socketed Elemental Gems","(125-150)% increased Critical Strike Chance for Spells","{variant:1,2}(280-350)% increased Energy Shield","{variant:3,4}(180-250)% increased Energy Shield","{variant:1}80% increased Mana Cost of Skills","{variant:2,3}(40-80)% increased Mana Cost of Skills","{variant:4}Lose (40-80) Mana when you use a Skill"],
+    "name":"Voidbringer",
+    "originalString":"Voidbringer\nConjurer Gloves\nVariant: Pre 2.6.0\nVariant: Pre 3.0.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 55, 79 Int\n+1 to Level of Socketed Elemental Gems\n(125-150)% increased Critical Strike Chance for Spells\n{variant:1,2}(280-350)% increased Energy Shield\n{variant:3,4}(180-250)% increased Energy Shield\n{variant:1}80% increased Mana Cost of Skills\n{variant:2,3}(40-80)% increased Mana Cost of Skills\n{variant:4}Lose (40-80) Mana when you use a Skill\nGain (15-20) Energy Shield per Enemy Killed\n",
+    "requirements":{
+      "level":55
+    },
+    "stats":["Voidbringer","Conjurer Gloves","Variant: Pre 2.6.0","Variant: Pre 3.0.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 55, 79 Int","+1 to Level of Socketed Elemental Gems","(125-150)% increased Critical Strike Chance for Spells","{variant:1,2}(280-350)% increased Energy Shield","{variant:3,4}(180-250)% increased Energy Shield","{variant:1}80% increased Mana Cost of Skills","{variant:2,3}(40-80)% increased Mana Cost of Skills","{variant:4}Lose (40-80) Mana when you use a Skill","Gain (15-20) Energy Shield per Enemy Killed"],
+    "variants":["Pre 2.6.0","Pre 3.0.0","Pre 3.11.0","Current"]
+  },
+  "Volkuur's Guidance":{
+    "baseType":"Zealot Gloves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["{variant:1}Adds (16-20) to (25-30) Fire Damage to Spells and Attacks","{variant:2}Adds (16-20) to (25-30) Cold Damage to Spells and Attacks","{variant:3}Adds (1-3) to (42-47) Lightning Damage to Spells and Attacks","+(50-70) to maximum Life","{variant:1}+(30-40)% to Fire Resistance","{variant:2}+(30-40)% to Cold Resistance","{variant:3}+(30-40)% to Lightning Resistance","50% less Poison Duration","{variant:1}Your Fire Damage can Poison","{variant:2}Your Cold Damage can Poison","{variant:3}Your Lightning Damage can Poison","{variant:1}Fire Skills have 20% chance to Poison on Hit","{variant:2}Cold Skills have 20% chance to Poison on Hit","{variant:3}Lightning Skills have 20% chance to Poison on Hit"],
+    "name":"Volkuur's Guidance",
+    "originalString":"Volkuur's Guidance\nZealot Gloves\nVariant: Fire\nVariant: Cold\nVariant: Lightning\nRequires Level 43, 34 Str, 34 Int\n{variant:1}Adds (16-20) to (25-30) Fire Damage to Spells and Attacks\n{variant:2}Adds (16-20) to (25-30) Cold Damage to Spells and Attacks\n{variant:3}Adds (1-3) to (42-47) Lightning Damage to Spells and Attacks\n+(50-70) to maximum Life\n{variant:1}+(30-40)% to Fire Resistance\n{variant:2}+(30-40)% to Cold Resistance\n{variant:3}+(30-40)% to Lightning Resistance\n50% less Poison Duration\n{variant:1}Your Fire Damage can Poison\n{variant:2}Your Cold Damage can Poison\n{variant:3}Your Lightning Damage can Poison\n{variant:1}Fire Skills have 20% chance to Poison on Hit\n{variant:2}Cold Skills have 20% chance to Poison on Hit\n{variant:3}Lightning Skills have 20% chance to Poison on Hit\n",
+    "requirements":{
+      "level":43
+    },
+    "stats":["Volkuur's Guidance","Zealot Gloves","Variant: Fire","Variant: Cold","Variant: Lightning","Requires Level 43, 34 Str, 34 Int","{variant:1}Adds (16-20) to (25-30) Fire Damage to Spells and Attacks","{variant:2}Adds (16-20) to (25-30) Cold Damage to Spells and Attacks","{variant:3}Adds (1-3) to (42-47) Lightning Damage to Spells and Attacks","+(50-70) to maximum Life","{variant:1}+(30-40)% to Fire Resistance","{variant:2}+(30-40)% to Cold Resistance","{variant:3}+(30-40)% to Lightning Resistance","50% less Poison Duration","{variant:1}Your Fire Damage can Poison","{variant:2}Your Cold Damage can Poison","{variant:3}Your Lightning Damage can Poison","{variant:1}Fire Skills have 20% chance to Poison on Hit","{variant:2}Cold Skills have 20% chance to Poison on Hit","{variant:3}Lightning Skills have 20% chance to Poison on Hit"],
+    "variants":["Fire","Cold","Lightning"]
+  },
+  "Winds of Change":{
+    "baseType":"Ancient Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(30-60) to maximum Life","30% increased Projectile Speed","{variant:1}10% reduced Movement Speed","{variant:2}(5-10)% reduced Movement Speed","10% chance to Knock Enemies Back on hit","(30-50)% increased Projectile Damage"],
+    "name":"Winds of Change",
+    "originalString":"Winds of Change\nAncient Gauntlets\nSource: Drops in The Lord's Labyrinth\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 47, 68 Str\n+(30-60) to maximum Life\n30% increased Projectile Speed\n{variant:1}10% reduced Movement Speed\n{variant:2}(5-10)% reduced Movement Speed\n10% chance to Knock Enemies Back on hit\n(30-50)% increased Projectile Damage\n",
+    "requirements":{
+      "level":47
+    },
+    "source":"Drops in The Lord's Labyrinth",
+    "stats":["Winds of Change","Ancient Gauntlets","Source: Drops in The Lord's Labyrinth","Variant: Pre 2.6.0","Variant: Current","Requires Level 47, 68 Str","+(30-60) to maximum Life","30% increased Projectile Speed","{variant:1}10% reduced Movement Speed","{variant:2}(5-10)% reduced Movement Speed","10% chance to Knock Enemies Back on hit","(30-50)% increased Projectile Damage"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Worldcarver":{
+    "baseType":"Dragonscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["+(200-300) to Accuracy Rating","(120-150)% increased Armour and Evasion","+(60-80) to maximum Life","6% increased Attack Damage for each Map Item Modifier affecting the Area","3% increased Attack Speed for each Map Item Modifier affecting the Area"],
+    "name":"Worldcarver",
+    "originalString":"Worldcarver\nDragonscale Gauntlets\nSource: No longer obtainable\nRequires Level 67, 51 Str, 51 Dex\nTrigger Level 20 Arcane Wake after Spending a total of 200 Mana\n+(200-300) to Accuracy Rating\n(120-150)% increased Armour and Evasion\n+(60-80) to maximum Life\n6% increased Attack Damage for each Map Item Modifier affecting the Area\n3% increased Attack Speed for each Map Item Modifier affecting the Area\n",
+    "requirements":{
+      "level":67
+    },
+    "source":"No longer obtainable",
+    "stats":["Worldcarver","Dragonscale Gauntlets","Source: No longer obtainable","Requires Level 67, 51 Str, 51 Dex","Trigger Level 20 Arcane Wake after Spending a total of 200 Mana","+(200-300) to Accuracy Rating","(120-150)% increased Armour and Evasion","+(60-80) to maximum Life","6% increased Attack Damage for each Map Item Modifier affecting the Area","3% increased Attack Speed for each Map Item Modifier affecting the Area"],
+    "variants":[]
+  },
+  "Wyrmsign":{
+    "baseType":"Wyrmscale Gauntlets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"gloves",
+    "modifiers":["(120-160)% increased Armour and Evasion","+(50-70) to maximum Life","4% reduced Mana Cost per Endurance Charge"],
+    "name":"Wyrmsign",
+    "originalString":"Wyrmsign\nWyrmscale Gauntlets\nRequires Level 49, 38 Str, 38 Dex\nSocketed Gems are Supported by Level 5 Concentrated Effect\n(120-160)% increased Armour and Evasion\n+(50-70) to maximum Life\n4% reduced Mana Cost per Endurance Charge\nGain Rampage while at Maximum Endurance Charges\nLose all Endurance Charges when Rampage ends\n",
+    "requirements":{
+      "level":49
+    },
+    "stats":["Wyrmsign","Wyrmscale Gauntlets","Requires Level 49, 38 Str, 38 Dex","Socketed Gems are Supported by Level 5 Concentrated Effect","(120-160)% increased Armour and Evasion","+(50-70) to maximum Life","4% reduced Mana Cost per Endurance Charge","Gain Rampage while at Maximum Endurance Charges","Lose all Endurance Charges when Rampage ends"],
+    "variants":[]
+  }
+}

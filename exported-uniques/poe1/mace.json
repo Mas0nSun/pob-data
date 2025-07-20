@@ -1,0 +1,879 @@
+{
+  "Augyre":{
+    "baseType":"Void Sceptre",
+    "flags":{
+      "elderItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["40% increased Elemental Damage","(180-200)% increased Physical Damage","(10-15)% increased Attack Speed","(80-100)% increased Critical Strike Chance","50% of Physical Damage Converted to Lightning Damage","{variant:2}100% increased Physical Damage while you have Resolute Technique"],
+    "name":"Augyre",
+    "originalString":"Augyre\nVoid Sceptre\nElder Item\nVariant: Pre 3.5.0\nVariant: Current\nRequires Level 68, 104 Str, 122 Int\nImplicits: 1\n40% increased Elemental Damage\n(180-200)% increased Physical Damage\n(10-15)% increased Attack Speed\n(80-100)% increased Critical Strike Chance\n50% of Physical Damage Converted to Lightning Damage\nEvery 16 seconds you gain Elemental Overload for 8 seconds\nYou have Resolute Technique while you do not have Elemental Overload\n{variant:2}100% increased Physical Damage while you have Resolute Technique\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["Augyre","Void Sceptre","Elder Item","Variant: Pre 3.5.0","Variant: Current","Requires Level 68, 104 Str, 122 Int","Implicits: 1","40% increased Elemental Damage","(180-200)% increased Physical Damage","(10-15)% increased Attack Speed","(80-100)% increased Critical Strike Chance","50% of Physical Damage Converted to Lightning Damage","Every 16 seconds you gain Elemental Overload for 8 seconds","You have Resolute Technique while you do not have Elemental Overload","{variant:2}100% increased Physical Damage while you have Resolute Technique"],
+    "variants":["Pre 3.5.0","Current"]
+  },
+  "Axiom Perpetuum":{
+    "baseType":"Bronze Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2}12% increased Elemental Damage","(4-6)% increased Cast Speed","(100-140)% increased Critical Strike Chance for Spells"],
+    "name":"Axiom Perpetuum",
+    "originalString":"Axiom Perpetuum\nBronze Sceptre\nVariant: Pre 2.3.0\nVariant: Current\nRequires Level 10, 22 Str, 22 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2}12% increased Elemental Damage\n(4-6)% increased Cast Speed\n(100-140)% increased Critical Strike Chance for Spells\nAdds (2-3) to (5-6) Fire Damage to Spells\nAdds (2-3) to (5-6) Cold Damage to Spells\nAdds 1 to (10-12) Lightning Damage to Spells\n",
+    "requirements":{
+      "level":10
+    },
+    "stats":["Axiom Perpetuum","Bronze Sceptre","Variant: Pre 2.3.0","Variant: Current","Requires Level 10, 22 Str, 22 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2}12% increased Elemental Damage","(4-6)% increased Cast Speed","(100-140)% increased Critical Strike Chance for Spells","Adds (2-3) to (5-6) Fire Damage to Spells","Adds (2-3) to (5-6) Cold Damage to Spells","Adds 1 to (10-12) Lightning Damage to Spells"],
+    "variants":["Pre 2.3.0","Current"]
+  },
+  "Balefire":{
+    "baseType":"Opal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["40% increased Elemental Damage","(12-20)% increased Cast Speed","Recover (1-3)% of Life on Kill","Recover (1-3)% of Mana on Kill","10% increased Scorching Ray beam length"],
+    "name":"Balefire",
+    "originalString":"Balefire\nOpal Sceptre\nRequires Level 60, 95 Str, 131 Int\nImplicits: 1\n40% increased Elemental Damage\nGrants Level 25 Scorching Ray Skill\n(12-20)% increased Cast Speed\nRecover (1-3)% of Life on Kill\nRecover (1-3)% of Mana on Kill\n10% increased Scorching Ray beam length\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Balefire","Opal Sceptre","Requires Level 60, 95 Str, 131 Int","Implicits: 1","40% increased Elemental Damage","Grants Level 25 Scorching Ray Skill","(12-20)% increased Cast Speed","Recover (1-3)% of Life on Kill","Recover (1-3)% of Mana on Kill","10% increased Scorching Ray beam length"],
+    "variants":[]
+  },
+  "Bitterdream":{
+    "baseType":"Shadow Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["22% increased Elemental Damage"],
+    "name":"Bitterdream",
+    "originalString":"Bitterdream\nShadow Sceptre\nRequires Level 32, 52 Str, 62 Int\nImplicits: 1\n22% increased Elemental Damage\nSocketed Gems are Supported by Level 15 Bonechill\nSocketed Gems are Supported by Level 15 Hypothermia\nSocketed Gems are Supported by Level 15 Ice Bite\nSocketed Gems are Supported by Level 15 Cold Penetration\nSocketed Gems are Supported by Level 15 Added Cold Damage\nSocketed Gems are Supported by Level 15 Inspiration\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["Bitterdream","Shadow Sceptre","Requires Level 32, 52 Str, 62 Int","Implicits: 1","22% increased Elemental Damage","Socketed Gems are Supported by Level 15 Bonechill","Socketed Gems are Supported by Level 15 Hypothermia","Socketed Gems are Supported by Level 15 Ice Bite","Socketed Gems are Supported by Level 15 Cold Penetration","Socketed Gems are Supported by Level 15 Added Cold Damage","Socketed Gems are Supported by Level 15 Inspiration"],
+    "variants":[]
+  },
+  "Brain Rattler":{
+    "baseType":"Meatgrinder",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":3,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","{variant:3,4}5% chance to deal Double Damage","{variant:3}Adds (60-80) to (270-320) Physical Damage","{variant:4}Adds (100-130) to (360-430) Physical Damage","50% of Physical Damage Converted to Lightning Damage","{variant:1,2}15% chance to Shock","{variant:3,4}50% chance to Shock","{variant:1,2}10% chance to Cause Monsters to Flee","Damage Penetrates 20% Lightning Resistance","Enemies you Shock have 30% reduced Cast Speed","Enemies you Shock have 20% reduced Movement Speed","{variant:3,4}Hits with this Weapon Shock Enemies as though dealing 300% more Damage"],
+    "name":"Brain Rattler",
+    "originalString":"Brain Rattler\nMeatgrinder\nVariant: Pre 2.6.0\nVariant: Pre 3.11.0\nVariant: Pre 3.26.0\nVariant: Current\nImplicits: 3\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}30% increased Stun Duration on Enemies\n{variant:3,4}5% chance to deal Double Damage\n{variant:1,2}Adds (80-100) to (320-370) Physical Damage\n{variant:3}Adds (60-80) to (270-320) Physical Damage\n{variant:4}Adds (100-130) to (360-430) Physical Damage\n50% of Physical Damage Converted to Lightning Damage\n{variant:1,2}15% chance to Shock\n{variant:3,4}50% chance to Shock\n{variant:1,2}10% chance to Cause Monsters to Flee\nDamage Penetrates 20% Lightning Resistance\nEnemies you Shock have 30% reduced Cast Speed\nEnemies you Shock have 20% reduced Movement Speed\n{variant:3,4}Hits with this Weapon Shock Enemies as though dealing 300% more Damage\n",
+    "requirements":[],
+    "stats":["Brain Rattler","Meatgrinder","Variant: Pre 2.6.0","Variant: Pre 3.11.0","Variant: Pre 3.26.0","Variant: Current","Implicits: 3","{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","{variant:3,4}5% chance to deal Double Damage","{variant:1,2}Adds (80-100) to (320-370) Physical Damage","{variant:3}Adds (60-80) to (270-320) Physical Damage","{variant:4}Adds (100-130) to (360-430) Physical Damage","50% of Physical Damage Converted to Lightning Damage","{variant:1,2}15% chance to Shock","{variant:3,4}50% chance to Shock","{variant:1,2}10% chance to Cause Monsters to Flee","Damage Penetrates 20% Lightning Resistance","Enemies you Shock have 30% reduced Cast Speed","Enemies you Shock have 20% reduced Movement Speed","{variant:3,4}Hits with this Weapon Shock Enemies as though dealing 300% more Damage"],
+    "variants":["Pre 2.6.0","Pre 3.11.0","Pre 3.26.0","Current"]
+  },
+  "Breath of the Council":{
+    "baseType":"Carnal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["32% increased Elemental Damage","(260-310)% increased Physical Damage","{variant:1}(60-80)% increased Chaos Damage","{variant:2}(80-100)% increased Chaos Damage","10% increased Area of Effect of Area Skills","40% increased Chaos Skill Effect Duration"],
+    "name":"Breath of the Council",
+    "originalString":"Breath of the Council\nCarnal Sceptre\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 66, 113 Str, 113 Int\nImplicits: 1\n32% increased Elemental Damage\n(260-310)% increased Physical Damage\n{variant:1}(60-80)% increased Chaos Damage\n{variant:2}(80-100)% increased Chaos Damage\n10% increased Area of Effect of Area Skills\n40% increased Chaos Skill Effect Duration\n",
+    "requirements":{
+      "level":66
+    },
+    "stats":["Breath of the Council","Carnal Sceptre","Variant: Pre 3.0.0","Variant: Current","Requires Level 66, 113 Str, 113 Int","Implicits: 1","32% increased Elemental Damage","(260-310)% increased Physical Damage","{variant:1}(60-80)% increased Chaos Damage","{variant:2}(80-100)% increased Chaos Damage","10% increased Area of Effect of Area Skills","40% increased Chaos Skill Effect Duration"],
+    "variants":["Pre 3.0.0","Current"]
+  },
+  "Brightbeak":{
+    "baseType":"War Hammer",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}10% reduced Enemy Stun Threshold","(50-75)% increased Physical Damage","{variant:1,2}50% increased Attack Speed","{variant:3}45% increased Attack Speed","25% increased Critical Strike Chance","+(20-30)% to Fire Resistance","+(20-30)% to Lightning Resistance"],
+    "name":"Brightbeak",
+    "originalString":"Brightbeak\nWar Hammer\nVariant: Pre 2.6.0\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 20, 71 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2,3}10% reduced Enemy Stun Threshold\n(50-75)% increased Physical Damage\n{variant:1,2}50% increased Attack Speed\n{variant:3}45% increased Attack Speed\n25% increased Critical Strike Chance\n+(20-30)% to Fire Resistance\n+(20-30)% to Lightning Resistance\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Brightbeak","War Hammer","Variant: Pre 2.6.0","Variant: Pre 3.7.0","Variant: Current","Requires Level 20, 71 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}10% reduced Enemy Stun Threshold","(50-75)% increased Physical Damage","{variant:1,2}50% increased Attack Speed","{variant:3}45% increased Attack Speed","25% increased Critical Strike Chance","+(20-30)% to Fire Resistance","+(20-30)% to Lightning Resistance"],
+    "variants":["Pre 2.6.0","Pre 3.7.0","Current"]
+  },
+  "Brutus' Lead Sprinkler":{
+    "baseType":"Ritual Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "league":" Torment",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2,3,4}16% increased Elemental Damage","20% increased Physical Damage","{variant:3}Adds 2 to 4 Fire Damage to Attacks per 10 Strength","{variant:4}Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength","30% increased Fire Damage","(15-20)% increased Attack Speed","(30-40)% increased Critical Strike Chance"],
+    "name":"Brutus' Lead Sprinkler",
+    "originalString":"Brutus' Lead Sprinkler\nRitual Sceptre\nLeague: Torment\nVariant: Pre 2.3.0\nVariant: Pre 2.6.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 28, 51 Str, 51 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2,3,4}16% increased Elemental Damage\n20% increased Physical Damage\n{variant:1,2}Adds 15 to 25 Fire Damage against Ignited Enemies\nAdds (8-13) to (26-31) Physical Damage\n{variant:3}Adds 2 to 4 Fire Damage to Attacks per 10 Strength\n{variant:4}Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength\n30% increased Fire Damage\n(15-20)% increased Attack Speed\n(30-40)% increased Critical Strike Chance\n",
+    "requirements":{
+      "level":28
+    },
+    "stats":["Brutus' Lead Sprinkler","Ritual Sceptre","League: Torment","Variant: Pre 2.3.0","Variant: Pre 2.6.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 28, 51 Str, 51 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2,3,4}16% increased Elemental Damage","20% increased Physical Damage","{variant:1,2}Adds 15 to 25 Fire Damage against Ignited Enemies","Adds (8-13) to (26-31) Physical Damage","{variant:3}Adds 2 to 4 Fire Damage to Attacks per 10 Strength","{variant:4}Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength","30% increased Fire Damage","(15-20)% increased Attack Speed","(30-40)% increased Critical Strike Chance"],
+    "variants":["Pre 2.3.0","Pre 2.6.0","Pre 3.0.0","Current"]
+  },
+  "Callinellus Malleus":{
+    "baseType":"Auric Mace",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","(150-200)% increased Physical Damage","(15-25)% reduced Enemy Stun Threshold with this Weapon"],
+    "name":"Callinellus Malleus",
+    "originalString":"Callinellus Malleus\nAuric Mace\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 66, 212 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}15% reduced Enemy Stun Threshold\nAdds (5-10) to (15-23) Physical Damage\n(150-200)% increased Physical Damage\n(15-25)% reduced Enemy Stun Threshold with this Weapon\nCannot Knock Enemies Back\nAll Attack Damage Chills when you Stun\n",
+    "requirements":{
+      "level":66
+    },
+    "stats":["Callinellus Malleus","Auric Mace","Variant: Pre 2.6.0","Variant: Current","Requires Level 66, 212 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","Adds (5-10) to (15-23) Physical Damage","(150-200)% increased Physical Damage","(15-25)% reduced Enemy Stun Threshold with this Weapon","Cannot Knock Enemies Back","All Attack Damage Chills when you Stun"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Cameria's Avarice":{
+    "baseType":"Gavel",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["15% reduced Enemy Stun Threshold","(140-180)% increased Physical Damage","(15-40)% increased Critical Strike Chance","40% increased Rarity of Items Dropped by Frozen Enemies","(30-40)% increased Cold Damage with Attack Skills"],
+    "name":"Cameria's Avarice",
+    "originalString":"Cameria's Avarice\nGavel\nSource: Vendor Recipe\nRequires Level 60, 212 Str\nImplicits: 1\n15% reduced Enemy Stun Threshold\n(140-180)% increased Physical Damage\nAdds (11-14) to (17-21) Physical Damage\n(15-40)% increased Critical Strike Chance\n40% increased Rarity of Items Dropped by Frozen Enemies\n(30-40)% increased Cold Damage with Attack Skills\nTrigger Level 20 Icicle Burst when you Hit a Frozen Enemy\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"Vendor Recipe",
+    "stats":["Cameria's Avarice","Gavel","Source: Vendor Recipe","Requires Level 60, 212 Str","Implicits: 1","15% reduced Enemy Stun Threshold","(140-180)% increased Physical Damage","Adds (11-14) to (17-21) Physical Damage","(15-40)% increased Critical Strike Chance","40% increased Rarity of Items Dropped by Frozen Enemies","(30-40)% increased Cold Damage with Attack Skills","Trigger Level 20 Icicle Burst when you Hit a Frozen Enemy"],
+    "variants":[]
+  },
+  "Cameria's Maul":{
+    "baseType":"Gavel",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","(140-180)% increased Physical Damage","(15-40)% increased Critical Strike Chance","(30-40)% increased Cold Damage with Attack Skills","40% increased Rarity of Items Dropped by Frozen Enemies"],
+    "name":"Cameria's Maul",
+    "originalString":"Cameria's Maul\nGavel\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 60, 212 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}15% reduced Enemy Stun Threshold\n(140-180)% increased Physical Damage\nAdds (10-20) to (30-50) Cold Damage\n(15-40)% increased Critical Strike Chance\n(30-40)% increased Cold Damage with Attack Skills\n40% increased Rarity of Items Dropped by Frozen Enemies\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Cameria's Maul","Gavel","Variant: Pre 2.6.0","Variant: Current","Requires Level 60, 212 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","(140-180)% increased Physical Damage","Adds (10-20) to (30-50) Cold Damage","(15-40)% increased Critical Strike Chance","(30-40)% increased Cold Damage with Attack Skills","40% increased Rarity of Items Dropped by Frozen Enemies"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Cerberus Limb":{
+    "baseType":"Blood Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Delve",
+    "modifiers":["24% increased Elemental Damage","(70-100)% increased Spell Damage","(15-20)% increased Cast Speed","0.5% of Spell Damage Leeched as Life if Equipped Shield has at least 30% Chance to Block","+1 to Maximum Energy Shield per 5 Armour on Equipped Shield","+5 to Armour per 5 Evasion Rating on Equipped Shield","+20 to Evasion Rating per 5 Maximum Energy Shield on Equipped Shield"],
+    "name":"Cerberus Limb",
+    "originalString":"Cerberus Limb\nBlood Sceptre\nLeague: Delve\nSource: Drops from unique{Ahuatotli, the Blind}\nRequires Level 47, 81 Str, 81 Int\nImplicits: 1\n24% increased Elemental Damage\n(70-100)% increased Spell Damage\n(15-20)% increased Cast Speed\n0.5% of Spell Damage Leeched as Life if Equipped Shield has at least 30% Chance to Block\n+1 to Maximum Energy Shield per 5 Armour on Equipped Shield\n+5 to Armour per 5 Evasion Rating on Equipped Shield\n+20 to Evasion Rating per 5 Maximum Energy Shield on Equipped Shield\n",
+    "requirements":{
+      "level":47
+    },
+    "source":"Drops from unique{Ahuatotli, the Blind}",
+    "stats":["Cerberus Limb","Blood Sceptre","League: Delve","Source: Drops from unique{Ahuatotli, the Blind}","Requires Level 47, 81 Str, 81 Int","Implicits: 1","24% increased Elemental Damage","(70-100)% increased Spell Damage","(15-20)% increased Cast Speed","0.5% of Spell Damage Leeched as Life if Equipped Shield has at least 30% Chance to Block","+1 to Maximum Energy Shield per 5 Armour on Equipped Shield","+5 to Armour per 5 Evasion Rating on Equipped Shield","+20 to Evasion Rating per 5 Maximum Energy Shield on Equipped Shield"],
+    "variants":[]
+  },
+  "Chaber Cairn":{
+    "baseType":"Great Mallet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["30% increased Stun Duration on Enemies","+1 to Level of Socketed Melee Gems","+2 to Level of Socketed Minion Gems","(200-220)% increased Physical Damage","25% increased maximum Mana","Minions have (20-40)% increased maximum Life","30% increased Skill Effect Duration"],
+    "name":"Chaber Cairn",
+    "originalString":"Chaber Cairn\nGreat Mallet\nSource: No longer obtainable\nRequires Level 60, 131 Str\nImplicits: 1\n30% increased Stun Duration on Enemies\n+1 to Level of Socketed Melee Gems\n+2 to Level of Socketed Minion Gems\n(200-220)% increased Physical Damage\nAdds (25-35) to (45-55) Physical Damage\n25% increased maximum Mana\nMinions have (20-40)% increased maximum Life\n30% increased Skill Effect Duration\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"No longer obtainable",
+    "stats":["Chaber Cairn","Great Mallet","Source: No longer obtainable","Requires Level 60, 131 Str","Implicits: 1","30% increased Stun Duration on Enemies","+1 to Level of Socketed Melee Gems","+2 to Level of Socketed Minion Gems","(200-220)% increased Physical Damage","Adds (25-35) to (45-55) Physical Damage","25% increased maximum Mana","Minions have (20-40)% increased maximum Life","30% increased Skill Effect Duration"],
+    "variants":[]
+  },
+  "Chober Chaber":{
+    "baseType":"Great Mallet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","+1 to Level of Socketed Melee Gems","+1 to Level of Socketed Minion Gems","{variant:1,2}(100-120)% increased Physical Damage","{variant:3}(200-220)% increased Physical Damage","25% increased maximum Mana","Minions have (20-40)% increased maximum Life","15% increased Skill Effect Duration","20% reduced Strength Requirement"],
+    "name":"Chober Chaber",
+    "originalString":"Chober Chaber\nGreat Mallet\nVariant: Pre 2.6.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 40, 104 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2,3}30% increased Stun Duration on Enemies\n+1 to Level of Socketed Melee Gems\n+1 to Level of Socketed Minion Gems\n{variant:1,2}(100-120)% increased Physical Damage\n{variant:3}(200-220)% increased Physical Damage\n25% increased maximum Mana\nMinions have (20-40)% increased maximum Life\n15% increased Skill Effect Duration\n20% reduced Strength Requirement\n",
+    "requirements":{
+      "level":40
+    },
+    "stats":["Chober Chaber","Great Mallet","Variant: Pre 2.6.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 40, 104 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","+1 to Level of Socketed Melee Gems","+1 to Level of Socketed Minion Gems","{variant:1,2}(100-120)% increased Physical Damage","{variant:3}(200-220)% increased Physical Damage","25% increased maximum Mana","Minions have (20-40)% increased maximum Life","15% increased Skill Effect Duration","20% reduced Strength Requirement"],
+    "variants":["Pre 2.6.0","Pre 3.0.0","Current"]
+  },
+  "Clayshaper":{
+    "baseType":"Rock Breaker",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","(8-10)% increased Attack Speed","{variant:1,2}Minions have (20-30)% increased maximum Life","+1 to maximum number of Summoned Golems","{variant:3}Golems have (96-120) to (132-160) Added Attack Physical Damage"],
+    "name":"Clayshaper",
+    "originalString":"Clayshaper\nRock Breaker\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 41, 134 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}15% reduced Enemy Stun Threshold\nGrants Level 12 Summon Stone Golem Skill\nAdds (24-30) to (34-40) Physical Damage\n(8-10)% increased Attack Speed\n{variant:1,2}Minions have (20-30)% increased maximum Life\n+1 to maximum number of Summoned Golems\n{variant:1,2}Minions deal (5-8) to (12-16) Added Attack Physical Damage\n{variant:3}Golems have (96-120) to (132-160) Added Attack Physical Damage\n",
+    "requirements":{
+      "level":41
+    },
+    "stats":["Clayshaper","Rock Breaker","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 41, 134 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}15% reduced Enemy Stun Threshold","Grants Level 12 Summon Stone Golem Skill","Adds (24-30) to (34-40) Physical Damage","(8-10)% increased Attack Speed","{variant:1,2}Minions have (20-30)% increased maximum Life","+1 to maximum number of Summoned Golems","{variant:1,2}Minions deal (5-8) to (12-16) Added Attack Physical Damage","{variant:3}Golems have (96-120) to (132-160) Added Attack Physical Damage"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Death's Hand":{
+    "baseType":"Karui Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2,3}26% increased Elemental Damage","{variant:3}Adds (35-46) to (85-128) Physical Damage","(20-50)% increased Critical Strike Chance","30% chance to gain a Power Charge when you Stun"],
+    "name":"Death's Hand",
+    "originalString":"Death's Hand\nKarui Sceptre\nVariant: Pre 2.3.0\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 56, 96 Str, 96 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2,3}26% increased Elemental Damage\n{variant:1,2}Adds (30-41) to (80-123) Physical Damage\n{variant:3}Adds (35-46) to (85-128) Physical Damage\n(20-50)% increased Critical Strike Chance\n30% chance to gain a Power Charge when you Stun\nGain Unholy Might for 4 seconds on Critical Strike\n",
+    "requirements":{
+      "level":56
+    },
+    "stats":["Death's Hand","Karui Sceptre","Variant: Pre 2.3.0","Variant: Pre 3.7.0","Variant: Current","Requires Level 56, 96 Str, 96 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2,3}26% increased Elemental Damage","{variant:1,2}Adds (30-41) to (80-123) Physical Damage","{variant:3}Adds (35-46) to (85-128) Physical Damage","(20-50)% increased Critical Strike Chance","30% chance to gain a Power Charge when you Stun","Gain Unholy Might for 4 seconds on Critical Strike"],
+    "variants":["Pre 2.3.0","Pre 3.7.0","Current"]
+  },
+  "Doon Cuebiyari":{
+    "baseType":"Vaal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2}32% increased Elemental Damage","+(50-70) to Strength","(15-18)% increased Cast Speed","+(20-30) to maximum Mana","1% increased Damage per 8 Strength when in Main Hand","1% increased Armour per 16 Strength when in Off Hand"],
+    "name":"Doon Cuebiyari",
+    "originalString":"Doon Cuebiyari\nVaal Sceptre\nVariant: Pre 2.3.0\nVariant: Current\nRequires Level 64, 113 Str, 113 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2}32% increased Elemental Damage\n+(50-70) to Strength\n(15-18)% increased Cast Speed\n+(20-30) to maximum Mana\nSocketed Gems are Supported by Level 30 Iron Will\n1% increased Damage per 8 Strength when in Main Hand\n1% increased Armour per 16 Strength when in Off Hand\n",
+    "requirements":{
+      "level":64
+    },
+    "stats":["Doon Cuebiyari","Vaal Sceptre","Variant: Pre 2.3.0","Variant: Current","Requires Level 64, 113 Str, 113 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2}32% increased Elemental Damage","+(50-70) to Strength","(15-18)% increased Cast Speed","+(20-30) to maximum Mana","Socketed Gems are Supported by Level 30 Iron Will","1% increased Damage per 8 Strength when in Main Hand","1% increased Armour per 16 Strength when in Off Hand"],
+    "variants":["Pre 2.3.0","Current"]
+  },
+  "Doryani's Catalyst":{
+    "baseType":"Vaal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2}32% increased Elemental Damage","(11-15)% increased Attack Speed","(6-10)% increased Cast Speed","(30-40)% increased Global Critical Strike Chance","0.2% of Elemental Damage Leeched as Life","(80-100)% increased Elemental Damage"],
+    "name":"Doryani's Catalyst",
+    "originalString":"Doryani's Catalyst\nVaal Sceptre\nSource: Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}\nVariant: Pre 2.3.0\nVariant: Current\nRequires Level 75, 113 Str, 113 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2}32% increased Elemental Damage\nSocketed Gems are Supported by Level 20 Elemental Proliferation\nAdds (65-85) to (100-160) Physical Damage\n(11-15)% increased Attack Speed\n(6-10)% increased Cast Speed\n(30-40)% increased Global Critical Strike Chance\n0.2% of Elemental Damage Leeched as Life\n(80-100)% increased Elemental Damage\n",
+    "requirements":{
+      "level":75
+    },
+    "source":"Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
+    "stats":["Doryani's Catalyst","Vaal Sceptre","Source: Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}","Variant: Pre 2.3.0","Variant: Current","Requires Level 75, 113 Str, 113 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2}32% increased Elemental Damage","Socketed Gems are Supported by Level 20 Elemental Proliferation","Adds (65-85) to (100-160) Physical Damage","(11-15)% increased Attack Speed","(6-10)% increased Cast Speed","(30-40)% increased Global Critical Strike Chance","0.2% of Elemental Damage Leeched as Life","(80-100)% increased Elemental Damage"],
+    "variants":["Pre 2.3.0","Current"]
+  },
+  "Earendel's Embrace":{
+    "baseType":"Grinning Fetish",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["18% increased Elemental Damage","+(20-30) to all Attributes","Minions deal (30-40)% increased Damage","Summoned Skeletons take (15-30)% of their Maximum Life per second as Fire Damage"],
+    "name":"Earendel's Embrace",
+    "originalString":"Earendel's Embrace\nGrinning Fetish\nRequires Level 35, 62 Str, 62 Int\nImplicits: 1\n18% increased Elemental Damage\n+(20-30) to all Attributes\nMinions deal (30-40)% increased Damage\nSummoned Skeletons Cover Enemies in Ash on Hit\nSummoned Skeletons take (15-30)% of their Maximum Life per second as Fire Damage\nSummoned Skeletons have Avatar of Fire\n",
+    "requirements":{
+      "level":35
+    },
+    "stats":["Earendel's Embrace","Grinning Fetish","Requires Level 35, 62 Str, 62 Int","Implicits: 1","18% increased Elemental Damage","+(20-30) to all Attributes","Minions deal (30-40)% increased Damage","Summoned Skeletons Cover Enemies in Ash on Hit","Summoned Skeletons take (15-30)% of their Maximum Life per second as Fire Damage","Summoned Skeletons have Avatar of Fire"],
+    "variants":[]
+  },
+  "Flesh-Eater":{
+    "baseType":"Dream Mace",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}10% reduced Enemy Stun Threshold","(60-80)% increased Physical Damage","10% increased Attack Speed","1% of Physical Attack Damage leeched as Life","{variant:1}10% Chance to cause Bleeding on Hit","{variant:2}30% Chance to cause Bleeding on Hit","{variant:1}1% of Attack Damage leeched as Life against Bleeding Enemies","{variant:2}3% of Attack Damage leeched as Life against Bleeding Enemies"],
+    "name":"Flesh-Eater",
+    "originalString":"Flesh-Eater\nDream Mace\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 32, 107 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}10% reduced Enemy Stun Threshold\n(60-80)% increased Physical Damage\nAdds 10 to 15 Physical Damage\n10% increased Attack Speed\n1% of Physical Attack Damage leeched as Life\n{variant:1}10% Chance to cause Bleeding on Hit\n{variant:2}30% Chance to cause Bleeding on Hit\n{variant:1}1% of Attack Damage leeched as Life against Bleeding Enemies\n{variant:2}3% of Attack Damage leeched as Life against Bleeding Enemies\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["Flesh-Eater","Dream Mace","Variant: Pre 2.6.0","Variant: Current","Requires Level 32, 107 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}10% reduced Enemy Stun Threshold","(60-80)% increased Physical Damage","Adds 10 to 15 Physical Damage","10% increased Attack Speed","1% of Physical Attack Damage leeched as Life","{variant:1}10% Chance to cause Bleeding on Hit","{variant:2}30% Chance to cause Bleeding on Hit","{variant:1}1% of Attack Damage leeched as Life against Bleeding Enemies","{variant:2}3% of Attack Damage leeched as Life against Bleeding Enemies"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Frostbreath":{
+    "baseType":"Ornate Mace",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2,3}15% reduced Enemy Stun Threshold","{variant:3}Adds (26-32) to (36-42) Physical Damage","{variant:3}Adds (26-32) to (36-42) Cold Damage","(8-14)% increased Attack Speed","+(40-50)% to Fire Resistance","(35-50)% increased Chill Duration on Enemies"],
+    "name":"Frostbreath",
+    "originalString":"Frostbreath\nOrnate Mace\nVariant: Pre 2.6.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 50, 161 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2,3}15% reduced Enemy Stun Threshold\n{variant:1,2}Adds (16-22) to (26-32) Physical Damage\n{variant:3}Adds (26-32) to (36-42) Physical Damage\n{variant:1,2}Adds (16-22) to (26-32) Cold Damage\n{variant:3}Adds (26-32) to (36-42) Cold Damage\n(8-14)% increased Attack Speed\n+(40-50)% to Fire Resistance\n(35-50)% increased Chill Duration on Enemies\nAttacks with this Weapon deal double Damage to Chilled Enemies\n",
+    "requirements":{
+      "level":50
+    },
+    "stats":["Frostbreath","Ornate Mace","Variant: Pre 2.6.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 50, 161 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2,3}15% reduced Enemy Stun Threshold","{variant:1,2}Adds (16-22) to (26-32) Physical Damage","{variant:3}Adds (26-32) to (36-42) Physical Damage","{variant:1,2}Adds (16-22) to (26-32) Cold Damage","{variant:3}Adds (26-32) to (36-42) Cold Damage","(8-14)% increased Attack Speed","+(40-50)% to Fire Resistance","(35-50)% increased Chill Duration on Enemies","Attacks with this Weapon deal double Damage to Chilled Enemies"],
+    "variants":["Pre 2.6.0","Pre 3.0.0","Current"]
+  },
+  "Geofri's Baptism":{
+    "baseType":"Brass Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","200% increased Physical Damage","(10-20)% increased Stun Duration on Enemies"],
+    "name":"Geofri's Baptism",
+    "originalString":"Geofri's Baptism\nBrass Maul\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 27, 92 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}30% increased Stun Duration on Enemies\n200% increased Physical Damage\nAdds 11 to 23 Cold Damage\n(10-20)% increased Stun Duration on Enemies\nNever deal Critical Strikes\n",
+    "requirements":{
+      "level":27
+    },
+    "stats":["Geofri's Baptism","Brass Maul","Variant: Pre 2.6.0","Variant: Current","Requires Level 27, 92 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","200% increased Physical Damage","Adds 11 to 23 Cold Damage","(10-20)% increased Stun Duration on Enemies","Never deal Critical Strikes"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Geofri's Devotion":{
+    "baseType":"Brass Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","200% increased Physical Damage","{variant:3}Adds (42-47) to (66-71) Physical Damage","(10-20)% increased Stun Duration on Enemies"],
+    "name":"Geofri's Devotion",
+    "originalString":"Geofri's Devotion\nBrass Maul\nSource: No longer obtainable\nVariant: Pre 2.6.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 61, 92 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2,3}30% increased Stun Duration on Enemies\nTrigger Level 20 Elemental Warding on Melee Hit while Cursed\n200% increased Physical Damage\n{variant:1,2}Adds (50-56) to (73-78) Physical Damage\n{variant:3}Adds (42-47) to (66-71) Physical Damage\nAdds 11 to 23 Cold Damage\n(10-20)% increased Stun Duration on Enemies\nNever deal Critical Strikes\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"No longer obtainable",
+    "stats":["Geofri's Devotion","Brass Maul","Source: No longer obtainable","Variant: Pre 2.6.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 61, 92 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","Trigger Level 20 Elemental Warding on Melee Hit while Cursed","200% increased Physical Damage","{variant:1,2}Adds (50-56) to (73-78) Physical Damage","{variant:3}Adds (42-47) to (66-71) Physical Damage","Adds 11 to 23 Cold Damage","(10-20)% increased Stun Duration on Enemies","Never deal Critical Strikes"],
+    "variants":["Pre 2.6.0","Pre 3.11.0","Current"]
+  },
+  "Gorebreaker":{
+    "baseType":"Spiked Club",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}10% reduced Enemy Stun Threshold","(300-360)% increased Physical Damage","20% reduced Attack Speed","(10-20)% reduced Enemy Stun Threshold","(30-50)% increased Stun Duration on Enemies","30% increased Melee Damage against Bleeding Enemies"],
+    "name":"Gorebreaker",
+    "originalString":"Gorebreaker\nSpiked Club\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 10, 41 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}10% reduced Enemy Stun Threshold\n(300-360)% increased Physical Damage\n20% reduced Attack Speed\n(10-20)% reduced Enemy Stun Threshold\n(30-50)% increased Stun Duration on Enemies\n30% increased Melee Damage against Bleeding Enemies\n",
+    "requirements":{
+      "level":10
+    },
+    "stats":["Gorebreaker","Spiked Club","Variant: Pre 2.6.0","Variant: Current","Requires Level 10, 41 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}10% reduced Enemy Stun Threshold","(300-360)% increased Physical Damage","20% reduced Attack Speed","(10-20)% reduced Enemy Stun Threshold","(30-50)% increased Stun Duration on Enemies","30% increased Melee Damage against Bleeding Enemies"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Hrimnor's Dirge":{
+    "baseType":"Sledgehammer",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","(140-200)% increased Physical Damage","+10 to Strength","15% reduced Enemy Stun Threshold","1% of Physical Attack Damage Leeched as Life","(40-50)% increased Stun Duration on Enemies","Gain 50% of Physical Damage as Extra Cold Damage"],
+    "name":"Hrimnor's Dirge",
+    "originalString":"Hrimnor's Dirge\nSledgehammer\nSource: No longer obtainable\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 36, 62 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}45% increased Stun Duration on Enemies\n(140-200)% increased Physical Damage\nAdds (10-20) to (30-40) Physical Damage\n+10 to Strength\n15% reduced Enemy Stun Threshold\n1% of Physical Attack Damage Leeched as Life\n(40-50)% increased Stun Duration on Enemies\nGain 50% of Physical Damage as Extra Cold Damage\n",
+    "requirements":{
+      "level":36
+    },
+    "source":"No longer obtainable",
+    "stats":["Hrimnor's Dirge","Sledgehammer","Source: No longer obtainable","Variant: Pre 2.6.0","Variant: Current","Requires Level 36, 62 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","(140-200)% increased Physical Damage","Adds (10-20) to (30-40) Physical Damage","+10 to Strength","15% reduced Enemy Stun Threshold","1% of Physical Attack Damage Leeched as Life","(40-50)% increased Stun Duration on Enemies","Gain 50% of Physical Damage as Extra Cold Damage"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Hrimnor's Hymn":{
+    "baseType":"Sledgehammer",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","(140-200)% increased Physical Damage","+10 to Strength","15% reduced Enemy Stun Threshold","1% of Physical Attack Damage Leeched as Life","(40-50)% increased Stun Duration on Enemies"],
+    "name":"Hrimnor's Hymn",
+    "originalString":"Hrimnor's Hymn\nSledgehammer\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 17, 62 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}45% increased Stun Duration on Enemies\n(140-200)% increased Physical Damage\n+10 to Strength\n15% reduced Enemy Stun Threshold\n1% of Physical Attack Damage Leeched as Life\n(40-50)% increased Stun Duration on Enemies\n",
+    "requirements":{
+      "level":17
+    },
+    "stats":["Hrimnor's Hymn","Sledgehammer","Variant: Pre 2.6.0","Variant: Current","Requires Level 17, 62 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","(140-200)% increased Physical Damage","+10 to Strength","15% reduced Enemy Stun Threshold","1% of Physical Attack Damage Leeched as Life","(40-50)% increased Stun Duration on Enemies"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Jorrhast's Blacksteel":{
+    "baseType":"Steelhead",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "league":" Tempest",
+    "modifiers":["{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","{variant:2}25% chance to Trigger Level 20 Animate Weapon on Kill","(150-200)% increased Physical Damage","(8-12)% increased Attack Speed","(8-12)% increased Cast Speed","30% less Animate Weapon Duration"],
+    "name":"Jorrhast's Blacksteel",
+    "originalString":"Jorrhast's Blacksteel\nSteelhead\nLeague: Tempest\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 44, 143 Str\nImplicits: 2\n{variant:1}40% increased Stun Duration on Enemies\n{variant:2}45% increased Stun Duration on Enemies\n{variant:2}25% chance to Trigger Level 20 Animate Weapon on Kill\n(150-200)% increased Physical Damage\n(8-12)% increased Attack Speed\n(8-12)% increased Cast Speed\n30% less Animate Weapon Duration\nWeapons you Animate create an additional copy\n",
+    "requirements":{
+      "level":44
+    },
+    "stats":["Jorrhast's Blacksteel","Steelhead","League: Tempest","Variant: Pre 2.6.0","Variant: Current","Requires Level 44, 143 Str","Implicits: 2","{variant:1}40% increased Stun Duration on Enemies","{variant:2}45% increased Stun Duration on Enemies","{variant:2}25% chance to Trigger Level 20 Animate Weapon on Kill","(150-200)% increased Physical Damage","(8-12)% increased Attack Speed","(8-12)% increased Cast Speed","30% less Animate Weapon Duration","Weapons you Animate create an additional copy"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Kongor's Undying Rage":{
+    "baseType":"Terror Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":3,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2}20% increased Stun Duration on Enemies","{variant:3}30% increased Stun Duration on Enemies","{variant:4}25% chance to double Stun Duration","{variant:1}Adds (27-36) to (270-360) Physical Damage","{variant:2,3,4}(30-40)% increased Critical Strike Chance","+(15-20)% to all Elemental Resistances"],
+    "name":"Kongor's Undying Rage",
+    "originalString":"Kongor's Undying Rage\nTerror Maul\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 67, 212 Str\nImplicits: 3\n{variant:1,2}20% increased Stun Duration on Enemies\n{variant:3}30% increased Stun Duration on Enemies\n{variant:4}25% chance to double Stun Duration\n{variant:1}Adds (27-36) to (270-360) Physical Damage\n{variant:2,3,4}Adds (27-56) to (270-400) Physical Damage\n{variant:2,3,4}(30-40)% increased Critical Strike Chance\n+(15-20)% to all Elemental Resistances\nHits can't be Evaded\nYour Critical Strikes do not deal extra Damage\n{variant:1,2}You gain Onslaught for 2 seconds on Critical Strike\n{variant:3,4}You gain Onslaught for 4 seconds on Critical Strike\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Kongor's Undying Rage","Terror Maul","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 67, 212 Str","Implicits: 3","{variant:1,2}20% increased Stun Duration on Enemies","{variant:3}30% increased Stun Duration on Enemies","{variant:4}25% chance to double Stun Duration","{variant:1}Adds (27-36) to (270-360) Physical Damage","{variant:2,3,4}Adds (27-56) to (270-400) Physical Damage","{variant:2,3,4}(30-40)% increased Critical Strike Chance","+(15-20)% to all Elemental Resistances","Hits can't be Evaded","Your Critical Strikes do not deal extra Damage","{variant:1,2}You gain Onslaught for 2 seconds on Critical Strike","{variant:3,4}You gain Onslaught for 4 seconds on Critical Strike"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Pre 3.11.0","Current"]
+  },
+  "Lavianga's Wisdom":{
+    "baseType":"War Hammer",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "league":" Legion",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}10% reduced Enemy Stun Threshold","{variant:3}(160-200)% increased Physical Damage","{variant:3}+70 to maximum Life","{variant:3}+70 to maximum Mana","{variant:1,2}(130-160)% increased Physical Damage","5% reduced Movement Speed","{variant:1,2}10% increased Area of Effect of Area Skills","{variant:3}(15-25)% increased Area of Effect","{variant:1,2}(10-15)% increased Area Damage","{variant:3}(10-20)% increased Area Damage"],
+    "name":"Lavianga's Wisdom",
+    "originalString":"Lavianga's Wisdom\nWar Hammer\nLeague: Legion\nVariant: Pre 2.6.0\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 20, 71 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2,3}10% reduced Enemy Stun Threshold\n{variant:3}(160-200)% increased Physical Damage\n{variant:1,2}+(10-20) to maximum Life\n{variant:1,2}+(10-20) to maximum Mana\n{variant:3}+70 to maximum Life\n{variant:3}+70 to maximum Mana\n{variant:1,2}(130-160)% increased Physical Damage\n5% reduced Movement Speed\n{variant:1,2}10% increased Area of Effect of Area Skills\n{variant:3}(15-25)% increased Area of Effect\n{variant:1,2}(10-15)% increased Area Damage\n{variant:3}(10-20)% increased Area Damage\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Lavianga's Wisdom","War Hammer","League: Legion","Variant: Pre 2.6.0","Variant: Pre 3.7.0","Variant: Current","Requires Level 20, 71 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}10% reduced Enemy Stun Threshold","{variant:3}(160-200)% increased Physical Damage","{variant:1,2}+(10-20) to maximum Life","{variant:1,2}+(10-20) to maximum Mana","{variant:3}+70 to maximum Life","{variant:3}+70 to maximum Mana","{variant:1,2}(130-160)% increased Physical Damage","5% reduced Movement Speed","{variant:1,2}10% increased Area of Effect of Area Skills","{variant:3}(15-25)% increased Area of Effect","{variant:1,2}(10-15)% increased Area Damage","{variant:3}(10-20)% increased Area Damage"],
+    "variants":["Pre 2.6.0","Pre 3.7.0","Current"]
+  },
+  "Maata's Teaching":{
+    "baseType":"Karui Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["+(30-40) to Intelligence","{variant:1}(25-50)% increased Critical Strike Chance","{variant:2}(15-30)% increased Critical Strike Chance","+(1-2) to Level of all Minion Skill Gems"],
+    "name":"Maata's Teaching",
+    "originalString":"Maata's Teaching\nKarui Sceptre\nVariant: Pre 3.25.0\nVariant: Current\nRequires Level 56, 96 Str, 96 Int\nImplicits: 1\n+(30-40) to Intelligence\n{variant:1}(25-50)% increased Critical Strike Chance\n{variant:2}(15-30)% increased Critical Strike Chance\n+(1-2) to Level of all Minion Skill Gems\nMinions' Base Attack Critical Strike Chance is equal to the Critical Strike Chance of your Main Hand Weapon\n",
+    "requirements":{
+      "level":56
+    },
+    "stats":["Maata's Teaching","Karui Sceptre","Variant: Pre 3.25.0","Variant: Current","Requires Level 56, 96 Str, 96 Int","Implicits: 1","+(30-40) to Intelligence","{variant:1}(25-50)% increased Critical Strike Chance","{variant:2}(15-30)% increased Critical Strike Chance","+(1-2) to Level of all Minion Skill Gems","Minions' Base Attack Critical Strike Chance is equal to the Critical Strike Chance of your Main Hand Weapon"],
+    "variants":["Pre 3.25.0","Current"]
+  },
+  "Marohi Erqi":{
+    "baseType":"Karui Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":3,
+    "itemType":"mace",
+    "league":" Legion",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","{variant:4,5,6}45% increased Stun Duration on Enemies","{variant:1,2}(220-250)% increased Physical Damage","{variant:3}(230-260)% increased Physical Damage","{variant:4}(200-230)% increased Physical Damage","{variant:5}(400-500)% increased Physical Damage","{variant:6}(500-600)% increased Physical Damage","{variant:1,2,3,4}10% reduced Attack Speed","{variant:5,6}25% reduced Attack Speed","{variant:1,2,3,4}10% reduced Movement Speed","(40-50)% increased Stun Duration on Enemies"],
+    "name":"Marohi Erqi",
+    "originalString":"Marohi Erqi\nKarui Maul\nLeague: Legion\nVariant: Pre 2.6.0\nVariant: Pre 3.7.0\nVariant: Pre 3.11.0\nVariant: Pre 3.19.0\nVariant: Pre 3.20.0\nVariant: Current\nRequires Level 57, 182 Str\nImplicits: 3\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2,3}30% increased Stun Duration on Enemies\n{variant:4,5,6}45% increased Stun Duration on Enemies\n{variant:1,2,3,4}Socketed Gems are Supported by Level 15 Pulverise\n{variant:1,2}(220-250)% increased Physical Damage\n{variant:3}(230-260)% increased Physical Damage\n{variant:4}(200-230)% increased Physical Damage\n{variant:5}(400-500)% increased Physical Damage\n{variant:6}(500-600)% increased Physical Damage\n{variant:1,2}Adds 10 to 20 Physical Damage\n{variant:3,4}Adds 30 to 40 Physical Damage\n{variant:1,2,3,4}10% reduced Attack Speed\n{variant:5,6}25% reduced Attack Speed\n{variant:1,2,3,4}10% reduced Movement Speed\n(40-50)% increased Stun Duration on Enemies\n{variant:1,2,3,4}-100 to Accuracy Rating\n{variant:5,6}-500 to Accuracy Rating\n",
+    "requirements":{
+      "level":57
+    },
+    "stats":["Marohi Erqi","Karui Maul","League: Legion","Variant: Pre 2.6.0","Variant: Pre 3.7.0","Variant: Pre 3.11.0","Variant: Pre 3.19.0","Variant: Pre 3.20.0","Variant: Current","Requires Level 57, 182 Str","Implicits: 3","{variant:1}20% increased Stun Duration on Enemies","{variant:2,3}30% increased Stun Duration on Enemies","{variant:4,5,6}45% increased Stun Duration on Enemies","{variant:1,2,3,4}Socketed Gems are Supported by Level 15 Pulverise","{variant:1,2}(220-250)% increased Physical Damage","{variant:3}(230-260)% increased Physical Damage","{variant:4}(200-230)% increased Physical Damage","{variant:5}(400-500)% increased Physical Damage","{variant:6}(500-600)% increased Physical Damage","{variant:1,2}Adds 10 to 20 Physical Damage","{variant:3,4}Adds 30 to 40 Physical Damage","{variant:1,2,3,4}10% reduced Attack Speed","{variant:5,6}25% reduced Attack Speed","{variant:1,2,3,4}10% reduced Movement Speed","(40-50)% increased Stun Duration on Enemies","{variant:1,2,3,4}-100 to Accuracy Rating","{variant:5,6}-500 to Accuracy Rating"],
+    "variants":["Pre 2.6.0","Pre 3.7.0","Pre 3.11.0","Pre 3.19.0","Pre 3.20.0","Current"]
+  },
+  "Mjolner":{
+    "baseType":"Gavel",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2,3}40% increased Stun Duration on Enemies","{variant:4,5}15% reduced Enemy Stun Threshold","(80-120)% increased Physical Damage","{variant:1,2,3,4}(30-40)% increased Lightning Damage with Attack Skills","{variant:5}(80-100)% increased Lightning Damage","+200 Strength Requirement","+300 Intelligence Requirement","{variant:1}50% chance to Cast a Socketed Lightning Spell on Hit","{variant:2}30% chance to Cast a Socketed Lightning Spell on Hit","{variant:1,2,3,4}Socketed Lightning Spells deal 100% increased Spell Damage if Triggered"],
+    "name":"Mjolner",
+    "originalString":"Mjölner\nGavel\nVariant: Pre 2.0.0\nVariant: Pre 2.4.0\nVariant: Pre 2.6.0\nVariant: Pre 3.15.0\nVariant: Current\nRequires Level 60, 412 Str, 300 Int\nImplicits: 2\n{variant:1,2,3}40% increased Stun Duration on Enemies\n{variant:4,5}15% reduced Enemy Stun Threshold\n(80-120)% increased Physical Damage\nSkills Chain +1 times\n{variant:1,2,3,4}(30-40)% increased Lightning Damage with Attack Skills\n{variant:5}(80-100)% increased Lightning Damage\n+200 Strength Requirement\n+300 Intelligence Requirement\n{variant:1}50% chance to Cast a Socketed Lightning Spell on Hit\n{variant:2}30% chance to Cast a Socketed Lightning Spell on Hit\n{variant:3,4,5}Trigger a Socketed Lightning Spell on Hit, with a 0.25 second Cooldown\n{variant:1,2,3,4}Socketed Lightning Spells deal 100% increased Spell Damage if Triggered\n",
+    "requirements":{
+      "level":60
+    },
+    "stats":["Mjolner","Gavel","Variant: Pre 2.0.0","Variant: Pre 2.4.0","Variant: Pre 2.6.0","Variant: Pre 3.15.0","Variant: Current","Requires Level 60, 412 Str, 300 Int","Implicits: 2","{variant:1,2,3}40% increased Stun Duration on Enemies","{variant:4,5}15% reduced Enemy Stun Threshold","(80-120)% increased Physical Damage","Skills Chain +1 times","{variant:1,2,3,4}(30-40)% increased Lightning Damage with Attack Skills","{variant:5}(80-100)% increased Lightning Damage","+200 Strength Requirement","+300 Intelligence Requirement","{variant:1}50% chance to Cast a Socketed Lightning Spell on Hit","{variant:2}30% chance to Cast a Socketed Lightning Spell on Hit","{variant:3,4,5}Trigger a Socketed Lightning Spell on Hit, with a 0.25 second Cooldown","{variant:1,2,3,4}Socketed Lightning Spells deal 100% increased Spell Damage if Triggered"],
+    "variants":["Pre 2.0.0","Pre 2.4.0","Pre 2.6.0","Pre 3.15.0","Current"]
+  },
+  "Mon'tregul's Grasp":{
+    "baseType":"Void Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2}15% increased Elemental Damage","{variant:3,4,5}40% increased Elemental Damage","50% reduced maximum number of Raised Zombies","{variant:1}Raised Zombies have +500 to maximum Life","Raised Zombies have +(25-30)% to all Resistances","25% increased Raised Zombie Size","{variant:1,2,3,4}Enemies Killed by Zombies' Hits Explode, dealing 20% of their Life as Fire Damage","{variant:5}Enemies Killed by Zombies' Hits Explode, dealing 50% of their Life as Fire Damage","{variant:1,2,3}Raised Zombies deal (80-100)% increased Physical Damage","{variant:4}Raised Zombies deal (80-100)% more Physical Damage","{variant:5}Raised Zombies deal (100-125)% more Physical Damage"],
+    "name":"Mon'tregul's Grasp",
+    "originalString":"Mon'tregul's Grasp\nVoid Sceptre\nVariant: Pre 1.2.0\nVariant: Pre 2.3.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 68, 104 Str, 122 Int\nImplicits: 2\n{variant:1,2}15% increased Elemental Damage\n{variant:3,4,5}40% increased Elemental Damage\n50% reduced maximum number of Raised Zombies\n{variant:1}Raised Zombies have +500 to maximum Life\n{variant:2,3}Raised Zombies have +2000 to maximum Life\n{variant:4,5}Raised Zombies have +5000 to maximum Life\nRaised Zombies have +(25-30)% to all Resistances\n25% increased Raised Zombie Size\n{variant:1,2,3,4}Enemies Killed by Zombies' Hits Explode, dealing 20% of their Life as Fire Damage\n{variant:5}Enemies Killed by Zombies' Hits Explode, dealing 50% of their Life as Fire Damage\n{variant:1,2,3}Raised Zombies deal (80-100)% increased Physical Damage\n{variant:4}Raised Zombies deal (80-100)% more Physical Damage\n{variant:5}Raised Zombies deal (100-125)% more Physical Damage\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["Mon'tregul's Grasp","Void Sceptre","Variant: Pre 1.2.0","Variant: Pre 2.3.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 68, 104 Str, 122 Int","Implicits: 2","{variant:1,2}15% increased Elemental Damage","{variant:3,4,5}40% increased Elemental Damage","50% reduced maximum number of Raised Zombies","{variant:1}Raised Zombies have +500 to maximum Life","{variant:2,3}Raised Zombies have +2000 to maximum Life","{variant:4,5}Raised Zombies have +5000 to maximum Life","Raised Zombies have +(25-30)% to all Resistances","25% increased Raised Zombie Size","{variant:1,2,3,4}Enemies Killed by Zombies' Hits Explode, dealing 20% of their Life as Fire Damage","{variant:5}Enemies Killed by Zombies' Hits Explode, dealing 50% of their Life as Fire Damage","{variant:1,2,3}Raised Zombies deal (80-100)% increased Physical Damage","{variant:4}Raised Zombies deal (80-100)% more Physical Damage","{variant:5}Raised Zombies deal (100-125)% more Physical Damage"],
+    "variants":["Pre 1.2.0","Pre 2.3.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Nebulis":{
+    "baseType":"Void Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Synthesis",
+    "modifiers":["40% increased Elemental Damage","{fractured}(15-20)% increased Cast Speed","(15-20)% increased Cold Damage per 1% Cold Resistance above 75%","(15-20)% increased Lightning Damage per 1% Lightning Resistance above 75%"],
+    "name":"Nebulis",
+    "originalString":"Nebulis\nVoid Sceptre\nLeague: Synthesis\nSource: Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)\nRequires Level 68, 104 Str, 122 Int\nImplicits: 1\n40% increased Elemental Damage\n{fractured}(15-20)% increased Cast Speed\n(15-20)% increased Cold Damage per 1% Cold Resistance above 75%\n(15-20)% increased Lightning Damage per 1% Lightning Resistance above 75%\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)",
+    "stats":["Nebulis","Void Sceptre","League: Synthesis","Source: Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)","Requires Level 68, 104 Str, 122 Int","Implicits: 1","40% increased Elemental Damage","{fractured}(15-20)% increased Cast Speed","(15-20)% increased Cold Damage per 1% Cold Resistance above 75%","(15-20)% increased Lightning Damage per 1% Lightning Resistance above 75%"],
+    "variants":[]
+  },
+  "Nebuloch":{
+    "baseType":"Nightmare Mace",
+    "flags":{
+      "elderItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["10% reduced Enemy Stun Threshold","Gain (30-40)% of Physical Attack Damage as Extra Fire Damage","+4% to Chaos Resistance per Endurance Charge","1% reduced Elemental Damage taken from Hits per Endurance Charge","+500 to Armour per Endurance Charge","{variant:1}400 Fire Damage taken per second per Endurance Charge if you've been Hit Recently","{variant:2}200 Fire Damage taken per second per Endurance Charge if you've been Hit Recently"],
+    "name":"Nebuloch",
+    "originalString":"Nebuloch\nNightmare Mace\nElder Item\nSource: Drops from unique{The Elder}\nVariant: Pre 3.4.0\nVariant: Current\nRequires Level 68, 212 Str\nImplicits: 1\n10% reduced Enemy Stun Threshold\nAdds (45-60) to (100-120) Physical Damage\nGain (30-40)% of Physical Attack Damage as Extra Fire Damage\n+4% to Chaos Resistance per Endurance Charge\n1% reduced Elemental Damage taken from Hits per Endurance Charge\nAdds 5 to 8 Physical Damage per Endurance Charge\n+500 to Armour per Endurance Charge\n{variant:1}400 Fire Damage taken per second per Endurance Charge if you've been Hit Recently\n{variant:2}200 Fire Damage taken per second per Endurance Charge if you've been Hit Recently\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Drops from unique{The Elder}",
+    "stats":["Nebuloch","Nightmare Mace","Elder Item","Source: Drops from unique{The Elder}","Variant: Pre 3.4.0","Variant: Current","Requires Level 68, 212 Str","Implicits: 1","10% reduced Enemy Stun Threshold","Adds (45-60) to (100-120) Physical Damage","Gain (30-40)% of Physical Attack Damage as Extra Fire Damage","+4% to Chaos Resistance per Endurance Charge","1% reduced Elemental Damage taken from Hits per Endurance Charge","Adds 5 to 8 Physical Damage per Endurance Charge","+500 to Armour per Endurance Charge","{variant:1}400 Fire Damage taken per second per Endurance Charge if you've been Hit Recently","{variant:2}200 Fire Damage taken per second per Endurance Charge if you've been Hit Recently"],
+    "variants":["Pre 3.4.0","Current"]
+  },
+  "Nycta's Lantern":{
+    "baseType":"Crystal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2}20% increased Elemental Damage","{variant:3,4,5}30% increased Elemental Damage","{variant:4}+2 to Level of Socketed Fire Gems","{variant:4}Socketed Gems deal 63 to 94 additional Fire Damage","{variant:1,2,3,4}(20-30)% increased Spell Damage","{variant:2,3,4,5}(150-200)% increased Physical Damage","{variant:5}Adds (76-98) to (161-176) Fire Damage","{variant:1,2,3,4}25% increased Light Radius","{variant:5}50% increased Light Radius","{variant:5}Battlemage"],
+    "name":"Nycta's Lantern",
+    "originalString":"Nycta's Lantern\nCrystal Sceptre\nVariant: Pre 2.0.0\nVariant: Pre 2.3.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 41, 59 Str, 85 Int\nImplicits: 2\n{variant:1,2}20% increased Elemental Damage\n{variant:3,4,5}30% increased Elemental Damage\n{variant:4}+2 to Level of Socketed Fire Gems\n{variant:1,2,3}Socketed Gems are Supported by Level 10 Added Fire Damage\n{variant:1,2,3}Socketed Gems are Supported by Level 10 Cold to Fire\n{variant:1,2,3,4}Socketed Gems are Supported by Level 10 Fire Penetration\n{variant:4}Socketed Gems deal 63 to 94 additional Fire Damage\n{variant:1,2,3,4}(20-30)% increased Spell Damage\n{variant:2,3,4,5}(150-200)% increased Physical Damage\n{variant:5}Adds (76-98) to (161-176) Fire Damage\n{variant:1,2,3,4}Grants (6-10) Life per Enemy Hit\n{variant:1,2,3,4}25% increased Light Radius\n{variant:5}50% increased Light Radius\n{variant:5}Battlemage\n",
+    "requirements":{
+      "level":41
+    },
+    "stats":["Nycta's Lantern","Crystal Sceptre","Variant: Pre 2.0.0","Variant: Pre 2.3.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 41, 59 Str, 85 Int","Implicits: 2","{variant:1,2}20% increased Elemental Damage","{variant:3,4,5}30% increased Elemental Damage","{variant:4}+2 to Level of Socketed Fire Gems","{variant:1,2,3}Socketed Gems are Supported by Level 10 Added Fire Damage","{variant:1,2,3}Socketed Gems are Supported by Level 10 Cold to Fire","{variant:1,2,3,4}Socketed Gems are Supported by Level 10 Fire Penetration","{variant:4}Socketed Gems deal 63 to 94 additional Fire Damage","{variant:1,2,3,4}(20-30)% increased Spell Damage","{variant:2,3,4,5}(150-200)% increased Physical Damage","{variant:5}Adds (76-98) to (161-176) Fire Damage","{variant:1,2,3,4}Grants (6-10) Life per Enemy Hit","{variant:1,2,3,4}25% increased Light Radius","{variant:5}50% increased Light Radius","{variant:5}Battlemage"],
+    "variants":["Pre 2.0.0","Pre 2.3.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Panquetzaliztli":{
+    "baseType":"Jagged Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["30% increased Stun Duration on Enemies","(80-100)% increased Physical Damage","+(25-50) to all Attributes","Enemies killed explode dealing 10% of their Life as Fire Damage","Recover 5% of Life on Kill"],
+    "name":"Panquetzaliztli",
+    "originalString":"Panquetzaliztli\nJagged Maul\nSource: No longer obtainable\nRequires Level 61, 77 Str\nImplicits: 1\n30% increased Stun Duration on Enemies\n(80-100)% increased Physical Damage\nAdds (94-98) to (115-121) Physical Damage\n+(25-50) to all Attributes\nEnemies killed explode dealing 10% of their Life as Fire Damage\nRecover 5% of Life on Kill\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"No longer obtainable",
+    "stats":["Panquetzaliztli","Jagged Maul","Source: No longer obtainable","Requires Level 61, 77 Str","Implicits: 1","30% increased Stun Duration on Enemies","(80-100)% increased Physical Damage","Adds (94-98) to (115-121) Physical Damage","+(25-50) to all Attributes","Enemies killed explode dealing 10% of their Life as Fire Damage","Recover 5% of Life on Kill"],
+    "variants":[]
+  },
+  "Quecholli":{
+    "baseType":"Jagged Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","(80-100)% increased Physical Damage","+(25-50) to all Attributes","Enemies killed explode dealing 10% of their Life as Fire Damage"],
+    "name":"Quecholli",
+    "originalString":"Quecholli\nJagged Maul\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 22, 77 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}30% increased Stun Duration on Enemies\n(80-100)% increased Physical Damage\nAdds 5 to 25 Physical Damage\n+(25-50) to all Attributes\nGain 10 Life per Enemy Killed\nEnemies killed explode dealing 10% of their Life as Fire Damage\n",
+    "requirements":{
+      "level":22
+    },
+    "stats":["Quecholli","Jagged Maul","Variant: Pre 2.6.0","Variant: Current","Requires Level 22, 77 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","(80-100)% increased Physical Damage","Adds 5 to 25 Physical Damage","+(25-50) to all Attributes","Gain 10 Life per Enemy Killed","Enemies killed explode dealing 10% of their Life as Fire Damage"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Replica Bitterdream":{
+    "baseType":"Shadow Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["22% increased Elemental Damage","{variant:1}Socketed Gems are Supported by Level 1 Elemental Penetration","{variant:2}Socketed Gems are Supported by Level 15 Elemental Penetration"],
+    "name":"Replica Bitterdream",
+    "originalString":"Replica Bitterdream\nShadow Sceptre\nVariant: Pre 3.23.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 32, 52 Str, 62 Int\nImplicits: 1\n22% increased Elemental Damage\n{variant:1}Socketed Gems are Supported by Level 1 Elemental Penetration\n{variant:2}Socketed Gems are Supported by Level 15 Elemental Penetration\nSocketed Gems are Supported by Level 15 Immolate\nSocketed Gems are Supported by Level 15 Unbound Ailments\nSocketed Gems are Supported by Level 15 Ice Bite\nSocketed Gems are Supported by Level 15 Inspiration\nSocketed Gems are Supported by Level 15 Innervate\n",
+    "requirements":{
+      "level":32
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Bitterdream","Shadow Sceptre","Variant: Pre 3.23.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 32, 52 Str, 62 Int","Implicits: 1","22% increased Elemental Damage","{variant:1}Socketed Gems are Supported by Level 1 Elemental Penetration","{variant:2}Socketed Gems are Supported by Level 15 Elemental Penetration","Socketed Gems are Supported by Level 15 Immolate","Socketed Gems are Supported by Level 15 Unbound Ailments","Socketed Gems are Supported by Level 15 Ice Bite","Socketed Gems are Supported by Level 15 Inspiration","Socketed Gems are Supported by Level 15 Innervate"],
+    "variants":["Pre 3.23.0","Current"]
+  },
+  "Replica Earendel's Embrace":{
+    "baseType":"Grinning Fetish",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["18% increased Elemental Damage","+(20-30) to all Attributes","Minions deal (30-40)% increased Damage","Raised Zombies take (15.0-30.0)% of their Maximum Life per second as Fire Damage"],
+    "name":"Replica Earendel's Embrace",
+    "originalString":"Replica Earendel's Embrace\nGrinning Fetish\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 35, 62 Str, 62 Int\nImplicits: 1\n18% increased Elemental Damage\n+(20-30) to all Attributes\nMinions deal (30-40)% increased Damage\nRaised Zombies Cover Enemies in Ash on Hit\nRaised Zombies take (15.0-30.0)% of their Maximum Life per second as Fire Damage\nRaised Zombies have Avatar of Fire\n",
+    "requirements":{
+      "level":35
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Earendel's Embrace","Grinning Fetish","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 35, 62 Str, 62 Int","Implicits: 1","18% increased Elemental Damage","+(20-30) to all Attributes","Minions deal (30-40)% increased Damage","Raised Zombies Cover Enemies in Ash on Hit","Raised Zombies take (15.0-30.0)% of their Maximum Life per second as Fire Damage","Raised Zombies have Avatar of Fire"],
+    "variants":[]
+  },
+  "Replica Frostbreath":{
+    "baseType":"Ornate Mace",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["15% reduced Enemy Stun Threshold","(8-14)% increased Attack Speed","+(23-31)% to Chaos Resistance"],
+    "name":"Replica Frostbreath",
+    "originalString":"Replica Frostbreath\nOrnate Mace\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 50, 161 Str\nImplicits: 1\n15% reduced Enemy Stun Threshold\nAdds (53-67) to (71-89) Chaos Damage\n(8-14)% increased Attack Speed\n+(23-31)% to Chaos Resistance\nYour Chaos Damage can Chill\nAttacks with this Weapon deal Double Damage to Chilled Enemies\n",
+    "requirements":{
+      "level":50
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Frostbreath","Ornate Mace","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 50, 161 Str","Implicits: 1","15% reduced Enemy Stun Threshold","Adds (53-67) to (71-89) Chaos Damage","(8-14)% increased Attack Speed","+(23-31)% to Chaos Resistance","Your Chaos Damage can Chill","Attacks with this Weapon deal Double Damage to Chilled Enemies"],
+    "variants":[]
+  },
+  "Replica Kongor's Undying Rage":{
+    "baseType":"Terror Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["25% chance to double Stun Duration","(30-40)% increased Critical Strike Chance","+(15-20)% to all Elemental Resistances","Regenerate 20% of Energy Shield per second if you've dealt a Critical Strike with this weapon Recently"],
+    "name":"Replica Kongor's Undying Rage",
+    "originalString":"Replica Kongor's Undying Rage\nTerror Maul\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 67, 212 Str\nImplicits: 1\n25% chance to double Stun Duration\nAdds (43-56) to (330-400) Physical Damage\n(30-40)% increased Critical Strike Chance\n+(15-20)% to all Elemental Resistances\nHits can't be Evaded\nYour Critical Strikes do not deal extra Damage\nRegenerate 20% of Energy Shield per second if you've dealt a Critical Strike with this weapon Recently\n",
+    "requirements":{
+      "level":67
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Kongor's Undying Rage","Terror Maul","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 67, 212 Str","Implicits: 1","25% chance to double Stun Duration","Adds (43-56) to (330-400) Physical Damage","(30-40)% increased Critical Strike Chance","+(15-20)% to all Elemental Resistances","Hits can't be Evaded","Your Critical Strikes do not deal extra Damage","Regenerate 20% of Energy Shield per second if you've dealt a Critical Strike with this weapon Recently"],
+    "variants":[]
+  },
+  "Replica Nebulis":{
+    "baseType":"Void Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["40% increased Elemental Damage","{fractured}(15-20)% increased Cast Speed","(15-20)% increased Cold Damage per 1% Missing Cold Resistance, up to a maximum of 300%","(15-20)% increased Fire Damage per 1% Missing Fire Resistance, up to a maximum of 300%"],
+    "name":"Replica Nebulis",
+    "originalString":"Replica Nebulis\nVoid Sceptre\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 68, 104 Str, 122 Int\nImplicits: 1\n40% increased Elemental Damage\n{fractured}(15-20)% increased Cast Speed\n(15-20)% increased Cold Damage per 1% Missing Cold Resistance, up to a maximum of 300%\n(15-20)% increased Fire Damage per 1% Missing Fire Resistance, up to a maximum of 300%\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Nebulis","Void Sceptre","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 68, 104 Str, 122 Int","Implicits: 1","40% increased Elemental Damage","{fractured}(15-20)% increased Cast Speed","(15-20)% increased Cold Damage per 1% Missing Cold Resistance, up to a maximum of 300%","(15-20)% increased Fire Damage per 1% Missing Fire Resistance, up to a maximum of 300%"],
+    "variants":[]
+  },
+  "Replica Trypanon":{
+    "baseType":"Great Mallet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Heist",
+    "modifiers":["30% increased Stun Duration on Enemies","-5000 to Accuracy Rating","This Weapon's Critical Strike Chance is 100%"],
+    "name":"Replica Trypanon",
+    "originalString":"Replica Trypanon\nGreat Mallet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 40, 131 Str\nImplicits: 1\n30% increased Stun Duration on Enemies\n-5000 to Accuracy Rating\nThis Weapon's Critical Strike Chance is 100%\n",
+    "requirements":{
+      "level":40
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Trypanon","Great Mallet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 40, 131 Str","Implicits: 1","30% increased Stun Duration on Enemies","-5000 to Accuracy Rating","This Weapon's Critical Strike Chance is 100%"],
+    "variants":[]
+  },
+  "Serle's Masterwork":{
+    "baseType":"Phantom Mace",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Settlers of Kalguur",
+    "modifiers":["10% reduced Enemy Stun Threshold","+(30-40) to Strength","+(30-40) to Dexterity","(150-250)% increased Physical Damage","+(400-500) to Accuracy Rating"],
+    "name":"Serle's Masterwork",
+    "originalString":"Serle's Masterwork\nPhantom Mace\nLeague: Settlers of Kalguur\nRequires Level 53, 170 Str\nImplicits: 1\n10% reduced Enemy Stun Threshold\n+(30-40) to Strength\n+(30-40) to Dexterity\n(150-250)% increased Physical Damage\n+(400-500) to Accuracy Rating\nCan have 2 additional Runesmithing Enchantments\nCan be Enchanted by a Kalguuran Runesmith\n",
+    "requirements":{
+      "level":53
+    },
+    "stats":["Serle's Masterwork","Phantom Mace","League: Settlers of Kalguur","Requires Level 53, 170 Str","Implicits: 1","10% reduced Enemy Stun Threshold","+(30-40) to Strength","+(30-40) to Dexterity","(150-250)% increased Physical Damage","+(400-500) to Accuracy Rating","Can have 2 additional Runesmithing Enchantments","Can be Enchanted by a Kalguuran Runesmith"],
+    "variants":[]
+  },
+  "Sign of the Sin Eater":{
+    "baseType":"Tyrant's Sekhem",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Legion",
+    "modifiers":["26% increased Elemental Damage","+(10-30) to Strength and Intelligence"],
+    "name":"Sign of the Sin Eater",
+    "originalString":"Sign of the Sin Eater\nTyrant's Sekhem\nLeague: Legion\nRequires Level 58, 99 Str, 99 Int\nImplicits: 1\n26% increased Elemental Damage\n+(10-30) to Strength and Intelligence\nGrants Level 30 Smite Skill\nEnemies inflict Elemental Ailments on you instead of nearby Allies\n",
+    "requirements":{
+      "level":58
+    },
+    "stats":["Sign of the Sin Eater","Tyrant's Sekhem","League: Legion","Requires Level 58, 99 Str, 99 Int","Implicits: 1","26% increased Elemental Damage","+(10-30) to Strength and Intelligence","Grants Level 30 Smite Skill","Enemies inflict Elemental Ailments on you instead of nearby Allies"],
+    "variants":[]
+  },
+  "Singularity":{
+    "baseType":"Platinum Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2,3}30% increased Elemental Damage","{variant:3}Adds (1-10) to (150-200) Lightning Damage to Spells","(14-18)% increased Cast Speed","(6-8)% reduced Mana Cost of Skills","Nearby Enemies are Hindered, with 25% reduced Movement Speed","{variant:1,2}(60-80)% increased Damage with Hits and Ailments against Hindered Enemies","{variant:3}100% increased Damage with Hits and Ailments against Hindered Enemies"],
+    "name":"Singularity",
+    "originalString":"Singularity\nPlatinum Sceptre\nVariant: Pre 2.3.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 62, 113 Str, 113 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2,3}30% increased Elemental Damage\n{variant:1,2}Adds (30-40) to (60-70) Lightning Damage to Spells\n{variant:3}Adds (1-10) to (150-200) Lightning Damage to Spells\n(14-18)% increased Cast Speed\n(6-8)% reduced Mana Cost of Skills\nNearby Enemies are Hindered, with 25% reduced Movement Speed\n{variant:1,2}(60-80)% increased Damage with Hits and Ailments against Hindered Enemies\n{variant:3}100% increased Damage with Hits and Ailments against Hindered Enemies\n",
+    "requirements":{
+      "level":62
+    },
+    "stats":["Singularity","Platinum Sceptre","Variant: Pre 2.3.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 62, 113 Str, 113 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2,3}30% increased Elemental Damage","{variant:1,2}Adds (30-40) to (60-70) Lightning Damage to Spells","{variant:3}Adds (1-10) to (150-200) Lightning Damage to Spells","(14-18)% increased Cast Speed","(6-8)% reduced Mana Cost of Skills","Nearby Enemies are Hindered, with 25% reduced Movement Speed","{variant:1,2}(60-80)% increased Damage with Hits and Ailments against Hindered Enemies","{variant:3}100% increased Damage with Hits and Ailments against Hindered Enemies"],
+    "variants":["Pre 2.3.0","Pre 3.19.0","Current"]
+  },
+  "Spine of the First Claimant":{
+    "baseType":"Iron Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}10% increased Elemental Damage","{variant:2,3}14% increased Elemental Damage","(100-140)% increased Physical Damage","40% increased Damage with Hits against Frozen Enemies","(30-50)% increased Cold Damage","{variant:3}+(25-35)% to Cold Damage over Time Multiplier","(5-10)% increased Attack Speed","(4-8)% increased Cast Speed","5% chance to Freeze"],
+    "name":"Spine of the First Claimant",
+    "originalString":"Spine of the First Claimant\nIron Sceptre\nSource: No longer obtainable\nVariant: Pre 2.3.0\nVariant: Pre 3.5.0\nVariant: Current\nRequires Level 20, 38 Str, 38 Int\nImplicits: 2\n{variant:1}10% increased Elemental Damage\n{variant:2,3}14% increased Elemental Damage\n(100-140)% increased Physical Damage\n40% increased Damage with Hits against Frozen Enemies\n(30-50)% increased Cold Damage\n{variant:3}+(25-35)% to Cold Damage over Time Multiplier\n(5-10)% increased Attack Speed\n(4-8)% increased Cast Speed\n5% chance to Freeze\n",
+    "requirements":{
+      "level":20
+    },
+    "source":"No longer obtainable",
+    "stats":["Spine of the First Claimant","Iron Sceptre","Source: No longer obtainable","Variant: Pre 2.3.0","Variant: Pre 3.5.0","Variant: Current","Requires Level 20, 38 Str, 38 Int","Implicits: 2","{variant:1}10% increased Elemental Damage","{variant:2,3}14% increased Elemental Damage","(100-140)% increased Physical Damage","40% increased Damage with Hits against Frozen Enemies","(30-50)% increased Cold Damage","{variant:3}+(25-35)% to Cold Damage over Time Multiplier","(5-10)% increased Attack Speed","(4-8)% increased Cast Speed","5% chance to Freeze"],
+    "variants":["Pre 2.3.0","Pre 3.5.0","Current"]
+  },
+  "Tawhoa's Felling":{
+    "baseType":"Piledriver",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Settlers of Kalguur",
+    "modifiers":["20% reduced Enemy Stun Threshold","+(30-40) to Strength","(250-300)% increased Physical Damage","(20-30)% increased Stun Duration on Enemies","(20-30)% reduced Enemy Stun Threshold with this Weapon"],
+    "name":"Tawhoa's Felling",
+    "originalString":"Tawhoa's Felling\nPiledriver\nLeague: Settlers of Kalguur\nRequires Level 61, 212 Str\nImplicits: 1\n20% reduced Enemy Stun Threshold\nTrigger Level 20 Tawhoa's Chosen when you Attack with a Non-Vaal Slam or Strike Skill near an Enemy\n+(30-40) to Strength\n(250-300)% increased Physical Damage\n(20-30)% increased Stun Duration on Enemies\n(20-30)% reduced Enemy Stun Threshold with this Weapon\n",
+    "requirements":{
+      "level":61
+    },
+    "stats":["Tawhoa's Felling","Piledriver","League: Settlers of Kalguur","Requires Level 61, 212 Str","Implicits: 1","20% reduced Enemy Stun Threshold","Trigger Level 20 Tawhoa's Chosen when you Attack with a Non-Vaal Slam or Strike Skill near an Enemy","+(30-40) to Strength","(250-300)% increased Physical Damage","(20-30)% increased Stun Duration on Enemies","(20-30)% reduced Enemy Stun Threshold with this Weapon"],
+    "variants":[]
+  },
+  "The Black Cane":{
+    "baseType":"Royal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "modifiers":["24% increased Elemental Damage","+(20-30) to Intelligence","(8-15)% increased Cast Speed","(40-60)% increased Mana Regeneration Rate","Minions deal (40-60)% increased Damage"],
+    "name":"The Black Cane",
+    "originalString":"The Black Cane\nRoyal Sceptre\nRequires Level 50, 86 Str, 86 Int\nImplicits: 1\n24% increased Elemental Damage\n+(20-30) to Intelligence\n(8-15)% increased Cast Speed\n(40-60)% increased Mana Regeneration Rate\nMinions deal (40-60)% increased Damage\nEach Summoned Phantasm grants you Phantasmal Might\n",
+    "requirements":{
+      "level":50
+    },
+    "stats":["The Black Cane","Royal Sceptre","Requires Level 50, 86 Str, 86 Int","Implicits: 1","24% increased Elemental Damage","+(20-30) to Intelligence","(8-15)% increased Cast Speed","(40-60)% increased Mana Regeneration Rate","Minions deal (40-60)% increased Damage","Each Summoned Phantasm grants you Phantasmal Might"],
+    "variants":[]
+  },
+  "The Dark Seer":{
+    "baseType":"Shadow Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "league":" Beyond",
+    "modifiers":["{variant:1}15% increased Elemental Damage","{variant:2,3,4,5,6,7,8,9,10,11}22% increased Elemental Damage","{variant:1,2,3,4,5}(30-50)% increased Global Damage","{variant:6,7,8}(40-60)% increased Global Damage","{variant:1,2,3,4,5}7% Global chance to Blind Enemies on hit","{variant:6,7,8,9,10,11}10% Global chance to Blind Enemies on hit"],
+    "name":"The Dark Seer",
+    "originalString":"The Dark Seer\nShadow Sceptre\nLeague: Beyond\nVariant: Pre 2.3.0\nVariant: Pre 3.0.0\nVariant: Pre 3.11.0 (Life/Mana)\nVariant: Pre 3.11.0 (Life/ES)\nVariant: Pre 3.11.0 (Mana/ES)\nVariant: Pre 3.24.0 (Life/Mana)\nVariant: Pre 3.24.0 (Life/ES)\nVariant: Pre 3.24.0 (Mana/ES)\nVariant: Current (Life/Mana)\nVariant: Current (Life/ES)\nVariant: Current (Mana/ES)\nRequires Level 32, 52 Str, 62 Int\nImplicits: 2\n{variant:1}15% increased Elemental Damage\n{variant:2,3,4,5,6,7,8,9,10,11}22% increased Elemental Damage\n{variant:1,2,3,4,5}(30-50)% increased Global Damage\n{variant:6,7,8}(40-60)% increased Global Damage\n{variant:9,10,11}+2 to Level of All Spell Skill Gems\n{variant:1,2,3,4,5}7% Global chance to Blind Enemies on hit\n{variant:6,7,8,9,10,11}10% Global chance to Blind Enemies on hit\nBlind does not affect your Chance to Hit\nEnemies Blinded by you have Malediction\n{variant:1,2}Gain 1 Mana on Kill per Level\n{variant:1,2}Gain 1 Energy Shield on Kill per Level\n{variant:3,4,6,7}+1 to maximum Life per Level\n{variant:9,10}+(1-2) to maximum Life per Level\n{variant:3,5,6,8}+1 to maximum Mana per Level\n{variant:9,11}+(1-2) to maximum Mana per Level\n{variant:4,5,7,8}+1 to maximum Energy Shield per Level\n{variant:10,11}+(1-2) to maximum Energy Shield per Level\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["The Dark Seer","Shadow Sceptre","League: Beyond","Variant: Pre 2.3.0","Variant: Pre 3.0.0","Variant: Pre 3.11.0 (Life/Mana)","Variant: Pre 3.11.0 (Life/ES)","Variant: Pre 3.11.0 (Mana/ES)","Variant: Pre 3.24.0 (Life/Mana)","Variant: Pre 3.24.0 (Life/ES)","Variant: Pre 3.24.0 (Mana/ES)","Variant: Current (Life/Mana)","Variant: Current (Life/ES)","Variant: Current (Mana/ES)","Requires Level 32, 52 Str, 62 Int","Implicits: 2","{variant:1}15% increased Elemental Damage","{variant:2,3,4,5,6,7,8,9,10,11}22% increased Elemental Damage","{variant:1,2,3,4,5}(30-50)% increased Global Damage","{variant:6,7,8}(40-60)% increased Global Damage","{variant:9,10,11}+2 to Level of All Spell Skill Gems","{variant:1,2,3,4,5}7% Global chance to Blind Enemies on hit","{variant:6,7,8,9,10,11}10% Global chance to Blind Enemies on hit","Blind does not affect your Chance to Hit","Enemies Blinded by you have Malediction","{variant:1,2}Gain 1 Mana on Kill per Level","{variant:1,2}Gain 1 Energy Shield on Kill per Level","{variant:3,4,6,7}+1 to maximum Life per Level","{variant:9,10}+(1-2) to maximum Life per Level","{variant:3,5,6,8}+1 to maximum Mana per Level","{variant:9,11}+(1-2) to maximum Mana per Level","{variant:4,5,7,8}+1 to maximum Energy Shield per Level","{variant:10,11}+(1-2) to maximum Energy Shield per Level"],
+    "variants":["Pre 2.3.0","Pre 3.0.0","Pre 3.11.0 (Life/Mana)","Pre 3.11.0 (Life/ES)","Pre 3.11.0 (Mana/ES)","Pre 3.24.0 (Life/Mana)","Pre 3.24.0 (Life/ES)","Pre 3.24.0 (Mana/ES)","Current (Life/Mana)","Current (Life/ES)","Current (Mana/ES)"]
+  },
+  "The Supreme Truth":{
+    "baseType":"Crystal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2}20% increased Elemental Damage","{variant:3}30% increased Elemental Damage","+1 to Level of Socketed Gems","(80-100)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}5% increased Experience gain","{variant:2,3}3% increased Experience gain","20% increased Elemental Damage","60% increased Intelligence Requirement"],
+    "name":"The Supreme Truth",
+    "originalString":"The Supreme Truth\nCrystal Sceptre\nVariant: Pre 2.0.0\nVariant: Pre 2.3.0\nVariant: Current\nRequires Level 41, 59 Str, 136 Int\nImplicits: 2\n{variant:1,2}20% increased Elemental Damage\n{variant:3}30% increased Elemental Damage\n+1 to Level of Socketed Gems\n(80-100)% increased Physical Damage\n(10-20)% increased Attack Speed\n{variant:1}5% increased Experience gain\n{variant:2,3}3% increased Experience gain\n20% increased Elemental Damage\n60% increased Intelligence Requirement\n",
+    "requirements":{
+      "level":41
+    },
+    "stats":["The Supreme Truth","Crystal Sceptre","Variant: Pre 2.0.0","Variant: Pre 2.3.0","Variant: Current","Requires Level 41, 59 Str, 136 Int","Implicits: 2","{variant:1,2}20% increased Elemental Damage","{variant:3}30% increased Elemental Damage","+1 to Level of Socketed Gems","(80-100)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}5% increased Experience gain","{variant:2,3}3% increased Experience gain","20% increased Elemental Damage","60% increased Intelligence Requirement"],
+    "variants":["Pre 2.0.0","Pre 2.3.0","Current"]
+  },
+  "Tidebreaker":{
+    "baseType":"Imperial Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1,2}30% increased Stun Duration on Enemies","{variant:3}10% increased Strength","{variant:1}Adds (60-70) to (300-350) Physical Damage","+40 to Intelligence","10% increased Physical Damage per Endurance Charge","(20-30)% reduced Enemy Stun Threshold with this Weapon"],
+    "name":"Tidebreaker",
+    "originalString":"Tidebreaker\nImperial Maul\nVariant: Pre 3.5.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 65, 212 Str\nImplicits: 2\n{variant:1,2}30% increased Stun Duration on Enemies\n{variant:3}10% increased Strength\nSocketed Gems are Supported by Level 20 Endurance Charge on Melee Stun\n{variant:1}Adds (60-70) to (300-350) Physical Damage\n{variant:2,3}Adds (70-80) to (340-375) Physical Damage\n+40 to Intelligence\n10% increased Physical Damage per Endurance Charge\n(20-30)% reduced Enemy Stun Threshold with this Weapon\n",
+    "requirements":{
+      "level":65
+    },
+    "stats":["Tidebreaker","Imperial Maul","Variant: Pre 3.5.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 65, 212 Str","Implicits: 2","{variant:1,2}30% increased Stun Duration on Enemies","{variant:3}10% increased Strength","Socketed Gems are Supported by Level 20 Endurance Charge on Melee Stun","{variant:1}Adds (60-70) to (300-350) Physical Damage","{variant:2,3}Adds (70-80) to (340-375) Physical Damage","+40 to Intelligence","10% increased Physical Damage per Endurance Charge","(20-30)% reduced Enemy Stun Threshold with this Weapon"],
+    "variants":["Pre 3.5.0","Pre 3.11.0","Current"]
+  },
+  "Trypanon":{
+    "baseType":"Great Mallet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "league":" Perandus",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","50% reduced Attack Speed","This Weapon's Critical Strike Chance is 100%"],
+    "name":"Trypanon",
+    "originalString":"Trypanon\nGreat Mallet\nLeague: Perandus\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 40, 131 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}30% increased Stun Duration on Enemies\n50% reduced Attack Speed\nThis Weapon's Critical Strike Chance is 100%\n",
+    "requirements":{
+      "level":40
+    },
+    "stats":["Trypanon","Great Mallet","League: Perandus","Variant: Pre 2.6.0","Variant: Current","Requires Level 40, 131 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","50% reduced Attack Speed","This Weapon's Critical Strike Chance is 100%"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Voidhome":{
+    "baseType":"Dread Maul",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"mace",
+    "modifiers":["{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","150% increased Physical Damage","50% increased Attack Speed","(30-50)% reduced Rarity of Items found","(30-50)% reduced Experience gain","0.4% of Physical Attack Damage Leeched as Mana"],
+    "name":"Voidhome",
+    "originalString":"Voidhome\nDread Maul\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 54, 173 Str\nImplicits: 2\n{variant:1}20% increased Stun Duration on Enemies\n{variant:2}30% increased Stun Duration on Enemies\n150% increased Physical Damage\n50% increased Attack Speed\n(30-50)% reduced Rarity of Items found\n(30-50)% reduced Experience gain\n0.4% of Physical Attack Damage Leeched as Mana\n",
+    "requirements":{
+      "level":54
+    },
+    "stats":["Voidhome","Dread Maul","Variant: Pre 2.6.0","Variant: Current","Requires Level 54, 173 Str","Implicits: 2","{variant:1}20% increased Stun Duration on Enemies","{variant:2}30% increased Stun Duration on Enemies","150% increased Physical Damage","50% increased Attack Speed","(30-50)% reduced Rarity of Items found","(30-50)% reduced Experience gain","0.4% of Physical Attack Damage Leeched as Mana"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Yaomac's Accord":{
+    "baseType":"Vaal Sceptre",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Ultimatum",
+    "modifiers":["32% increased Elemental Damage","(80-120)% increased Damage with Vaal Skills","(6-8)% reduced Soul Gain Prevention Duration"],
+    "name":"Yaomac's Accord",
+    "originalString":"Yaomac's Accord\nVaal Sceptre\nLeague: Ultimatum\nSource: Drops from unique{The Trialmaster}\nRequires Level 64, 113 Str, 113 Int\nImplicits: 1\n32% increased Elemental Damage\n(80-120)% increased Damage with Vaal Skills\n(6-8)% reduced Soul Gain Prevention Duration\nGain an Endurance Charge, Frenzy Charge, and Power Charge when you use a Vaal Skill\nShepherd of Souls\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Drops from unique{The Trialmaster}",
+    "stats":["Yaomac's Accord","Vaal Sceptre","League: Ultimatum","Source: Drops from unique{The Trialmaster}","Requires Level 64, 113 Str, 113 Int","Implicits: 1","32% increased Elemental Damage","(80-120)% increased Damage with Vaal Skills","(6-8)% reduced Soul Gain Prevention Duration","Gain an Endurance Charge, Frenzy Charge, and Power Charge when you use a Vaal Skill","Shepherd of Souls"],
+    "variants":[]
+  }
+}

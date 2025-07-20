@@ -1,0 +1,1156 @@
+{
+  "Abberath's Hooves":{
+    "baseType":"Goathide Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(20-30) to Strength","15% increased Movement Speed","(6-10)% chance to Ignite","1% increased Fire Damage per 20 Strength"],
+    "name":"Abberath's Hooves",
+    "originalString":"Abberath's Hooves\nGoathide Boots\nRequires Level 12, 26 Dex\nTriggers Level 7 Abberath's Fury when Equipped\n+(20-30) to Strength\n15% increased Movement Speed\n(6-10)% chance to Ignite\nWhen you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy\n1% increased Fire Damage per 20 Strength\nBurning Hoofprints\n",
+    "requirements":{
+      "level":12
+    },
+    "stats":["Abberath's Hooves","Goathide Boots","Requires Level 12, 26 Dex","Triggers Level 7 Abberath's Fury when Equipped","+(20-30) to Strength","15% increased Movement Speed","(6-10)% chance to Ignite","When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy","1% increased Fire Damage per 20 Strength","Burning Hoofprints"],
+    "variants":[]
+  },
+  "Alberon's Warpath":{
+    "baseType":"Soldier Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(15-18)% increased Strength","+(180-220) to Armour","{variant:1}+(9-12)% to Chaos Resistance","{variant:2}+(13-19)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed","{variant:1}+1 to Maximum number of Skeletons","{variant:2}Summoned Skeleton Warriors are Permanent and Follow you","{variant:2}Summon Skeletons cannot Summon more than 1 Skeleton Warrior"],
+    "name":"Alberon's Warpath",
+    "originalString":"Alberon's Warpath\nSoldier Boots\nVariant: Pre 3.19.0\nVariant: Current\n(15-18)% increased Strength\nAdds 1 to 80 Chaos Damage to Attacks\n+(180-220) to Armour\n{variant:1}+(9-12)% to Chaos Resistance\n{variant:2}+(13-19)% to Chaos Resistance\n{variant:1}20% increased Movement Speed\n{variant:2}25% increased Movement Speed\n{variant:1}+1 to Maximum number of Skeletons\n{variant:2}Summoned Skeleton Warriors are Permanent and Follow you\n{variant:2}Summon Skeletons cannot Summon more than 1 Skeleton Warrior\n",
+    "requirements":[],
+    "stats":["Alberon's Warpath","Soldier Boots","Variant: Pre 3.19.0","Variant: Current","(15-18)% increased Strength","Adds 1 to 80 Chaos Damage to Attacks","+(180-220) to Armour","{variant:1}+(9-12)% to Chaos Resistance","{variant:2}+(13-19)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed","{variant:1}+1 to Maximum number of Skeletons","{variant:2}Summoned Skeleton Warriors are Permanent and Follow you","{variant:2}Summon Skeletons cannot Summon more than 1 Skeleton Warrior"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Annihilation's Approach":{
+    "baseType":"Dragonscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(60-100)% increased Armour and Evasion","30% increased Movement Speed","{variant:1}Take 10000 Fire Damage per Second while Flame-Touched","{variant:2}Take 6000 Fire Damage per Second while Flame-Touched"],
+    "name":"Annihilation's Approach",
+    "originalString":"Annihilation's Approach\nDragonscale Boots\nVariant: Pre 3.23.0\nVariant: Current\nSource: Drops from unique{The Searing Exarch} (Uber)\nGrants Level 20 Approaching Flames Skill\n(60-100)% increased Armour and Evasion\n30% increased Movement Speed\nCannot be Chilled\nCannot be Frozen\n{variant:1}Take 10000 Fire Damage per Second while Flame-Touched\n{variant:2}Take 6000 Fire Damage per Second while Flame-Touched\nGain Adrenaline when you become Flame-Touched\nLose Adrenaline when you cease to be Flame-Touched\n",
+    "requirements":[],
+    "source":"Drops from unique{The Searing Exarch} (Uber)",
+    "stats":["Annihilation's Approach","Dragonscale Boots","Variant: Pre 3.23.0","Variant: Current","Source: Drops from unique{The Searing Exarch} (Uber)","Grants Level 20 Approaching Flames Skill","(60-100)% increased Armour and Evasion","30% increased Movement Speed","Cannot be Chilled","Cannot be Frozen","{variant:1}Take 10000 Fire Damage per Second while Flame-Touched","{variant:2}Take 6000 Fire Damage per Second while Flame-Touched","Gain Adrenaline when you become Flame-Touched","Lose Adrenaline when you cease to be Flame-Touched"],
+    "variants":["Pre 3.23.0","Current"]
+  },
+  "Atziri's Step":{
+    "baseType":"Slink Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["180% increased Evasion Rating","+(55-75) to maximum Life","30% increased Movement Speed","{variant:1}(21-24)% chance to Suppress Spell Damage","{variant:2}(20-26)% chance to Suppress Spell Damage"],
+    "name":"Atziri's Step",
+    "originalString":"Atziri's Step\nSlink Boots\nSource: Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 69, 120 Dex\n180% increased Evasion Rating\n+(55-75) to maximum Life\n30% increased Movement Speed\n{variant:1}(21-24)% chance to Suppress Spell Damage\n{variant:2}(20-26)% chance to Suppress Spell Damage\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
+    "stats":["Atziri's Step","Slink Boots","Source: Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}","Variant: Pre 3.16.0","Variant: Current","Requires Level 69, 120 Dex","180% increased Evasion Rating","+(55-75) to maximum Life","30% increased Movement Speed","{variant:1}(21-24)% chance to Suppress Spell Damage","{variant:2}(20-26)% chance to Suppress Spell Damage"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Beacon of Madness":{
+    "baseType":"{variant:1}Two-Toned Boots (Armour/Evasion)",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":3,
+    "itemType":"boots",
+    "league":" Delirium",
+    "modifiers":["{variant:2}Two-Toned Boots (Armour/Energy Shield)","{variant:3}Two-Toned Boots (Evasion/Energy Shield)","{variant:1}+(8-12)% to Fire and Cold Resistances","{variant:2}+(8-12)% to Fire and Lightning Resistances","{variant:3}+(8-12)% to Cold and Lightning Resistances","30% increased Movement Speed","{variant:1}(150-300)% increased Armour and Evasion","{variant:1}+15 to maximum Fortification while affected by Glorious Madness","{variant:1}20% chance to deal Double Damage while affected by Glorious Madness","{variant:2}(20-40)% increased Effect of Non-Damaging Ailments","{variant:2}You have Igniting, Chilling and Shocking Conflux while affected by Glorious Madness","{variant:2}Immune to Elemental Ailments while affected by Glorious Madness","{variant:3}(20-40)% increased Chaos Damage","{variant:3}Enemies you Kill while affected by Glorious Madness have a 40% chance to Explode, dealing a quarter of their Life as Chaos Damage","{variant:3}All Damage inflicts Poison while affected by Glorious Madness"],
+    "name":"Beacon of Madness",
+    "originalString":"Beacon of Madness\n{variant:1}Two-Toned Boots (Armour/Evasion)\n{variant:2}Two-Toned Boots (Armour/Energy Shield)\n{variant:3}Two-Toned Boots (Evasion/Energy Shield)\nVariant: Two-Toned Boots (Armour/Evasion)\nVariant: Two-Toned Boots (Armour/Energy Shield)\nVariant: Two-Toned Boots (Evasion/Energy Shield)\nLeague: Delirium\nImplicits: 3\n{variant:1}+(8-12)% to Fire and Cold Resistances\n{variant:2}+(8-12)% to Fire and Lightning Resistances\n{variant:3}+(8-12)% to Cold and Lightning Resistances\nGrants Level 1 Embrace Madness Skill\n30% increased Movement Speed\n{variant:1}(150-300)% increased Armour and Evasion\n{variant:1}+15 to maximum Fortification while affected by Glorious Madness\n{variant:1}20% chance to deal Double Damage while affected by Glorious Madness\n{variant:2}(20-40)% increased Effect of Non-Damaging Ailments\n{variant:2}You have Igniting, Chilling and Shocking Conflux while affected by Glorious Madness\n{variant:2}Immune to Elemental Ailments while affected by Glorious Madness\n{variant:3}(20-40)% increased Chaos Damage\n{variant:3}Enemies you Kill while affected by Glorious Madness have a 40% chance to Explode, dealing a quarter of their Life as Chaos Damage\n{variant:3}All Damage inflicts Poison while affected by Glorious Madness\n",
+    "requirements":[],
+    "stats":["Beacon of Madness","{variant:1}Two-Toned Boots (Armour/Evasion)","{variant:2}Two-Toned Boots (Armour/Energy Shield)","{variant:3}Two-Toned Boots (Evasion/Energy Shield)","Variant: Two-Toned Boots (Armour/Evasion)","Variant: Two-Toned Boots (Armour/Energy Shield)","Variant: Two-Toned Boots (Evasion/Energy Shield)","League: Delirium","Implicits: 3","{variant:1}+(8-12)% to Fire and Cold Resistances","{variant:2}+(8-12)% to Fire and Lightning Resistances","{variant:3}+(8-12)% to Cold and Lightning Resistances","Grants Level 1 Embrace Madness Skill","30% increased Movement Speed","{variant:1}(150-300)% increased Armour and Evasion","{variant:1}+15 to maximum Fortification while affected by Glorious Madness","{variant:1}20% chance to deal Double Damage while affected by Glorious Madness","{variant:2}(20-40)% increased Effect of Non-Damaging Ailments","{variant:2}You have Igniting, Chilling and Shocking Conflux while affected by Glorious Madness","{variant:2}Immune to Elemental Ailments while affected by Glorious Madness","{variant:3}(20-40)% increased Chaos Damage","{variant:3}Enemies you Kill while affected by Glorious Madness have a 40% chance to Explode, dealing a quarter of their Life as Chaos Damage","{variant:3}All Damage inflicts Poison while affected by Glorious Madness"],
+    "variants":["Two-Toned Boots (Armour/Evasion)","Two-Toned Boots (Armour/Energy Shield)","Two-Toned Boots (Evasion/Energy Shield)"]
+  },
+  "Bones of Ullr":{
+    "baseType":"Silk Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+20 to maximum Life","+20 to maximum Mana","(40-60)% increased Energy Shield","(5-15)% increased Movement Speed","{variant:1}+1 to Maximum number of Raised Zombies","{variant:1}+1 to Maximum number of Spectres","{variant:2}+1 to Level of all Raise Zombie Gems","{variant:2}+1 to Level of all Raise Spectre Gems"],
+    "name":"Bones of Ullr",
+    "originalString":"Bones of Ullr\nSilk Slippers\nVariant: Pre 3.8.0\nVariant: Current\nRequires Level 22, 42 Int\n+20 to maximum Life\n+20 to maximum Mana\n(40-60)% increased Energy Shield\n(5-15)% increased Movement Speed\n{variant:1}+1 to Maximum number of Raised Zombies\n{variant:1}+1 to Maximum number of Spectres\n{variant:2}+1 to Level of all Raise Zombie Gems\n{variant:2}+1 to Level of all Raise Spectre Gems\n",
+    "requirements":{
+      "level":22
+    },
+    "stats":["Bones of Ullr","Silk Slippers","Variant: Pre 3.8.0","Variant: Current","Requires Level 22, 42 Int","+20 to maximum Life","+20 to maximum Mana","(40-60)% increased Energy Shield","(5-15)% increased Movement Speed","{variant:1}+1 to Maximum number of Raised Zombies","{variant:1}+1 to Maximum number of Spectres","{variant:2}+1 to Level of all Raise Zombie Gems","{variant:2}+1 to Level of all Raise Spectre Gems"],
+    "variants":["Pre 3.8.0","Current"]
+  },
+  "Brinerot Whalers":{
+    "baseType":"Trapper Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Warbands",
+    "modifiers":["{variant:1}+(60-80) to maximum Energy Shield","{variant:2}+(120-150) to maximum Energy Shield","{variant:3}+(80-100) to maximum Energy Shield","20% increased Global Physical Damage","{variant:1}20% increased Movement Speed","{variant:2,3}25% increased Movement Speed","+(20-30)% to Lightning Resistance","(20-40)% increased Projectile Damage"],
+    "name":"Brinerot Whalers",
+    "originalString":"Brinerot Whalers\nTrapper Boots\nLeague: Warbands\nVariant: Pre 2.6.0\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 41, 40 Dex, 40 Int\n{variant:1}+(60-80) to maximum Energy Shield\n{variant:2}+(120-150) to maximum Energy Shield\n{variant:3}+(80-100) to maximum Energy Shield\n20% increased Global Physical Damage\n{variant:1}20% increased Movement Speed\n{variant:2,3}25% increased Movement Speed\n+(20-30)% to Lightning Resistance\n(20-40)% increased Projectile Damage\nUnaffected by Shocked Ground\n",
+    "requirements":{
+      "level":41
+    },
+    "stats":["Brinerot Whalers","Trapper Boots","League: Warbands","Variant: Pre 2.6.0","Variant: Pre 3.0.0","Variant: Current","Requires Level 41, 40 Dex, 40 Int","{variant:1}+(60-80) to maximum Energy Shield","{variant:2}+(120-150) to maximum Energy Shield","{variant:3}+(80-100) to maximum Energy Shield","20% increased Global Physical Damage","{variant:1}20% increased Movement Speed","{variant:2,3}25% increased Movement Speed","+(20-30)% to Lightning Resistance","(20-40)% increased Projectile Damage","Unaffected by Shocked Ground"],
+    "variants":["Pre 2.6.0","Pre 3.0.0","Current"]
+  },
+  "Bubonic Trail":{
+    "baseType":"Murder Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Abyss",
+    "modifiers":["{variant:1,2}(4-6)% increased maximum Life","{variant:3,4}(40-60)% reduced Duration of Elemental Ailments on You while affected by a Rare Abyss Jewel","{variant:1,2}30% increased Movement Speed","{variant:3,4}(24-32)% increased Movement Speed while affected by a Magic Abyss Jewel","{variant:1,2}10% increased Damage for each type of Abyssal Jewel affecting you","{variant:3,4}(16-24)% increased Reservation Efficiency while affected by a Unique Abyss Jewel"],
+    "name":"Bubonic Trail",
+    "originalString":"Bubonic Trail\nMurder Boots\nLeague: Abyss\nSource: Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}\nVariant: One Abyssal Socket (Pre 3.21.0)\nVariant: Two Abyssal Sockets (Pre 3.21.0)\nVariant: One Abyssal Socket (Current)\nVariant: Two Abyssal Sockets (Current)\nRequires Level 69, 82 Dex, 42 Int\n{variant:1,3}Has 1 Abyssal Socket\n{variant:2,4}Has 2 Abyssal Sockets\nTriggers Level 20 Death Walk when Equipped\n{variant:1,2}(4-6)% increased maximum Life\n{variant:3,4}(40-60)% reduced Duration of Elemental Ailments on You while affected by a Rare Abyss Jewel\n{variant:1,2}30% increased Movement Speed\n{variant:3,4}(24-32)% increased Movement Speed while affected by a Magic Abyss Jewel\n{variant:1,2}10% increased Damage for each type of Abyssal Jewel affecting you\n{variant:3,4}(16-24)% increased Reservation Efficiency while affected by a Unique Abyss Jewel\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
+    "stats":["Bubonic Trail","Murder Boots","League: Abyss","Source: Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}","Variant: One Abyssal Socket (Pre 3.21.0)","Variant: Two Abyssal Sockets (Pre 3.21.0)","Variant: One Abyssal Socket (Current)","Variant: Two Abyssal Sockets (Current)","Requires Level 69, 82 Dex, 42 Int","{variant:1,3}Has 1 Abyssal Socket","{variant:2,4}Has 2 Abyssal Sockets","Triggers Level 20 Death Walk when Equipped","{variant:1,2}(4-6)% increased maximum Life","{variant:3,4}(40-60)% reduced Duration of Elemental Ailments on You while affected by a Rare Abyss Jewel","{variant:1,2}30% increased Movement Speed","{variant:3,4}(24-32)% increased Movement Speed while affected by a Magic Abyss Jewel","{variant:1,2}10% increased Damage for each type of Abyssal Jewel affecting you","{variant:3,4}(16-24)% increased Reservation Efficiency while affected by a Unique Abyss Jewel"],
+    "variants":["One Abyssal Socket (Pre 3.21.0)","Two Abyssal Sockets (Pre 3.21.0)","One Abyssal Socket (Current)","Two Abyssal Sockets (Current)"]
+  },
+  "Corpsewalker":{
+    "baseType":"Carnal Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["(80-120)% increased Evasion and Energy Shield","25% increased Movement Speed","{variant:1}(20-40)% increased Damage if you have Consumed a corpse Recently","{variant:1}For each nearby corpse, Regenerate 0.25% Life per second, up to 3%","{variant:2}For each nearby corpse, Regenerate 8.00 Life per Second","{variant:2}For each nearby corpse, 1% increased Movement Speed"],
+    "name":"Corpsewalker",
+    "originalString":"Corpsewalker\nCarnal Boots\nVariant: Pre 3.19.0\nVariant: Current\nLeague: Heist\nRequires Level 55, 52 Dex, 52 Int\nImplicits: 0\nTriggers Level 20 Corpse Walk when Equipped\n(80-120)% increased Evasion and Energy Shield\n25% increased Movement Speed\n{variant:1}(20-40)% increased Damage if you have Consumed a corpse Recently\n{variant:1}For each nearby corpse, Regenerate 0.25% Life per second, up to 3%\n{variant:2}For each nearby corpse, Regenerate 8.00 Life per Second\n{variant:2}For each nearby corpse, 1% increased Movement Speed\n",
+    "requirements":{
+      "level":55
+    },
+    "stats":["Corpsewalker","Carnal Boots","Variant: Pre 3.19.0","Variant: Current","League: Heist","Requires Level 55, 52 Dex, 52 Int","Implicits: 0","Triggers Level 20 Corpse Walk when Equipped","(80-120)% increased Evasion and Energy Shield","25% increased Movement Speed","{variant:1}(20-40)% increased Damage if you have Consumed a corpse Recently","{variant:1}For each nearby corpse, Regenerate 0.25% Life per second, up to 3%","{variant:2}For each nearby corpse, Regenerate 8.00 Life per Second","{variant:2}For each nearby corpse, 1% increased Movement Speed"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Craiceann's Tracks":{
+    "baseType":"Goliath Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Bestiary",
+    "modifiers":["(150-180)% increased Armour","+(50-70) to maximum Life","+(25-30)% to Cold Resistance","25% increased Movement Speed"],
+    "name":"Craiceann's Tracks",
+    "originalString":"Craiceann's Tracks\nGoliath Greaves\nLeague: Bestiary\nSource: Drops from unique{Craiceann, First of the Deep}\nRequires Level 54, 95 Str\n(150-180)% increased Armour\n+(50-70) to maximum Life\n+(25-30)% to Cold Resistance\n25% increased Movement Speed\nCannot be Stunned if you have at least 10 Crab Barriers\nYou only lose (5-7) Crab Barriers when you take Physical Damage from a Hit\n",
+    "requirements":{
+      "level":54
+    },
+    "source":"Drops from unique{Craiceann, First of the Deep}",
+    "stats":["Craiceann's Tracks","Goliath Greaves","League: Bestiary","Source: Drops from unique{Craiceann, First of the Deep}","Requires Level 54, 95 Str","(150-180)% increased Armour","+(50-70) to maximum Life","+(25-30)% to Cold Resistance","25% increased Movement Speed","Cannot be Stunned if you have at least 10 Crab Barriers","You only lose (5-7) Crab Barriers when you take Physical Damage from a Hit"],
+    "variants":[]
+  },
+  "Dance of the Offered":{
+    "baseType":"{variant:1}Shackled Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Incursion",
+    "modifiers":["{variant:2}Carnal Boots","{variant:1}Requires Level 34, 34 Dex, 34 Int","{variant:2}Requires Level 55, 52 Dex, 52 Int","+(50-60) to maximum Mana","{variant:1}+(15-20)% to Lightning Resistance","{variant:2}+(25-30)% to Lightning Resistance","25% increased Movement Speed","{variant:1}Lose (30-40) Mana per Second","{variant:2}The Agnostic"],
+    "name":"Dance of the Offered",
+    "originalString":"Dance of the Offered\n{variant:1}Shackled Boots\n{variant:2}Carnal Boots\nVariant: Pre 3.14.0\nVariant: Current\nLeague: Incursion\nSource: Opening normal{Thunder Coffer} in normal{Conduit of Lightning}\nUpgrade: Upgrades to unique{Omeyocan} via currency{Vial of the Ritual}\n{variant:1}Requires Level 34, 34 Dex, 34 Int\n{variant:2}Requires Level 55, 52 Dex, 52 Int\n+(50-60) to maximum Mana\n{variant:1}+(15-20)% to Lightning Resistance\n{variant:2}+(25-30)% to Lightning Resistance\n25% increased Movement Speed\nYou have Onslaught while not on Low Mana\n{variant:1}Lose (30-40) Mana per Second\n{variant:2}The Agnostic\n",
+    "requirements":[],
+    "source":"Opening normal{Thunder Coffer} in normal{Conduit of Lightning}",
+    "stats":["Dance of the Offered","{variant:1}Shackled Boots","{variant:2}Carnal Boots","Variant: Pre 3.14.0","Variant: Current","League: Incursion","Source: Opening normal{Thunder Coffer} in normal{Conduit of Lightning}","Upgrade: Upgrades to unique{Omeyocan} via currency{Vial of the Ritual}","{variant:1}Requires Level 34, 34 Dex, 34 Int","{variant:2}Requires Level 55, 52 Dex, 52 Int","+(50-60) to maximum Mana","{variant:1}+(15-20)% to Lightning Resistance","{variant:2}+(25-30)% to Lightning Resistance","25% increased Movement Speed","You have Onslaught while not on Low Mana","{variant:1}Lose (30-40) Mana per Second","{variant:2}The Agnostic"],
+    "upgrade":"Upgrades to unique{Omeyocan} via currency{Vial of the Ritual}",
+    "variants":["Pre 3.14.0","Current"]
+  },
+  "Darkray Vectors":{
+    "baseType":"Dragonscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:2,3}(40-70)% increased Armour and Evasion","+(20-40)% to Lightning Resistance","5% increased Movement Speed per Frenzy Charge","+1 to Maximum Frenzy Charge","{variant:1}50% reduced Frenzy Charge Duration","{variant:2,3}40% reduced Frenzy Charge Duration","25% reduced Light Radius","{variant:1,2}2% chance to Suppress Spell Damage per Frenzy Charge","{variant:3}10% increased Evasion Rating per Frenzy Charge"],
+    "name":"Darkray Vectors",
+    "originalString":"Darkray Vectors\nDragonscale Boots\nVariant: Pre 2.6.0\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 65, 62 Str, 62 Dex\n{variant:2,3}(40-70)% increased Armour and Evasion\n+(20-40)% to Lightning Resistance\n5% increased Movement Speed per Frenzy Charge\n+1 to Maximum Frenzy Charge\n{variant:1}50% reduced Frenzy Charge Duration\n{variant:2,3}40% reduced Frenzy Charge Duration\n25% reduced Light Radius\n{variant:1,2}2% chance to Suppress Spell Damage per Frenzy Charge\n{variant:3}10% increased Evasion Rating per Frenzy Charge\n",
+    "requirements":{
+      "level":65
+    },
+    "stats":["Darkray Vectors","Dragonscale Boots","Variant: Pre 2.6.0","Variant: Pre 3.16.0","Variant: Current","Requires Level 65, 62 Str, 62 Dex","{variant:2,3}(40-70)% increased Armour and Evasion","+(20-40)% to Lightning Resistance","5% increased Movement Speed per Frenzy Charge","+1 to Maximum Frenzy Charge","{variant:1}50% reduced Frenzy Charge Duration","{variant:2,3}40% reduced Frenzy Charge Duration","25% reduced Light Radius","{variant:1,2}2% chance to Suppress Spell Damage per Frenzy Charge","{variant:3}10% increased Evasion Rating per Frenzy Charge"],
+    "variants":["Pre 2.6.0","Pre 3.16.0","Current"]
+  },
+  "Dawnstrider":{
+    "baseType":"Vaal Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(80-100) to maximum Life","30% increased Movement Speed","{variant:1}100% increased Effect of Buffs your Ancestor Totems grant while Active","{variant:1}Buffs from Active Ancestor Totems Linger for 4 seconds","{variant:1}Maximum 1 Buff from an Active Ancestor Totem at a time","{variant:2}Socketed Slam Gems are Supported by Level 25 Earthbreaker","{variant:2}Ancestral Bond","{variant:2}(3-5)% of Damage from hits is taken from your nearest Totem's Life before you"],
+    "name":"Dawnstrider",
+    "originalString":"Dawnstrider\nVaal Greaves\nVariant: Pre 3.25.0\nVariant: Current\nSource: Drops from unique{The Searing Exarch}\n+(80-100) to maximum Life\n30% increased Movement Speed\n{variant:1}100% increased Effect of Buffs your Ancestor Totems grant while Active\n{variant:1}Buffs from Active Ancestor Totems Linger for 4 seconds\n{variant:1}Maximum 1 Buff from an Active Ancestor Totem at a time\n{variant:2}Socketed Slam Gems are Supported by Level 25 Earthbreaker\n{variant:2}Ancestral Bond\n{variant:2}(3-5)% of Damage from hits is taken from your nearest Totem's Life before you\n",
+    "requirements":[],
+    "source":"Drops from unique{The Searing Exarch}",
+    "stats":["Dawnstrider","Vaal Greaves","Variant: Pre 3.25.0","Variant: Current","Source: Drops from unique{The Searing Exarch}","+(80-100) to maximum Life","30% increased Movement Speed","{variant:1}100% increased Effect of Buffs your Ancestor Totems grant while Active","{variant:1}Buffs from Active Ancestor Totems Linger for 4 seconds","{variant:1}Maximum 1 Buff from an Active Ancestor Totem at a time","{variant:2}Socketed Slam Gems are Supported by Level 25 Earthbreaker","{variant:2}Ancestral Bond","{variant:2}(3-5)% of Damage from hits is taken from your nearest Totem's Life before you"],
+    "variants":["Pre 3.25.0","Current"]
+  },
+  "Death's Door":{
+    "baseType":"Crusader Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(20-40) to Strength","200% increased Armour and Energy Shield","+(10-15)% to all Elemental Resistances","25% increased Movement Speed","+1 to Maximum Endurance Charges","50% increased Elemental Ailment Duration on You"],
+    "name":"Death's Door",
+    "originalString":"Death's Door\nCrusader Boots\nSource: Drops in The Eternal Labyrinth\nRequires Level 64, 62 Str, 62 Int\n+(20-40) to Strength\n200% increased Armour and Energy Shield\n+(10-15)% to all Elemental Resistances\n25% increased Movement Speed\n+1 to Maximum Endurance Charges\n50% increased Elemental Ailment Duration on You\nBleeding cannot be inflicted on you\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Drops in The Eternal Labyrinth",
+    "stats":["Death's Door","Crusader Boots","Source: Drops in The Eternal Labyrinth","Requires Level 64, 62 Str, 62 Int","+(20-40) to Strength","200% increased Armour and Energy Shield","+(10-15)% to all Elemental Resistances","25% increased Movement Speed","+1 to Maximum Endurance Charges","50% increased Elemental Ailment Duration on You","Bleeding cannot be inflicted on you"],
+    "variants":[]
+  },
+  "Deerstalker":{
+    "baseType":"Deerskin Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:3}Socketed Gems are Supported by Level 15 Trap","(160-200)% increased Evasion Rating","{variant:2,3}15% increased Movement Speed","(14-18)% increased Trap Throwing Speed","{variant:1}30% increased Movement Speed for 9 seconds on Throwing a Trap","{variant:2,3}15% increased Movement Speed for 9 seconds on Throwing a Trap"],
+    "name":"Deerstalker",
+    "originalString":"Deerstalker\nDeerskin Boots\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 22, 42 Dex\n{variant:1,2}Socketed Gems are Supported by Level 11 Trap\n{variant:3}Socketed Gems are Supported by Level 15 Trap\n(160-200)% increased Evasion Rating\n{variant:1,2}+(35-45) to maximum Life\n{variant:2,3}15% increased Movement Speed\n(14-18)% increased Trap Throwing Speed\n{variant:1}30% increased Movement Speed for 9 seconds on Throwing a Trap\n{variant:2,3}15% increased Movement Speed for 9 seconds on Throwing a Trap\n",
+    "requirements":{
+      "level":22
+    },
+    "stats":["Deerstalker","Deerskin Boots","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 22, 42 Dex","{variant:1,2}Socketed Gems are Supported by Level 11 Trap","{variant:3}Socketed Gems are Supported by Level 15 Trap","(160-200)% increased Evasion Rating","{variant:1,2}+(35-45) to maximum Life","{variant:2,3}15% increased Movement Speed","(14-18)% increased Trap Throwing Speed","{variant:1}30% increased Movement Speed for 9 seconds on Throwing a Trap","{variant:2,3}15% increased Movement Speed for 9 seconds on Throwing a Trap"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Doryani's Delusion":{
+    "baseType":"Sorcerer Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Delve",
+    "modifiers":["{variant:1,2,3,4,5,6,7,8,9}(180-220)% increased Energy Shield","{variant:10,11,12,13,14,15,16,17,18}(150-180)% increased Energy Shield","+(60-70) to maximum Life","30% increased Movement Speed"],
+    "name":"Doryani's Delusion",
+    "originalString":"Doryani's Delusion\nSorcerer Boots\nLeague: Delve\nSource: Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}\nVariant: Purity of Fire: Fire Pre 3.16.0\nVariant: Purity of Fire: Cold Pre 3.16.0\nVariant: Purity of Fire: Lightning Pre 3.16.0\nVariant: Purity of Ice: Fire Pre 3.16.0\nVariant: Purity of Ice: Cold Pre 3.16.0\nVariant: Purity of Ice: Lightning Pre 3.16.0\nVariant: Purity of Lightning: Fire Pre 3.16.0\nVariant: Purity of Lightning: Cold Pre 3.16.0\nVariant: Purity of Lightning: Lightning Pre 3.16.0\nVariant: Purity of Fire: Fire\nVariant: Purity of Fire: Cold\nVariant: Purity of Fire: Lightning\nVariant: Purity of Ice: Fire\nVariant: Purity of Ice: Cold\nVariant: Purity of Ice: Lightning\nVariant: Purity of Lightning: Fire\nVariant: Purity of Lightning: Cold\nVariant: Purity of Lightning: Lightning\nRequires Level 67, 120 Int\n{variant:1,2,3,10,11,12}Grants Level 25 Purity of Fire Skill\n{variant:4,5,6,13,14,15}Grants Level 25 Purity of Ice Skill\n{variant:7,8,9,16,17,18}Grants Level 25 Purity of Lightning Skill\n{variant:1,4,7,10,13,16}Adds (25-30) to (40-45) Fire Damage to Spells and Attacks\n{variant:2,5,8,11,14,17}Adds (25-30) to (40-45) Cold Damage to Spells and Attacks\n{variant:3,6,9,12,15,18}Adds (1-3) to (68-72) Lightning Damage to Spells and Attacks\n{variant:1,2,3,4,5,6,7,8,9}(180-220)% increased Energy Shield\n{variant:10,11,12,13,14,15,16,17,18}(150-180)% increased Energy Shield\n+(60-70) to maximum Life\n30% increased Movement Speed\n",
+    "requirements":{
+      "level":67
+    },
+    "source":"Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}",
+    "stats":["Doryani's Delusion","Sorcerer Boots","League: Delve","Source: Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}","Variant: Purity of Fire: Fire Pre 3.16.0","Variant: Purity of Fire: Cold Pre 3.16.0","Variant: Purity of Fire: Lightning Pre 3.16.0","Variant: Purity of Ice: Fire Pre 3.16.0","Variant: Purity of Ice: Cold Pre 3.16.0","Variant: Purity of Ice: Lightning Pre 3.16.0","Variant: Purity of Lightning: Fire Pre 3.16.0","Variant: Purity of Lightning: Cold Pre 3.16.0","Variant: Purity of Lightning: Lightning Pre 3.16.0","Variant: Purity of Fire: Fire","Variant: Purity of Fire: Cold","Variant: Purity of Fire: Lightning","Variant: Purity of Ice: Fire","Variant: Purity of Ice: Cold","Variant: Purity of Ice: Lightning","Variant: Purity of Lightning: Fire","Variant: Purity of Lightning: Cold","Variant: Purity of Lightning: Lightning","Requires Level 67, 120 Int","{variant:1,2,3,10,11,12}Grants Level 25 Purity of Fire Skill","{variant:4,5,6,13,14,15}Grants Level 25 Purity of Ice Skill","{variant:7,8,9,16,17,18}Grants Level 25 Purity of Lightning Skill","{variant:1,4,7,10,13,16}Adds (25-30) to (40-45) Fire Damage to Spells and Attacks","{variant:2,5,8,11,14,17}Adds (25-30) to (40-45) Cold Damage to Spells and Attacks","{variant:3,6,9,12,15,18}Adds (1-3) to (68-72) Lightning Damage to Spells and Attacks","{variant:1,2,3,4,5,6,7,8,9}(180-220)% increased Energy Shield","{variant:10,11,12,13,14,15,16,17,18}(150-180)% increased Energy Shield","+(60-70) to maximum Life","30% increased Movement Speed"],
+    "variants":["Purity of Fire: Fire Pre 3.16.0","Purity of Fire: Cold Pre 3.16.0","Purity of Fire: Lightning Pre 3.16.0","Purity of Ice: Fire Pre 3.16.0","Purity of Ice: Cold Pre 3.16.0","Purity of Ice: Lightning Pre 3.16.0","Purity of Lightning: Fire Pre 3.16.0","Purity of Lightning: Cold Pre 3.16.0","Purity of Lightning: Lightning Pre 3.16.0","Purity of Fire: Fire","Purity of Fire: Cold","Purity of Fire: Lightning","Purity of Ice: Fire","Purity of Ice: Cold","Purity of Ice: Lightning","Purity of Lightning: Fire","Purity of Lightning: Cold","Purity of Lightning: Lightning"]
+  },
+  "Duskblight":{
+    "baseType":"Ironscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:1}Socketed Gems are Supported by Level 15 Added Chaos Damage","{variant:2}Trigger Level 1 Stalking Pustule on Kill","(120-150)% increased Armour and Evasion","+(50-60) to maximum Life","20% increased Movement Speed","50% increased Stun and Block Recovery","20% reduced Light Radius","+50% to Chaos Resistance during any Flask Effect","{variant:2}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect"],
+    "name":"Duskblight",
+    "originalString":"Duskblight\nIronscale Boots\nSource: No longer obtainable\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 40, 19 Str, 19 Dex\n{variant:1}Socketed Gems are Supported by Level 15 Added Chaos Damage\n{variant:2}Trigger Level 1 Stalking Pustule on Kill\n(120-150)% increased Armour and Evasion\n+(50-60) to maximum Life\n20% increased Movement Speed\n50% increased Stun and Block Recovery\n20% reduced Light Radius\n+50% to Chaos Resistance during any Flask Effect\n{variant:2}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect\n",
+    "requirements":{
+      "level":40
+    },
+    "source":"No longer obtainable",
+    "stats":["Duskblight","Ironscale Boots","Source: No longer obtainable","Variant: Pre 3.11.0","Variant: Current","Requires Level 40, 19 Str, 19 Dex","{variant:1}Socketed Gems are Supported by Level 15 Added Chaos Damage","{variant:2}Trigger Level 1 Stalking Pustule on Kill","(120-150)% increased Armour and Evasion","+(50-60) to maximum Life","20% increased Movement Speed","50% increased Stun and Block Recovery","20% reduced Light Radius","+50% to Chaos Resistance during any Flask Effect","{variant:2}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect"],
+    "variants":["Pre 3.11.0","Current"]
+  },
+  "Dusktoe":{
+    "baseType":"{variant:1}Leatherscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:1,2,3}(40-60)% increased Armour and Evasion","{variant:4}(60-100)% increased Armour and Evasion","{variant:3}+(20-30) to maximum Life","{variant:1,2,3}15% increased Movement Speed","{variant:4}20% increased Movement Speed","{variant:1,2,3}50% increased Stun and Block Recovery","20% reduced Light Radius","{variant:3}Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks during any Flask Effect","{variant:4}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect","+50% to Chaos Resistance during any Flask Effect"],
+    "name":"Dusktoe",
+    "originalString":"Dusktoe\n{variant:1}Leatherscale Boots\n{variant:2,3,4}Ironscale Boots\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\n{variant:1,2,3}(40-60)% increased Armour and Evasion\n{variant:4}(60-100)% increased Armour and Evasion\n{variant:1,2}+(10-20) to maximum Life\n{variant:3}+(20-30) to maximum Life\n{variant:1,2}+(10-20) to maximum Mana\n{variant:1,2,3}15% increased Movement Speed\n{variant:4}20% increased Movement Speed\n{variant:1,2,3}50% increased Stun and Block Recovery\n20% reduced Light Radius\n{variant:3}Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks during any Flask Effect\n{variant:4}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect\n+50% to Chaos Resistance during any Flask Effect\n",
+    "requirements":[],
+    "stats":["Dusktoe","{variant:1}Leatherscale Boots","{variant:2,3,4}Ironscale Boots","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","{variant:1,2,3}(40-60)% increased Armour and Evasion","{variant:4}(60-100)% increased Armour and Evasion","{variant:1,2}+(10-20) to maximum Life","{variant:3}+(20-30) to maximum Life","{variant:1,2}+(10-20) to maximum Mana","{variant:1,2,3}15% increased Movement Speed","{variant:4}20% increased Movement Speed","{variant:1,2,3}50% increased Stun and Block Recovery","20% reduced Light Radius","{variant:3}Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks during any Flask Effect","{variant:4}Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect","+50% to Chaos Resistance during any Flask Effect"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Farrul's Chase":{
+    "baseType":"Slink Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Bestiary",
+    "modifiers":["(110-150)% increased Evasion Rating","+(50-70) to maximum Life","20% increased Movement Speed","(40-50)% chance to avoid Bleeding","20% increased Movement Speed while you have Cat's Stealth"],
+    "name":"Farrul's Chase",
+    "originalString":"Farrul's Chase\nSlink Boots\nLeague: Bestiary\nSource: Drops from unique{Farrul, First of the Plains}\nRequires Level 69, 120 Dex\nTrigger Level 20 Intimidating Cry when you lose Cat's Stealth\n(110-150)% increased Evasion Rating\n+(50-70) to maximum Life\n20% increased Movement Speed\n(40-50)% chance to avoid Bleeding\n20% increased Movement Speed while you have Cat's Stealth\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{Farrul, First of the Plains}",
+    "stats":["Farrul's Chase","Slink Boots","League: Bestiary","Source: Drops from unique{Farrul, First of the Plains}","Requires Level 69, 120 Dex","Trigger Level 20 Intimidating Cry when you lose Cat's Stealth","(110-150)% increased Evasion Rating","+(50-70) to maximum Life","20% increased Movement Speed","(40-50)% chance to avoid Bleeding","20% increased Movement Speed while you have Cat's Stealth"],
+    "variants":[]
+  },
+  "Fenumus' Spinnerets":{
+    "baseType":"Assassin's Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Bestiary",
+    "modifiers":["(160-200)% increased Evasion and Energy Shield","+(20-30)% to Lightning Resistance","+(17-23)% to Chaos Resistance","25% increased Movement Speed","(40-50)% increased Aspect of the Spider Debuff Duration"],
+    "name":"Fenumus' Spinnerets",
+    "originalString":"Fenumus' Spinnerets\nAssassin's Boots\nLeague: Bestiary\nSource: Drops from unique{Fenumus, First of the Night}\nRequires Level 63, 62 Dex, 62 Int\n(160-200)% increased Evasion and Energy Shield\n+(20-30)% to Lightning Resistance\n+(17-23)% to Chaos Resistance\n25% increased Movement Speed\nAspect of the Spider can inflict Spider's Web on Enemies an additional time\nGain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web\n(40-50)% increased Aspect of the Spider Debuff Duration\n",
+    "requirements":{
+      "level":63
+    },
+    "source":"Drops from unique{Fenumus, First of the Night}",
+    "stats":["Fenumus' Spinnerets","Assassin's Boots","League: Bestiary","Source: Drops from unique{Fenumus, First of the Night}","Requires Level 63, 62 Dex, 62 Int","(160-200)% increased Evasion and Energy Shield","+(20-30)% to Lightning Resistance","+(17-23)% to Chaos Resistance","25% increased Movement Speed","Aspect of the Spider can inflict Spider's Web on Enemies an additional time","Gain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web","(40-50)% increased Aspect of the Spider Debuff Duration"],
+    "variants":[]
+  },
+  "Gamblesprint":{
+    "baseType":"Hydrascale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Affliction",
+    "modifiers":["+(30-40) to Dexterity","(100-150)% increased Armour and Evasion","+(20-40)% to Lightning Resistance","When Hit, gain a random Movement Speed modifier from 40% reduced to 100% increased until Hit again"],
+    "name":"Gamblesprint",
+    "originalString":"Gamblesprint\nHydrascale Boots\nLeague: Affliction\nRequires Level 59, 56 Str, 56 Dex\n+(30-40) to Dexterity\n(100-150)% increased Armour and Evasion\n+(20-40)% to Lightning Resistance\nWhen Hit, gain a random Movement Speed modifier from 40% reduced to 100% increased until Hit again\n",
+    "requirements":{
+      "level":59
+    },
+    "stats":["Gamblesprint","Hydrascale Boots","League: Affliction","Requires Level 59, 56 Str, 56 Dex","+(30-40) to Dexterity","(100-150)% increased Armour and Evasion","+(20-40)% to Lightning Resistance","When Hit, gain a random Movement Speed modifier from 40% reduced to 100% increased until Hit again"],
+    "variants":[]
+  },
+  "Gang's Momentum":{
+    "baseType":"Legion Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(160-180)% increased Armour and Energy Shield","+(50-60)% to Fire Resistance","25% increased Movement Speed","{variant:1}(5-7)% chance to Ignite","{variant:2}(10-15)% chance to Ignite","{variant:1}15% increased Damage against Ignited Enemies","{variant:2}(25-40)% increased Damage against Ignited Enemies"],
+    "name":"Gang's Momentum",
+    "originalString":"Gang's Momentum\nLegion Boots\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 58, 54 Str, 54 Int\n(160-180)% increased Armour and Energy Shield\n+(50-60)% to Fire Resistance\n25% increased Movement Speed\n{variant:1}(5-7)% chance to Ignite\n{variant:2}(10-15)% chance to Ignite\n{variant:1}15% increased Damage against Ignited Enemies\n{variant:2}(25-40)% increased Damage against Ignited Enemies\n",
+    "requirements":{
+      "level":58
+    },
+    "stats":["Gang's Momentum","Legion Boots","Variant: Pre 2.6.0","Variant: Current","Requires Level 58, 54 Str, 54 Int","(160-180)% increased Armour and Energy Shield","+(50-60)% to Fire Resistance","25% increased Movement Speed","{variant:1}(5-7)% chance to Ignite","{variant:2}(10-15)% chance to Ignite","{variant:1}15% increased Damage against Ignited Enemies","{variant:2}(25-40)% increased Damage against Ignited Enemies"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Garukhan's Flight":{
+    "baseType":"Stealth Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(30-40) to Dexterity","{variant:1}(80-120)% increased Evasion Rating","{variant:2}(320-380)% increased Evasion Rating","{variant:3}(300-340)% increased Evasion Rating","30% increased Movement Speed","{variant:1}+1 to Maximum Life per 10 Dexterity"],
+    "name":"Garukhan's Flight",
+    "originalString":"Garukhan's Flight\nStealth Boots\nVariant: Pre 3.5.0\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 62, 117 Dex\n+(30-40) to Dexterity\n{variant:1}(80-120)% increased Evasion Rating\n{variant:2}(320-380)% increased Evasion Rating\n{variant:3}(300-340)% increased Evasion Rating\n30% increased Movement Speed\nImmune to Burning Ground, Shocked Ground and Chilled Ground\nRegenerate 100 Life per second while moving\n{variant:1}+1 to Maximum Life per 10 Dexterity\n{variant:2,3}+2 to Maximum Life per 10 Dexterity\n",
+    "requirements":{
+      "level":62
+    },
+    "stats":["Garukhan's Flight","Stealth Boots","Variant: Pre 3.5.0","Variant: Pre 3.16.0","Variant: Current","Requires Level 62, 117 Dex","+(30-40) to Dexterity","{variant:1}(80-120)% increased Evasion Rating","{variant:2}(320-380)% increased Evasion Rating","{variant:3}(300-340)% increased Evasion Rating","30% increased Movement Speed","Immune to Burning Ground, Shocked Ground and Chilled Ground","Regenerate 100 Life per second while moving","{variant:1}+1 to Maximum Life per 10 Dexterity","{variant:2,3}+2 to Maximum Life per 10 Dexterity"],
+    "variants":["Pre 3.5.0","Pre 3.16.0","Current"]
+  },
+  "Goldwyrm":{
+    "baseType":"Nubuck Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["60% increased Mana Regeneration Rate","{variant:1}(20-30)% increased Quantity of Items Found","{variant:2}(14-20)% increased Quantity of Items Found","{variant:3}(20-40)% increased Rarity of Items Found","+(40-50)% to Fire Resistance","10% increased Movement Speed"],
+    "name":"Goldwyrm",
+    "originalString":"Goldwyrm\nNubuck Boots\nVariant: Pre 1.1.0\nVariant: Pre 3.25.0\nVariant: Current\nRequires Level 34, 62 Dex\n60% increased Mana Regeneration Rate\n{variant:1}(20-30)% increased Quantity of Items Found\n{variant:2}(14-20)% increased Quantity of Items Found\n{variant:3}(20-40)% increased Rarity of Items Found\n+(40-50)% to Fire Resistance\n10% increased Movement Speed\n",
+    "requirements":{
+      "level":34
+    },
+    "stats":["Goldwyrm","Nubuck Boots","Variant: Pre 1.1.0","Variant: Pre 3.25.0","Variant: Current","Requires Level 34, 62 Dex","60% increased Mana Regeneration Rate","{variant:1}(20-30)% increased Quantity of Items Found","{variant:2}(14-20)% increased Quantity of Items Found","{variant:3}(20-40)% increased Rarity of Items Found","+(40-50)% to Fire Resistance","10% increased Movement Speed"],
+    "variants":["Pre 1.1.0","Pre 3.25.0","Current"]
+  },
+  "Greedtrap":{
+    "baseType":"Velvet Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(5-10) to Strength","+(5-10) to Dexterity","+(5-10) to Intelligence","+(90-110) to maximum Energy Shield","(10-16)% increased Quantity of Items found when on Low Life","20% increased Movement Speed"],
+    "name":"Greedtrap",
+    "originalString":"Greedtrap\nVelvet Slippers\nSource: No longer obtainable\nLevelReq: 52\n+(5-10) to Strength\n+(5-10) to Dexterity\n+(5-10) to Intelligence\n+(90-110) to maximum Energy Shield\n(10-16)% increased Quantity of Items found when on Low Life\n20% increased Movement Speed\n",
+    "requirements":{
+      "level":52
+    },
+    "source":"No longer obtainable",
+    "stats":["Greedtrap","Velvet Slippers","Source: No longer obtainable","LevelReq: 52","+(5-10) to Strength","+(5-10) to Dexterity","+(5-10) to Intelligence","+(90-110) to maximum Energy Shield","(10-16)% increased Quantity of Items found when on Low Life","20% increased Movement Speed"],
+    "variants":[]
+  },
+  "Inextricable Fate":{
+    "baseType":"Fugitive Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"boots",
+    "modifiers":["+(13-17)% to Chaos Resistance","+(80-100) to maximum Life","30% increased Movement Speed","You take (30-50)% reduced Extra Damage from Critical Strikes by Poisoned Enemies"],
+    "name":"Inextricable Fate",
+    "originalString":"Inextricable Fate\nFugitive Boots\nSource: Drops from unique{The Eater of Worlds}\nRequires Level 70, 56 Dex, 76 Int\nImplicits: 1\n+(13-17)% to Chaos Resistance\n+(80-100) to maximum Life\n30% increased Movement Speed\nYou gain 3 Grasping Vines when you take a Critical Strike\nNearby stationary Enemies gain a Grasping Vine every 0.5 seconds\nAll Damage inflicts Poison against Enemies affected by at least 3 Grasping Vines\nYou take (30-50)% reduced Extra Damage from Critical Strikes by Poisoned Enemies\n",
+    "requirements":{
+      "level":70
+    },
+    "source":"Drops from unique{The Eater of Worlds}",
+    "stats":["Inextricable Fate","Fugitive Boots","Source: Drops from unique{The Eater of Worlds}","Requires Level 70, 56 Dex, 76 Int","Implicits: 1","+(13-17)% to Chaos Resistance","+(80-100) to maximum Life","30% increased Movement Speed","You gain 3 Grasping Vines when you take a Critical Strike","Nearby stationary Enemies gain a Grasping Vine every 0.5 seconds","All Damage inflicts Poison against Enemies affected by at least 3 Grasping Vines","You take (30-50)% reduced Extra Damage from Critical Strikes by Poisoned Enemies"],
+    "variants":[]
+  },
+  "Inya's Epiphany":{
+    "baseType":"Arcanist Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(50-70) to maximum Life","25% increased Movement Speed","(5-8)% increased Intelligence","5% increased Damage per Power Charge","25% chance that if you would gain Power Charges, you instead gain up to"],
+    "name":"Inya's Epiphany",
+    "originalString":"Inya's Epiphany\nArcanist Slippers\nRequires Level 61, 119 Int\n+(50-70) to maximum Life\n25% increased Movement Speed\n(5-8)% increased Intelligence\n5% increased Damage per Power Charge\n25% chance that if you would gain Power Charges, you instead gain up to\nyour maximum number of Power Charges\n",
+    "requirements":{
+      "level":61
+    },
+    "stats":["Inya's Epiphany","Arcanist Slippers","Requires Level 61, 119 Int","+(50-70) to maximum Life","25% increased Movement Speed","(5-8)% increased Intelligence","5% increased Damage per Power Charge","25% chance that if you would gain Power Charges, you instead gain up to","your maximum number of Power Charges"],
+    "variants":[]
+  },
+  "Kahuturoa's Certainty":{
+    "baseType":"Ancient Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(100-150)% increased Armour","5% reduced Movement Speed","(100-200)% increased Stun and Block Recovery"],
+    "name":"Kahuturoa's Certainty",
+    "originalString":"Kahuturoa's Certainty\nAncient Greaves\nRequires Level 46, 82 Str\n(100-150)% increased Armour\n5% reduced Movement Speed\n(100-200)% increased Stun and Block Recovery\nUnaffected by Damaging Ailments\n",
+    "requirements":{
+      "level":46
+    },
+    "stats":["Kahuturoa's Certainty","Ancient Greaves","Requires Level 46, 82 Str","(100-150)% increased Armour","5% reduced Movement Speed","(100-200)% increased Stun and Block Recovery","Unaffected by Damaging Ailments"],
+    "variants":[]
+  },
+  "Kaom's Roots":{
+    "baseType":"Titan Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:1}+(120-150) to maximum Life","{variant:2}+(150-200) to maximum Life","{variant:2}Cannot Be Slowed to Below Base Speed"],
+    "name":"Kaom's Roots",
+    "originalString":"Kaom's Roots\nTitan Greaves\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 68, 120 Str\nHas no Sockets\nCannot be Knocked Back\n{variant:1}+(120-150) to maximum Life\n{variant:2}+(150-200) to maximum Life\nUnwavering Stance\n{variant:2}Cannot Be Slowed to Below Base Speed\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["Kaom's Roots","Titan Greaves","Variant: Pre 2.6.0","Variant: Current","Requires Level 68, 120 Str","Has no Sockets","Cannot be Knocked Back","{variant:1}+(120-150) to maximum Life","{variant:2}+(150-200) to maximum Life","Unwavering Stance","{variant:2}Cannot Be Slowed to Below Base Speed"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Legacy of Fury":{
+    "baseType":"Wyrmscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Ritual",
+    "modifiers":["(200-300)% increased Armour and Evasion","{variant:1}-(15-10)% to all Elemental Resistances","30% increased Movement Speed","{variant:1}Drops Scorched Ground while moving, lasting 4 seconds","{variant:2}Nearby Enemies are Scorched","(30-50)% increased Effect of Scorch","(30-40)% chance when you Kill a Scorched Enemy to Burn Each surrounding Enemy for 4 seconds, dealing 8% of the Killed Enemy's Life as Fire Damage per second"],
+    "name":"Legacy of Fury",
+    "originalString":"Legacy of Fury\nWyrmscale Boots\nSource: Drops from unique{The Maven}\nVariant: Pre 3.17.0\nVariant: Current\nLeague: Ritual\nRequires Level 69, 48 Str, 48 Dex\n(200-300)% increased Armour and Evasion\n{variant:1}-(15-10)% to all Elemental Resistances\n30% increased Movement Speed\n{variant:1}Drops Scorched Ground while moving, lasting 4 seconds\n{variant:2}Nearby Enemies are Scorched\n(30-50)% increased Effect of Scorch\n(30-40)% chance when you Kill a Scorched Enemy to Burn Each surrounding Enemy for 4 seconds, dealing 8% of the Killed Enemy's Life as Fire Damage per second\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{The Maven}",
+    "stats":["Legacy of Fury","Wyrmscale Boots","Source: Drops from unique{The Maven}","Variant: Pre 3.17.0","Variant: Current","League: Ritual","Requires Level 69, 48 Str, 48 Dex","(200-300)% increased Armour and Evasion","{variant:1}-(15-10)% to all Elemental Resistances","30% increased Movement Speed","{variant:1}Drops Scorched Ground while moving, lasting 4 seconds","{variant:2}Nearby Enemies are Scorched","(30-50)% increased Effect of Scorch","(30-40)% chance when you Kill a Scorched Enemy to Burn Each surrounding Enemy for 4 seconds, dealing 8% of the Killed Enemy's Life as Fire Damage per second"],
+    "variants":["Pre 3.17.0","Current"]
+  },
+  "Lioneye's Paws":{
+    "baseType":"Bronzescale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Legion",
+    "modifiers":["{variant:2}Trigger Level 5 Rain of Arrows when you Attack with a Bow","+(40-60) to Strength","+(40-60) to Dexterity","20% increased Movement Speed","40% reduced Movement Speed when on Low Life","{variant:1}20% increased Stun and Block Recovery","{variant:1}Cannot be Stunned when on Low Life"],
+    "name":"Lioneye's Paws",
+    "originalString":"Lioneye's Paws\nBronzescale Boots\nLeague: Legion\nVariant: Pre 3.7.0\nVariant: Current\nRequires Level 30, 30 Str, 30 Dex\n{variant:2}Trigger Level 5 Rain of Arrows when you Attack with a Bow\n+(40-60) to Strength\n+(40-60) to Dexterity\nAdds 12 to 24 Fire Damage to Attacks\n20% increased Movement Speed\n40% reduced Movement Speed when on Low Life\n{variant:1}20% increased Stun and Block Recovery\n{variant:1}Cannot be Stunned when on Low Life\n",
+    "requirements":{
+      "level":30
+    },
+    "stats":["Lioneye's Paws","Bronzescale Boots","League: Legion","Variant: Pre 3.7.0","Variant: Current","Requires Level 30, 30 Str, 30 Dex","{variant:2}Trigger Level 5 Rain of Arrows when you Attack with a Bow","+(40-60) to Strength","+(40-60) to Dexterity","Adds 12 to 24 Fire Damage to Attacks","20% increased Movement Speed","40% reduced Movement Speed when on Low Life","{variant:1}20% increased Stun and Block Recovery","{variant:1}Cannot be Stunned when on Low Life"],
+    "variants":["Pre 3.7.0","Current"]
+  },
+  "March of the Legion":{
+    "baseType":"Legion Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Synthesis",
+    "modifiers":["{variant:1}+2 to Level of Socketed Aura Gems","{variant:2}+(3-5) to Level of Socketed Aura Gems","(250-300)% increased Armour and Energy Shield","+(12-18)% to all Elemental Resistances","(20-30)% increased Movement Speed"],
+    "name":"March of the Legion",
+    "originalString":"March of the Legion\nLegion Boots\nVariant: Pre 3.17.0\nVariant: Current\nLeague: Synthesis\nRequires Level 58, 54 Str, 54 Int\n{variant:1}+2 to Level of Socketed Aura Gems\n{variant:2}+(3-5) to Level of Socketed Aura Gems\nSocketed Gems are Supported by Level 25 Divine Blessing\n(250-300)% increased Armour and Energy Shield\n+(12-18)% to all Elemental Resistances\n(20-30)% increased Movement Speed\n",
+    "requirements":{
+      "level":58
+    },
+    "stats":["March of the Legion","Legion Boots","Variant: Pre 3.17.0","Variant: Current","League: Synthesis","Requires Level 58, 54 Str, 54 Int","{variant:1}+2 to Level of Socketed Aura Gems","{variant:2}+(3-5) to Level of Socketed Aura Gems","Socketed Gems are Supported by Level 25 Divine Blessing","(250-300)% increased Armour and Energy Shield","+(12-18)% to all Elemental Resistances","(20-30)% increased Movement Speed"],
+    "variants":["Pre 3.17.0","Current"]
+  },
+  "Mutewind Whispersteps":{
+    "baseType":"Serpentscale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Warbands",
+    "modifiers":["{variant:1}Adds (15-19) to (28-35) Cold Damage to Spells","{variant:2}Adds (25-30) to (40-50) Cold Damage to Spells","{variant:1}(20-40)% increased Critical Strike Chance for Spells","{variant:2}(50-70)% increased Critical Strike Chance for Spells","(100-150)% increased Evasion Rating","+(20-30)% to Cold Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed"],
+    "name":"Mutewind Whispersteps",
+    "originalString":"Mutewind Whispersteps\nSerpentscale Boots\nLeague: Warbands\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 42, 40 Str, 40 Dex\n{variant:1}Adds (15-19) to (28-35) Cold Damage to Spells\n{variant:2}Adds (25-30) to (40-50) Cold Damage to Spells\n{variant:1}(20-40)% increased Critical Strike Chance for Spells\n{variant:2}(50-70)% increased Critical Strike Chance for Spells\n(100-150)% increased Evasion Rating\n+(20-30)% to Cold Resistance\n{variant:1}20% increased Movement Speed\n{variant:2}25% increased Movement Speed\nUnaffected by Chilled Ground\n",
+    "requirements":{
+      "level":42
+    },
+    "stats":["Mutewind Whispersteps","Serpentscale Boots","League: Warbands","Variant: Pre 2.6.0","Variant: Current","Requires Level 42, 40 Str, 40 Dex","{variant:1}Adds (15-19) to (28-35) Cold Damage to Spells","{variant:2}Adds (25-30) to (40-50) Cold Damage to Spells","{variant:1}(20-40)% increased Critical Strike Chance for Spells","{variant:2}(50-70)% increased Critical Strike Chance for Spells","(100-150)% increased Evasion Rating","+(20-30)% to Cold Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed","Unaffected by Chilled Ground"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Nomic's Storm":{
+    "baseType":"Strapped Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(20-30) to Dexterity","+(30-50) to Evasion Rating","+(15-30) to maximum Energy Shield","20% increased Movement Speed","+20% to Cold Resistance","{variant:1}30% increased Physical Damage taken","{variant:2}20% increased Physical Damage taken","{variant:3}15% increased Damage taken while on Full Energy Shield","20% increased Movement Speed when on Full Energy Shield"],
+    "name":"Nomic's Storm",
+    "originalString":"Nomic's Storm\nStrapped Boots\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 16, 18 Dex, 18 Int\n+(20-30) to Dexterity\n+(30-50) to Evasion Rating\n+(15-30) to maximum Energy Shield\n20% increased Movement Speed\n+20% to Cold Resistance\n{variant:1}30% increased Physical Damage taken\n{variant:2}20% increased Physical Damage taken\n{variant:3}15% increased Damage taken while on Full Energy Shield\n20% increased Movement Speed when on Full Energy Shield\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Nomic's Storm","Strapped Boots","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Current","Requires Level 16, 18 Dex, 18 Int","+(20-30) to Dexterity","+(30-50) to Evasion Rating","+(15-30) to maximum Energy Shield","20% increased Movement Speed","+20% to Cold Resistance","{variant:1}30% increased Physical Damage taken","{variant:2}20% increased Physical Damage taken","{variant:3}15% increased Damage taken while on Full Energy Shield","20% increased Movement Speed when on Full Energy Shield"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Current"]
+  },
+  "Olroth's Charge":{
+    "baseType":"Runic Sollerets",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Expedition",
+    "modifiers":["(50-80)% increased Ward","(30-50)% slower Restoration of Ward","20% increased Movement Speed"],
+    "name":"Olroth's Charge",
+    "originalString":"Olroth's Charge\nRunic Sollerets\nLeague: Expedition\nRequires Level 48, 37 Str, 37 Dex, 37 Int\n(50-80)% increased Ward\n(30-50)% slower Restoration of Ward\n20% increased Movement Speed\nGain Adrenaline for 3 seconds when Ward Breaks\n",
+    "requirements":{
+      "level":48
+    },
+    "stats":["Olroth's Charge","Runic Sollerets","League: Expedition","Requires Level 48, 37 Str, 37 Dex, 37 Int","(50-80)% increased Ward","(30-50)% slower Restoration of Ward","20% increased Movement Speed","Gain Adrenaline for 3 seconds when Ward Breaks"],
+    "variants":[]
+  },
+  "Omeyocan":{
+    "baseType":"Carnal Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Incursion",
+    "modifiers":["(15-20)% increased maximum Mana","+(25-30)% to Lightning Resistance","30% increased Movement Speed","{variant:1}2% increased Evasion per 500 Maximum Mana","{variant:2}10% increased Evasion per 500 Maximum Mana","{variant:3}20% increased Evasion per 500 Maximum Mana","Lose 7% of maximum Mana per Second"],
+    "name":"Omeyocan",
+    "originalString":"Omeyocan\nCarnal Boots\nVariant: Pre 3.16.0\nVariant: Pre 3.26.0\nVariant: Current\nLeague: Incursion\nSource: Upgraded from unique{Dance of the Offered} via currency{Vial of the Ritual}\nRequires Level 55, 52 Dex, 52 Int\n(15-20)% increased maximum Mana\n+(25-30)% to Lightning Resistance\n30% increased Movement Speed\n{variant:1}2% increased Evasion per 500 Maximum Mana\n{variant:2}10% increased Evasion per 500 Maximum Mana\n{variant:3}20% increased Evasion per 500 Maximum Mana\nYou have Onslaught while not on Low Mana\nLose 7% of maximum Mana per Second\n",
+    "requirements":{
+      "level":55
+    },
+    "source":"Upgraded from unique{Dance of the Offered} via currency{Vial of the Ritual}",
+    "stats":["Omeyocan","Carnal Boots","Variant: Pre 3.16.0","Variant: Pre 3.26.0","Variant: Current","League: Incursion","Source: Upgraded from unique{Dance of the Offered} via currency{Vial of the Ritual}","Requires Level 55, 52 Dex, 52 Int","(15-20)% increased maximum Mana","+(25-30)% to Lightning Resistance","30% increased Movement Speed","{variant:1}2% increased Evasion per 500 Maximum Mana","{variant:2}10% increased Evasion per 500 Maximum Mana","{variant:3}20% increased Evasion per 500 Maximum Mana","You have Onslaught while not on Low Mana","Lose 7% of maximum Mana per Second"],
+    "variants":["Pre 3.16.0","Pre 3.26.0","Current"]
+  },
+  "Orbala's Stand":{
+    "baseType":"Eelskin Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(100-150)% increased Evasion Rating","(20-30)% increased Movement Speed"],
+    "name":"Orbala's Stand",
+    "originalString":"Orbala's Stand\nEelskin Boots\n(100-150)% increased Evasion Rating\n(20-30)% increased Movement Speed\nCannot be Stunned by Suppressed Spell Damage\nDebilitate Enemies for 4 Seconds when you Suppress their Spell Damage\n",
+    "requirements":[],
+    "stats":["Orbala's Stand","Eelskin Boots","(100-150)% increased Evasion Rating","(20-30)% increased Movement Speed","Cannot be Stunned by Suppressed Spell Damage","Debilitate Enemies for 4 Seconds when you Suppress their Spell Damage"],
+    "variants":[]
+  },
+  "Rainbowstride":{
+    "baseType":"Conjurer Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:1,2,3,4}(6-7)% Chance to Block Spell Damage","{variant:5}(4-6)% Chance to Block Spell Damage","{variant:6}(15-20)% Chance to Block Spell Damage","{variant:1,2}(150-200)% increased Energy Shield","{variant:3,4,5}(140-180)% increased Energy Shield","{variant:1,3,4,5,6}+20% to all Elemental Resistances","{variant:2}+8% to all Elemental Resistances","{variant:1,2,3,6}20% increased Movement Speed","{variant:4,5}25% increased Movement Speed"],
+    "name":"Rainbowstride",
+    "originalString":"Rainbowstride\nConjurer Boots\nVariant: Pre 1.0.0\nVariant: Pre 1.1.0\nVariant: Pre 2.6.0\nVariant: Pre 3.4.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 53, 94 Int\n{variant:1,2,3,4}(6-7)% Chance to Block Spell Damage\n{variant:5}(4-6)% Chance to Block Spell Damage\n{variant:6}(15-20)% Chance to Block Spell Damage\n{variant:1,2}+(80-100) to maximum Mana\n{variant:3,4,5,6}+(40-60) to maximum Mana\n{variant:1,2}(150-200)% increased Energy Shield\n{variant:3,4,5}(140-180)% increased Energy Shield\n{variant:1,3,4,5,6}+20% to all Elemental Resistances\n{variant:2}+8% to all Elemental Resistances\n{variant:1,2,3,6}20% increased Movement Speed\n{variant:4,5}25% increased Movement Speed\n",
+    "requirements":{
+      "level":53
+    },
+    "stats":["Rainbowstride","Conjurer Boots","Variant: Pre 1.0.0","Variant: Pre 1.1.0","Variant: Pre 2.6.0","Variant: Pre 3.4.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 53, 94 Int","{variant:1,2,3,4}(6-7)% Chance to Block Spell Damage","{variant:5}(4-6)% Chance to Block Spell Damage","{variant:6}(15-20)% Chance to Block Spell Damage","{variant:1,2}+(80-100) to maximum Mana","{variant:3,4,5,6}+(40-60) to maximum Mana","{variant:1,2}(150-200)% increased Energy Shield","{variant:3,4,5}(140-180)% increased Energy Shield","{variant:1,3,4,5,6}+20% to all Elemental Resistances","{variant:2}+8% to all Elemental Resistances","{variant:1,2,3,6}20% increased Movement Speed","{variant:4,5}25% increased Movement Speed"],
+    "variants":["Pre 1.0.0","Pre 1.1.0","Pre 2.6.0","Pre 3.4.0","Pre 3.19.0","Current"]
+  },
+  "Ralakesh's Impatience":{
+    "baseType":"Riveted Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(15-25)% to Cold Resistance","+(15-25)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2,3}30% increased Movement Speed","{variant:5,6,7}(15-25)% increased Movement Speed","{variant:1}Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary","{variant:2}Minimum Endurance Charges equal to Maximum while stationary","{variant:2}Minimum Frenzy Charges equal to Maximum while stationary","{variant:2}Minimum Power Charges equal to Maximum while stationary","{variant:5}Count as having maximum number of Endurance Charges","{variant:6}Count as having maximum number of Frenzy Charges","{variant:7}Count as having maximum number of Power Charges"],
+    "name":"Ralakesh's Impatience",
+    "originalString":"Ralakesh's Impatience\nRiveted Boots\nVariant: Pre 3.19.0\nVariant: Pre 3.23.0\nVariant: Pre 3.24.0\nVariant: Pre 3.26.0\nVariant: Endurance Current\nVariant: Frenzy Current\nVariant: Power Current\nRequires Level 36, 35 Str, 35 Int\n+(15-25)% to Cold Resistance\n+(15-25)% to Chaos Resistance\n{variant:1}20% increased Movement Speed\n{variant:2,3}30% increased Movement Speed\n{variant:5,6,7}(15-25)% increased Movement Speed\n{variant:5,6,7}Corrupted Blood cannot be inflicted on you\n{variant:1}Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary\n{variant:1,2}Lose all Frenzy, Endurance, and Power Charges when you Move\n{variant:2}Minimum Endurance Charges equal to Maximum while stationary\n{variant:2}Minimum Frenzy Charges equal to Maximum while stationary\n{variant:2}Minimum Power Charges equal to Maximum while stationary\n{variant:3,4}Count as having maximum number of Endurance Charges\n{variant:3,4}Count as having maximum number of Frenzy Charges\n{variant:3,4}Count as having maximum number of Power Charges\n{variant:5}Count as having maximum number of Endurance Charges\n{variant:6}Count as having maximum number of Frenzy Charges\n{variant:7}Count as having maximum number of Power Charges\n",
+    "requirements":{
+      "level":36
+    },
+    "stats":["Ralakesh's Impatience","Riveted Boots","Variant: Pre 3.19.0","Variant: Pre 3.23.0","Variant: Pre 3.24.0","Variant: Pre 3.26.0","Variant: Endurance Current","Variant: Frenzy Current","Variant: Power Current","Requires Level 36, 35 Str, 35 Int","+(15-25)% to Cold Resistance","+(15-25)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2,3}30% increased Movement Speed","{variant:5,6,7}(15-25)% increased Movement Speed","{variant:5,6,7}Corrupted Blood cannot be inflicted on you","{variant:1}Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary","{variant:1,2}Lose all Frenzy, Endurance, and Power Charges when you Move","{variant:2}Minimum Endurance Charges equal to Maximum while stationary","{variant:2}Minimum Frenzy Charges equal to Maximum while stationary","{variant:2}Minimum Power Charges equal to Maximum while stationary","{variant:3,4}Count as having maximum number of Endurance Charges","{variant:3,4}Count as having maximum number of Frenzy Charges","{variant:3,4}Count as having maximum number of Power Charges","{variant:5}Count as having maximum number of Endurance Charges","{variant:6}Count as having maximum number of Frenzy Charges","{variant:7}Count as having maximum number of Power Charges"],
+    "variants":["Pre 3.19.0","Pre 3.23.0","Pre 3.24.0","Pre 3.26.0","Endurance Current","Frenzy Current","Power Current"]
+  },
+  "Redblade Tramplers":{
+    "baseType":"Ancient Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Warbands",
+    "modifiers":["{variant:2}+(50-70) to maximum Life","(5-10)% reduced Enemy Stun Threshold","(150-200)% increased Armour","+(20-30)% to Fire Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed"],
+    "name":"Redblade Tramplers",
+    "originalString":"Redblade Tramplers\nAncient Greaves\nLeague: Warbands\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 46, 82 Str\n{variant:2}+(50-70) to maximum Life\nAdds (2-5) to (7-10) Physical Damage to Attacks\n(5-10)% reduced Enemy Stun Threshold\n(150-200)% increased Armour\n+(20-30)% to Fire Resistance\n{variant:1}20% increased Movement Speed\n{variant:2}25% increased Movement Speed\nUnaffected by Burning Ground\n",
+    "requirements":{
+      "level":46
+    },
+    "stats":["Redblade Tramplers","Ancient Greaves","League: Warbands","Variant: Pre 2.6.0","Variant: Current","Requires Level 46, 82 Str","{variant:2}+(50-70) to maximum Life","Adds (2-5) to (7-10) Physical Damage to Attacks","(5-10)% reduced Enemy Stun Threshold","(150-200)% increased Armour","+(20-30)% to Fire Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed","Unaffected by Burning Ground"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Replica Alberon's Warpath":{
+    "baseType":"Soldier Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["(15-18)% increased Strength","+(180-220) to Armour","{variant:1}+(9-12)% to Chaos Resistance","{variant:2}+(13-19)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed"],
+    "name":"Replica Alberon's Warpath",
+    "originalString":"Replica Alberon's Warpath\nSoldier Boots\nVariant: Pre 3.19.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\n(15-18)% increased Strength\n+(180-220) to Armour\n{variant:1}+(9-12)% to Chaos Resistance\n{variant:2}+(13-19)% to Chaos Resistance\n{variant:1}20% increased Movement Speed\n{variant:2}25% increased Movement Speed\nCannot deal non-Chaos Damage\nAdds 1 to 80 Chaos Damage to Attacks per 80 Strength\n",
+    "requirements":[],
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Alberon's Warpath","Soldier Boots","Variant: Pre 3.19.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","(15-18)% increased Strength","+(180-220) to Armour","{variant:1}+(9-12)% to Chaos Resistance","{variant:2}+(13-19)% to Chaos Resistance","{variant:1}20% increased Movement Speed","{variant:2}25% increased Movement Speed","Cannot deal non-Chaos Damage","Adds 1 to 80 Chaos Damage to Attacks per 80 Strength"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Replica Bones of Ullr":{
+    "baseType":"Silk Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["(40-60)% increased Energy Shield","+20 to maximum Life","+20 to maximum Mana","(5-15)% increased Movement Speed","{variant:1}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Unique Enemy","{variant:2}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy","{variant:1}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Unique Enemy","{variant:2}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy"],
+    "name":"Replica Bones of Ullr",
+    "originalString":"Replica Bones of Ullr\nSilk Slippers\nVariant: Pre 3.23.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 22, 42 Int\n(40-60)% increased Energy Shield\n+20 to maximum Life\n+20 to maximum Mana\n(5-15)% increased Movement Speed\n{variant:1}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Unique Enemy\n{variant:2}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy\n{variant:1}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Unique Enemy\n{variant:2}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy\n",
+    "requirements":{
+      "level":22
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Bones of Ullr","Silk Slippers","Variant: Pre 3.23.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 22, 42 Int","(40-60)% increased Energy Shield","+20 to maximum Life","+20 to maximum Mana","(5-15)% increased Movement Speed","{variant:1}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Unique Enemy","{variant:2}Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy","{variant:1}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Unique Enemy","{variant:2}Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy"],
+    "variants":["Pre 3.23.0","Current"]
+  },
+  "Replica Inya's Epiphany":{
+    "baseType":"Arcanist Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["(5-8)% increased Intelligence","+(50-70) to maximum Life","5% increased Damage per Power Charge","Regenerate 0.5% of Life per second per Power Charge","5% increased Movement Speed per Power Charge"],
+    "name":"Replica Inya's Epiphany",
+    "originalString":"Replica Inya's Epiphany\nArcanist Slippers\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 61, 119 Int\n(5-8)% increased Intelligence\n+(50-70) to maximum Life\n5% increased Damage per Power Charge\nRegenerate 0.5% of Life per second per Power Charge\n5% increased Movement Speed per Power Charge\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Inya's Epiphany","Arcanist Slippers","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 61, 119 Int","(5-8)% increased Intelligence","+(50-70) to maximum Life","5% increased Damage per Power Charge","Regenerate 0.5% of Life per second per Power Charge","5% increased Movement Speed per Power Charge"],
+    "variants":[]
+  },
+  "Replica Lioneye's Paws":{
+    "baseType":"Bronzescale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["+(40-60) to Strength","+(40-60) to Dexterity","20% increased Movement Speed","40% reduced Movement Speed when on Low Life"],
+    "name":"Replica Lioneye's Paws",
+    "originalString":"Replica Lioneye's Paws\nBronzescale Boots\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 30, 30 Str, 30 Dex\nTrigger Level 5 Toxic Rain when you Attack with a Bow\n+(40-60) to Strength\n+(40-60) to Dexterity\nAdds 12 to 24 Chaos Damage to Attacks\n20% increased Movement Speed\n40% reduced Movement Speed when on Low Life\n",
+    "requirements":{
+      "level":30
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Lioneye's Paws","Bronzescale Boots","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 30, 30 Str, 30 Dex","Trigger Level 5 Toxic Rain when you Attack with a Bow","+(40-60) to Strength","+(40-60) to Dexterity","Adds 12 to 24 Chaos Damage to Attacks","20% increased Movement Speed","40% reduced Movement Speed when on Low Life"],
+    "variants":[]
+  },
+  "Replica Red Trail":{
+    "baseType":"Titan Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["{variant:1}(60-80)% increased Armour","{variant:2}(60-100)% increased Armour","{variant:1}+(50-70) to maximum Life","{variant:2}+(60-100) to maximum Life","{variant:1}25% increased Movement Speed","{variant:2}30% increased Movement Speed","+30% to Chaos Resistance while stationary","15% increased Movement Speed while Poisoned","50% chance for Spell Hits against you to inflict Poison"],
+    "name":"Replica Red Trail",
+    "originalString":"Replica Red Trail\nTitan Greaves\nVariant: Pre 3.21.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 68, 120 Str\n{variant:1}(60-80)% increased Armour\n{variant:2}(60-100)% increased Armour\n{variant:1}+(50-70) to maximum Life\n{variant:2}+(60-100) to maximum Life\n{variant:1}25% increased Movement Speed\n{variant:2}30% increased Movement Speed\nGain a Power Charge on Hit while Poisoned\n+30% to Chaos Resistance while stationary\n15% increased Movement Speed while Poisoned\nNecrotic Footprints\n50% chance for Spell Hits against you to inflict Poison\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Red Trail","Titan Greaves","Variant: Pre 3.21.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 68, 120 Str","{variant:1}(60-80)% increased Armour","{variant:2}(60-100)% increased Armour","{variant:1}+(50-70) to maximum Life","{variant:2}+(60-100) to maximum Life","{variant:1}25% increased Movement Speed","{variant:2}30% increased Movement Speed","Gain a Power Charge on Hit while Poisoned","+30% to Chaos Resistance while stationary","15% increased Movement Speed while Poisoned","Necrotic Footprints","50% chance for Spell Hits against you to inflict Poison"],
+    "variants":["Pre 3.21.0","Current"]
+  },
+  "Replica Stampede":{
+    "baseType":"Assassin's Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["(100-150)% increased Evasion and Energy Shield","(30-40)% increased Stun and Block Recovery","Socketed Travel Skills deal 80% more Damage","(30-40)% increased Mana Regeneration Rate while moving","Your Movement Speed is 150% of its base value"],
+    "name":"Replica Stampede",
+    "originalString":"Replica Stampede\nAssassin's Boots\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 63, 62 Dex, 62 Int\n(100-150)% increased Evasion and Energy Shield\n(30-40)% increased Stun and Block Recovery\nSocketed Travel Skills deal 80% more Damage\n(30-40)% increased Mana Regeneration Rate while moving\nYour Movement Speed is 150% of its base value\nThis item can be anointed by Cassia\n",
+    "requirements":{
+      "level":63
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Stampede","Assassin's Boots","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 63, 62 Dex, 62 Int","(100-150)% increased Evasion and Energy Shield","(30-40)% increased Stun and Block Recovery","Socketed Travel Skills deal 80% more Damage","(30-40)% increased Mana Regeneration Rate while moving","Your Movement Speed is 150% of its base value","This item can be anointed by Cassia"],
+    "variants":[]
+  },
+  "Replica Three-step Assault":{
+    "baseType":"Shagreen Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["+(25-35) to Dexterity","(20-40)% increased Evasion Rating","+(50-70) to maximum Life","25% increased Movement Speed","(10-30)% increased Elusive Effect","10% increased Movement Speed if you've Hit an Enemy Recently"],
+    "name":"Replica Three-step Assault",
+    "originalString":"Replica Three-step Assault\nShagreen Boots\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 55, 97 Dex\n+(25-35) to Dexterity\n(20-40)% increased Evasion Rating\n+(50-70) to maximum Life\n25% increased Movement Speed\n(10-30)% increased Elusive Effect\n10% increased Movement Speed if you've Hit an Enemy Recently\n",
+    "requirements":{
+      "level":55
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Three-step Assault","Shagreen Boots","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 55, 97 Dex","+(25-35) to Dexterity","(20-40)% increased Evasion Rating","+(50-70) to maximum Life","25% increased Movement Speed","(10-30)% increased Elusive Effect","10% increased Movement Speed if you've Hit an Enemy Recently"],
+    "variants":[]
+  },
+  "Replica Voidwalker":{
+    "baseType":"Murder Boots",
+    "flags":{
+      "shaperItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Heist",
+    "modifiers":["+(30-50) to Dexterity","(140-180)% increased Evasion and Energy Shield","30% increased Movement Speed","10% increased Damage taken while Phasing"],
+    "name":"Replica Voidwalker",
+    "originalString":"Replica Voidwalker\nMurder Boots\nShaper Item\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 69, 82 Dex, 42 Int\n+(30-50) to Dexterity\n(140-180)% increased Evasion and Energy Shield\n30% increased Movement Speed\n10% increased Damage taken while Phasing\nYou have Phasing if you've Killed Recently\nProjectiles Chain +1 times while you have Phasing\nCelestial Footprints\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Voidwalker","Murder Boots","Shaper Item","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 69, 82 Dex, 42 Int","+(30-50) to Dexterity","(140-180)% increased Evasion and Energy Shield","30% increased Movement Speed","10% increased Damage taken while Phasing","You have Phasing if you've Killed Recently","Projectiles Chain +1 times while you have Phasing","Celestial Footprints"],
+    "variants":[]
+  },
+  "Saqawal's Talons":{
+    "baseType":"Hydrascale Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Bestiary",
+    "modifiers":["(100-150)% increased Armour and Evasion","(20-30)% increased Movement Speed","+(-2-2) seconds to Avian's Flight Duration"],
+    "name":"Saqawal's Talons",
+    "originalString":"Saqawal's Talons\nHydrascale Boots\nLeague: Bestiary\nSource: Drops from unique{Saqawal, First of the Sky}\nRequires Level 59, 56 Str, 56 Dex\nGrants Level 20 Aspect of the Avian Skill\n(100-150)% increased Armour and Evasion\n(20-30)% increased Movement Speed\n+(-2-2) seconds to Avian's Flight Duration\nRegenerate 100 Life per Second while you have Avian's Flight\nRegenerate 12 Mana per Second while you have Avian's Flight\n",
+    "requirements":{
+      "level":59
+    },
+    "source":"Drops from unique{Saqawal, First of the Sky}",
+    "stats":["Saqawal's Talons","Hydrascale Boots","League: Bestiary","Source: Drops from unique{Saqawal, First of the Sky}","Requires Level 59, 56 Str, 56 Dex","Grants Level 20 Aspect of the Avian Skill","(100-150)% increased Armour and Evasion","(20-30)% increased Movement Speed","+(-2-2) seconds to Avian's Flight Duration","Regenerate 100 Life per Second while you have Avian's Flight","Regenerate 12 Mana per Second while you have Avian's Flight"],
+    "variants":[]
+  },
+  "Seven-League Step":{
+    "baseType":"Rawhide Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Perandus",
+    "modifiers":["50% increased Movement Speed"],
+    "name":"Seven-League Step",
+    "originalString":"Seven-League Step\nRawhide Boots\nLeague: Perandus\n50% increased Movement Speed\n",
+    "requirements":[],
+    "stats":["Seven-League Step","Rawhide Boots","League: Perandus","50% increased Movement Speed"],
+    "variants":[]
+  },
+  "Shavronne's Gambit":{
+    "baseType":"Scholar Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+10 to Dexterity","+(20-30) to Intelligence","(100-140)% increased Energy Shield","{variant:2}15% increased Movement Speed","{variant:1}35% increased Movement Speed when on Full Life","{variant:2}20% increased Movement Speed when on Full Life","{variant:1}Regenerate 2% of Energy Shield per second while on Low Life","{variant:2}Regenerate 1% of Energy Shield per second","(10-15)% increased Stun and Block Recovery"],
+    "name":"Shavronne's Gambit",
+    "originalString":"Shavronne's Gambit\nScholar Boots\nSource: No longer obtainable\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 32, 54 Int\n+10 to Dexterity\n+(20-30) to Intelligence\n(100-140)% increased Energy Shield\n{variant:2}15% increased Movement Speed\n{variant:1}35% increased Movement Speed when on Full Life\n{variant:2}20% increased Movement Speed when on Full Life\n{variant:1}Regenerate 2% of Energy Shield per second while on Low Life\n{variant:2}Regenerate 1% of Energy Shield per second\n(10-15)% increased Stun and Block Recovery\n",
+    "requirements":{
+      "level":32
+    },
+    "source":"No longer obtainable",
+    "stats":["Shavronne's Gambit","Scholar Boots","Source: No longer obtainable","Variant: Pre 2.6.0","Variant: Current","Requires Level 32, 54 Int","+10 to Dexterity","+(20-30) to Intelligence","(100-140)% increased Energy Shield","{variant:2}15% increased Movement Speed","{variant:1}35% increased Movement Speed when on Full Life","{variant:2}20% increased Movement Speed when on Full Life","{variant:1}Regenerate 2% of Energy Shield per second while on Low Life","{variant:2}Regenerate 1% of Energy Shield per second","(10-15)% increased Stun and Block Recovery"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Shavronne's Pace":{
+    "baseType":"Scholar Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:1}+10 to Intelligence","{variant:1}(50-70)% increased Energy Shield","{variant:2,3,4}(100-140)% increased Energy Shield","{variant:3,4}15% increased Movement Speed","{variant:1,2}35% increased Movement Speed when on Full Life","{variant:3,4}20% increased Movement Speed when on Full Life","{variant:1,2,3}(10-15)% increased Stun and Block Recovery","{variant:4}(150-200)% increased Stun and Block Recovery"],
+    "name":"Shavronne's Pace",
+    "originalString":"Shavronne's Pace\nScholar Boots\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 32, 54 Int\n{variant:1,2,3}+10 to Dexterity\n{variant:1}+10 to Intelligence\n{variant:2,3,4}+(20-30) to Intelligence\n{variant:1}(50-70)% increased Energy Shield\n{variant:2,3,4}(100-140)% increased Energy Shield\n{variant:3,4}15% increased Movement Speed\n{variant:1,2}35% increased Movement Speed when on Full Life\n{variant:3,4}20% increased Movement Speed when on Full Life\n{variant:1,2,3}(10-15)% increased Stun and Block Recovery\n{variant:4}(150-200)% increased Stun and Block Recovery\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["Shavronne's Pace","Scholar Boots","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 32, 54 Int","{variant:1,2,3}+10 to Dexterity","{variant:1}+10 to Intelligence","{variant:2,3,4}+(20-30) to Intelligence","{variant:1}(50-70)% increased Energy Shield","{variant:2,3,4}(100-140)% increased Energy Shield","{variant:3,4}15% increased Movement Speed","{variant:1,2}35% increased Movement Speed when on Full Life","{variant:3,4}20% increased Movement Speed when on Full Life","{variant:1,2,3}(10-15)% increased Stun and Block Recovery","{variant:4}(150-200)% increased Stun and Block Recovery"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Sin Trek":{
+    "baseType":"Stealth Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(20-30) to Dexterity","+(20-30) to Intelligence","(80-100)% increased Evasion Rating","{variant:1}+(50-70) to maximum Energy Shield","{variant:2}+(70-100) to maximum Energy Shield","{variant:3}+(100-160) to maximum Energy Shield","{variant:4}+(100-150) to maximum Energy Shield","30% increased Movement Speed"],
+    "name":"Sin Trek",
+    "originalString":"Sin Trek\nStealth Boots\nVariant: Pre 2.0.0\nVariant: Pre 2.6.0\nVariant: Pre 3.5.0\nVariant: Current\nRequires Level 62, 117 Dex\n+(20-30) to Dexterity\n+(20-30) to Intelligence\n(80-100)% increased Evasion Rating\n{variant:1}+(50-70) to maximum Energy Shield\n{variant:2}+(70-100) to maximum Energy Shield\n{variant:3}+(100-160) to maximum Energy Shield\n{variant:4}+(100-150) to maximum Energy Shield\n30% increased Movement Speed\nEnemies Cannot Leech Life From You\n",
+    "requirements":{
+      "level":62
+    },
+    "stats":["Sin Trek","Stealth Boots","Variant: Pre 2.0.0","Variant: Pre 2.6.0","Variant: Pre 3.5.0","Variant: Current","Requires Level 62, 117 Dex","+(20-30) to Dexterity","+(20-30) to Intelligence","(80-100)% increased Evasion Rating","{variant:1}+(50-70) to maximum Energy Shield","{variant:2}+(70-100) to maximum Energy Shield","{variant:3}+(100-160) to maximum Energy Shield","{variant:4}+(100-150) to maximum Energy Shield","30% increased Movement Speed","Enemies Cannot Leech Life From You"],
+    "variants":["Pre 2.0.0","Pre 2.6.0","Pre 3.5.0","Current"]
+  },
+  "Skyforth":{
+    "baseType":"Sorcerer Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(60-120) to maximum Mana","30% increased Movement Speed","25% chance to gain a Power Charge on Critical Strike","12% increased Reservation Efficiency of Skills","Stun Threshold is based on 500% of your Mana instead of Life"],
+    "name":"Skyforth",
+    "originalString":"Skyforth\nSorcerer Boots\nEnergy Shield: 64\nRequires Level 67, 123 Int\n+(60-120) to maximum Mana\n30% increased Movement Speed\n25% chance to gain a Power Charge on Critical Strike\n12% increased Reservation Efficiency of Skills\nYou have no Life Regeneration\nStun Threshold is based on 500% of your Mana instead of Life\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Skyforth","Sorcerer Boots","Energy Shield: 64","Requires Level 67, 123 Int","+(60-120) to maximum Mana","30% increased Movement Speed","25% chance to gain a Power Charge on Critical Strike","12% increased Reservation Efficiency of Skills","You have no Life Regeneration","Stun Threshold is based on 500% of your Mana instead of Life"],
+    "variants":[]
+  },
+  "Steppan Eard":{
+    "baseType":"Sorcerer Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Warbands",
+    "modifiers":["{variant:1}(110-140)% increased Energy Shield","{variant:2}(50-80)% increased Energy Shield","+(20-30) to maximum Energy Shield","30% increased Movement Speed","20% increased Movement Speed on Shocked Ground","50% increased Damage on Burning Ground","Regenerate 2% of Life per second on Chilled Ground"],
+    "name":"Steppan Eard",
+    "originalString":"Steppan Eard\nSorcerer Boots\nLeague: Warbands\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 67, 123 Int\n{variant:1}(110-140)% increased Energy Shield\n{variant:2}(50-80)% increased Energy Shield\n+(20-30) to maximum Energy Shield\n30% increased Movement Speed\n20% increased Movement Speed on Shocked Ground\n50% increased Damage on Burning Ground\nRegenerate 2% of Life per second on Chilled Ground\nUnaffected by Desecrated Ground\n",
+    "requirements":{
+      "level":67
+    },
+    "stats":["Steppan Eard","Sorcerer Boots","League: Warbands","Variant: Pre 3.0.0","Variant: Current","Requires Level 67, 123 Int","{variant:1}(110-140)% increased Energy Shield","{variant:2}(50-80)% increased Energy Shield","+(20-30) to maximum Energy Shield","30% increased Movement Speed","20% increased Movement Speed on Shocked Ground","50% increased Damage on Burning Ground","Regenerate 2% of Life per second on Chilled Ground","Unaffected by Desecrated Ground"],
+    "variants":["Pre 3.0.0","Current"]
+  },
+  "Stormcharger":{
+    "baseType":"Plated Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(1-50)% to Lightning Resistance","{variant:1}20% increased Movement Speed","{variant:2}(1-40)% increased Movement Speed","{variant:1}30% of Physical Damage Converted to Lightning Damage","{variant:1}50% increased Duration of Lightning Ailments","{variant:2}(1-100)% increased Duration of Lightning Ailments","{variant:1}(15-25)% increased Effect of Lightning Ailments","{variant:2}(1-50)% increased Effect of Lightning Ailments","{variant:2}Unaffected by Shocked Ground"],
+    "name":"Stormcharger",
+    "originalString":"Stormcharger\nPlated Greaves\nVariant: Pre 3.19.0\nVariant: Current\n+(1-50)% to Lightning Resistance\n{variant:1}20% increased Movement Speed\n{variant:2}(1-40)% increased Movement Speed\n{variant:1}30% of Physical Damage Converted to Lightning Damage\n{variant:1}50% increased Duration of Lightning Ailments\n{variant:2}(1-100)% increased Duration of Lightning Ailments\n{variant:1}(15-25)% increased Effect of Lightning Ailments\n{variant:2}(1-50)% increased Effect of Lightning Ailments\n{variant:2}Unaffected by Shocked Ground\n",
+    "requirements":[],
+    "stats":["Stormcharger","Plated Greaves","Variant: Pre 3.19.0","Variant: Current","+(1-50)% to Lightning Resistance","{variant:1}20% increased Movement Speed","{variant:2}(1-40)% increased Movement Speed","{variant:1}30% of Physical Damage Converted to Lightning Damage","{variant:1}50% increased Duration of Lightning Ailments","{variant:2}(1-100)% increased Duration of Lightning Ailments","{variant:1}(15-25)% increased Effect of Lightning Ailments","{variant:2}(1-50)% increased Effect of Lightning Ailments","{variant:2}Unaffected by Shocked Ground"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Sundance":{
+    "baseType":"Clasped Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["10% increased Attack Speed","(80-120)% increased Evasion Rating","(20-30)% increased Rarity of Items found","+(30-40)% to Fire Resistance","{variant:1}10% increased Movement Speed","{variant:2}20% increased Movement Speed"],
+    "name":"Sundance",
+    "originalString":"Sundance\nClasped Boots\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 27, 27 Dex, 27 Int\n10% increased Attack Speed\n(80-120)% increased Evasion Rating\n(20-30)% increased Rarity of Items found\n+(30-40)% to Fire Resistance\n{variant:1}10% increased Movement Speed\n{variant:2}20% increased Movement Speed\n",
+    "requirements":{
+      "level":27
+    },
+    "stats":["Sundance","Clasped Boots","Variant: Pre 2.6.0","Variant: Current","Requires Level 27, 27 Dex, 27 Int","10% increased Attack Speed","(80-120)% increased Evasion Rating","(20-30)% increased Rarity of Items found","+(30-40)% to Fire Resistance","{variant:1}10% increased Movement Speed","{variant:2}20% increased Movement Speed"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Sunspite":{
+    "baseType":"Clasped Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["10% increased Attack Speed","(260-300)% increased Evasion and Energy Shield","(20-30)% increased Rarity of Items found","+(30-40)% to Fire Resistance","20% increased Movement Speed","(10-20)% increased Movement Speed while Ignited","+25% chance to be Ignited"],
+    "name":"Sunspite",
+    "originalString":"Sunspite\nClasped Boots\nSource: No longer obtainable\nRequires Level 59, 27 Dex, 27 Int\n10% increased Attack Speed\n(260-300)% increased Evasion and Energy Shield\n(20-30)% increased Rarity of Items found\n+(30-40)% to Fire Resistance\n20% increased Movement Speed\n(10-20)% increased Movement Speed while Ignited\n+25% chance to be Ignited\nRegenerate (75-125) Life per second while Ignited\n",
+    "requirements":{
+      "level":59
+    },
+    "source":"No longer obtainable",
+    "stats":["Sunspite","Clasped Boots","Source: No longer obtainable","Requires Level 59, 27 Dex, 27 Int","10% increased Attack Speed","(260-300)% increased Evasion and Energy Shield","(20-30)% increased Rarity of Items found","+(30-40)% to Fire Resistance","20% increased Movement Speed","(10-20)% increased Movement Speed while Ignited","+25% chance to be Ignited","Regenerate (75-125) Life per second while Ignited"],
+    "variants":[]
+  },
+  "Temptation Step":{
+    "baseType":"Shagreen Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Ultimatum",
+    "modifiers":["(170-250)% increased Evasion Rating","+(19-29)% to Chaos Resistance","15% increased Damage for each Poison on you up to a maximum of 75%","10% increased Movement Speed for each Poison on you up to a maximum of 50%"],
+    "name":"Temptation Step",
+    "originalString":"Temptation Step\nShagreen Boots\nLeague: Ultimatum\nSource: Drops from unique{The Trialmaster}\nRequires Level 55, 97 Dex\n(170-250)% increased Evasion Rating\n+(19-29)% to Chaos Resistance\n15% increased Damage for each Poison on you up to a maximum of 75%\n10% increased Movement Speed for each Poison on you up to a maximum of 50%\nPoison you inflict with Travel Skills is Reflected to you if you have fewer than 5 Poisons on you\n",
+    "requirements":{
+      "level":55
+    },
+    "source":"Drops from unique{The Trialmaster}",
+    "stats":["Temptation Step","Shagreen Boots","League: Ultimatum","Source: Drops from unique{The Trialmaster}","Requires Level 55, 97 Dex","(170-250)% increased Evasion Rating","+(19-29)% to Chaos Resistance","15% increased Damage for each Poison on you up to a maximum of 75%","10% increased Movement Speed for each Poison on you up to a maximum of 50%","Poison you inflict with Travel Skills is Reflected to you if you have fewer than 5 Poisons on you"],
+    "variants":[]
+  },
+  "The Blood Dance":{
+    "baseType":"Sharkskin Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(30-40) to Dexterity","20% increased Movement Speed","2% increased Movement Speed per Frenzy Charge","{variant:1,2,3}3% reduced Attack and Cast Speed per Frenzy Charge","{variant:4}4% reduced Attack and Cast Speed per Frenzy Charge","{variant:1,2}Regenerate 1% of Life per second per Frenzy Charge","{variant:3}Regenerate 0.5% of Life per second per Frenzy Charge","{variant:4}Regenerate 0.8% of Life per second per Frenzy Charge","(20-30)% chance to gain a Frenzy Charge on Kill","{variant:1}3% increased Damage per Frenzy Charge with Hits against Enemies on Low Life","{variant:2,3}6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life","{variant:4}(20-30)% increased Damage per Frenzy Charge with Hits against Enemies on Low Life"],
+    "name":"The Blood Dance",
+    "originalString":"The Blood Dance\nSharkskin Boots\nVariant: Pre 1.0.0\nVariant: Pre 2.1.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 44, 79 Dex\n+(30-40) to Dexterity\n20% increased Movement Speed\n2% increased Movement Speed per Frenzy Charge\n{variant:1,2,3}3% reduced Attack and Cast Speed per Frenzy Charge\n{variant:4}4% reduced Attack and Cast Speed per Frenzy Charge\n{variant:1,2}Regenerate 1% of Life per second per Frenzy Charge\n{variant:3}Regenerate 0.5% of Life per second per Frenzy Charge\n{variant:4}Regenerate 0.8% of Life per second per Frenzy Charge\n(20-30)% chance to gain a Frenzy Charge on Kill\nGore Footprints\n{variant:1}3% increased Damage per Frenzy Charge with Hits against Enemies on Low Life\n{variant:2,3}6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life\n{variant:4}(20-30)% increased Damage per Frenzy Charge with Hits against Enemies on Low Life\n",
+    "requirements":{
+      "level":44
+    },
+    "stats":["The Blood Dance","Sharkskin Boots","Variant: Pre 1.0.0","Variant: Pre 2.1.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 44, 79 Dex","+(30-40) to Dexterity","20% increased Movement Speed","2% increased Movement Speed per Frenzy Charge","{variant:1,2,3}3% reduced Attack and Cast Speed per Frenzy Charge","{variant:4}4% reduced Attack and Cast Speed per Frenzy Charge","{variant:1,2}Regenerate 1% of Life per second per Frenzy Charge","{variant:3}Regenerate 0.5% of Life per second per Frenzy Charge","{variant:4}Regenerate 0.8% of Life per second per Frenzy Charge","(20-30)% chance to gain a Frenzy Charge on Kill","Gore Footprints","{variant:1}3% increased Damage per Frenzy Charge with Hits against Enemies on Low Life","{variant:2,3}6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life","{variant:4}(20-30)% increased Damage per Frenzy Charge with Hits against Enemies on Low Life"],
+    "variants":["Pre 1.0.0","Pre 2.1.0","Pre 3.11.0","Current"]
+  },
+  "The Infinite Pursuit":{
+    "baseType":"{variant:1}Goliath Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Breach",
+    "modifiers":["{variant:2}Titan Greaves","{variant:1}+(30-60) to maximum Life","20% increased Movement Speed","{variant:1}15% increased Movement Speed while Bleeding","{variant:2}20% increased Movement Speed while Bleeding","{variant:2}Bleeding on you expires 75% slower while Moving","{variant:2}Cannot be Stunned while Bleeding","{variant:2}Cannot be Poisoned while Bleeding","50% chance to be inflicted with Bleeding when Hit by an Attack"],
+    "name":"The Infinite Pursuit",
+    "originalString":"The Infinite Pursuit\n{variant:1}Goliath Greaves\n{variant:2}Titan Greaves\nVariant: Pre 3.21.0\nVariant: Current\nLeague: Breach\nSource: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}\nUpgrade: Upgrades to unique{The Red Trail} using currency{Blessing of Uul-Netol}\nRequires Level 54, 95 Str\n{variant:1}+(30-60) to maximum Life\n20% increased Movement Speed\nMoving while Bleeding doesn't cause you to take extra Damage\n{variant:1}15% increased Movement Speed while Bleeding\n{variant:2}20% increased Movement Speed while Bleeding\n{variant:2}Bleeding on you expires 75% slower while Moving\n{variant:2}Cannot be Stunned while Bleeding\n{variant:2}Cannot be Poisoned while Bleeding\n50% chance to be inflicted with Bleeding when Hit by an Attack\n",
+    "requirements":{
+      "level":54
+    },
+    "source":"Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}",
+    "stats":["The Infinite Pursuit","{variant:1}Goliath Greaves","{variant:2}Titan Greaves","Variant: Pre 3.21.0","Variant: Current","League: Breach","Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}","Upgrade: Upgrades to unique{The Red Trail} using currency{Blessing of Uul-Netol}","Requires Level 54, 95 Str","{variant:1}+(30-60) to maximum Life","20% increased Movement Speed","Moving while Bleeding doesn't cause you to take extra Damage","{variant:1}15% increased Movement Speed while Bleeding","{variant:2}20% increased Movement Speed while Bleeding","{variant:2}Bleeding on you expires 75% slower while Moving","{variant:2}Cannot be Stunned while Bleeding","{variant:2}Cannot be Poisoned while Bleeding","50% chance to be inflicted with Bleeding when Hit by an Attack"],
+    "upgrade":"Upgrades to unique{The Red Trail} using currency{Blessing of Uul-Netol}",
+    "variants":["Pre 3.21.0","Current"]
+  },
+  "The Red Trail":{
+    "baseType":"Titan Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Breach",
+    "modifiers":["{variant:1}(60-80)% increased Armour","{variant:2}(60-100)% increased Armour","{variant:1}+(50-70) to maximum Life","{variant:2}+(60-100) to maximum Life","{variant:1}25% increased Movement Speed","{variant:2}30% increased Movement Speed","{variant:1}15% increased Movement Speed while Bleeding","10% additional Physical Damage Reduction while stationary","50% chance to be inflicted with Bleeding when Hit by an Attack"],
+    "name":"The Red Trail",
+    "originalString":"The Red Trail\nTitan Greaves\nVariant: Pre 3.21.0\nVariant: Current\nLeague: Breach\nSource: Upgraded from unique{The Infinite Pursuit} using currency{Blessing of Uul-Netol}\nRequires Level 68, 120 Str\n{variant:1}(60-80)% increased Armour\n{variant:2}(60-100)% increased Armour\n{variant:1}+(50-70) to maximum Life\n{variant:2}+(60-100) to maximum Life\n{variant:1}25% increased Movement Speed\n{variant:2}30% increased Movement Speed\nGain a Frenzy Charge on Hit while Bleeding\n{variant:1}15% increased Movement Speed while Bleeding\n10% additional Physical Damage Reduction while stationary\n50% chance to be inflicted with Bleeding when Hit by an Attack\nGore Footprints\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Upgraded from unique{The Infinite Pursuit} using currency{Blessing of Uul-Netol}",
+    "stats":["The Red Trail","Titan Greaves","Variant: Pre 3.21.0","Variant: Current","League: Breach","Source: Upgraded from unique{The Infinite Pursuit} using currency{Blessing of Uul-Netol}","Requires Level 68, 120 Str","{variant:1}(60-80)% increased Armour","{variant:2}(60-100)% increased Armour","{variant:1}+(50-70) to maximum Life","{variant:2}+(60-100) to maximum Life","{variant:1}25% increased Movement Speed","{variant:2}30% increased Movement Speed","Gain a Frenzy Charge on Hit while Bleeding","{variant:1}15% increased Movement Speed while Bleeding","10% additional Physical Damage Reduction while stationary","50% chance to be inflicted with Bleeding when Hit by an Attack","Gore Footprints"],
+    "variants":["Pre 3.21.0","Current"]
+  },
+  "The Stampede":{
+    "baseType":"Assassin's Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Blight",
+    "modifiers":["(100-150)% increased Evasion and Energy Shield","(30-40)% increased Stun and Block Recovery","Travel Skills have (50-80)% increased Cooldown Recovery Speed","(30-40)% increased Mana Regeneration Rate while moving","Your Movement Speed is 150% of its base value"],
+    "name":"The Stampede",
+    "originalString":"The Stampede\nAssassin's Boots\nRequires Level 63, 62 Dex, 62 Int\nLeague: Blight\nSource: Drops in Blighted Maps\n(100-150)% increased Evasion and Energy Shield\n(30-40)% increased Stun and Block Recovery\nTravel Skills have (50-80)% increased Cooldown Recovery Speed\n(30-40)% increased Mana Regeneration Rate while moving\nYour Movement Speed is 150% of its base value\nThis item can be anointed by Cassia\n",
+    "requirements":{
+      "level":63
+    },
+    "source":"Drops in Blighted Maps",
+    "stats":["The Stampede","Assassin's Boots","Requires Level 63, 62 Dex, 62 Int","League: Blight","Source: Drops in Blighted Maps","(100-150)% increased Evasion and Energy Shield","(30-40)% increased Stun and Block Recovery","Travel Skills have (50-80)% increased Cooldown Recovery Speed","(30-40)% increased Mana Regeneration Rate while moving","Your Movement Speed is 150% of its base value","This item can be anointed by Cassia"],
+    "variants":[]
+  },
+  "The Tempest Rising":{
+    "baseType":"Goliath Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(80-120)% increased Armour","30% increased Movement Speed","(5-25)% increased Duration of Ailments on Enemies","Damaging Ailments deal damage (5-25)% faster"],
+    "name":"The Tempest Rising",
+    "originalString":"The Tempest Rising\nGoliath Greaves\nSource: Drops from unique{Sirus, Awakener of Worlds} (Uber)\nRequires Level 54, 95 Str\n(80–120)% increased Armour\n30% increased Movement Speed\n(5–25)% increased Duration of Ailments on Enemies\nDamaging Ailments deal damage (5–25)% faster\nYou and Enemies in your Presence count as moving while affected by Elemental Ailments\n",
+    "requirements":{
+      "level":54
+    },
+    "source":"Drops from unique{Sirus, Awakener of Worlds} (Uber)",
+    "stats":["The Tempest Rising","Goliath Greaves","Source: Drops from unique{Sirus, Awakener of Worlds} (Uber)","Requires Level 54, 95 Str","(80-120)% increased Armour","30% increased Movement Speed","(5-25)% increased Duration of Ailments on Enemies","Damaging Ailments deal damage (5-25)% faster","You and Enemies in your Presence count as moving while affected by Elemental Ailments"],
+    "variants":[]
+  },
+  "Three-step Assault":{
+    "baseType":"Shagreen Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(25-35) to Dexterity","(20-40)% increased Evasion Rating","{variant:1}40% increased Evasion Rating while you have Onslaught","{variant:2,3}100% increased Evasion Rating while you have Onslaught","{variant:1}+(30-60) to maximum Life","{variant:1}20% increased Movement Speed","{variant:2,3}25% increased Movement Speed","{variant:1,2}10% chance to Avoid Elemental Ailments while Phasing","{variant:3}30% chance to Avoid Elemental Ailments while Phasing"],
+    "name":"Three-step Assault",
+    "originalString":"Three-step Assault\nShagreen Boots\nVariant: Pre 2.6.0\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 55, 97 Dex\n+(25-35) to Dexterity\n(20-40)% increased Evasion Rating\n{variant:1}40% increased Evasion Rating while you have Onslaught\n{variant:2,3}100% increased Evasion Rating while you have Onslaught\n{variant:1}+(30-60) to maximum Life\n{variant:2,3}+(50-70) to maximum Life\n{variant:1}20% increased Movement Speed\n{variant:2,3}25% increased Movement Speed\n{variant:1,2}10% chance to Avoid Elemental Ailments while Phasing\n{variant:3}30% chance to Avoid Elemental Ailments while Phasing\n",
+    "requirements":{
+      "level":55
+    },
+    "stats":["Three-step Assault","Shagreen Boots","Variant: Pre 2.6.0","Variant: Pre 3.16.0","Variant: Current","Requires Level 55, 97 Dex","+(25-35) to Dexterity","(20-40)% increased Evasion Rating","{variant:1}40% increased Evasion Rating while you have Onslaught","{variant:2,3}100% increased Evasion Rating while you have Onslaught","{variant:1}+(30-60) to maximum Life","{variant:2,3}+(50-70) to maximum Life","{variant:1}20% increased Movement Speed","{variant:2,3}25% increased Movement Speed","{variant:1,2}10% chance to Avoid Elemental Ailments while Phasing","{variant:3}30% chance to Avoid Elemental Ailments while Phasing"],
+    "variants":["Pre 2.6.0","Pre 3.16.0","Current"]
+  },
+  "Torchoak Step":{
+    "baseType":"Antique Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(80-120)% increased Armour","{variant:1}(30-50)% increased Totem Life","{variant:2}(20-30)% increased Totem Life","25% increased Movement Speed","(30-50)% increased Totem Placement speed","{variant:1}Totems Reflect 25% of their maximum Life as Fire Damage to nearby Enemies when Hit","{variant:2}Totems Reflect 100% of their maximum Life as Fire Damage to nearby Enemies when Hit"],
+    "name":"Torchoak Step",
+    "originalString":"Torchoak Step\nAntique Greaves\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 37, 67 Str\n(80-120)% increased Armour\n{variant:1}(30-50)% increased Totem Life\n{variant:2}(20-30)% increased Totem Life\n25% increased Movement Speed\n(30-50)% increased Totem Placement speed\n{variant:1}Totems Reflect 25% of their maximum Life as Fire Damage to nearby Enemies when Hit\n{variant:2}Totems Reflect 100% of their maximum Life as Fire Damage to nearby Enemies when Hit\n",
+    "requirements":{
+      "level":37
+    },
+    "stats":["Torchoak Step","Antique Greaves","Variant: Pre 3.16.0","Variant: Current","Requires Level 37, 67 Str","(80-120)% increased Armour","{variant:1}(30-50)% increased Totem Life","{variant:2}(20-30)% increased Totem Life","25% increased Movement Speed","(30-50)% increased Totem Placement speed","{variant:1}Totems Reflect 25% of their maximum Life as Fire Damage to nearby Enemies when Hit","{variant:2}Totems Reflect 100% of their maximum Life as Fire Damage to nearby Enemies when Hit"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Veruso's Ambition":{
+    "baseType":"Shackled Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "league":" Necropolis",
+    "modifiers":["(80-120)% increased Evasion and Energy Shield","+(13-23)% to Chaos Resistance","(20-30)% increased Movement Speed"],
+    "name":"Veruso's Ambition",
+    "originalString":"Veruso's Ambition\nShackled Boots\nLeague: Necropolis\nRequires Level 34, 34 Dex, 34 Int\nGrants Level 20 Ravenous Skill\n(80–120)% increased Evasion and Energy Shield\n+(13–23)% to Chaos Resistance\n(20–30)% increased Movement Speed\nEnemies display their Monster Category\n",
+    "requirements":{
+      "level":34
+    },
+    "stats":["Veruso's Ambition","Shackled Boots","League: Necropolis","Requires Level 34, 34 Dex, 34 Int","Grants Level 20 Ravenous Skill","(80-120)% increased Evasion and Energy Shield","+(13-23)% to Chaos Resistance","(20-30)% increased Movement Speed","Enemies display their Monster Category"],
+    "variants":[]
+  },
+  "Victario's Flight":{
+    "baseType":"Goathide Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+15 to Dexterity","+15 to Intelligence","(100-150)% increased Evasion Rating","{variant:2}15% increased Movement Speed","{variant:3}(10-20)% increased Movement Speed","{variant:1}30% increased Movement Speed when on Low Life","{variant:3}(10-20)% increased Movement Speed when on Low Life","{variant:1,2}(5-10)% of Damage taken Recouped as Mana","{variant:2}10% increased Movement Speed for you and nearby Allies","{variant:3}Quicksilver Flasks you Use also apply to nearby Allies"],
+    "name":"Victario's Flight",
+    "originalString":"Victario's Flight\nGoathide Boots\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\n+15 to Dexterity\n+15 to Intelligence\n(100-150)% increased Evasion Rating\n{variant:2}15% increased Movement Speed\n{variant:3}(10-20)% increased Movement Speed\n{variant:1}30% increased Movement Speed when on Low Life\n{variant:3}(10-20)% increased Movement Speed when on Low Life\n{variant:1,2}(5-10)% of Damage taken Recouped as Mana\n{variant:2}10% increased Movement Speed for you and nearby Allies\n{variant:3}Quicksilver Flasks you Use also apply to nearby Allies\n",
+    "requirements":[],
+    "stats":["Victario's Flight","Goathide Boots","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","+15 to Dexterity","+15 to Intelligence","(100-150)% increased Evasion Rating","{variant:2}15% increased Movement Speed","{variant:3}(10-20)% increased Movement Speed","{variant:1}30% increased Movement Speed when on Low Life","{variant:3}(10-20)% increased Movement Speed when on Low Life","{variant:1,2}(5-10)% of Damage taken Recouped as Mana","{variant:2}10% increased Movement Speed for you and nearby Allies","{variant:3}Quicksilver Flasks you Use also apply to nearby Allies"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Voidwalker":{
+    "baseType":"Murder Boots",
+    "flags":{
+      "shaperItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+(30-50) to Dexterity","(140-180)% increased Evasion and Energy Shield","30% increased Movement Speed","20% chance to Avoid Projectiles while Phasing","{variant:1}Projectiles Pierce all Targets while you have Phasing","{variant:2}Projectiles Pierce 5 additional Targets while you have Phasing"],
+    "name":"Voidwalker",
+    "originalString":"Voidwalker\nMurder Boots\nShaper Item\nSource: Drops from unique{The Shaper}\nVariant: Pre 3.0.0\nVariant: Current\nRequires Level 69, 82 Dex, 42 Int\n+(30-50) to Dexterity\n(140-180)% increased Evasion and Energy Shield\n30% increased Movement Speed\n20% chance to Avoid Projectiles while Phasing\nYou have Phasing if you've Killed Recently\n{variant:1}Projectiles Pierce all Targets while you have Phasing\n{variant:2}Projectiles Pierce 5 additional Targets while you have Phasing\nCelestial Footprints\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops from unique{The Shaper}",
+    "stats":["Voidwalker","Murder Boots","Shaper Item","Source: Drops from unique{The Shaper}","Variant: Pre 3.0.0","Variant: Current","Requires Level 69, 82 Dex, 42 Int","+(30-50) to Dexterity","(140-180)% increased Evasion and Energy Shield","30% increased Movement Speed","20% chance to Avoid Projectiles while Phasing","You have Phasing if you've Killed Recently","{variant:1}Projectiles Pierce all Targets while you have Phasing","{variant:2}Projectiles Pierce 5 additional Targets while you have Phasing","Celestial Footprints"],
+    "variants":["Pre 3.0.0","Current"]
+  },
+  "Wake of Destruction":{
+    "baseType":"Mesh Boots",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(20-60)% increased Armour and Energy Shield","{variant:2,3}15% increased Movement Speed","{variant:1,2}10% Chance to Cause Monsters to Flee","{variant:3}Drops Shocked Ground while moving, lasting 2 seconds"],
+    "name":"Wake of Destruction",
+    "originalString":"Wake of Destruction\nMesh Boots\nVariant: Pre 2.6.0\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 28, 28 Str, 28 Int\nAdds 1 to 120 Lightning Damage to Attacks\n(20-60)% increased Armour and Energy Shield\nGain (10-20) Life per Enemy Killed\n{variant:2,3}15% increased Movement Speed\n{variant:1,2}10% Chance to Cause Monsters to Flee\n{variant:3}Drops Shocked Ground while moving, lasting 2 seconds\n",
+    "requirements":{
+      "level":28
+    },
+    "stats":["Wake of Destruction","Mesh Boots","Variant: Pre 2.6.0","Variant: Pre 3.11.0","Variant: Current","Requires Level 28, 28 Str, 28 Int","Adds 1 to 120 Lightning Damage to Attacks","(20-60)% increased Armour and Energy Shield","Gain (10-20) Life per Enemy Killed","{variant:2,3}15% increased Movement Speed","{variant:1,2}10% Chance to Cause Monsters to Flee","{variant:3}Drops Shocked Ground while moving, lasting 2 seconds"],
+    "variants":["Pre 2.6.0","Pre 3.11.0","Current"]
+  },
+  "Wanderlust":{
+    "baseType":"Wool Shoes",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["+5 to Dexterity","(20-40)% increased Mana Regeneration Rate","+(10-20) to maximum Energy Shield","20% increased Movement Speed"],
+    "name":"Wanderlust",
+    "originalString":"Wanderlust\nWool Shoes\n+5 to Dexterity\n(20-40)% increased Mana Regeneration Rate\n+(10-20) to maximum Energy Shield\n20% increased Movement Speed\nCannot be Frozen\n",
+    "requirements":[],
+    "stats":["Wanderlust","Wool Shoes","+5 to Dexterity","(20-40)% increased Mana Regeneration Rate","+(10-20) to maximum Energy Shield","20% increased Movement Speed","Cannot be Frozen"],
+    "variants":[]
+  },
+  "Windscream":{
+    "baseType":"Reinforced Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(50-80)% increased Armour","+(10-15)% to all Elemental Resistances","{variant:1}10% increased Movement Speed","{variant:2}15% increased Movement Speed","{variant:3}20% increased Movement Speed","{variant:1}10% increased Elemental Damage","{variant:2}(10-20)% increased Elemental Damage","{variant:3}50% increased Area of Effect of Hex Skills"],
+    "name":"Windscream",
+    "originalString":"Windscream\nReinforced Greaves\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\n(50-80)% increased Armour\n+(10-15)% to all Elemental Resistances\n{variant:1}10% increased Movement Speed\n{variant:2}15% increased Movement Speed\n{variant:3}20% increased Movement Speed\n{variant:1}10% increased Elemental Damage\n{variant:2}(10-20)% increased Elemental Damage\nYou can apply an additional Curse\n{variant:3}50% increased Area of Effect of Hex Skills\n",
+    "requirements":[],
+    "stats":["Windscream","Reinforced Greaves","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","(50-80)% increased Armour","+(10-15)% to all Elemental Resistances","{variant:1}10% increased Movement Speed","{variant:2}15% increased Movement Speed","{variant:3}20% increased Movement Speed","{variant:1}10% increased Elemental Damage","{variant:2}(10-20)% increased Elemental Damage","You can apply an additional Curse","{variant:3}50% increased Area of Effect of Hex Skills"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Windshriek":{
+    "baseType":"Reinforced Greaves",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["(200-250)% increased Armour","+(10-15)% to all Elemental Resistances","25% increased Movement Speed","(10-20)% increased Elemental Damage","60% increased Area of Effect of Hex Skills"],
+    "name":"Windshriek",
+    "originalString":"Windshriek\nReinforced Greaves\nSource: No longer obtainable\nLevelReq: 60\n(200-250)% increased Armour\n+(10-15)% to all Elemental Resistances\n25% increased Movement Speed\n(10-20)% increased Elemental Damage\nYou can apply an additional Curse\n60% increased Area of Effect of Hex Skills\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"No longer obtainable",
+    "stats":["Windshriek","Reinforced Greaves","Source: No longer obtainable","LevelReq: 60","(200-250)% increased Armour","+(10-15)% to all Elemental Resistances","25% increased Movement Speed","(10-20)% increased Elemental Damage","You can apply an additional Curse","60% increased Area of Effect of Hex Skills"],
+    "variants":[]
+  },
+  "Wondertrap":{
+    "baseType":"Velvet Slippers",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"boots",
+    "modifiers":["{variant:3}+(5-30) to Strength","{variant:3}+(5-30) to Dexterity","{variant:3}+(5-30) to Intelligence","{variant:3}+(5-30) to maximum Energy Shield","100% increased Rarity of Items found when on Low Life","{variant:1}15% increased Movement Speed","{variant:2}10% increased Movement Speed","{variant:3}(10-25)% increased Movement Speed"],
+    "name":"Wondertrap",
+    "originalString":"Wondertrap\nVelvet Slippers\nVariant: Pre 1.0.0\nVariant: Pre 3.19.0\nVariant: Current\n{variant:1,2}+(5-10) to Strength\n{variant:3}+(5-30) to Strength\n{variant:1,2}+(5-10) to Dexterity\n{variant:3}+(5-30) to Dexterity\n{variant:1,2}+(5-10) to Intelligence\n{variant:3}+(5-30) to Intelligence\n{variant:1,2}+(10-16) to maximum Energy Shield\n{variant:3}+(5-30) to maximum Energy Shield\n100% increased Rarity of Items found when on Low Life\n{variant:1}15% increased Movement Speed\n{variant:2}10% increased Movement Speed\n{variant:3}(10-25)% increased Movement Speed\n",
+    "requirements":[],
+    "stats":["Wondertrap","Velvet Slippers","Variant: Pre 1.0.0","Variant: Pre 3.19.0","Variant: Current","{variant:1,2}+(5-10) to Strength","{variant:3}+(5-30) to Strength","{variant:1,2}+(5-10) to Dexterity","{variant:3}+(5-30) to Dexterity","{variant:1,2}+(5-10) to Intelligence","{variant:3}+(5-30) to Intelligence","{variant:1,2}+(10-16) to maximum Energy Shield","{variant:3}+(5-30) to maximum Energy Shield","100% increased Rarity of Items found when on Low Life","{variant:1}15% increased Movement Speed","{variant:2}10% increased Movement Speed","{variant:3}(10-25)% increased Movement Speed"],
+    "variants":["Pre 1.0.0","Pre 3.19.0","Current"]
+  }
+}

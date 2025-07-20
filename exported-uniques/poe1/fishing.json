@@ -1,0 +1,28 @@
+{
+  "Reefbane":{
+    "baseType":"Fishing Rod",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"fishing",
+    "modifiers":["(30-40)% increased Cast Speed","{variant:1}(30-40)% increased Quantity of Fish Caught","{variant:2}(10-20)% increased Quantity of Fish Caught"],
+    "name":"Reefbane",
+    "originalString":"Reefbane\nFishing Rod\nVariant: Pre 2.6.0\nVariant: Current\nRequires 8 Str, 8 Dex\n(30-40)% increased Cast Speed\nThaumaturgical Lure\n{variant:1}(30-40)% increased Quantity of Fish Caught\n{variant:2}(10-20)% increased Quantity of Fish Caught\nGlows while in an Area containing a Unique Fish\n",
+    "requirements":[],
+    "stats":["Reefbane","Fishing Rod","Variant: Pre 2.6.0","Variant: Current","Requires 8 Str, 8 Dex","(30-40)% increased Cast Speed","Thaumaturgical Lure","{variant:1}(30-40)% increased Quantity of Fish Caught","{variant:2}(10-20)% increased Quantity of Fish Caught","Glows while in an Area containing a Unique Fish"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Song of the Sirens":{
+    "baseType":"Fishing Rod",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"fishing",
+    "modifiers":["(50-40)% reduced Quantity of Fish Caught","(50-60)% increased Rarity of Fish Caught"],
+    "name":"Song of the Sirens",
+    "originalString":"Song of the Sirens\nFishing Rod\nRequires 8 Str, 8 Dex\nImplicits: 0\nSiren Worm Bait\n(50-40)% reduced Quantity of Fish Caught\n(50-60)% increased Rarity of Fish Caught\nYou can catch Exotic Fish\n",
+    "requirements":[],
+    "stats":["Song of the Sirens","Fishing Rod","Requires 8 Str, 8 Dex","Implicits: 0","Siren Worm Bait","(50-40)% reduced Quantity of Fish Caught","(50-60)% increased Rarity of Fish Caught","You can catch Exotic Fish"],
+    "variants":[]
+  }
+}
