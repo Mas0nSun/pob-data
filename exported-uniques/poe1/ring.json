@@ -515,11 +515,11 @@
     "implicitCount":1,
     "itemType":"ring",
     "league":" Blight",
-    "modifiers":["{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks","{tags:jewellery_attribute}+(20-30) to Dexterity","25% chance to Poison on Hit","{tags:chaos}(40-60)% increased Damage with Poison"],
+    "modifiers":["{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks","{tags:jewellery_attribute}+(20-30) to Dexterity","25% chance to Poison on Hit","{tags:chaos_damage}(40-60)% increased Damage with Poison"],
     "name":"Icefang Orbit",
-    "originalString":"Icefang Orbit\nIron Ring\nRequires Level: 49\nImplicits: 1\nLeague: Blight\n{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks\n{tags:jewellery_attribute}+(20-30) to Dexterity\n25% chance to Poison on Hit\n{tags:chaos}(40-60)% increased Damage with Poison\nYou are Chilled while you are Poisoned\nNon-Chilled Enemies you Poison are Chilled\nPoisoned Enemies you Kill with Hits Shatter\n",
+    "originalString":"Icefang Orbit\nIron Ring\nRequires Level: 49\nImplicits: 1\nLeague: Blight\n{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks\n{tags:jewellery_attribute}+(20-30) to Dexterity\n25% chance to Poison on Hit\n{tags:chaos_damage}(40-60)% increased Damage with Poison\nYou are Chilled while you are Poisoned\nNon-Chilled Enemies you Poison are Chilled\nPoisoned Enemies you Kill with Hits Shatter\n",
     "requirements":[],
-    "stats":["Icefang Orbit","Iron Ring","Requires Level: 49","Implicits: 1","League: Blight","{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks","{tags:jewellery_attribute}+(20-30) to Dexterity","25% chance to Poison on Hit","{tags:chaos}(40-60)% increased Damage with Poison","You are Chilled while you are Poisoned","Non-Chilled Enemies you Poison are Chilled","Poisoned Enemies you Kill with Hits Shatter"],
+    "stats":["Icefang Orbit","Iron Ring","Requires Level: 49","Implicits: 1","League: Blight","{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks","{tags:jewellery_attribute}+(20-30) to Dexterity","25% chance to Poison on Hit","{tags:chaos_damage}(40-60)% increased Damage with Poison","You are Chilled while you are Poisoned","Non-Chilled Enemies you Poison are Chilled","Poisoned Enemies you Kill with Hits Shatter"],
     "variants":[]
   },
   "Ixchel's Temptation":{

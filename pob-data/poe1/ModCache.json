@@ -5185,6 +5185,21 @@
           "value":2
         }
       }]],
+  "+2 to Level of Socketed AoE Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyword":"aoe",
+          "value":2
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      }]],
   "+2 to Level of Socketed Aura Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5335,6 +5350,21 @@
           "type":"SocketedIn"
         }
       }]],
+  "+2 to Level of Socketed Melee Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyword":"melee",
+          "value":2
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      }]],
   "+2 to Level of Socketed Minion Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5358,6 +5388,21 @@
         "value":{
           "key":"level",
           "keyword":"movement",
+          "value":2
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      }]],
+  "+2 to Level of Socketed Projectile Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyword":"projectile",
           "value":2
         },
         "1":{
@@ -26302,37 +26347,6 @@
         "type":"INC",
         "value":105
       }]],
-  "11% chance to Avoid Elemental Damage from Hits during Soul Gain Prevention":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"AvoidFireDamageChance",
-        "type":"BASE",
-        "value":11,
-        "1":{
-          "type":"Condition",
-          "var":"SoulGainPrevention"
-        }
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"AvoidColdDamageChance",
-        "type":"BASE",
-        "value":11,
-        "1":{
-          "type":"Condition",
-          "var":"SoulGainPrevention"
-        }
-      },{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"AvoidLightningDamageChance",
-        "type":"BASE",
-        "value":11,
-        "1":{
-          "type":"Condition",
-          "var":"SoulGainPrevention"
-        }
-      }]],
   "11% chance to Suppress Spell Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -28793,6 +28807,17 @@
       }]],
   "15% Global chance to Blind Enemies on hit":[[],"%  chance to Blind Enemies on hit "],
   "15% Global chance to Blind Enemies on hit Attack Hits against Bleeding Enemies have 30% chance to Blind":[[],"%  chance to Blind Enemies on hit Attack Hits  have 30% chance to Blind "],
+  "15% additional Physical Damage Reduction while Focused":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalDamageReduction",
+        "type":"BASE",
+        "value":15,
+        "1":{
+          "type":"Condition",
+          "var":"Focused"
+        }
+      }]],
   "15% chance for Tinctures to not inflict Mana Burn":[[{
         "flags":0,
         "keywordFlags":0,
@@ -34599,6 +34624,17 @@
         "type":"INC",
         "value":20
       }]],
+  "20% increased Attack and Cast Speed if you've Consumed a Corpse Recently":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Speed",
+        "type":"INC",
+        "value":20,
+        "1":{
+          "type":"Condition",
+          "var":"ConsumedCorpseRecently"
+        }
+      }]],
   "20% increased Attack and Cast Speed while Leeching Energy Shield":[[{
         "flags":0,
         "keywordFlags":0,
@@ -34914,6 +34950,17 @@
         "1":{
           "type":"Condition",
           "var":"UsingFlask"
+        }
+      }]],
+  "20% increased Damage if you have Consumed a corpse Recently":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Damage",
+        "type":"INC",
+        "value":20,
+        "1":{
+          "type":"Condition",
+          "var":"ConsumedCorpseRecently"
         }
       }]],
   "20% increased Damage per Curse on you":[[{
@@ -44712,6 +44759,17 @@
         "name":"ElementalDamage",
         "type":"INC",
         "value":32
+      }]],
+  "32% increased Evasion Rating while Focused":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Evasion",
+        "type":"INC",
+        "value":32,
+        "1":{
+          "type":"Condition",
+          "var":"Focused"
+        }
       }]],
   "32% increased Movement Speed while affected by a Magic Abyss Jewel":[[{
         "flags":0,
@@ -112162,6 +112220,17 @@
           "unscalable":true
         }
       }]],
+  "Take no Extra Damage from Critical Strikes if Energy Shield Recharge started Recently":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ReduceCritExtraDamage",
+        "type":"BASE",
+        "value":100,
+        "1":{
+          "type":"Condition",
+          "var":"EnergyShieldRechargeRecently"
+        }
+      }]],
   "Take no Extra Damage from Critical Strikes if you have a Magic Ring in left slot":[[{
         "flags":0,
         "keywordFlags":0,
@@ -114481,6 +114550,7 @@
         }
       }]],
   "Warlord's Call":[null,"Warlord's Call "],
+  "Warlord's Call Call to Arms":[null,"Warlord's Call Call to Arms "],
   "Weapons you Animate create an additional copy":[null,"Weapons you Animate create an additional copy "],
   "When 90% of your Hex's Duration Expires on an Enemy, Eat 1 Soul per Enemy Power":[[{
         "flags":0,
