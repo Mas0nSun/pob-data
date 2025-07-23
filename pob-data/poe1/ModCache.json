@@ -4018,6 +4018,13 @@
         "type":"BASE",
         "value":15
       }]],
+  "+15 to maximum Charges":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"FlaskCharges",
+        "type":"BASE",
+        "value":15
+      }]],
   "+15 to maximum Energy Shield":[[{
         "flags":0,
         "keywordFlags":0,
@@ -6161,6 +6168,13 @@
         "flags":0,
         "keywordFlags":0,
         "name":"All",
+        "type":"BASE",
+        "value":20
+      }]],
+  "+20 to maximum Charges":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"FlaskCharges",
         "type":"BASE",
         "value":20
       }]],
@@ -32768,13 +32782,6 @@
         "type":"INC",
         "value":188
       }]],
-  "188% increased Charges per use":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"FlaskChargesUsed",
-        "type":"INC",
-        "value":188
-      }]],
   "188% increased Physical Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -54840,17 +54847,6 @@
         "type":"INC",
         "value":70
       }]],
-  "70% increased Critical Strike Chance during Effect":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"CritChance",
-        "type":"INC",
-        "value":70,
-        "1":{
-          "type":"Condition",
-          "var":"UsingFlask"
-        }
-      }]],
   "70% increased Critical Strike Chance for Spells":[[{
         "flags":2,
         "keywordFlags":0,
@@ -56909,14 +56905,15 @@
   "80% reduced Reflected Damage taken during Effect":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"DamageTaken",
+        "name":"ReflectedDamageTaken",
         "type":"INC",
         "value":-80,
         "1":{
-          "type":"Condition",
-          "var":"UsingFlask"
+          "effectType":"Global",
+          "type":"GlobalEffect",
+          "unscalable":true
         }
-      }]," Reflected   "],
+      }]],
   "80% reduced Reservation Efficiency of Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -78956,6 +78953,25 @@
       }]],
   "Enemies Hitting you have 10% chance to gain an Endurance, ":[null,"Enemies Hitting you have 10% chance to gain an Endurance,  "],
   "Enemies Hitting you have 10% chance to gain an Endurance,  Frenzy or Power Charge":[null,"Enemies Hitting you have 10% chance to gain an Endurance,  Frenzy or Power Charge "],
+  "Enemies Ignited by you during Effect have Malediction":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"HasMalediction",
+            "type":"FLAG",
+            "value":true,
+            "1":{
+              "type":"Condition",
+              "var":"Ignited"
+            }
+          }
+        }
+      }]],
   "Enemies Ignited by you during Effect take 10% increased Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -88526,6 +88542,8 @@
         "type":"INC",
         "value":8
       }]],
+  "Ignites you inflict during Effect spread to other Enemies within 1.5 metres":[null,"Ignites you inflict during Effect spread to other Enemies within 1.5 metres "],
+  "Ignites you inflict during Effect spread to other Enemies within 1.5 metres Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect":[null,"Ignites you inflict during Effect spread to other Enemies within 1.5 metres Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect "],
   "Ignites you inflict spread to other Enemies within a Radius of 1.5 metres":[null,"Ignites you inflict spread to other Enemies within a Radius of 1.5 metres "],
   "Ignites you inflict with Attacks deal Damage 20% faster":[[{
         "flags":1,
@@ -89507,6 +89525,7 @@
       }]],
   "Knocks Back Enemies in an Area when you use a Flask":[null,"Knocks Back Enemies in an Area when you use a Flask "],
   "Knocks Back Enemies in an Area when you use a Flask 75% chance to cause Enemies to Flee on use":[null,"Knocks Back Enemies in an Area when you use a Flask 75% chance to cause Enemies to Flee on use "],
+  "Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect":[null,"Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect "],
   "Leech Energy Shield instead of Life":[[{
         "flags":0,
         "keywordFlags":0,
@@ -99628,22 +99647,6 @@
           "var":"Cursed"
         }
       }]],
-  "Recover 2% of Energy Shield when you Kill an Enemy during Effect":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnergyShieldOnKill",
-        "type":"BASE",
-        "value":1,
-        "1":{
-          "percent":2,
-          "stat":"EnergyShield",
-          "type":"PercentStat"
-        },
-        "2":{
-          "type":"Condition",
-          "var":"UsingFlask"
-        }
-      }]],
   "Recover 2% of Life on Kill":[[{
         "flags":0,
         "keywordFlags":0,
@@ -99750,22 +99753,6 @@
           "actor":"enemy",
           "type":"ActorCondition",
           "var":"Cursed"
-        }
-      }]],
-  "Recover 2% of Mana when you Kill an Enemy during Effect":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"ManaOnKill",
-        "type":"BASE",
-        "value":1,
-        "1":{
-          "percent":2,
-          "stat":"Mana",
-          "type":"PercentStat"
-        },
-        "2":{
-          "type":"Condition",
-          "var":"UsingFlask"
         }
       }]],
   "Recover 20% of Life on Rampage":[null,"Recover 20% of Life on Rampage "],
@@ -115880,6 +115867,13 @@
         "type":"BASE",
         "value":1
       }]],
+  "You can apply an additional Curse during Effect":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyCurseLimit",
+        "type":"BASE",
+        "value":1
+      }]],
   "You can apply an additional Curse if 6 Hunter Items are Equipped":[[{
         "flags":0,
         "keywordFlags":0,
@@ -118153,6 +118147,13 @@
         "flags":0,
         "keywordFlags":0,
         "name":"PhysicalCanFreeze",
+        "type":"FLAG",
+        "value":true
+      }]],
+  "Your Physical Damage can Ignite during Effect":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"PhysicalCanIgnite",
         "type":"FLAG",
         "value":true
       }]],
