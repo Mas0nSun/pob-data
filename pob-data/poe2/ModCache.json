@@ -10645,14 +10645,10 @@
   "10% reduced Movement Speed Penalty from using Skills while moving":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MovementSpeed",
+        "name":"MovementSpeedPenalty",
         "type":"INC",
-        "value":-10,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  "],
+        "value":-10
+      }]],
   "10% reduced Movement Speed Penalty while Actively Blocking":[[{
         "flags":0,
         "keywordFlags":0,
@@ -11892,14 +11888,10 @@
   "12% reduced Movement Speed Penalty from using Skills while moving":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MovementSpeed",
+        "name":"MovementSpeedPenalty",
         "type":"INC",
-        "value":-12,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  "],
+        "value":-12
+      }]],
   "12.5 Life Regeneration per second":[[{
         "flags":0,
         "keywordFlags":0,
@@ -18996,14 +18988,10 @@
   "3% reduced Movement Speed Penalty from using Skills while moving":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MovementSpeed",
+        "name":"MovementSpeedPenalty",
         "type":"INC",
-        "value":-3,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  "],
+        "value":-3
+      }]],
   "3% reduced maximum Life":[[{
         "flags":0,
         "keywordFlags":0,
@@ -24059,14 +24047,10 @@
   "50% less Movement Speed Penalty from using Skills while moving":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MovementSpeed",
+        "name":"MovementSpeedPenalty",
         "type":"MORE",
-        "value":-50,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  "],
+        "value":-50
+      }]],
   "50% more Armour from Equipped Body Armour":[[{
         "flags":0,
         "keywordFlags":0,
@@ -26232,25 +26216,10 @@
   "8% reduced Movement Speed Penalty from using Skills while moving":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MovementSpeed",
+        "name":"MovementSpeedPenalty",
         "type":"INC",
-        "value":-8,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  "],
-  "8% reduced Movement Speed Penalty from using Skills while moving 14% increased Skill Effect Duration":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"MovementSpeed",
-        "type":"INC",
-        "value":-8,
-        "1":{
-          "type":"Condition",
-          "var":"Moving"
-        }
-      }],"  Penalty from using Skills  14% increased Skill Effect Duration "],
+        "value":-8
+      }]],
   "8% reduced Skill Effect Duration":[[{
         "flags":0,
         "keywordFlags":0,

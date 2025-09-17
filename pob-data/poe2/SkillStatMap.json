@@ -4928,6 +4928,12 @@
       "name":"BlockChance",
       "type":"BASE"
     }],
+  "movement_speed_+%_final_while_performing_action":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"SkillMovementSpeed",
+      "type":"MORE"
+    }],
   "never_chill":[{
       "flags":0,
       "keywordFlags":0,
@@ -6896,6 +6902,12 @@
         }
       }
     }],
+  "support_deliberation_movement_speed_penalty_+%_final_while_performing_action":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"MovementSpeedPenalty",
+      "type":"MORE"
+    }],
   "support_grenade_damage_+%_final":[{
       "flags":0,
       "keywordFlags":0,
@@ -6930,6 +6942,12 @@
           "type":"MORE"
         }
       }
+    }],
+  "support_mobility_movement_speed_penalty_+%_final_while_performing_action":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"MovementSpeedPenalty",
+      "type":"MORE"
     }],
   "support_no_fear_damage_+%_final_per_second_up_to_30%":[{
       "flags":0,
