@@ -1,0 +1,1332 @@
+{
+  "Araku Tiki":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","{variant:1}{tags:jewellery_defense}+100 to Evasion Rating while on Low Life","{variant:2}{tags:jewellery_defense}+(150-250) to Evasion Rating while on Low Life","{tags:life}+(30-50) to maximum Life","{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{variant:1}{tags:life}Regenerate 1% of Life per second while on Low Life","{variant:2}Gain Elusive on reaching Low Life","{variant:2}You have Phasing while on Low Life"],
+    "name":"Araku Tiki",
+    "originalString":"Araku Tiki\nCoral Amulet\nVariant: Pre 3.19.0\nVariant: Current\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n{variant:1}{tags:jewellery_defense}+100 to Evasion Rating while on Low Life\n{variant:2}{tags:jewellery_defense}+(150-250) to Evasion Rating while on Low Life\n{tags:life}+(30-50) to maximum Life\n{tags:jewellery_resistance}+(20-30)% to Fire Resistance\n{variant:1}{tags:life}Regenerate 1% of Life per second while on Low Life\n{variant:2}Gain Elusive on reaching Low Life\n{variant:2}You have Phasing while on Low Life\n",
+    "requirements":[],
+    "stats":["Araku Tiki","Coral Amulet","Variant: Pre 3.19.0","Variant: Current","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","{variant:1}{tags:jewellery_defense}+100 to Evasion Rating while on Low Life","{variant:2}{tags:jewellery_defense}+(150-250) to Evasion Rating while on Low Life","{tags:life}+(30-50) to maximum Life","{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{variant:1}{tags:life}Regenerate 1% of Life per second while on Low Life","{variant:2}Gain Elusive on reaching Low Life","{variant:2}You have Phasing while on Low Life"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Ashes of the Stars":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","(5-10)% increased Experience Gain of Gems","{variant:1}(10-20)% increased Reservation Efficiency of Skills","+1 to Level of all Skill Gems","+(20-30)% to Quality of all Skill Gems"],
+    "name":"Ashes of the Stars",
+    "originalString":"Ashes of the Stars\nOnyx Amulet\nVariant: Pre 3.23.0\nVariant: Current\nSource: Drops from unique{The Eater of Worlds} (Uber)\nRequires Level 60\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n(5-10)% increased Experience Gain of Gems\n{variant:1}(10-20)% increased Reservation Efficiency of Skills\n+1 to Level of all Skill Gems\n+(20-30)% to Quality of all Skill Gems\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"Drops from unique{The Eater of Worlds} (Uber)",
+    "stats":["Ashes of the Stars","Onyx Amulet","Variant: Pre 3.23.0","Variant: Current","Source: Drops from unique{The Eater of Worlds} (Uber)","Requires Level 60","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","(5-10)% increased Experience Gain of Gems","{variant:1}(10-20)% increased Reservation Efficiency of Skills","+1 to Level of all Skill Gems","+(20-30)% to Quality of all Skill Gems"],
+    "variants":["Pre 3.23.0","Current"]
+  },
+  "Astramentis":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_attribute}+(80-100) to all Attributes","{tags:attack,physical_damage}-4 Physical Damage taken from Attacks"],
+    "name":"Astramentis",
+    "originalString":"Astramentis\nOnyx Amulet\nRequires Level 20\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{tags:jewellery_attribute}+(80-100) to all Attributes\n{tags:attack,physical_damage}-4 Physical Damage taken from Attacks\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Astramentis","Onyx Amulet","Requires Level 20","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_attribute}+(80-100) to all Attributes","{tags:attack,physical_damage}-4 Physical Damage taken from Attacks"],
+    "variants":[]
+  },
+  "Atziri's Foible":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:mana}(20-30)% increased Mana Regeneration Rate","{variant:1}{tags:mana}+50 to maximum Mana","{variant:2}{tags:mana}+100 to maximum Mana","{variant:1}{tags:mana}(8-12)% increased maximum Mana","{variant:2}{tags:mana}(16-24)% increased maximum Mana","{variant:1}{tags:mana}(40-60)% increased Mana Regeneration Rate","{variant:2}{tags:mana}(80-100)% increased Mana Regeneration Rate","Items and Gems have 25% reduced Attribute Requirements"],
+    "name":"Atziri's Foible",
+    "originalString":"Atziri's Foible\nPaua Amulet\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 16\nImplicits: 1\n{tags:mana}(20-30)% increased Mana Regeneration Rate\n{variant:1}{tags:mana}+50 to maximum Mana\n{variant:2}{tags:mana}+100 to maximum Mana\n{variant:1}{tags:mana}(8-12)% increased maximum Mana\n{variant:2}{tags:mana}(16-24)% increased maximum Mana\n{variant:1}{tags:mana}(40-60)% increased Mana Regeneration Rate\n{variant:2}{tags:mana}(80-100)% increased Mana Regeneration Rate\nItems and Gems have 25% reduced Attribute Requirements\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Atziri's Foible","Paua Amulet","Variant: Pre 2.6.0","Variant: Current","Requires Level 16","Implicits: 1","{tags:mana}(20-30)% increased Mana Regeneration Rate","{variant:1}{tags:mana}+50 to maximum Mana","{variant:2}{tags:mana}+100 to maximum Mana","{variant:1}{tags:mana}(8-12)% increased maximum Mana","{variant:2}{tags:mana}(16-24)% increased maximum Mana","{variant:1}{tags:mana}(40-60)% increased Mana Regeneration Rate","{variant:2}{tags:mana}(80-100)% increased Mana Regeneration Rate","Items and Gems have 25% reduced Attribute Requirements"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Aul's Uprising":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Delve",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:17}Grants Level 15 Envy Skill","{variant:1,2,3,4,5}{tags:jewellery_defense}(15-20)% increased Armour","{variant:6,7,8,9}{tags:jewellery_defense}(15-20)% increased Evasion Rating","{variant:10,11,12,13,14,15,16}{tags:jewellery_defense}(15-20)% increased maximum Energy Shield","{variant:17}{tags:jewellery_attribute}+(15-20) to all Attributes","{tags:life}+(50-70) to maximum Life","{variant:1,2,3,4,5}10% reduced Stun and Block Recovery","{variant:6,7,8,9}Nearby Enemies grant 25% increased Flask Charges","{variant:1,2,3,4,5}Nearby Enemies have 10% reduced Stun and Block Recovery","{variant:10,11,12,13,14,15,16}{tags:critical}Hits against Nearby Enemies have 50% increased Critical Strike Chance","{variant:17}{tags:jewellery_defense}(15-20)% increased Global Defences","{variant:1}Anger has no Reservation","{variant:2}Determination has no Reservation","{variant:3}Pride has no Reservation","{variant:4}Purity of Fire has no Reservation","{variant:5}Vitality has no Reservation","{variant:6}Grace has no Reservation","{variant:7}Haste has no Reservation","{variant:8}Hatred has no Reservation","{variant:9}Purity of Ice has no Reservation","{variant:10}Clarity has no Reservation","{variant:11}Discipline has no Reservation","{variant:12}Malevolence has no Reservation","{variant:13}Purity of Elements has no Reservation","{variant:14}Purity of Lightning has no Reservation","{variant:15}Wrath has no Reservation","{variant:16}Zealotry has no Reservation","{variant:17}Envy has no Reservation"],
+    "name":"Aul's Uprising",
+    "originalString":"Aul's Uprising\nOnyx Amulet\nLeague: Delve\nSource: Drops from unique{Aul, the Crystal King}\nVariant: Strength: Anger\nVariant: Strength: Determination\nVariant: Strength: Pride\nVariant: Strength: Purity of Fire\nVariant: Strength: Vitality\nVariant: Dexterity: Grace\nVariant: Dexterity: Haste\nVariant: Dexterity: Hatred\nVariant: Dexterity: Purity of Ice\nVariant: Intelligence: Clarity\nVariant: Intelligence: Discipline\nVariant: Intelligence: Malevolence\nVariant: Intelligence: Purity of Elements\nVariant: Intelligence: Purity of Lightning\nVariant: Intelligence: Wrath\nVariant: Intelligence: Zealotry\nVariant: Envy\nRequires Level 55\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{variant:1,2,3,4,5}{tags:jewellery_attribute}+(20-30) to Strength\n{variant:6,7,8,9}{tags:jewellery_attribute}+(20-30) to Dexterity\n{variant:10,11,12,13,14,15,16}{tags:jewellery_attribute}+(20-30) to Intelligence\n{variant:17}Grants Level 15 Envy Skill\n{variant:1,2,3,4,5}{tags:jewellery_defense}(15-20)% increased Armour\n{variant:6,7,8,9}{tags:jewellery_defense}(15-20)% increased Evasion Rating\n{variant:10,11,12,13,14,15,16}{tags:jewellery_defense}(15-20)% increased maximum Energy Shield\n{variant:17}{tags:jewellery_attribute}+(15-20) to all Attributes\n{tags:life}+(50-70) to maximum Life\n{variant:1,2,3,4,5}10% reduced Stun and Block Recovery\n{variant:6,7,8,9}Nearby Enemies grant 25% increased Flask Charges\n{variant:1,2,3,4,5}Nearby Enemies have 10% reduced Stun and Block Recovery\n{variant:10,11,12,13,14,15,16}{tags:critical}Hits against Nearby Enemies have 50% increased Critical Strike Chance\n{variant:17}{tags:jewellery_defense}(15-20)% increased Global Defences\n{variant:1}Anger has no Reservation\n{variant:2}Determination has no Reservation\n{variant:3}Pride has no Reservation\n{variant:4}Purity of Fire has no Reservation\n{variant:5}Vitality has no Reservation\n{variant:6}Grace has no Reservation\n{variant:7}Haste has no Reservation\n{variant:8}Hatred has no Reservation\n{variant:9}Purity of Ice has no Reservation\n{variant:10}Clarity has no Reservation\n{variant:11}Discipline has no Reservation\n{variant:12}Malevolence has no Reservation\n{variant:13}Purity of Elements has no Reservation\n{variant:14}Purity of Lightning has no Reservation\n{variant:15}Wrath has no Reservation\n{variant:16}Zealotry has no Reservation\n{variant:17}Envy has no Reservation\n",
+    "requirements":{
+      "level":55
+    },
+    "source":"Drops from unique{Aul, the Crystal King}",
+    "stats":["Aul's Uprising","Onyx Amulet","League: Delve","Source: Drops from unique{Aul, the Crystal King}","Variant: Strength: Anger","Variant: Strength: Determination","Variant: Strength: Pride","Variant: Strength: Purity of Fire","Variant: Strength: Vitality","Variant: Dexterity: Grace","Variant: Dexterity: Haste","Variant: Dexterity: Hatred","Variant: Dexterity: Purity of Ice","Variant: Intelligence: Clarity","Variant: Intelligence: Discipline","Variant: Intelligence: Malevolence","Variant: Intelligence: Purity of Elements","Variant: Intelligence: Purity of Lightning","Variant: Intelligence: Wrath","Variant: Intelligence: Zealotry","Variant: Envy","Requires Level 55","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1,2,3,4,5}{tags:jewellery_attribute}+(20-30) to Strength","{variant:6,7,8,9}{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:10,11,12,13,14,15,16}{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:17}Grants Level 15 Envy Skill","{variant:1,2,3,4,5}{tags:jewellery_defense}(15-20)% increased Armour","{variant:6,7,8,9}{tags:jewellery_defense}(15-20)% increased Evasion Rating","{variant:10,11,12,13,14,15,16}{tags:jewellery_defense}(15-20)% increased maximum Energy Shield","{variant:17}{tags:jewellery_attribute}+(15-20) to all Attributes","{tags:life}+(50-70) to maximum Life","{variant:1,2,3,4,5}10% reduced Stun and Block Recovery","{variant:6,7,8,9}Nearby Enemies grant 25% increased Flask Charges","{variant:1,2,3,4,5}Nearby Enemies have 10% reduced Stun and Block Recovery","{variant:10,11,12,13,14,15,16}{tags:critical}Hits against Nearby Enemies have 50% increased Critical Strike Chance","{variant:17}{tags:jewellery_defense}(15-20)% increased Global Defences","{variant:1}Anger has no Reservation","{variant:2}Determination has no Reservation","{variant:3}Pride has no Reservation","{variant:4}Purity of Fire has no Reservation","{variant:5}Vitality has no Reservation","{variant:6}Grace has no Reservation","{variant:7}Haste has no Reservation","{variant:8}Hatred has no Reservation","{variant:9}Purity of Ice has no Reservation","{variant:10}Clarity has no Reservation","{variant:11}Discipline has no Reservation","{variant:12}Malevolence has no Reservation","{variant:13}Purity of Elements has no Reservation","{variant:14}Purity of Lightning has no Reservation","{variant:15}Wrath has no Reservation","{variant:16}Zealotry has no Reservation","{variant:17}Envy has no Reservation"],
+    "variants":["Strength: Anger","Strength: Determination","Strength: Pride","Strength: Purity of Fire","Strength: Vitality","Dexterity: Grace","Dexterity: Haste","Dexterity: Hatred","Dexterity: Purity of Ice","Intelligence: Clarity","Intelligence: Discipline","Intelligence: Malevolence","Intelligence: Purity of Elements","Intelligence: Purity of Lightning","Intelligence: Wrath","Intelligence: Zealotry","Envy"]
+  },
+  "Badge of the Brotherhood":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Blight",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge","(7-10)% increased Effect of Elusive on you per Power Charge","(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill","(20-25)% chance to lose a Power Charge when you gain Elusive"],
+    "name":"Badge of the Brotherhood",
+    "originalString":"Badge of the Brotherhood\nTurquoise Amulet\nRequires Level: 20\nImplicits: 1\nLeague: Blight\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge\n(7-10)% increased Effect of Elusive on you per Power Charge\n(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill\n(20-25)% chance to lose a Power Charge when you gain Elusive\nYour Maximum Frenzy Charges is equal to your Maximum Power Charges\n",
+    "requirements":[],
+    "stats":["Badge of the Brotherhood","Turquoise Amulet","Requires Level: 20","Implicits: 1","League: Blight","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge","(7-10)% increased Effect of Elusive on you per Power Charge","(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill","(20-25)% chance to lose a Power Charge when you gain Elusive","Your Maximum Frenzy Charges is equal to your Maximum Power Charges"],
+    "variants":[]
+  },
+  "Bisco's Collar":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","{variant:1}150% increased Rarity of Items Dropped by Slain Magic Enemies","{variant:2,3}(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies","{variant:1}100% increased Quantity of Items Dropped by Slain Normal Enemies","{variant:2}(50-100)% increased Quantity of Items Dropped by Slain Normal Enemies","{variant:3}(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"],
+    "name":"Bisco's Collar",
+    "originalString":"Bisco's Collar\nGold Amulet\nVariant: Pre 3.0.0\nVariant: Pre 3.2.0\nVariant: Current\nSource: No longer obtainable\nRequires Level 30\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{variant:1}150% increased Rarity of Items Dropped by Slain Magic Enemies\n{variant:2,3}(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies\n{variant:1}100% increased Quantity of Items Dropped by Slain Normal Enemies\n{variant:2}(50-100)% increased Quantity of Items Dropped by Slain Normal Enemies\n{variant:3}(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies\n",
+    "requirements":{
+      "level":30
+    },
+    "source":"No longer obtainable",
+    "stats":["Bisco's Collar","Gold Amulet","Variant: Pre 3.0.0","Variant: Pre 3.2.0","Variant: Current","Source: No longer obtainable","Requires Level 30","Implicits: 1","(12-20)% increased Rarity of Items found","{variant:1}150% increased Rarity of Items Dropped by Slain Magic Enemies","{variant:2,3}(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies","{variant:1}100% increased Quantity of Items Dropped by Slain Normal Enemies","{variant:2}(50-100)% increased Quantity of Items Dropped by Slain Normal Enemies","{variant:3}(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"],
+    "variants":["Pre 3.0.0","Pre 3.2.0","Current"]
+  },
+  "Blightwell":{
+    "baseType":"Clutching Talisman",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Talisman Hardcore",
+    "modifiers":["(15-25)% increased Global Defences","+(20-30) to maximum Energy Shield","{tags:jewellery_resistance}+(15-30)% to Fire Resistance","{tags:jewellery_resistance}+(15-30)% to Lightning Resistance","{variant:1}30% slower start of Energy Shield Recharge during any Flask Effect","{variant:2}50% slower start of Energy Shield Recharge during any Flask Effect","{variant:1}400% increased Energy Shield Recharge Rate during any Flask Effect","{variant:2}(150-200)% increased Energy Shield Recharge Rate during any Flask Effect"],
+    "name":"Blightwell",
+    "originalString":"Blightwell\nClutching Talisman\nVariant: Pre 3.16.0\nVariant: Current\nLeague: Talisman Hardcore\nTalisman Tier: 2\nRequires Level 28\nImplicits: 1\n(15-25)% increased Global Defences\n+(20-30) to maximum Energy Shield\n{tags:jewellery_resistance}+(15-30)% to Fire Resistance\n{tags:jewellery_resistance}+(15-30)% to Lightning Resistance\n{variant:1}30% slower start of Energy Shield Recharge during any Flask Effect\n{variant:2}50% slower start of Energy Shield Recharge during any Flask Effect\n{variant:1}400% increased Energy Shield Recharge Rate during any Flask Effect\n{variant:2}(150-200)% increased Energy Shield Recharge Rate during any Flask Effect\nCorrupted\n",
+    "requirements":{
+      "level":28
+    },
+    "stats":["Blightwell","Clutching Talisman","Variant: Pre 3.16.0","Variant: Current","League: Talisman Hardcore","Talisman Tier: 2","Requires Level 28","Implicits: 1","(15-25)% increased Global Defences","+(20-30) to maximum Energy Shield","{tags:jewellery_resistance}+(15-30)% to Fire Resistance","{tags:jewellery_resistance}+(15-30)% to Lightning Resistance","{variant:1}30% slower start of Energy Shield Recharge during any Flask Effect","{variant:2}50% slower start of Energy Shield Recharge during any Flask Effect","{variant:1}400% increased Energy Shield Recharge Rate during any Flask Effect","{variant:2}(150-200)% increased Energy Shield Recharge Rate during any Flask Effect","Corrupted"],
+    "talismanTier":2,
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Blood of Corruption":{
+    "baseType":"Amber Amulet",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Strength","{tags:attack,chaos_damage}Adds 19-43 Chaos Damage to Attacks","{tags:jewellery_resistance}-(10-5)% to all Elemental Resistances","{tags:jewellery_resistance}+(17-29)% to Chaos Resistance"],
+    "name":"Blood of Corruption",
+    "originalString":"Blood of Corruption\nAmber Amulet\nSource: Use currency{Vaal Orb} on unique{Tear of Purity}\nRequires Level 5\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Strength\nGrants Level 10 Gluttony of Elements Skill\n{tags:attack,chaos_damage}Adds 19-43 Chaos Damage to Attacks\n{tags:jewellery_resistance}-(10-5)% to all Elemental Resistances\n{tags:jewellery_resistance}+(17-29)% to Chaos Resistance\nCorrupted\n",
+    "requirements":{
+      "level":5
+    },
+    "source":"Use currency{Vaal Orb} on unique{Tear of Purity}",
+    "stats":["Blood of Corruption","Amber Amulet","Source: Use currency{Vaal Orb} on unique{Tear of Purity}","Requires Level 5","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Strength","Grants Level 10 Gluttony of Elements Skill","{tags:attack,chaos_damage}Adds 19-43 Chaos Damage to Attacks","{tags:jewellery_resistance}-(10-5)% to all Elemental Resistances","{tags:jewellery_resistance}+(17-29)% to Chaos Resistance","Corrupted"],
+    "variants":[]
+  },
+  "Bloodgrip":{
+    "baseType":"{variant:1}Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"amulet",
+    "modifiers":["{variant:1}{tags:life}Regenerate (2-4) Life per second","{variant:2,3}{tags:life}Regenerate (1.2-1.6)% of Life per second","{tags:attack,physical_damage}Adds 10 to 20 Physical Damage to Attacks","{tags:life}+(60-70) to maximum Life","{variant:3}{tags:life}Regenerate (16-24) Life per second","{tags:life}100% increased Life Recovery from Flasks"],
+    "name":"Bloodgrip",
+    "originalString":"Bloodgrip\n{variant:1}Coral Amulet\n{variant:2,3}Marble Amulet\nVariant: Pre 3.0.0\nVariant: Pre 3.12.0\nVariant: Current\nRequires Level 74\nImplicits: 2\n{variant:1}{tags:life}Regenerate (2-4) Life per second\n{variant:2,3}{tags:life}Regenerate (1.2-1.6)% of Life per second\n{tags:attack,physical_damage}Adds 10 to 20 Physical Damage to Attacks\n{tags:life}+(60-70) to maximum Life\n{variant:1,2}{tags:life}Regenerate (8-12) Life per second\n{variant:3}{tags:life}Regenerate (16-24) Life per second\n{tags:life}100% increased Life Recovery from Flasks\nMoving while Bleeding doesn't cause you to take extra Damage\n",
+    "requirements":{
+      "level":74
+    },
+    "stats":["Bloodgrip","{variant:1}Coral Amulet","{variant:2,3}Marble Amulet","Variant: Pre 3.0.0","Variant: Pre 3.12.0","Variant: Current","Requires Level 74","Implicits: 2","{variant:1}{tags:life}Regenerate (2-4) Life per second","{variant:2,3}{tags:life}Regenerate (1.2-1.6)% of Life per second","{tags:attack,physical_damage}Adds 10 to 20 Physical Damage to Attacks","{tags:life}+(60-70) to maximum Life","{variant:1,2}{tags:life}Regenerate (8-12) Life per second","{variant:3}{tags:life}Regenerate (16-24) Life per second","{tags:life}100% increased Life Recovery from Flasks","Moving while Bleeding doesn't cause you to take extra Damage"],
+    "variants":["Pre 3.0.0","Pre 3.12.0","Current"]
+  },
+  "Bloodsoaked Medallion":{
+    "baseType":"Amber Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Strength","{tags:critical}(40-50)% increased Global Critical Strike Chance","{tags:life}+(50-70) to maximum Life","{tags:jewellery_resistance}+(17-29)% to Chaos Resistance","Gain 2% of Life per Enemy Hit with Attacks for 5 seconds","Gain 5% of Life per Enemy Killed for 5 seconds"],
+    "name":"Bloodsoaked Medallion",
+    "originalString":"Bloodsoaked Medallion\nAmber Amulet\nLevelReq: 49\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:critical}(40-50)% increased Global Critical Strike Chance\n{tags:life}+(50-70) to maximum Life\n{tags:jewellery_resistance}+(17-29)% to Chaos Resistance\nEvery 10 seconds:\nGain 2% of Life per Enemy Hit with Attacks for 5 seconds\nGain 5% of Life per Enemy Killed for 5 seconds\n",
+    "requirements":{
+      "level":49
+    },
+    "stats":["Bloodsoaked Medallion","Amber Amulet","LevelReq: 49","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Strength","{tags:critical}(40-50)% increased Global Critical Strike Chance","{tags:life}+(50-70) to maximum Life","{tags:jewellery_resistance}+(17-29)% to Chaos Resistance","Every 10 seconds:","Gain 2% of Life per Enemy Hit with Attacks for 5 seconds","Gain 5% of Life per Enemy Killed for 5 seconds"],
+    "variants":[]
+  },
+  "Carnage Heart":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_attribute}+(20-40) to all Attributes","{variant:1}{tags:life}25% reduced maximum Life","{variant:1}{tags:jewellery_defense}25% reduced maximum Energy Shield","{tags:jewellery_resistance}+(10-20)% to all Elemental Resistances","{tags:attack,life}(1.2-2)% of Physical Attack Damage Leeched as Life","{variant:2}{tags:life}(30-40)% increased Damage while Leeching","{variant:2}{tags:life}50% increased Life Leeched per second"],
+    "name":"Carnage Heart",
+    "originalString":"Carnage Heart\nOnyx Amulet\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 20\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{tags:jewellery_attribute}+(20-40) to all Attributes\n{variant:1}{tags:life}25% reduced maximum Life\n{variant:1}{tags:jewellery_defense}25% reduced maximum Energy Shield\n{tags:jewellery_resistance}+(10-20)% to all Elemental Resistances\n{tags:attack,life}(1.2-2)% of Physical Attack Damage Leeched as Life\n{variant:2}{tags:life}(30-40)% increased Damage while Leeching\n{variant:2}{tags:life}50% increased Life Leeched per second\nExtra Gore\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Carnage Heart","Onyx Amulet","Variant: Pre 2.6.0","Variant: Current","Requires Level 20","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_attribute}+(20-40) to all Attributes","{variant:1}{tags:life}25% reduced maximum Life","{variant:1}{tags:jewellery_defense}25% reduced maximum Energy Shield","{tags:jewellery_resistance}+(10-20)% to all Elemental Resistances","{tags:attack,life}(1.2-2)% of Physical Attack Damage Leeched as Life","{variant:2}{tags:life}(30-40)% increased Damage while Leeching","{variant:2}{tags:life}50% increased Life Leeched per second","Extra Gore"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Choir of the Storm":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:4}Trigger Level 30 Lightning Bolt when you deal a Critical Strike","{variant:1,2,3}{tags:jewellery_elemental}50% increased Lightning Damage","{tags:mana}(10-20)% increased maximum Mana","{variant:1,3,4}{tags:jewellery_resistance}-30% to Lightning Resistance"],
+    "name":"Choir of the Storm",
+    "originalString":"Choir of the Storm\nLapis Amulet\nLeague: Breach\nSource: Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}\nVariant: Pre 3.0.0\nVariant: Pre 3.16.0\nVariant: Pre 3.21.0\nVariant: Current\nRequires Level 69\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{variant:1,2,3}Trigger Level 20 Lightning Bolt when you deal a Critical Strike\n{variant:4}Trigger Level 30 Lightning Bolt when you deal a Critical Strike\n{variant:1,2,3}{tags:jewellery_elemental}50% increased Lightning Damage\n{tags:mana}(10-20)% increased maximum Mana\n{variant:1,2}Critical Strike Chance is increased by Lightning Resistance\n{variant:1,3,4}{tags:jewellery_resistance}-30% to Lightning Resistance\n{variant:3,4}Critical Strike Chance is increased by Overcapped Lightning Resistance\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}",
+    "stats":["Choir of the Storm","Lapis Amulet","League: Breach","Source: Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}","Variant: Pre 3.0.0","Variant: Pre 3.16.0","Variant: Pre 3.21.0","Variant: Current","Requires Level 69","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:1,2,3}Trigger Level 20 Lightning Bolt when you deal a Critical Strike","{variant:4}Trigger Level 30 Lightning Bolt when you deal a Critical Strike","{variant:1,2,3}{tags:jewellery_elemental}50% increased Lightning Damage","{tags:mana}(10-20)% increased maximum Mana","{variant:1,2}Critical Strike Chance is increased by Lightning Resistance","{variant:1,3,4}{tags:jewellery_resistance}-30% to Lightning Resistance","{variant:3,4}Critical Strike Chance is increased by Overcapped Lightning Resistance"],
+    "variants":["Pre 3.0.0","Pre 3.16.0","Pre 3.21.0","Current"]
+  },
+  "Crystallised Omniscience":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_resistance}+1% to All Elemental Resistances per 15 Omniscience","Penetrate 1% Elemental Resistances per 15 Omniscience","Attribute Requirements can be satisfied by (15-25)% of Omniscience"],
+    "name":"Crystallised Omniscience",
+    "originalString":"Crystallised Omniscience\nOnyx Amulet\nSource: Drops from unique{The Searing Exarch} (Uber)\nRequires Level 61\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\nModifiers to Attributes instead Apply to Omniscience\n{tags:jewellery_resistance}+1% to All Elemental Resistances per 15 Omniscience\nPenetrate 1% Elemental Resistances per 15 Omniscience\nAttribute Requirements can be satisfied by (15-25)% of Omniscience\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"Drops from unique{The Searing Exarch} (Uber)",
+    "stats":["Crystallised Omniscience","Onyx Amulet","Source: Drops from unique{The Searing Exarch} (Uber)","Requires Level 61","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","Modifiers to Attributes instead Apply to Omniscience","{tags:jewellery_resistance}+1% to All Elemental Resistances per 15 Omniscience","Penetrate 1% Elemental Resistances per 15 Omniscience","Attribute Requirements can be satisfied by (15-25)% of Omniscience"],
+    "variants":[]
+  },
+  "Daresso's Salute":{
+    "baseType":"Citrine Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Anarchy",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_defense}50% reduced maximum Energy Shield","{tags:jewellery_resistance}+(30-40)% to Fire Resistance","{tags:jewellery_resistance}+(30-40)% to Cold Resistance","{tags:speed}10% increased Movement Speed when on Full Life","{tags:attack}+0.2 metres to Melee Strike Range","{tags:attack}60% increased Melee Damage when on Full Life"],
+    "name":"Daresso's Salute",
+    "originalString":"Daresso's Salute\nCitrine Amulet\nLeague: Anarchy\nRequires Level 16\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Dexterity\n{tags:jewellery_defense}50% reduced maximum Energy Shield\n{tags:jewellery_resistance}+(30-40)% to Fire Resistance\n{tags:jewellery_resistance}+(30-40)% to Cold Resistance\n{tags:speed}10% increased Movement Speed when on Full Life\n{tags:attack}+0.2 metres to Melee Strike Range\n{tags:attack}60% increased Melee Damage when on Full Life\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Daresso's Salute","Citrine Amulet","League: Anarchy","Requires Level 16","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_defense}50% reduced maximum Energy Shield","{tags:jewellery_resistance}+(30-40)% to Fire Resistance","{tags:jewellery_resistance}+(30-40)% to Cold Resistance","{tags:speed}10% increased Movement Speed when on Full Life","{tags:attack}+0.2 metres to Melee Strike Range","{tags:attack}60% increased Melee Damage when on Full Life"],
+    "variants":[]
+  },
+  "Defiance of Destiny":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:life}+(60-80) to maximum Life","{tags:jewellery_resistance}+(10-40)% to Fire Resistance","{tags:jewellery_resistance}+(10-40)% to Cold Resistance","{tags:jewellery_resistance}+(10-40)% to Lightning Resistance","{variant:1}{tags:life}Gain (25-35)% of Missing Unreserved Life before being Hit by an Enemy","{variant:2}{tags:life}Gain (10-20)% of Missing Unreserved Life before being Hit by an Enemy"],
+    "name":"Defiance of Destiny",
+    "originalString":"Defiance of Destiny\nPaua Amulet\nVariant: Pre 3.25.0\nVariant: Current\nLevelReq: 49\nImplicits: 1\n{tags:mana}(20-30)% increased Mana Regeneration Rate\n{tags:life}+(60-80) to maximum Life\n{tags:jewellery_resistance}+(10-40)% to Fire Resistance\n{tags:jewellery_resistance}+(10-40)% to Cold Resistance\n{tags:jewellery_resistance}+(10-40)% to Lightning Resistance\n{variant:1}{tags:life}Gain (25-35)% of Missing Unreserved Life before being Hit by an Enemy\n{variant:2}{tags:life}Gain (10-20)% of Missing Unreserved Life before being Hit by an Enemy\n",
+    "requirements":{
+      "level":49
+    },
+    "stats":["Defiance of Destiny","Paua Amulet","Variant: Pre 3.25.0","Variant: Current","LevelReq: 49","Implicits: 1","{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:life}+(60-80) to maximum Life","{tags:jewellery_resistance}+(10-40)% to Fire Resistance","{tags:jewellery_resistance}+(10-40)% to Cold Resistance","{tags:jewellery_resistance}+(10-40)% to Lightning Resistance","{variant:1}{tags:life}Gain (25-35)% of Missing Unreserved Life before being Hit by an Enemy","{variant:2}{tags:life}Gain (10-20)% of Missing Unreserved Life before being Hit by an Enemy"],
+    "variants":["Pre 3.25.0","Current"]
+  },
+  "Doedre's Tongue":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:jewellery_resistance}+(20-25)% to all Elemental Resistances","(20-25)% chance to Freeze, Shock and Ignite"],
+    "name":"Doedre's Tongue",
+    "originalString":"Doedre's Tongue\nLapis Amulet\nLevelReq: 24\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{tags:jewellery_resistance}+(20-25)% to all Elemental Resistances\n(20-25)% chance to Freeze, Shock and Ignite\nCursed Enemies cannot inflict Elemental Ailments on You\n",
+    "requirements":{
+      "level":24
+    },
+    "stats":["Doedre's Tongue","Lapis Amulet","LevelReq: 24","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:jewellery_resistance}+(20-25)% to all Elemental Resistances","(20-25)% chance to Freeze, Shock and Ignite","Cursed Enemies cannot inflict Elemental Ailments on You"],
+    "variants":[]
+  },
+  "Eternal Damnation":{
+    "baseType":"Agate Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Sanctum",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:mana}+(40-70) to maximum Mana","{tags:jewellery_resistance}+(-13-13)% to Chaos Resistance","{tags:jewellery_resistance}-5% to all maximum Resistances","{variant:2}Maximum Endurance, Frenzy and Power Charges is 0"],
+    "name":"Eternal Damnation",
+    "originalString":"Eternal Damnation\nAgate Amulet\nVariant: Pre 3.25.0\nVariant: Current\nLeague: Sanctum\nSource: Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}\nLevelReq: 52\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Intelligence\n{tags:mana}+(40-70) to maximum Mana\n{tags:jewellery_resistance}+(-13-13)% to Chaos Resistance\n{tags:jewellery_resistance}-5% to all maximum Resistances\nGain additional Elemental Damage Reduction equal to half your Chaos Resistance\n{variant:2}Maximum Endurance, Frenzy and Power Charges is 0\n",
+    "requirements":{
+      "level":52
+    },
+    "source":"Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}",
+    "stats":["Eternal Damnation","Agate Amulet","Variant: Pre 3.25.0","Variant: Current","League: Sanctum","Source: Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}","LevelReq: 52","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:mana}+(40-70) to maximum Mana","{tags:jewellery_resistance}+(-13-13)% to Chaos Resistance","{tags:jewellery_resistance}-5% to all maximum Resistances","Gain additional Elemental Damage Reduction equal to half your Chaos Resistance","{variant:2}Maximum Endurance, Frenzy and Power Charges is 0"],
+    "variants":["Pre 3.25.0","Current"]
+  },
+  "Extractor Mentis":{
+    "baseType":"Agate Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:jewellery_attribute}+(30-50) to Strength","5% chance to grant Unholy Might to nearby Enemies on Kill","5% chance to grant Onslaught to nearby Enemies on Kill","{variant:1}5% chance to gain Chaotic Might for 10 seconds on Kill","{variant:2}10% chance to gain Chaotic Might for 10 seconds on Kill","{variant:1}5% chance to gain Onslaught for 10 seconds on Kill","{variant:2}10% chance to gain Onslaught for 10 seconds on Kill","{tags:life}Recover 1% of Life on Kill"],
+    "name":"Extractor Mentis",
+    "originalString":"Extractor Mentis\nAgate Amulet\nVariant: Pre 3.5.0\nVariant: Current\nRequires Level 16\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Intelligence\n{tags:jewellery_attribute}+(30-50) to Strength\n5% chance to grant Unholy Might to nearby Enemies on Kill\n5% chance to grant Onslaught to nearby Enemies on Kill\n{variant:1}5% chance to gain Chaotic Might for 10 seconds on Kill\n{variant:2}10% chance to gain Chaotic Might for 10 seconds on Kill\n{variant:1}5% chance to gain Onslaught for 10 seconds on Kill\n{variant:2}10% chance to gain Onslaught for 10 seconds on Kill\n{tags:life}Recover 1% of Life on Kill\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Extractor Mentis","Agate Amulet","Variant: Pre 3.5.0","Variant: Current","Requires Level 16","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:jewellery_attribute}+(30-50) to Strength","5% chance to grant Unholy Might to nearby Enemies on Kill","5% chance to grant Onslaught to nearby Enemies on Kill","{variant:1}5% chance to gain Chaotic Might for 10 seconds on Kill","{variant:2}10% chance to gain Chaotic Might for 10 seconds on Kill","{variant:1}5% chance to gain Onslaught for 10 seconds on Kill","{variant:2}10% chance to gain Onslaught for 10 seconds on Kill","{tags:life}Recover 1% of Life on Kill"],
+    "variants":["Pre 3.5.0","Current"]
+  },
+  "Eye of Chayula":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:life}20% reduced maximum Life","30% increased Rarity of Items found"],
+    "name":"Eye of Chayula",
+    "originalString":"Eye of Chayula\nOnyx Amulet\nUpgrade: Upgrades to unique{Presence of Chayula} using currency{Blessing of Chayula}\nRequires Level 20\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{tags:life}20% reduced maximum Life\n30% increased Rarity of Items found\nCannot be Stunned\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Eye of Chayula","Onyx Amulet","Upgrade: Upgrades to unique{Presence of Chayula} using currency{Blessing of Chayula}","Requires Level 20","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:life}20% reduced maximum Life","30% increased Rarity of Items found","Cannot be Stunned"],
+    "upgrade":"Upgrades to unique{Presence of Chayula} using currency{Blessing of Chayula}",
+    "variants":[]
+  },
+  "Eye of Innocence":{
+    "baseType":"Citrine Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","10% chance to Ignite","(50-70)% increased Damage while Ignited","{tags:jewellery_elemental}Take 100 Fire Damage when you Ignite an Enemy","{tags:life}2% of Fire Damage Leeched as Life while Ignited"],
+    "name":"Eye of Innocence",
+    "originalString":"Eye of Innocence\nCitrine Amulet\nRequires Level 68\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Dexterity\n10% chance to Ignite\n(50-70)% increased Damage while Ignited\n{tags:jewellery_elemental}Take 100 Fire Damage when you Ignite an Enemy\n{tags:life}2% of Fire Damage Leeched as Life while Ignited\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["Eye of Innocence","Citrine Amulet","Requires Level 68","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","10% chance to Ignite","(50-70)% increased Damage while Ignited","{tags:jewellery_elemental}Take 100 Fire Damage when you Ignite an Enemy","{tags:life}2% of Fire Damage Leeched as Life while Ignited"],
+    "variants":[]
+  },
+  "Eyes of the Greatwolf":{
+    "baseType":"Greatwolf Talisman",
+    "flags":{
+      "hasAltVariant":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":32,
+    "itemType":"amulet",
+    "modifiers":["{variant:1}(24-32)% increased Attributes","{variant:2}(30-50)% increased Global Defences","{variant:3}(38-62)% increased Chaos Damage","{variant:4}(40-60)% increased Attack Damage","{variant:5}(40-60)% increased Cold Damage","{variant:6}(40-60)% increased Fire Damage","{variant:7}(40-60)% increased Lightning Damage","{variant:8}(40-60)% increased Spell Damage","{variant:9}(40-60)% increased Global Physical Damage","{variant:10}(40-60)% increased maximum Mana","{variant:11}(50-70)% increased Damage","{variant:12}(8-12)% additional Physical Damage Reduction","{variant:13}(8-12)% chance to Freeze, Shock and Ignite","{variant:14}(80-100)% increased Global Critical Strike Chance","{variant:15}(10-16)% increased Area of Effect","{variant:16}(12-20)% increased Attack and Cast Speed","{variant:17}(12-20)% increased Quantity of Items found","{variant:18}(16-24)% increased maximum Life","{variant:19}+(48-72)% to Global Critical Strike Multiplier","{variant:20}+2 to maximum number of Raised Zombies","{variant:21}20% chance to gain a Frenzy Charge on Kill","{variant:22}20% chance to gain a Power Charge on Kill","{variant:23}20% chance to gain a Endurance Charge on Kill","{variant:24}Regenerate 4% of Life per second","{variant:25}100% of Cold Damage from Hits taken as Fire Damage","{variant:26}100% of Cold Damage from Hits taken as Lightning Damage","{variant:27}100% of Fire Damage from Hits taken as Cold Damage","{variant:28}100% of Fire Damage from Hits taken as Lightning Damage","{variant:29}100% of Lightning Damage from Hits taken as Cold Damage","{variant:30}100% of Lightning Damage from Hits taken as Fire Damage","{variant:31}Gain (12-24)% of Physical Damage as Extra Damage of a random Element","{variant:32}Projectiles Pierce (4-6) additional Targets","{variant:33}+(24-36)% to Damage over Time Multiplier"],
+    "name":"Eyes of the Greatwolf",
+    "originalString":"Eyes of the Greatwolf\nGreatwolf Talisman\nRequires Level 52\nHas Alt Variant: true\nVariant: Attributes\nVariant: Global Defences\nVariant: Chaos Damage\nVariant: Attack Damage\nVariant: Cold Damage\nVariant: Fire Damage\nVariant: Lightning Damage\nVariant: Spell Damage\nVariant: Global Physical Damage\nVariant: Mana\nVariant: Damage\nVariant: Physical Damage Reduction\nVariant: Chance to Freeze, Shock and Ignite\nVariant: Crit Chance\nVariant: Area of Effect\nVariant: Attack/Cast Speed\nVariant: Item Quantity (Pre 3.25.0)\nVariant: Life\nVariant: Crit Multiplier\nVariant: Maximum number of Raised Zombies\nVariant: Frenzy Charge on Kill\nVariant: Power Charge on Kill\nVariant: Endurance Charge on Kill\nVariant: Life Regen\nVariant: Cold taken as Fire\nVariant: Cold taken as Lightning\nVariant: Fire taken as Cold\nVariant: Fire taken as Lightning\nVariant: Lightning taken as Cold\nVariant: Lightning taken as Fire\nVariant: Gain Physical as random Element\nVariant: Extra Pierces\nVariant: Damage over Time Multiplier\nImplicits: 32\n{variant:1}(24-32)% increased Attributes\n{variant:2}(30-50)% increased Global Defences\n{variant:3}(38-62)% increased Chaos Damage\n{variant:4}(40-60)% increased Attack Damage\n{variant:5}(40-60)% increased Cold Damage\n{variant:6}(40-60)% increased Fire Damage\n{variant:7}(40-60)% increased Lightning Damage\n{variant:8}(40-60)% increased Spell Damage\n{variant:9}(40-60)% increased Global Physical Damage\n{variant:10}(40-60)% increased maximum Mana\n{variant:11}(50-70)% increased Damage\n{variant:12}(8-12)% additional Physical Damage Reduction\n{variant:13}(8-12)% chance to Freeze, Shock and Ignite\n{variant:14}(80-100)% increased Global Critical Strike Chance\n{variant:15}(10-16)% increased Area of Effect\n{variant:16}(12-20)% increased Attack and Cast Speed\n{variant:17}(12-20)% increased Quantity of Items found\n{variant:18}(16-24)% increased maximum Life\n{variant:19}+(48-72)% to Global Critical Strike Multiplier\n{variant:20}+2 to maximum number of Raised Zombies\n{variant:21}20% chance to gain a Frenzy Charge on Kill\n{variant:22}20% chance to gain a Power Charge on Kill\n{variant:23}20% chance to gain a Endurance Charge on Kill\n{variant:24}Regenerate 4% of Life per second\n{variant:25}100% of Cold Damage from Hits taken as Fire Damage\n{variant:26}100% of Cold Damage from Hits taken as Lightning Damage\n{variant:27}100% of Fire Damage from Hits taken as Cold Damage\n{variant:28}100% of Fire Damage from Hits taken as Lightning Damage\n{variant:29}100% of Lightning Damage from Hits taken as Cold Damage\n{variant:30}100% of Lightning Damage from Hits taken as Fire Damage\n{variant:31}Gain (12-24)% of Physical Damage as Extra Damage of a random Element\n{variant:32}Projectiles Pierce (4-6) additional Targets\n{variant:33}+(24-36)% to Damage over Time Multiplier\nImplicit Modifier magnitudes are doubled\n",
+    "requirements":{
+      "level":52
+    },
+    "stats":["Eyes of the Greatwolf","Greatwolf Talisman","Requires Level 52","Has Alt Variant: true","Variant: Attributes","Variant: Global Defences","Variant: Chaos Damage","Variant: Attack Damage","Variant: Cold Damage","Variant: Fire Damage","Variant: Lightning Damage","Variant: Spell Damage","Variant: Global Physical Damage","Variant: Mana","Variant: Damage","Variant: Physical Damage Reduction","Variant: Chance to Freeze, Shock and Ignite","Variant: Crit Chance","Variant: Area of Effect","Variant: Attack/Cast Speed","Variant: Item Quantity (Pre 3.25.0)","Variant: Life","Variant: Crit Multiplier","Variant: Maximum number of Raised Zombies","Variant: Frenzy Charge on Kill","Variant: Power Charge on Kill","Variant: Endurance Charge on Kill","Variant: Life Regen","Variant: Cold taken as Fire","Variant: Cold taken as Lightning","Variant: Fire taken as Cold","Variant: Fire taken as Lightning","Variant: Lightning taken as Cold","Variant: Lightning taken as Fire","Variant: Gain Physical as random Element","Variant: Extra Pierces","Variant: Damage over Time Multiplier","Implicits: 32","{variant:1}(24-32)% increased Attributes","{variant:2}(30-50)% increased Global Defences","{variant:3}(38-62)% increased Chaos Damage","{variant:4}(40-60)% increased Attack Damage","{variant:5}(40-60)% increased Cold Damage","{variant:6}(40-60)% increased Fire Damage","{variant:7}(40-60)% increased Lightning Damage","{variant:8}(40-60)% increased Spell Damage","{variant:9}(40-60)% increased Global Physical Damage","{variant:10}(40-60)% increased maximum Mana","{variant:11}(50-70)% increased Damage","{variant:12}(8-12)% additional Physical Damage Reduction","{variant:13}(8-12)% chance to Freeze, Shock and Ignite","{variant:14}(80-100)% increased Global Critical Strike Chance","{variant:15}(10-16)% increased Area of Effect","{variant:16}(12-20)% increased Attack and Cast Speed","{variant:17}(12-20)% increased Quantity of Items found","{variant:18}(16-24)% increased maximum Life","{variant:19}+(48-72)% to Global Critical Strike Multiplier","{variant:20}+2 to maximum number of Raised Zombies","{variant:21}20% chance to gain a Frenzy Charge on Kill","{variant:22}20% chance to gain a Power Charge on Kill","{variant:23}20% chance to gain a Endurance Charge on Kill","{variant:24}Regenerate 4% of Life per second","{variant:25}100% of Cold Damage from Hits taken as Fire Damage","{variant:26}100% of Cold Damage from Hits taken as Lightning Damage","{variant:27}100% of Fire Damage from Hits taken as Cold Damage","{variant:28}100% of Fire Damage from Hits taken as Lightning Damage","{variant:29}100% of Lightning Damage from Hits taken as Cold Damage","{variant:30}100% of Lightning Damage from Hits taken as Fire Damage","{variant:31}Gain (12-24)% of Physical Damage as Extra Damage of a random Element","{variant:32}Projectiles Pierce (4-6) additional Targets","{variant:33}+(24-36)% to Damage over Time Multiplier","Implicit Modifier magnitudes are doubled"],
+    "variants":["Attributes","Global Defences","Chaos Damage","Attack Damage","Cold Damage","Fire Damage","Lightning Damage","Spell Damage","Global Physical Damage","Mana","Damage","Physical Damage Reduction","Chance to Freeze, Shock and Ignite","Crit Chance","Area of Effect","Attack/Cast Speed","Item Quantity (Pre 3.25.0)","Life","Crit Multiplier","Maximum number of Raised Zombies","Frenzy Charge on Kill","Power Charge on Kill","Endurance Charge on Kill","Life Regen","Cold taken as Fire","Cold taken as Lightning","Fire taken as Cold","Fire taken as Lightning","Lightning taken as Cold","Lightning taken as Fire","Gain Physical as random Element","Extra Pierces","Damage over Time Multiplier"]
+  },
+  "Fury Valve":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:jewellery_defense}(15-25)% increased Evasion Rating","{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances","{tags:speed}(20-30)% increased Projectile Speed"],
+    "name":"Fury Valve",
+    "originalString":"Fury Valve\nTurquoise Amulet\nRequires Level 40\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n{tags:jewellery_defense}(15-25)% increased Evasion Rating\n{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances\nSkills fire 2 additional Projectiles\n{tags:speed}(20-30)% increased Projectile Speed\nModifiers to number of Projectiles instead apply to the number of targets Projectiles Split towards\n",
+    "requirements":{
+      "level":40
+    },
+    "stats":["Fury Valve","Turquoise Amulet","Requires Level 40","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:jewellery_defense}(15-25)% increased Evasion Rating","{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances","Skills fire 2 additional Projectiles","{tags:speed}(20-30)% increased Projectile Speed","Modifiers to number of Projectiles instead apply to the number of targets Projectiles Split towards"],
+    "variants":[]
+  },
+  "Gloomfang":{
+    "baseType":"Blue Pearl Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:mana}(48-56)% increased Mana Regeneration Rate","{tags:life}0.5% of Chaos Damage Leeched as Life","{tags:caster,life}Lose (10-15) Life per Enemy Hit with Spells","{tags:attack,life}Lose (20-25) Life per Enemy Hit with Attacks","{variant:2}{tags:speed}(30-40)% increased Projectile Speed","{variant:1}{tags:chaos_damage}Projectiles gain (15-20)% of Non-Chaos Damage as extra Chaos Damage per Chain","{variant:2}{tags:chaos_damage}Projectiles that have Chained gain (20-35)% of Non-Chaos Damage as extra Chaos Damage"],
+    "name":"Gloomfang",
+    "originalString":"Gloomfang\nBlue Pearl Amulet\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 77\nImplicits: 1\n{tags:mana}(48-56)% increased Mana Regeneration Rate\n{tags:life}0.5% of Chaos Damage Leeched as Life\n{tags:caster,life}Lose (10-15) Life per Enemy Hit with Spells\n{tags:attack,life}Lose (20-25) Life per Enemy Hit with Attacks\nSkills Chain +1 times\n{variant:2}{tags:speed}(30-40)% increased Projectile Speed\n{variant:1}{tags:chaos_damage}Projectiles gain (15-20)% of Non-Chaos Damage as extra Chaos Damage per Chain\n{variant:2}{tags:chaos_damage}Projectiles that have Chained gain (20-35)% of Non-Chaos Damage as extra Chaos Damage\n",
+    "requirements":{
+      "level":77
+    },
+    "stats":["Gloomfang","Blue Pearl Amulet","Variant: Pre 3.11.0","Variant: Current","Requires Level 77","Implicits: 1","{tags:mana}(48-56)% increased Mana Regeneration Rate","{tags:life}0.5% of Chaos Damage Leeched as Life","{tags:caster,life}Lose (10-15) Life per Enemy Hit with Spells","{tags:attack,life}Lose (20-25) Life per Enemy Hit with Attacks","Skills Chain +1 times","{variant:2}{tags:speed}(30-40)% increased Projectile Speed","{variant:1}{tags:chaos_damage}Projectiles gain (15-20)% of Non-Chaos Damage as extra Chaos Damage per Chain","{variant:2}{tags:chaos_damage}Projectiles that have Chained gain (20-35)% of Non-Chaos Damage as extra Chaos Damage"],
+    "variants":["Pre 3.11.0","Current"]
+  },
+  "Hinekora's Sight":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}{tags:attack}+1000 to Accuracy Rating","{variant:2}{tags:attack}+(600-1000) to Accuracy Rating","{variant:2}{tags:jewellery_defense}+(600-1000) to Evasion Rating","{variant:1}(12-20)% chance to Suppress Spell Damage","{variant:2}Prevent +3% of Suppressed Spell Damage"],
+    "name":"Hinekora's Sight",
+    "originalString":"Hinekora's Sight\nOnyx Amulet\nRequires Level 20\nVariant: Pre 3.16.0\nVariant: Current\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{variant:1}{tags:attack}+1000 to Accuracy Rating\n{variant:2}{tags:attack}+(600-1000) to Accuracy Rating\n{variant:2}{tags:jewellery_defense}+(600-1000) to Evasion Rating\n{variant:1}(12-20)% chance to Suppress Spell Damage\n{variant:2}Prevent +3% of Suppressed Spell Damage\nCannot be Blinded\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Hinekora's Sight","Onyx Amulet","Requires Level 20","Variant: Pre 3.16.0","Variant: Current","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}{tags:attack}+1000 to Accuracy Rating","{variant:2}{tags:attack}+(600-1000) to Accuracy Rating","{variant:2}{tags:jewellery_defense}+(600-1000) to Evasion Rating","{variant:1}(12-20)% chance to Suppress Spell Damage","{variant:2}Prevent +3% of Suppressed Spell Damage","Cannot be Blinded"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Hyrri's Truth":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Synthesis",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:3}Grants Level 30 Precision Skill","{variant:3}{tags:jewellery_attribute}+(40-80) to Dexterity","{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier","{variant:3}{tags:critical}+(25-50)% to Global Critical Strike Multiplier","{variant:3}Bow Attacks have Culling Strike","{variant:1,2}{tags:attack,life}(0.8-1)% of Physical Attack Damage Leeched as Life","{variant:1}Precision has 50% less Reservation","{variant:2,3}{tags:mana}Precision has 100% increased Mana Reservation Efficiency"],
+    "name":"Hyrri's Truth",
+    "originalString":"Hyrri's Truth\nJade Amulet\nLeague: Synthesis\nRequires Level 64\nVariant: Pre 3.16.0\nVariant: Pre 3.19.0\nVariant: Current\nLevelReq: 64\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{variant:1,2}Grants Level 22 Precision Skill\n{variant:3}Grants Level 30 Precision Skill\n{variant:1,2}{tags:jewellery_attribute}+(25-35) to Dexterity\n{variant:3}{tags:jewellery_attribute}+(40-80) to Dexterity\n{variant:1,2}{tags:attack,physical_damage}Adds (12-15) to (24-28) Physical Damage to Attacks\n{variant:1,2}{tags:jewellery_elemental,attack}Adds (11-15) to (23-28) Cold Damage to Attacks\n{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier\n{variant:3}{tags:critical}+(25-50)% to Global Critical Strike Multiplier\n{variant:3}Bow Attacks have Culling Strike\n{variant:1,2}{tags:attack,life}(0.8-1)% of Physical Attack Damage Leeched as Life\n{variant:1}Precision has 50% less Reservation\n{variant:2,3}{tags:mana}Precision has 100% increased Mana Reservation Efficiency\n",
+    "requirements":{
+      "level":64
+    },
+    "stats":["Hyrri's Truth","Jade Amulet","League: Synthesis","Requires Level 64","Variant: Pre 3.16.0","Variant: Pre 3.19.0","Variant: Current","LevelReq: 64","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:1,2}Grants Level 22 Precision Skill","{variant:3}Grants Level 30 Precision Skill","{variant:1,2}{tags:jewellery_attribute}+(25-35) to Dexterity","{variant:3}{tags:jewellery_attribute}+(40-80) to Dexterity","{variant:1,2}{tags:attack,physical_damage}Adds (12-15) to (24-28) Physical Damage to Attacks","{variant:1,2}{tags:jewellery_elemental,attack}Adds (11-15) to (23-28) Cold Damage to Attacks","{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier","{variant:3}{tags:critical}+(25-50)% to Global Critical Strike Multiplier","{variant:3}Bow Attacks have Culling Strike","{variant:1,2}{tags:attack,life}(0.8-1)% of Physical Attack Damage Leeched as Life","{variant:1}Precision has 50% less Reservation","{variant:2,3}{tags:mana}Precision has 100% increased Mana Reservation Efficiency"],
+    "variants":["Pre 3.16.0","Pre 3.19.0","Current"]
+  },
+  "Ikiaho's Promise":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","{tags:mana}Regenerate (3-5) Mana per second","{tags:life}(30-40)% increased Life Recovery from Flasks","{tags:mana}(15-30)% increased Mana Recovery from Flasks"],
+    "name":"Ikiaho's Promise",
+    "originalString":"Ikiaho's Promise\nCoral Amulet\nLevelReq: 30\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n{tags:mana}Regenerate (3-5) Mana per second\n{tags:life}(30-40)% increased Life Recovery from Flasks\n{tags:mana}(15-30)% increased Mana Recovery from Flasks\nLife Flasks used while on Low Life apply Recovery Instantly\nMana Flasks used while on Low Mana apply Recovery Instantly\n",
+    "requirements":{
+      "level":30
+    },
+    "stats":["Ikiaho's Promise","Coral Amulet","LevelReq: 30","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","{tags:mana}Regenerate (3-5) Mana per second","{tags:life}(30-40)% increased Life Recovery from Flasks","{tags:mana}(15-30)% increased Mana Recovery from Flasks","Life Flasks used while on Low Life apply Recovery Instantly","Mana Flasks used while on Low Mana apply Recovery Instantly"],
+    "variants":[]
+  },
+  "Impresence":{
+    "baseType":"Onyx Amulet",
+    "flags":{
+      "elderItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}{tags:attack,physical_damage}Adds (12-16) to (20-25) Physical Damage","{variant:2}{tags:jewellery_elemental}Adds (20-24) to (33-36) Fire Damage","{variant:3}{tags:jewellery_elemental}Adds (20-24) to (33-36) Cold Damage","{variant:4}{tags:jewellery_elemental}Adds (10-13) to (43-47) Lightning Damage","{variant:5}{tags:chaos_damage}Adds (17-19) to (23-29) Chaos Damage","{tags:life}+(50-70) to maximum Life","{variant:1}{tags:jewellery_defense}+(400-500) to Armour","{variant:2}{tags:life}Regenerate 1% of Life per second","{variant:3}{tags:mana}(45-50)% increased Mana Regeneration Rate","{variant:4}{tags:jewellery_defense}Regenerate 1% of Energy Shield per second","{variant:5}(30-40)% increased Damage over Time","{variant:1}(30-40)% increased Stun and Block Recovery","{variant:2}{tags:jewellery_resistance}+(20-25)% to Fire Resistance","{variant:3}{tags:jewellery_resistance}+(20-25)% to Cold Resistance","{variant:4}{tags:jewellery_resistance}+(20-25)% to Lightning Resistance","{variant:5}{tags:jewellery_resistance}+(17-23)% to Chaos Resistance","{variant:1}Vulnerability has no Reservation if Cast as an Aura","{variant:2}Flammability has no Reservation if Cast as an Aura","{variant:3}Frostbite has no Reservation if Cast as an Aura","{variant:4}Conductivity has no Reservation if Cast as an Aura","{variant:5}Despair has no Reservation if Cast as an Aura"],
+    "name":"Impresence",
+    "originalString":"Impresence\nOnyx Amulet\nElder Item\nSource: Drops from unique{The Elder}\nVariant: Physical\nVariant: Fire\nVariant: Cold\nVariant: Lightning\nVariant: Chaos\nRequires Level 64\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{variant:1}{tags:attack,physical_damage}Adds (12-16) to (20-25) Physical Damage\n{variant:2}{tags:jewellery_elemental}Adds (20-24) to (33-36) Fire Damage\n{variant:3}{tags:jewellery_elemental}Adds (20-24) to (33-36) Cold Damage\n{variant:4}{tags:jewellery_elemental}Adds (10-13) to (43-47) Lightning Damage\n{variant:5}{tags:chaos_damage}Adds (17-19) to (23-29) Chaos Damage\n{tags:life}+(50-70) to maximum Life\n{variant:1}{tags:jewellery_defense}+(400-500) to Armour\n{variant:2}{tags:life}Regenerate 1% of Life per second\n{variant:3}{tags:mana}(45-50)% increased Mana Regeneration Rate\n{variant:4}{tags:jewellery_defense}Regenerate 1% of Energy Shield per second\n{variant:5}(30-40)% increased Damage over Time\n{variant:1}(30-40)% increased Stun and Block Recovery\n{variant:2}{tags:jewellery_resistance}+(20-25)% to Fire Resistance\n{variant:3}{tags:jewellery_resistance}+(20-25)% to Cold Resistance\n{variant:4}{tags:jewellery_resistance}+(20-25)% to Lightning Resistance\n{variant:5}{tags:jewellery_resistance}+(17-23)% to Chaos Resistance\n{variant:1}Vulnerability has no Reservation if Cast as an Aura\n{variant:2}Flammability has no Reservation if Cast as an Aura\n{variant:3}Frostbite has no Reservation if Cast as an Aura\n{variant:4}Conductivity has no Reservation if Cast as an Aura\n{variant:5}Despair has no Reservation if Cast as an Aura\nGain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Drops from unique{The Elder}",
+    "stats":["Impresence","Onyx Amulet","Elder Item","Source: Drops from unique{The Elder}","Variant: Physical","Variant: Fire","Variant: Cold","Variant: Lightning","Variant: Chaos","Requires Level 64","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}{tags:attack,physical_damage}Adds (12-16) to (20-25) Physical Damage","{variant:2}{tags:jewellery_elemental}Adds (20-24) to (33-36) Fire Damage","{variant:3}{tags:jewellery_elemental}Adds (20-24) to (33-36) Cold Damage","{variant:4}{tags:jewellery_elemental}Adds (10-13) to (43-47) Lightning Damage","{variant:5}{tags:chaos_damage}Adds (17-19) to (23-29) Chaos Damage","{tags:life}+(50-70) to maximum Life","{variant:1}{tags:jewellery_defense}+(400-500) to Armour","{variant:2}{tags:life}Regenerate 1% of Life per second","{variant:3}{tags:mana}(45-50)% increased Mana Regeneration Rate","{variant:4}{tags:jewellery_defense}Regenerate 1% of Energy Shield per second","{variant:5}(30-40)% increased Damage over Time","{variant:1}(30-40)% increased Stun and Block Recovery","{variant:2}{tags:jewellery_resistance}+(20-25)% to Fire Resistance","{variant:3}{tags:jewellery_resistance}+(20-25)% to Cold Resistance","{variant:4}{tags:jewellery_resistance}+(20-25)% to Lightning Resistance","{variant:5}{tags:jewellery_resistance}+(17-23)% to Chaos Resistance","{variant:1}Vulnerability has no Reservation if Cast as an Aura","{variant:2}Flammability has no Reservation if Cast as an Aura","{variant:3}Frostbite has no Reservation if Cast as an Aura","{variant:4}Conductivity has no Reservation if Cast as an Aura","{variant:5}Despair has no Reservation if Cast as an Aura","Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy"],
+    "variants":["Physical","Fire","Cold","Lightning","Chaos"]
+  },
+  "Karui Charge":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Strength","{variant:1}{tags:attack,speed}(15-20)% increased Attack Speed","{variant:2}{tags:attack,speed}(5-10)% increased Attack Speed","{tags:attack}+100 to Accuracy Rating","{variant:2}30% increased Projectile Damage","{tags:speed}30% increased Projectile Speed","{tags:speed}10% increased Movement Speed"],
+    "name":"Karui Charge",
+    "originalString":"Karui Charge\nJade Amulet\nSource: No longer obtainable\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 24\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_attribute}+(20-30) to Strength\n{variant:1}{tags:attack,speed}(15-20)% increased Attack Speed\n{variant:2}{tags:attack,speed}(5-10)% increased Attack Speed\n{tags:attack}+100 to Accuracy Rating\n{variant:2}30% increased Projectile Damage\n{tags:speed}30% increased Projectile Speed\n{tags:speed}10% increased Movement Speed\n",
+    "requirements":{
+      "level":24
+    },
+    "source":"No longer obtainable",
+    "stats":["Karui Charge","Jade Amulet","Source: No longer obtainable","Variant: Pre 2.6.0","Variant: Current","Requires Level 24","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Strength","{variant:1}{tags:attack,speed}(15-20)% increased Attack Speed","{variant:2}{tags:attack,speed}(5-10)% increased Attack Speed","{tags:attack}+100 to Accuracy Rating","{variant:2}30% increased Projectile Damage","{tags:speed}30% increased Projectile Speed","{tags:speed}10% increased Movement Speed"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Karui Ward":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Strength","{tags:attack}+100 to Accuracy Rating","{variant:2}30% increased Projectile Damage","{tags:speed}30% increased Projectile Speed","{tags:speed}10% increased Movement Speed"],
+    "name":"Karui Ward",
+    "originalString":"Karui Ward\nJade Amulet\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 5\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:attack}+100 to Accuracy Rating\n{variant:2}30% increased Projectile Damage\n{tags:speed}30% increased Projectile Speed\n{tags:speed}10% increased Movement Speed\n",
+    "requirements":{
+      "level":5
+    },
+    "stats":["Karui Ward","Jade Amulet","Variant: Pre 2.6.0","Variant: Current","Requires Level 5","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Strength","{tags:attack}+100 to Accuracy Rating","{variant:2}30% increased Projectile Damage","{tags:speed}30% increased Projectile Speed","{tags:speed}10% increased Movement Speed"],
+    "variants":["Pre 2.6.0","Current"]
+  },
+  "Leadership's Price":{
+    "baseType":"Onyx Amulet",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_resistance}+(-3-3)% to maximum Fire Resistance","{tags:jewellery_resistance}+(-3-3)% to maximum Cold Resistance","{tags:jewellery_resistance}+(-3-3)% to maximum Lightning Resistance"],
+    "name":"Leadership's Price",
+    "originalString":"Leadership's Price\nOnyx Amulet\nLeague: Heist\nSource: Drops from unique{Vic Vox} and unique{Vinny Vox} in normal{Contract: The Twins}\nRequires Level 68\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{tags:jewellery_resistance}+(-3-3)% to maximum Fire Resistance\n{tags:jewellery_resistance}+(-3-3)% to maximum Cold Resistance\n{tags:jewellery_resistance}+(-3-3)% to maximum Lightning Resistance\nYou have Scorching Conflux, Brittle Conflux and Sapping Conflux while your two highest Attributes are equal\nCannot Ignite, Chill, Freeze or Shock\nCorrupted\n",
+    "requirements":{
+      "level":68
+    },
+    "source":"Drops from unique{Vic Vox} and unique{Vinny Vox} in normal{Contract: The Twins}",
+    "stats":["Leadership's Price","Onyx Amulet","League: Heist","Source: Drops from unique{Vic Vox} and unique{Vinny Vox} in normal{Contract: The Twins}","Requires Level 68","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_resistance}+(-3-3)% to maximum Fire Resistance","{tags:jewellery_resistance}+(-3-3)% to maximum Cold Resistance","{tags:jewellery_resistance}+(-3-3)% to maximum Lightning Resistance","You have Scorching Conflux, Brittle Conflux and Sapping Conflux while your two highest Attributes are equal","Cannot Ignite, Chill, Freeze or Shock","Corrupted"],
+    "variants":[]
+  },
+  "Maligaro's Cruelty":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:life}(4-8)% increased maximum Life","(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by 5 or more Poisons","(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons","{tags:chaos_damage}10% increased Damage with Poison per Frenzy Charge","{tags:chaos_damage}3% increased Poison Duration per Power Charge"],
+    "name":"Maligaro's Cruelty",
+    "originalString":"Maligaro's Cruelty\nTurquoise Amulet\nRequires Level 20\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n{tags:life}(4-8)% increased maximum Life\n(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by 5 or more Poisons\n(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons\n{tags:chaos_damage}10% increased Damage with Poison per Frenzy Charge\n{tags:chaos_damage}3% increased Poison Duration per Power Charge\n",
+    "requirements":{
+      "level":20
+    },
+    "stats":["Maligaro's Cruelty","Turquoise Amulet","Requires Level 20","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:life}(4-8)% increased maximum Life","(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by 5 or more Poisons","(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons","{tags:chaos_damage}10% increased Damage with Poison per Frenzy Charge","{tags:chaos_damage}3% increased Poison Duration per Power Charge"],
+    "variants":[]
+  },
+  "Marylene's Fallacy":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:attack}+(80-120) to Accuracy Rating","{variant:1,2,3}{tags:critical}+(140-160)% to Global Critical Strike Multiplier","{variant:4,5}{tags:critical}+(210-240)% to Global Critical Strike Multiplier","{tags:jewellery_defense}+(80-100) to Evasion Rating","(10-15)% increased Light Radius","{variant:1,2}Non-critical strikes deal 25% Damage","{variant:3,4}Non-critical strikes deal 40% Damage","{variant:1}{tags:critical}60% less Critical Strike Chance","{variant:2}{tags:critical}50% less Critical Strike Chance","{variant:3,4,5}{tags:critical}40% less Critical Strike Chance","{variant:5}Critical Strikes have Culling Strike"],
+    "name":"Marylene's Fallacy",
+    "originalString":"Marylene's Fallacy\nLapis Amulet\nVariant: Pre 1.3.0\nVariant: Pre 2.0.0\nVariant: Pre 2.2.0\nVariant: Pre 2.6.0\nVariant: Current\nRequires Level 40\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{tags:attack}+(80-120) to Accuracy Rating\n{variant:1,2,3}{tags:critical}+(140-160)% to Global Critical Strike Multiplier\n{variant:4,5}{tags:critical}+(210-240)% to Global Critical Strike Multiplier\n{tags:jewellery_defense}+(80-100) to Evasion Rating\n(10-15)% increased Light Radius\n{variant:1,2}Non-critical strikes deal 25% Damage\n{variant:3,4}Non-critical strikes deal 40% Damage\n{variant:1}{tags:critical}60% less Critical Strike Chance\n{variant:2}{tags:critical}50% less Critical Strike Chance\n{variant:3,4,5}{tags:critical}40% less Critical Strike Chance\n{variant:1,2,3,4}Your Critical Strikes have Culling Strike\n{variant:5}Critical Strikes have Culling Strike\n",
+    "requirements":{
+      "level":40
+    },
+    "stats":["Marylene's Fallacy","Lapis Amulet","Variant: Pre 1.3.0","Variant: Pre 2.0.0","Variant: Pre 2.2.0","Variant: Pre 2.6.0","Variant: Current","Requires Level 40","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:attack}+(80-120) to Accuracy Rating","{variant:1,2,3}{tags:critical}+(140-160)% to Global Critical Strike Multiplier","{variant:4,5}{tags:critical}+(210-240)% to Global Critical Strike Multiplier","{tags:jewellery_defense}+(80-100) to Evasion Rating","(10-15)% increased Light Radius","{variant:1,2}Non-critical strikes deal 25% Damage","{variant:3,4}Non-critical strikes deal 40% Damage","{variant:1}{tags:critical}60% less Critical Strike Chance","{variant:2}{tags:critical}50% less Critical Strike Chance","{variant:3,4,5}{tags:critical}40% less Critical Strike Chance","{variant:1,2,3,4}Your Critical Strikes have Culling Strike","{variant:5}Critical Strikes have Culling Strike"],
+    "variants":["Pre 1.3.0","Pre 2.0.0","Pre 2.2.0","Pre 2.6.0","Current"]
+  },
+  "Natural Hierarchy":{
+    "baseType":"Rotfeather Talisman",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Talisman Standard, Talisman Hardcore",
+    "modifiers":["(25-35)% increased Damage","(10-15)% increased Global Physical Damage","(25-30)% increased Fire Damage","(20-25)% increased Cold Damage","(15-20)% increased Lightning Damage","(30-35)% increased Chaos Damage"],
+    "name":"Natural Hierarchy",
+    "originalString":"Natural Hierarchy\nRotfeather Talisman\nLeague: Talisman Standard, Talisman Hardcore\nTalisman Tier: 3\nRequires Level 44\nImplicits: 1\n(25-35)% increased Damage\n(10-15)% increased Global Physical Damage\n(25-30)% increased Fire Damage\n(20-25)% increased Cold Damage\n(15-20)% increased Lightning Damage\n(30-35)% increased Chaos Damage\nCorrupted\n",
+    "requirements":{
+      "level":44
+    },
+    "stats":["Natural Hierarchy","Rotfeather Talisman","League: Talisman Standard, Talisman Hardcore","Talisman Tier: 3","Requires Level 44","Implicits: 1","(25-35)% increased Damage","(10-15)% increased Global Physical Damage","(25-30)% increased Fire Damage","(20-25)% increased Cold Damage","(15-20)% increased Lightning Damage","(30-35)% increased Chaos Damage","Corrupted"],
+    "talismanTier":3,
+    "variants":[]
+  },
+  "Ngamahu Tiki":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_elemental}(50-70)% increased Fire Damage","{tags:jewellery_defense}+100 to Evasion Rating while on Low Life","{tags:life}+(30-50) to maximum Life","{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{tags:life}Regenerate 1% of Life per second while on Low Life"],
+    "name":"Ngamahu Tiki",
+    "originalString":"Ngamahu Tiki\nCoral Amulet\nSource: No longer obtainable\nRequires Level 36\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n{tags:jewellery_elemental}(50-70)% increased Fire Damage\n{tags:jewellery_defense}+100 to Evasion Rating while on Low Life\n{tags:life}+(30-50) to maximum Life\n{tags:jewellery_resistance}+(20-30)% to Fire Resistance\n{tags:life}Regenerate 1% of Life per second while on Low Life\n",
+    "requirements":{
+      "level":36
+    },
+    "source":"No longer obtainable",
+    "stats":["Ngamahu Tiki","Coral Amulet","Source: No longer obtainable","Requires Level 36","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_elemental}(50-70)% increased Fire Damage","{tags:jewellery_defense}+100 to Evasion Rating while on Low Life","{tags:life}+(30-50) to maximum Life","{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{tags:life}Regenerate 1% of Life per second while on Low Life"],
+    "variants":[]
+  },
+  "Night's Hold":{
+    "baseType":"Black Maw Talisman",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Talisman Standard, Talisman Hardcore",
+    "modifiers":["+2 to Level of Socketed Gems"],
+    "name":"Night's Hold",
+    "originalString":"Night's Hold\nBlack Maw Talisman\nLeague: Talisman Standard, Talisman Hardcore\nTalisman Tier: 1\nRequires Level 12\nImplicits: 1\nHas 1 Socket\n+2 to Level of Socketed Gems\nSocketed Gems are Supported by Level 10 Added Chaos Damage\nSocketed Gems are Supported by Level 10 Blind\nSocketed Gems are Supported by Level 10 Cast when Stunned\nCorrupted\n",
+    "requirements":{
+      "level":12
+    },
+    "stats":["Night's Hold","Black Maw Talisman","League: Talisman Standard, Talisman Hardcore","Talisman Tier: 1","Requires Level 12","Implicits: 1","Has 1 Socket","+2 to Level of Socketed Gems","Socketed Gems are Supported by Level 10 Added Chaos Damage","Socketed Gems are Supported by Level 10 Blind","Socketed Gems are Supported by Level 10 Cast when Stunned","Corrupted"],
+    "talismanTier":1,
+    "variants":[]
+  },
+  "Perquil's Toe":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(40-50) to Dexterity","{tags:speed}(5-8)% increased Movement Speed"],
+    "name":"Perquil's Toe",
+    "originalString":"Perquil's Toe\nGold Amulet\nRequires Level 29\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{tags:jewellery_attribute}+(40-50) to Dexterity\n{tags:speed}(5-8)% increased Movement Speed\nLightning Damage from Enemies Hitting you is Lucky\nNearby Allies' Damage with Hits is Lucky\n",
+    "requirements":{
+      "level":29
+    },
+    "stats":["Perquil's Toe","Gold Amulet","Requires Level 29","Implicits: 1","(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(40-50) to Dexterity","{tags:speed}(5-8)% increased Movement Speed","Lightning Damage from Enemies Hitting you is Lucky","Nearby Allies' Damage with Hits is Lucky"],
+    "variants":[]
+  },
+  "Presence of Chayula":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","30% increased Rarity of Items found","{tags:jewellery_resistance}+60% to Chaos Resistance","{tags:jewellery_defense,life}20% of Maximum Life Converted to Energy Shield"],
+    "name":"Presence of Chayula",
+    "originalString":"Presence of Chayula\nOnyx Amulet\nLeague: Breach\nSource: Upgraded from unique{Eye of Chayula} using currency{Blessing of Chayula}\nRequires Level 60\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n30% increased Rarity of Items found\n{tags:jewellery_resistance}+60% to Chaos Resistance\nCannot be Stunned\n{tags:jewellery_defense,life}20% of Maximum Life Converted to Energy Shield\n",
+    "requirements":{
+      "level":60
+    },
+    "source":"Upgraded from unique{Eye of Chayula} using currency{Blessing of Chayula}",
+    "stats":["Presence of Chayula","Onyx Amulet","League: Breach","Source: Upgraded from unique{Eye of Chayula} using currency{Blessing of Chayula}","Requires Level 60","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","30% increased Rarity of Items found","{tags:jewellery_resistance}+60% to Chaos Resistance","Cannot be Stunned","{tags:jewellery_defense,life}20% of Maximum Life Converted to Energy Shield"],
+    "variants":[]
+  },
+  "Rashkaldor's Patience":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:life}+(40-80) to maximum Life","{tags:mana}+(20-40) to maximum Mana","{variant:1}20% increased Duration of Elemental Ailments on Enemies","{variant:2}20% reduced Duration of Elemental Ailments on Enemies","{variant:1}Items and Gems have 10% reduced Attribute Requirements","{variant:2}Items and Gems have 10% increased Attribute Requirements","{variant:1}5% chance to Freeze, Shock and Ignite","{variant:2}Always Freeze, Shock and Ignite","{variant:1}Cannot gain Power Charges"],
+    "name":"Rashkaldor's Patience",
+    "originalString":"Rashkaldor's Patience\nJade Amulet\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 48\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:life}+(40-80) to maximum Life\n{tags:mana}+(20-40) to maximum Mana\n{variant:1}20% increased Duration of Elemental Ailments on Enemies\n{variant:2}20% reduced Duration of Elemental Ailments on Enemies\n{variant:1}Items and Gems have 10% reduced Attribute Requirements\n{variant:2}Items and Gems have 10% increased Attribute Requirements\n{variant:1}5% chance to Freeze, Shock and Ignite\n{variant:2}Always Freeze, Shock and Ignite\n{variant:1}Cannot gain Power Charges\n",
+    "requirements":{
+      "level":48
+    },
+    "stats":["Rashkaldor's Patience","Jade Amulet","Variant: Pre 3.19.0","Variant: Current","Requires Level 48","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:life}+(40-80) to maximum Life","{tags:mana}+(20-40) to maximum Mana","{variant:1}20% increased Duration of Elemental Ailments on Enemies","{variant:2}20% reduced Duration of Elemental Ailments on Enemies","{variant:1}Items and Gems have 10% reduced Attribute Requirements","{variant:2}Items and Gems have 10% increased Attribute Requirements","{variant:1}5% chance to Freeze, Shock and Ignite","{variant:2}Always Freeze, Shock and Ignite","{variant:1}Cannot gain Power Charges"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Replica Atziri's Foible":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:life}Regenerate (1-2)% of Life per second","{tags:life}+100 to maximum Life","{variant:1}{tags:life}(20-25)% increased Life Recovery rate","{variant:2}{tags:life}(20-25)% increased Life Regeneration rate","Items and Gems have 25% reduced Attribute Requirements"],
+    "name":"Replica Atziri's Foible",
+    "originalString":"Replica Atziri's Foible\nPaua Amulet\nVariant: Pre 3.16.0\nVariant: Current\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 16\nImplicits: 1\n{tags:life}Regenerate (1-2)% of Life per second\n{tags:life}+100 to maximum Life\n{variant:1}{tags:life}(20-25)% increased Life Recovery rate\n{variant:2}{tags:life}(20-25)% increased Life Regeneration rate\nItems and Gems have 25% reduced Attribute Requirements\n",
+    "requirements":{
+      "level":16
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Atziri's Foible","Paua Amulet","Variant: Pre 3.16.0","Variant: Current","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 16","Implicits: 1","{tags:life}Regenerate (1-2)% of Life per second","{tags:life}+100 to maximum Life","{variant:1}{tags:life}(20-25)% increased Life Recovery rate","{variant:2}{tags:life}(20-25)% increased Life Regeneration rate","Items and Gems have 25% reduced Attribute Requirements"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Replica Badge of the Brotherhood":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill","(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge","+1 to Maximum Fortification per Endurance Charge","(20-25)% chance to lose an Endurance Charge when you gain Fortification"],
+    "name":"Replica Badge of the Brotherhood",
+    "originalString":"Replica Badge of the Brotherhood\nTurquoise Amulet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level: 60\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\nYour Maximum Endurance Charges is equal to your Maximum Frenzy Charges\n(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill\n(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge\n+1 to Maximum Fortification per Endurance Charge\n(20-25)% chance to lose an Endurance Charge when you gain Fortification\n",
+    "requirements":[],
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Badge of the Brotherhood","Turquoise Amulet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level: 60","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges","(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill","(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge","+1 to Maximum Fortification per Endurance Charge","(20-25)% chance to lose an Endurance Charge when you gain Fortification"],
+    "variants":[]
+  },
+  "Replica Hinekora's Sight":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":0,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:attack}+(600-1000) to Accuracy Rating","{tags:jewellery_defense}+(600-1000) to Armour","{tags:jewellery_resistance}+1% to all maximum Elemental Resistances"],
+    "name":"Replica Hinekora's Sight",
+    "originalString":"Replica Hinekora's Sight\nOnyx Amulet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\n{tags:jewellery_attribute}+(10–16) to all Attributes\n{tags:attack}+(600–1000) to Accuracy Rating\n{tags:jewellery_defense}+(600–1000) to Armour\n{tags:jewellery_resistance}+1% to all maximum Elemental Resistances\nYou cannot be Maimed\n",
+    "requirements":[],
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Hinekora's Sight","Onyx Amulet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:attack}+(600-1000) to Accuracy Rating","{tags:jewellery_defense}+(600-1000) to Armour","{tags:jewellery_resistance}+1% to all maximum Elemental Resistances","You cannot be Maimed"],
+    "variants":[]
+  },
+  "Replica Hyrri's Truth":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:3}{tags:jewellery_attribute}+(30-55) to Dexterity","{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier","{variant:3}{tags:critical}+(18-35)% to Global Critical Strike Multiplier","{variant:3}Bow Attacks have Culling Strike","{variant:1,2}{tags:life}(0.8-1)% of Cold Damage Leeched as Life","{variant:1}Hatred has 50% less Reservation","{variant:2,3}{tags:mana}Hatred has 100% increased Mana Reservation Efficiency"],
+    "name":"Replica Hyrri's Truth",
+    "originalString":"Replica Hyrri's Truth\nJade Amulet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nVariant: Pre 3.16.0\nVariant: Pre 3.19.0\nVariant: Current\nLevelReq: 64\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\nGrants Level 22 Hatred Skill\n{variant:1,2}{tags:jewellery_attribute}+(25-35) to Dexterity\n{variant:3}{tags:jewellery_attribute}+(30-55) to Dexterity\n{variant:1,2}{tags:attack,physical_damage}Adds (12-15) to (24-28) Physical Damage to Attacks\n{variant:1,2}{tags:jewellery_elemental,attack}Adds (11-15) to (23-28) Cold Damage to Attacks\n{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier\n{variant:3}{tags:critical}+(18-35)% to Global Critical Strike Multiplier\n{variant:3}Bow Attacks have Culling Strike\n{variant:1,2}{tags:life}(0.8-1)% of Cold Damage Leeched as Life\n{variant:1}Hatred has 50% less Reservation\n{variant:2,3}{tags:mana}Hatred has 100% increased Mana Reservation Efficiency\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Hyrri's Truth","Jade Amulet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Variant: Pre 3.16.0","Variant: Pre 3.19.0","Variant: Current","LevelReq: 64","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","Grants Level 22 Hatred Skill","{variant:1,2}{tags:jewellery_attribute}+(25-35) to Dexterity","{variant:3}{tags:jewellery_attribute}+(30-55) to Dexterity","{variant:1,2}{tags:attack,physical_damage}Adds (12-15) to (24-28) Physical Damage to Attacks","{variant:1,2}{tags:jewellery_elemental,attack}Adds (11-15) to (23-28) Cold Damage to Attacks","{variant:1,2}{tags:critical}+(23-28)% to Global Critical Strike Multiplier","{variant:3}{tags:critical}+(18-35)% to Global Critical Strike Multiplier","{variant:3}Bow Attacks have Culling Strike","{variant:1,2}{tags:life}(0.8-1)% of Cold Damage Leeched as Life","{variant:1}Hatred has 50% less Reservation","{variant:2,3}{tags:mana}Hatred has 100% increased Mana Reservation Efficiency"],
+    "variants":["Pre 3.16.0","Pre 3.19.0","Current"]
+  },
+  "Replica Karui Ward":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:attack}+100 to Accuracy Rating","{tags:speed}10% increased Movement Speed","30% increased Area of Effect","30% increased Area Damage"],
+    "name":"Replica Karui Ward",
+    "originalString":"Replica Karui Ward\nJade Amulet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 5\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{tags:attack}+100 to Accuracy Rating\n{tags:speed}10% increased Movement Speed\n30% increased Area of Effect\n30% increased Area Damage\n",
+    "requirements":{
+      "level":5
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Karui Ward","Jade Amulet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 5","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:attack}+100 to Accuracy Rating","{tags:speed}10% increased Movement Speed","30% increased Area of Effect","30% increased Area Damage"],
+    "variants":[]
+  },
+  "Replica Winterheart":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_defense}+(50-70) to maximum Energy Shield","{tags:jewellery_resistance}+75% to Lightning Resistance","{tags:jewellery_defense}Regenerate 5% of Energy Shield per second while Shocked"],
+    "name":"Replica Winterheart",
+    "originalString":"Replica Winterheart\nGold Amulet\nLeague: Heist\nSource: Steal from a unique{Curio Display} during a Grand Heist\nRequires Level 42\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_defense}+(50-70) to maximum Energy Shield\n{tags:jewellery_resistance}+75% to Lightning Resistance\n{tags:jewellery_defense}Regenerate 5% of Energy Shield per second while Shocked\nUnaffected by Shock\n",
+    "requirements":{
+      "level":42
+    },
+    "source":"Steal from a unique{Curio Display} during a Grand Heist",
+    "stats":["Replica Winterheart","Gold Amulet","League: Heist","Source: Steal from a unique{Curio Display} during a Grand Heist","Requires Level 42","Implicits: 1","(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_defense}+(50-70) to maximum Energy Shield","{tags:jewellery_resistance}+75% to Lightning Resistance","{tags:jewellery_defense}Regenerate 5% of Energy Shield per second while Shocked","Unaffected by Shock"],
+    "variants":[]
+  },
+  "Retaliation Charm":{
+    "baseType":"Citrine Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{variant:2}(10-20)% chance to Blind Enemies on Hit with Attacks","{variant:1}(25-40)% increased Damage with Hits and Ailments against Blinded Enemies","{variant:1}{tags:critical}(30-50)% increased Critical Strike Chance against Blinded Enemies","{variant:1}{tags:critical}(40-50)% chance to Blind Enemies on Critical Strike","{variant:2}(10-20)% chance to gain a Frenzy Charge on Hit while Blinded"],
+    "name":"Retaliation Charm",
+    "originalString":"Retaliation Charm\nCitrine Amulet\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 30\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Dexterity\n{variant:2}(10-20)% chance to Blind Enemies on Hit with Attacks\n{variant:1}(25-40)% increased Damage with Hits and Ailments against Blinded Enemies\n{variant:1}{tags:critical}(30-50)% increased Critical Strike Chance against Blinded Enemies\n{variant:1}{tags:critical}(40-50)% chance to Blind Enemies on Critical Strike\nBlind does not affect your Light Radius\nBlind you inflict is Reflected to you\n{variant:2}(10-20)% chance to gain a Frenzy Charge on Hit while Blinded\n",
+    "requirements":{
+      "level":30
+    },
+    "stats":["Retaliation Charm","Citrine Amulet","Variant: Pre 3.19.0","Variant: Current","Requires Level 30","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{variant:2}(10-20)% chance to Blind Enemies on Hit with Attacks","{variant:1}(25-40)% increased Damage with Hits and Ailments against Blinded Enemies","{variant:1}{tags:critical}(30-50)% increased Critical Strike Chance against Blinded Enemies","{variant:1}{tags:critical}(40-50)% chance to Blind Enemies on Critical Strike","Blind does not affect your Light Radius","Blind you inflict is Reflected to you","{variant:2}(10-20)% chance to gain a Frenzy Charge on Hit while Blinded"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Rigwald's Curse":{
+    "baseType":"Wereclaw Talisman",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"amulet",
+    "league":" Talisman Standard",
+    "modifiers":["{variant:1}+(16-24)% to Global Critical Strike Multiplier","{variant:2}+(24-36)% to Global Critical Strike Multiplier","+7% to Unarmed Melee Attack Critical Strike Chance"],
+    "name":"Rigwald's Curse",
+    "originalString":"Rigwald's Curse\nWereclaw Talisman\nLeague: Talisman Standard\nVariant: Pre 2.2.0\nVariant: Current\nTalisman Tier: 2\nRequires Level 28\nImplicits: 2\n{variant:1}+(16-24)% to Global Critical Strike Multiplier\n{variant:2}+(24-36)% to Global Critical Strike Multiplier\n+7% to Unarmed Melee Attack Critical Strike Chance\nModifiers to Claw Damage also apply to Unarmed Attack Damage with Melee Skills\nModifiers to Claw Attack Speed also apply to Unarmed Attack Speed with Melee Skills\nModifiers to Claw Critical Strike Chance also apply to Unarmed Critical Strike Chance with Melee Skills\nCorrupted\n",
+    "requirements":{
+      "level":28
+    },
+    "stats":["Rigwald's Curse","Wereclaw Talisman","League: Talisman Standard","Variant: Pre 2.2.0","Variant: Current","Talisman Tier: 2","Requires Level 28","Implicits: 2","{variant:1}+(16-24)% to Global Critical Strike Multiplier","{variant:2}+(24-36)% to Global Critical Strike Multiplier","+7% to Unarmed Melee Attack Critical Strike Chance","Modifiers to Claw Damage also apply to Unarmed Attack Damage with Melee Skills","Modifiers to Claw Attack Speed also apply to Unarmed Attack Speed with Melee Skills","Modifiers to Claw Critical Strike Chance also apply to Unarmed Critical Strike Chance with Melee Skills","Corrupted"],
+    "talismanTier":2,
+    "variants":["Pre 2.2.0","Current"]
+  },
+  "Sacrificial Heart":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Incursion",
+    "modifiers":["{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:jewellery_elemental}Adds (22-27) to (34-38) Fire Damage","{tags:jewellery_elemental}Adds (20-23) to (31-35) Cold Damage","{tags:jewellery_elemental}Adds (1-3) to (47-52) Lightning Damage","{variant:1}Gain a Power Charge when you use a Vaal Skill","{tags:life}Gain 10 Life per Enemy Hit if you have used a Vaal Skill Recently","{tags:speed}10% increased Movement Speed if you have used a Vaal Skill Recently","{variant:2}Gain up to maximum Power Charges when you use a Vaal Skill"],
+    "name":"Sacrificial Heart",
+    "originalString":"Sacrificial Heart\nPaua Amulet\nVariant: Pre 3.14.0\nVariant: Current\nLeague: Incursion\nSource: Drops from unique{The Vaal Omnitect}\nUpgrade: Upgrades to unique{Zerphi's Heart} via currency{Vial of Sacrifice}\nRequires Level 32\nImplicits: 1\n{tags:mana}(20-30)% increased Mana Regeneration Rate\n{tags:jewellery_elemental}Adds (22-27) to (34-38) Fire Damage\n{tags:jewellery_elemental}Adds (20-23) to (31-35) Cold Damage\n{tags:jewellery_elemental}Adds (1-3) to (47-52) Lightning Damage\n{variant:1}Gain a Power Charge when you use a Vaal Skill\n{tags:life}Gain 10 Life per Enemy Hit if you have used a Vaal Skill Recently\n{tags:speed}10% increased Movement Speed if you have used a Vaal Skill Recently\n{variant:2}Gain up to maximum Power Charges when you use a Vaal Skill\n",
+    "requirements":{
+      "level":32
+    },
+    "source":"Drops from unique{The Vaal Omnitect}",
+    "stats":["Sacrificial Heart","Paua Amulet","Variant: Pre 3.14.0","Variant: Current","League: Incursion","Source: Drops from unique{The Vaal Omnitect}","Upgrade: Upgrades to unique{Zerphi's Heart} via currency{Vial of Sacrifice}","Requires Level 32","Implicits: 1","{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:jewellery_elemental}Adds (22-27) to (34-38) Fire Damage","{tags:jewellery_elemental}Adds (20-23) to (31-35) Cold Damage","{tags:jewellery_elemental}Adds (1-3) to (47-52) Lightning Damage","{variant:1}Gain a Power Charge when you use a Vaal Skill","{tags:life}Gain 10 Life per Enemy Hit if you have used a Vaal Skill Recently","{tags:speed}10% increased Movement Speed if you have used a Vaal Skill Recently","{variant:2}Gain up to maximum Power Charges when you use a Vaal Skill"],
+    "upgrade":"Upgrades to unique{Zerphi's Heart} via currency{Vial of Sacrifice}",
+    "variants":["Pre 3.14.0","Current"]
+  },
+  "Shaper's Seed":{
+    "baseType":"Agate Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{variant:1,2}{tags:mana}(30-50)% increased Mana Regeneration Rate","{variant:3}{tags:mana}(60-100)% increased Mana Regeneration Rate","{variant:1,2}{tags:life}Regenerate 2% of Life per second","{variant:3}{tags:life}Regenerate 4% of Life per second","{variant:1}{tags:life}Nearby Allies gain 1% of Life Regenerated per Second","{variant:2}{tags:life}Nearby Allies gain 2% of Life Regenerated per Second","{variant:3}{tags:life}Nearby Allies gain 4% of Life Regenerated per Second","{variant:1,2}{tags:mana}Nearby Allies gain 40% increased Mana Regeneration Rate","{variant:3}{tags:mana}Nearby Allies gain 80% increased Mana Regeneration Rate"],
+    "name":"Shaper's Seed",
+    "originalString":"Shaper's Seed\nAgate Amulet\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 16\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Intelligence\n{variant:1,2}{tags:mana}(30-50)% increased Mana Regeneration Rate\n{variant:3}{tags:mana}(60-100)% increased Mana Regeneration Rate\n{variant:1,2}{tags:life}Regenerate 2% of Life per second\n{variant:3}{tags:life}Regenerate 4% of Life per second\n{variant:1}{tags:life}Nearby Allies gain 1% of Life Regenerated per Second\n{variant:2}{tags:life}Nearby Allies gain 2% of Life Regenerated per Second\n{variant:3}{tags:life}Nearby Allies gain 4% of Life Regenerated per Second\n{variant:1,2}{tags:mana}Nearby Allies gain 40% increased Mana Regeneration Rate\n{variant:3}{tags:mana}Nearby Allies gain 80% increased Mana Regeneration Rate\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Shaper's Seed","Agate Amulet","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 16","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{variant:1,2}{tags:mana}(30-50)% increased Mana Regeneration Rate","{variant:3}{tags:mana}(60-100)% increased Mana Regeneration Rate","{variant:1,2}{tags:life}Regenerate 2% of Life per second","{variant:3}{tags:life}Regenerate 4% of Life per second","{variant:1}{tags:life}Nearby Allies gain 1% of Life Regenerated per Second","{variant:2}{tags:life}Nearby Allies gain 2% of Life Regenerated per Second","{variant:3}{tags:life}Nearby Allies gain 4% of Life Regenerated per Second","{variant:1,2}{tags:mana}Nearby Allies gain 40% increased Mana Regeneration Rate","{variant:3}{tags:mana}Nearby Allies gain 80% increased Mana Regeneration Rate"],
+    "variants":["Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "Sidhebreath":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:jewellery_resistance}+25% to Cold Resistance","{variant:1,2}{tags:mana,attack}0.2% of Physical Attack Damage Leeched as Mana","{tags:life}Minions have (10-15)% increased maximum Life","{variant:1,2,3}{tags:speed}Minions have (10-15)% increased Movement Speed","{variant:4}Minions convert 50% of Physical Damage to Cold Damage","{variant:3}{tags:jewellery_elemental}Minions deal (5-9) to (11-15) additional Cold Damage","{variant:4}{tags:jewellery_elemental}Minions deal (25-35) to (60-65) additional Cold Damage","{variant:1,2}Minions deal (10-15)% increased Damage","{variant:2,3}{tags:mana}(10-15)% reduced Mana Cost of Minion Skills","{variant:4}Minions deal no Non-Cold Damage"],
+    "name":"Sidhebreath",
+    "originalString":"Sidhebreath\nPaua Amulet\nVariant: Pre 3.0.0\nVariant: Pre 3.8.0\nVariant: Pre 3.19.0\nVariant: Current\nImplicits: 1\n{tags:mana}(20-30)% increased Mana Regeneration Rate\n{tags:jewellery_resistance}+25% to Cold Resistance\n{variant:1,2}{tags:mana,attack}0.2% of Physical Attack Damage Leeched as Mana\n{tags:life}Minions have (10-15)% increased maximum Life\n{variant:1,2,3}{tags:speed}Minions have (10-15)% increased Movement Speed\n{variant:4}Minions convert 50% of Physical Damage to Cold Damage\n{variant:3}{tags:jewellery_elemental}Minions deal (5-9) to (11-15) additional Cold Damage\n{variant:4}{tags:jewellery_elemental}Minions deal (25-35) to (60-65) additional Cold Damage\n{variant:1,2}Minions deal (10-15)% increased Damage\n{variant:2,3}{tags:mana}(10-15)% reduced Mana Cost of Minion Skills\n{variant:4}Minions deal no Non-Cold Damage\n",
+    "requirements":[],
+    "stats":["Sidhebreath","Paua Amulet","Variant: Pre 3.0.0","Variant: Pre 3.8.0","Variant: Pre 3.19.0","Variant: Current","Implicits: 1","{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:jewellery_resistance}+25% to Cold Resistance","{variant:1,2}{tags:mana,attack}0.2% of Physical Attack Damage Leeched as Mana","{tags:life}Minions have (10-15)% increased maximum Life","{variant:1,2,3}{tags:speed}Minions have (10-15)% increased Movement Speed","{variant:4}Minions convert 50% of Physical Damage to Cold Damage","{variant:3}{tags:jewellery_elemental}Minions deal (5-9) to (11-15) additional Cold Damage","{variant:4}{tags:jewellery_elemental}Minions deal (25-35) to (60-65) additional Cold Damage","{variant:1,2}Minions deal (10-15)% increased Damage","{variant:2,3}{tags:mana}(10-15)% reduced Mana Cost of Minion Skills","{variant:4}Minions deal no Non-Cold Damage"],
+    "variants":["Pre 3.0.0","Pre 3.8.0","Pre 3.19.0","Current"]
+  },
+  "Solstice Vigil":{
+    "baseType":"Onyx Amulet",
+    "flags":{
+      "shaperItem":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}(20-25)% increased Damage","{variant:2}(30-40)% increased Damage","{tags:life}+(50-70) to maximum Life","{variant:1}{tags:mana}Regenerate (2-3) Mana per second","{variant:2}{tags:mana}Regenerate (8-10) Mana per second"],
+    "name":"Solstice Vigil",
+    "originalString":"Solstice Vigil\nOnyx Amulet\nShaper Item\nSource: Drops from unique{The Shaper}\nVariant: Pre 3.10.0\nVariant: Current\nRequires Level 64\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{variant:1}(20-25)% increased Damage\n{variant:2}(30-40)% increased Damage\n{tags:life}+(50-70) to maximum Life\n{variant:1}{tags:mana}Regenerate (2-3) Mana per second\n{variant:2}{tags:mana}Regenerate (8-10) Mana per second\nTemporal Chains has no Reservation if Cast as an Aura\nGain Shaper's Presence for 10 seconds when you kill a Rare or Unique Enemy\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Drops from unique{The Shaper}",
+    "stats":["Solstice Vigil","Onyx Amulet","Shaper Item","Source: Drops from unique{The Shaper}","Variant: Pre 3.10.0","Variant: Current","Requires Level 64","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{variant:1}(20-25)% increased Damage","{variant:2}(30-40)% increased Damage","{tags:life}+(50-70) to maximum Life","{variant:1}{tags:mana}Regenerate (2-3) Mana per second","{variant:2}{tags:mana}Regenerate (8-10) Mana per second","Temporal Chains has no Reservation if Cast as an Aura","Gain Shaper's Presence for 10 seconds when you kill a Rare or Unique Enemy"],
+    "variants":["Pre 3.10.0","Current"]
+  },
+  "Star of Wraeclast":{
+    "baseType":"Ruby Amulet",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{variant:3}Grants Level 10 Frostblink Skill","{tags:jewellery_elemental}(30-50)% increased Cold Damage","{tags:jewellery_resistance}+(10-15)% to all Elemental Resistances","{variant:1}{tags:caster}30% increased Area of Effect of Hex Skills","{variant:2,3}{tags:caster}60% increased Area of Effect of Hex Skills","{tags:caster}You cannot be Cursed with Silence","{variant:3}{tags:caster}Frostblink has 50% increased Duration"],
+    "name":"Star of Wraeclast",
+    "originalString":"Star of Wraeclast\nRuby Amulet\nSource: Vendor Recipe\nVariant: Pre 2.6.0\nVariant: Pre 3.8.0\nVariant: Current\nRequires Level 28\nImplicits: 1\n{tags:jewellery_resistance}+(20-30)% to Fire Resistance\n{variant:3}Grants Level 10 Frostblink Skill\n{tags:jewellery_elemental}(30-50)% increased Cold Damage\n{tags:jewellery_resistance}+(10-15)% to all Elemental Resistances\n{variant:1}{tags:caster}30% increased Area of Effect of Hex Skills\n{variant:2,3}{tags:caster}60% increased Area of Effect of Hex Skills\n{tags:caster}You cannot be Cursed with Silence\n{variant:1,2}Grants Level 20 Illusory Warp Skill\n{variant:3}{tags:caster}Frostblink has 50% increased Duration\nCorrupted\n",
+    "requirements":{
+      "level":28
+    },
+    "source":"Vendor Recipe",
+    "stats":["Star of Wraeclast","Ruby Amulet","Source: Vendor Recipe","Variant: Pre 2.6.0","Variant: Pre 3.8.0","Variant: Current","Requires Level 28","Implicits: 1","{tags:jewellery_resistance}+(20-30)% to Fire Resistance","{variant:3}Grants Level 10 Frostblink Skill","{tags:jewellery_elemental}(30-50)% increased Cold Damage","{tags:jewellery_resistance}+(10-15)% to all Elemental Resistances","{variant:1}{tags:caster}30% increased Area of Effect of Hex Skills","{variant:2,3}{tags:caster}60% increased Area of Effect of Hex Skills","{tags:caster}You cannot be Cursed with Silence","{variant:1,2}Grants Level 20 Illusory Warp Skill","{variant:3}{tags:caster}Frostblink has 50% increased Duration","Corrupted"],
+    "variants":["Pre 2.6.0","Pre 3.8.0","Current"]
+  },
+  "Stone of Lazhwar":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:1}+15% Chance to Block Spell Damage","{variant:2,3}+(12-15)% Chance to Block Spell Damage","{variant:1,2}{tags:caster,speed}(10-15)% increased Cast Speed","{variant:3}{tags:caster,speed}(15-20)% increased Cast Speed","{variant:3}{tags:mana}+(40-70) to maximum Mana"],
+    "name":"Stone of Lazhwar",
+    "originalString":"Stone of Lazhwar\nLapis Amulet\nVariant: Pre 3.4.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 5\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{variant:1}+15% Chance to Block Spell Damage\n{variant:2,3}+(12-15)% Chance to Block Spell Damage\n{variant:1,2}{tags:caster,speed}(10-15)% increased Cast Speed\n{variant:3}{tags:caster,speed}(15-20)% increased Cast Speed\n{variant:1,2}{tags:mana}+(30-50) to maximum Mana\n{variant:3}{tags:mana}+(40-70) to maximum Mana\n",
+    "requirements":{
+      "level":5
+    },
+    "stats":["Stone of Lazhwar","Lapis Amulet","Variant: Pre 3.4.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 5","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:1}+15% Chance to Block Spell Damage","{variant:2,3}+(12-15)% Chance to Block Spell Damage","{variant:1,2}{tags:caster,speed}(10-15)% increased Cast Speed","{variant:3}{tags:caster,speed}(15-20)% increased Cast Speed","{variant:1,2}{tags:mana}+(30-50) to maximum Mana","{variant:3}{tags:mana}+(40-70) to maximum Mana"],
+    "variants":["Pre 3.4.0","Pre 3.19.0","Current"]
+  },
+  "Stranglegasp":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes"],
+    "name":"Stranglegasp",
+    "originalString":"Stranglegasp\nOnyx Amulet\nSource: Drops in Blight-ravaged Maps\nRequires Level 52\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\nCan have 3 additional Enchantment Modifiers\n",
+    "requirements":{
+      "level":52
+    },
+    "source":"Drops in Blight-ravaged Maps",
+    "stats":["Stranglegasp","Onyx Amulet","Source: Drops in Blight-ravaged Maps","Requires Level 52","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","Can have 3 additional Enchantment Modifiers"],
+    "variants":[]
+  },
+  "Tainted Pact":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_attribute}+(20-30) to Strength","{tags:attack,life}(2-3)% of Physical Attack Damage Leeched as Life","{tags:mana,attack}(1-1.5)% of Physical Attack Damage Leeched as Mana"],
+    "name":"Tainted Pact",
+    "originalString":"Tainted Pact\nCoral Amulet\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:attack,life}(2-3)% of Physical Attack Damage Leeched as Life\n{tags:mana,attack}(1-1.5)% of Physical Attack Damage Leeched as Mana\nTaking Chaos Damage over Time heals you instead while Leeching Life\n",
+    "requirements":[],
+    "stats":["Tainted Pact","Coral Amulet","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_attribute}+(20-30) to Strength","{tags:attack,life}(2-3)% of Physical Attack Damage Leeched as Life","{tags:mana,attack}(1-1.5)% of Physical Attack Damage Leeched as Mana","Taking Chaos Damage over Time heals you instead while Leeching Life"],
+    "variants":[]
+  },
+  "Tavukai":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Legion",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_attribute}+(30-40) to Intelligence","{tags:jewellery_resistance}Minions have +(-17-17)% to Chaos Resistance","Summon Raging Spirit has (20-30)% increased Duration","{variant:1}Summoned Raging Spirits deal (60-80)% increased Damage","{variant:2}Summoned Raging Spirits deal (25-40)% increased Damage","{variant:1}{tags:life}Summoned Raging Spirits have (80-100)% increased maximum Life","{variant:2}{tags:life}Summoned Raging Spirits have (25-40)% increased maximum Life","{tags:chaos_damage}Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage"],
+    "name":"Tavukai",
+    "originalString":"Tavukai\nCoral Amulet\nLeague: Legion\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 54\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n{tags:jewellery_attribute}+(30-40) to Intelligence\n{tags:jewellery_resistance}Minions have +(-17-17)% to Chaos Resistance\nSummon Raging Spirit has (20-30)% increased Duration\n{variant:1}Summoned Raging Spirits deal (60-80)% increased Damage\n{variant:2}Summoned Raging Spirits deal (25-40)% increased Damage\n{variant:1}{tags:life}Summoned Raging Spirits have (80-100)% increased maximum Life\n{variant:2}{tags:life}Summoned Raging Spirits have (25-40)% increased maximum Life\n{tags:chaos_damage}Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage\n",
+    "requirements":{
+      "level":54
+    },
+    "stats":["Tavukai","Coral Amulet","League: Legion","Variant: Pre 3.19.0","Variant: Current","Requires Level 54","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","{tags:jewellery_attribute}+(30-40) to Intelligence","{tags:jewellery_resistance}Minions have +(-17-17)% to Chaos Resistance","Summon Raging Spirit has (20-30)% increased Duration","{variant:1}Summoned Raging Spirits deal (60-80)% increased Damage","{variant:2}Summoned Raging Spirits deal (25-40)% increased Damage","{variant:1}{tags:life}Summoned Raging Spirits have (80-100)% increased maximum Life","{variant:2}{tags:life}Summoned Raging Spirits have (25-40)% increased maximum Life","{tags:chaos_damage}Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "Tear of Purity":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:3}{tags:jewellery_attribute}+(10-20) to all Attributes","{tags:life}+(20-40) to maximum Life","{variant:1}5% chance to avoid Elemental Ailments","{variant:2}{tags:jewellery_resistance}+5% to all Elemental Resistances","{variant:3}{tags:jewellery_resistance}+(5-10)% to all Elemental Resistances"],
+    "name":"Tear of Purity",
+    "originalString":"Tear of Purity\nLapis Amulet\nVariant: Pre 3.16.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 5\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\nGrants Level 10 Purity of Elements Skill\n{variant:1,2}{tags:jewellery_attribute}+(5-10) to all Attributes\n{variant:3}{tags:jewellery_attribute}+(10-20) to all Attributes\n{tags:life}+(20-40) to maximum Life\n{variant:1}5% chance to avoid Elemental Ailments\n{variant:2}{tags:jewellery_resistance}+5% to all Elemental Resistances\n{variant:3}{tags:jewellery_resistance}+(5-10)% to all Elemental Resistances\n",
+    "requirements":{
+      "level":5
+    },
+    "stats":["Tear of Purity","Lapis Amulet","Variant: Pre 3.16.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 5","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","Grants Level 10 Purity of Elements Skill","{variant:1,2}{tags:jewellery_attribute}+(5-10) to all Attributes","{variant:3}{tags:jewellery_attribute}+(10-20) to all Attributes","{tags:life}+(20-40) to maximum Life","{variant:1}5% chance to avoid Elemental Ailments","{variant:2}{tags:jewellery_resistance}+5% to all Elemental Resistances","{variant:3}{tags:jewellery_resistance}+(5-10)% to all Elemental Resistances"],
+    "variants":["Pre 3.16.0","Pre 3.19.0","Current"]
+  },
+  "The Anvil":{
+    "baseType":"Amber Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Strength","{variant:1}10% Chance to Block Attack Damage","{variant:2,3}8% Chance to Block Attack Damage","{variant:4}(10-15)% Chance to Block Attack Damage","{tags:attack,speed}10% reduced Attack Speed","{tags:caster,speed}10% reduced Cast Speed","{tags:jewellery_defense}+(400-500) to Armour","{variant:1}{tags:life}(30-40) Life gained when you Block","{variant:1}{tags:mana}(10-20) Mana gained when you Block","{variant:1}{tags:speed}20% reduced Movement Speed","{variant:2}{tags:speed}10% reduced Movement Speed","+3% to maximum Chance to Block Attack Damage","{variant:1}{tags:physical_damage}Reflects 200 to 250 Physical Damage to Attackers on Block"],
+    "name":"The Anvil",
+    "originalString":"The Anvil\nAmber Amulet\nVariant: Pre 1.3.0\nVariant: Pre 2.6.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 45\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Strength\n{variant:1}10% Chance to Block Attack Damage\n{variant:2,3}8% Chance to Block Attack Damage\n{variant:4}(10-15)% Chance to Block Attack Damage\n{tags:attack,speed}10% reduced Attack Speed\n{tags:caster,speed}10% reduced Cast Speed\n{tags:jewellery_defense}+(400-500) to Armour\n{variant:1}{tags:life}(30-40) Life gained when you Block\n{variant:2,3,4}{tags:life}(34-48) Life gained when you Block\n{variant:1}{tags:mana}(10-20) Mana gained when you Block\n{variant:2,3,4}{tags:mana}(10-24) Mana gained when you Block\n{variant:1}{tags:speed}20% reduced Movement Speed\n{variant:2}{tags:speed}10% reduced Movement Speed\n+3% to maximum Chance to Block Attack Damage\n{variant:1}{tags:physical_damage}Reflects 200 to 250 Physical Damage to Attackers on Block\n{variant:2,3,4}{tags:physical_damage}Reflects 240 to 300 Physical Damage to Attackers on Block\n",
+    "requirements":{
+      "level":45
+    },
+    "stats":["The Anvil","Amber Amulet","Variant: Pre 1.3.0","Variant: Pre 2.6.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 45","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Strength","{variant:1}10% Chance to Block Attack Damage","{variant:2,3}8% Chance to Block Attack Damage","{variant:4}(10-15)% Chance to Block Attack Damage","{tags:attack,speed}10% reduced Attack Speed","{tags:caster,speed}10% reduced Cast Speed","{tags:jewellery_defense}+(400-500) to Armour","{variant:1}{tags:life}(30-40) Life gained when you Block","{variant:2,3,4}{tags:life}(34-48) Life gained when you Block","{variant:1}{tags:mana}(10-20) Mana gained when you Block","{variant:2,3,4}{tags:mana}(10-24) Mana gained when you Block","{variant:1}{tags:speed}20% reduced Movement Speed","{variant:2}{tags:speed}10% reduced Movement Speed","+3% to maximum Chance to Block Attack Damage","{variant:1}{tags:physical_damage}Reflects 200 to 250 Physical Damage to Attackers on Block","{variant:2,3,4}{tags:physical_damage}Reflects 240 to 300 Physical Damage to Attackers on Block"],
+    "variants":["Pre 1.3.0","Pre 2.6.0","Pre 3.19.0","Current"]
+  },
+  "The Ascetic":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","(80-100)% increased Rarity of Items found with a Normal Item equipped","(10-15)% increased Quantity of Items found with a Magic Item equipped"],
+    "name":"The Ascetic",
+    "originalString":"The Ascetic\nGold Amulet\nSource: No longer obtainable\nRequires Level 8\nImplicits: 1\n(12-20)% increased Rarity of Items found\n(80-100)% increased Rarity of Items found with a Normal Item equipped\n(10-15)% increased Quantity of Items found with a Magic Item equipped\n",
+    "requirements":{
+      "level":8
+    },
+    "source":"No longer obtainable",
+    "stats":["The Ascetic","Gold Amulet","Source: No longer obtainable","Requires Level 8","Implicits: 1","(12-20)% increased Rarity of Items found","(80-100)% increased Rarity of Items found with a Normal Item equipped","(10-15)% increased Quantity of Items found with a Magic Item equipped"],
+    "variants":[]
+  },
+  "The Aylardex":{
+    "baseType":"Agate Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:life}+(30-50) to maximum Life","{tags:mana}+(50-70) to maximum Mana","+1 to Maximum Power Charges","{tags:mana}10% increased Mana Regeneration Rate Per Power Charge","{variant:2}(80-100)% increased Power Charge Duration","{tags:mana,life}1% of Damage is taken from Mana before Life per Power Charge","{tags:critical}40% reduced Critical Strike Chance per Power Charge"],
+    "name":"The Aylardex",
+    "originalString":"The Aylardex\nAgate Amulet\nVariant: Pre 2.5.0\nVariant: Current\nRequires Level 32\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Intelligence\n{tags:life}+(30-50) to maximum Life\n{tags:mana}+(50-70) to maximum Mana\n+1 to Maximum Power Charges\n{tags:mana}10% increased Mana Regeneration Rate Per Power Charge\n{variant:2}(80-100)% increased Power Charge Duration\n{tags:mana,life}1% of Damage is taken from Mana before Life per Power Charge\n{tags:critical}40% reduced Critical Strike Chance per Power Charge\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["The Aylardex","Agate Amulet","Variant: Pre 2.5.0","Variant: Current","Requires Level 32","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:life}+(30-50) to maximum Life","{tags:mana}+(50-70) to maximum Mana","+1 to Maximum Power Charges","{tags:mana}10% increased Mana Regeneration Rate Per Power Charge","{variant:2}(80-100)% increased Power Charge Duration","{tags:mana,life}1% of Damage is taken from Mana before Life per Power Charge","{tags:critical}40% reduced Critical Strike Chance per Power Charge"],
+    "variants":["Pre 2.5.0","Current"]
+  },
+  "The Effigon":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+10 to Dexterity","{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks","{tags:attack}+(100-150) to Accuracy Rating","{tags:jewellery_defense}+(100-150) to Evasion Rating","{tags:jewellery_resistance}+20% to Fire Resistance","{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance against Blinded Enemies"],
+    "name":"The Effigon",
+    "originalString":"The Effigon\nGold Amulet\nSource: No longer obtainable\nRequires Level 57\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{tags:jewellery_attribute}+10 to Dexterity\n{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks\n{tags:attack}+(100-150) to Accuracy Rating\n{tags:jewellery_defense}+(100-150) to Evasion Rating\n{tags:jewellery_resistance}+20% to Fire Resistance\nYour Hits can't be Evaded by Blinded Enemies\n{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance against Blinded Enemies\n",
+    "requirements":{
+      "level":57
+    },
+    "source":"No longer obtainable",
+    "stats":["The Effigon","Gold Amulet","Source: No longer obtainable","Requires Level 57","Implicits: 1","(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+10 to Dexterity","{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks","{tags:attack}+(100-150) to Accuracy Rating","{tags:jewellery_defense}+(100-150) to Evasion Rating","{tags:jewellery_resistance}+20% to Fire Resistance","Your Hits can't be Evaded by Blinded Enemies","{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance against Blinded Enemies"],
+    "variants":[]
+  },
+  "The Ephemeral Bond":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Heist",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:mana}(25-40)% increased Mana Regeneration Rate","{tags:jewellery_resistance}+(15-25)% to all Elemental Resistances","{tags:critical}+(30-40)% to Critical Strike Multiplier if you've gained a Power Charge Recently","{tags:jewellery_elemental}(1-2) to (36-40) Lightning Damage per Power Charge","90% less Power Charge Duration"],
+    "name":"The Ephemeral Bond",
+    "originalString":"The Ephemeral Bond\nLapis Amulet\nLeague: Heist\nRequires Level 68\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{tags:mana}(25-40)% increased Mana Regeneration Rate\n{tags:jewellery_resistance}+(15-25)% to all Elemental Resistances\n{tags:critical}+(30-40)% to Critical Strike Multiplier if you've gained a Power Charge Recently\n{tags:jewellery_elemental}(1-2) to (36-40) Lightning Damage per Power Charge\n90% less Power Charge Duration\n",
+    "requirements":{
+      "level":68
+    },
+    "stats":["The Ephemeral Bond","Lapis Amulet","League: Heist","Requires Level 68","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:mana}(25-40)% increased Mana Regeneration Rate","{tags:jewellery_resistance}+(15-25)% to all Elemental Resistances","{tags:critical}+(30-40)% to Critical Strike Multiplier if you've gained a Power Charge Recently","{tags:jewellery_elemental}(1-2) to (36-40) Lightning Damage per Power Charge","90% less Power Charge Duration"],
+    "variants":[]
+  },
+  "The Eternal Struggle":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":2,
+    "itemType":"amulet",
+    "modifiers":["9% increased Mana Reservation Efficiency of Skills","{tags:speed}6% increased Movement Speed","{tags:jewellery_attribute}+(20-50) to Strength","{tags:jewellery_attribute}+(20-50) to Dexterity","{tags:jewellery_attribute}+(20-50) to Intelligence","{tags:jewellery_defense}(10-15)% increased Global Defences","Kill Enemies that have 15% or lower Life on Hit if The Searing Exarch is dominant"],
+    "name":"The Eternal Struggle",
+    "originalString":"The Eternal Struggle\nOnyx Amulet\nSearing Exarch Item\nEater of Worlds Item\nSource: Drops from unique{The Black Star} or unique{The Infinite Hunger}\nRequires Level 61\nImplicits: 2\n9% increased Mana Reservation Efficiency of Skills\n{tags:speed}6% increased Movement Speed\n{tags:jewellery_attribute}+(20-50) to Strength\n{tags:jewellery_attribute}+(20-50) to Dexterity\n{tags:jewellery_attribute}+(20-50) to Intelligence\n{tags:jewellery_defense}(10-15)% increased Global Defences\nCritical Strikes inflict Malignant Madness if The Eater of Worlds is dominant\nKill Enemies that have 15% or lower Life on Hit if The Searing Exarch is dominant\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"Drops from unique{The Black Star} or unique{The Infinite Hunger}",
+    "stats":["The Eternal Struggle","Onyx Amulet","Searing Exarch Item","Eater of Worlds Item","Source: Drops from unique{The Black Star} or unique{The Infinite Hunger}","Requires Level 61","Implicits: 2","9% increased Mana Reservation Efficiency of Skills","{tags:speed}6% increased Movement Speed","{tags:jewellery_attribute}+(20-50) to Strength","{tags:jewellery_attribute}+(20-50) to Dexterity","{tags:jewellery_attribute}+(20-50) to Intelligence","{tags:jewellery_defense}(10-15)% increased Global Defences","Critical Strikes inflict Malignant Madness if The Eater of Worlds is dominant","Kill Enemies that have 15% or lower Life on Hit if The Searing Exarch is dominant"],
+    "variants":[]
+  },
+  "The Felbog Fang":{
+    "baseType":"Citrine Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Harvest",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_attribute}+(30-50) to Intelligence","{tags:caster,speed}(10-15)% increased Cast Speed","(10-15)% increased Area of Effect","{variant:1}{tags:caster}Enemies Cursed by you are Hindered with 25% reduced Movement Speed if 25% of Curse Duration expired","{variant:2}{tags:caster}Enemies Cursed by you are Hindered if 25% of Curse Duration expired","{tags:caster}Your Curses have 25% increased Effect if 50% of Curse Duration expired","{variant:1}{tags:caster}Enemies Cursed by you take 25% increased Damage if 75% of Curse Duration expired","{variant:2}{tags:caster}Enemies Cursed by you take 35% increased Damage if 75% of Curse Duration expired"],
+    "name":"The Felbog Fang",
+    "originalString":"The Felbog Fang\nCitrine Amulet\nLeague: Harvest\nSource: Drops from unique{Namharim, Born of Night} in normal{The Sacred Grove}\nVariant: Pre 3.20.0\nVariant: Current\nRequires Level 61\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Dexterity\n{tags:jewellery_attribute}+(30-50) to Intelligence\n{tags:caster,speed}(10-15)% increased Cast Speed\n(10-15)% increased Area of Effect\n{variant:1}{tags:caster}Enemies Cursed by you are Hindered with 25% reduced Movement Speed if 25% of Curse Duration expired\n{variant:2}{tags:caster}Enemies Cursed by you are Hindered if 25% of Curse Duration expired\n{tags:caster}Your Curses have 25% increased Effect if 50% of Curse Duration expired\n{variant:1}{tags:caster}Enemies Cursed by you take 25% increased Damage if 75% of Curse Duration expired\n{variant:2}{tags:caster}Enemies Cursed by you take 35% increased Damage if 75% of Curse Duration expired\n",
+    "requirements":{
+      "level":61
+    },
+    "source":"Drops from unique{Namharim, Born of Night} in normal{The Sacred Grove}",
+    "stats":["The Felbog Fang","Citrine Amulet","League: Harvest","Source: Drops from unique{Namharim, Born of Night} in normal{The Sacred Grove}","Variant: Pre 3.20.0","Variant: Current","Requires Level 61","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_attribute}+(30-50) to Intelligence","{tags:caster,speed}(10-15)% increased Cast Speed","(10-15)% increased Area of Effect","{variant:1}{tags:caster}Enemies Cursed by you are Hindered with 25% reduced Movement Speed if 25% of Curse Duration expired","{variant:2}{tags:caster}Enemies Cursed by you are Hindered if 25% of Curse Duration expired","{tags:caster}Your Curses have 25% increased Effect if 50% of Curse Duration expired","{variant:1}{tags:caster}Enemies Cursed by you take 25% increased Damage if 75% of Curse Duration expired","{variant:2}{tags:caster}Enemies Cursed by you take 35% increased Damage if 75% of Curse Duration expired"],
+    "variants":["Pre 3.20.0","Current"]
+  },
+  "The Halcyon":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:1}{tags:jewellery_elemental}(10-20)% increased Cold Damage","{tags:jewellery_resistance}+(35-40)% to Cold Resistance","30% increased Freeze Duration on Enemies","10% chance to Freeze","{variant:2}Freezes you inflict spread to other Enemies with a Radius of 15","60% increased Damage if you've Frozen an Enemy Recently"],
+    "name":"The Halcyon",
+    "originalString":"The Halcyon\nJade Amulet\nVariant: Pre 3.21.0\nVariant: Current\nLeague: Breach\nSource: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}\nUpgrade: Upgrades to unique{The Pandemonius} using currency{Blessing of Tul}\nRequires Level 35\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{variant:1}{tags:jewellery_elemental}(10-20)% increased Cold Damage\n{tags:jewellery_resistance}+(35-40)% to Cold Resistance\n30% increased Freeze Duration on Enemies\n10% chance to Freeze\n{variant:2}Freezes you inflict spread to other Enemies with a Radius of 15\n60% increased Damage if you've Frozen an Enemy Recently\n",
+    "requirements":{
+      "level":35
+    },
+    "source":"Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
+    "stats":["The Halcyon","Jade Amulet","Variant: Pre 3.21.0","Variant: Current","League: Breach","Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}","Upgrade: Upgrades to unique{The Pandemonius} using currency{Blessing of Tul}","Requires Level 35","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{variant:1}{tags:jewellery_elemental}(10-20)% increased Cold Damage","{tags:jewellery_resistance}+(35-40)% to Cold Resistance","30% increased Freeze Duration on Enemies","10% chance to Freeze","{variant:2}Freezes you inflict spread to other Enemies with a Radius of 15","60% increased Damage if you've Frozen an Enemy Recently"],
+    "upgrade":"Upgrades to unique{The Pandemonius} using currency{Blessing of Tul}",
+    "variants":["Pre 3.21.0","Current"]
+  },
+  "The Ignomon":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","{variant:1}{tags:jewellery_attribute}+10 to Dexterity","{variant:1}{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks","{variant:2}{tags:jewellery_elemental,attack}Adds (18-24) to (32-40) Fire Damage to Attacks","{tags:attack}+(100-150) to Accuracy Rating","{tags:jewellery_defense}+(100-150) to Evasion Rating","{tags:jewellery_resistance}+20% to Fire Resistance","{variant:2}20% increased Light Radius","{variant:2}Nearby Enemies are Blinded"],
+    "name":"The Ignomon",
+    "originalString":"The Ignomon\nGold Amulet\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 8\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{variant:1}{tags:jewellery_attribute}+10 to Dexterity\n{variant:1}{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks\n{variant:2}{tags:jewellery_elemental,attack}Adds (18-24) to (32-40) Fire Damage to Attacks\n{tags:attack}+(100-150) to Accuracy Rating\n{tags:jewellery_defense}+(100-150) to Evasion Rating\n{tags:jewellery_resistance}+20% to Fire Resistance\n{variant:2}20% increased Light Radius\n{variant:2}Nearby Enemies are Blinded\n",
+    "requirements":{
+      "level":8
+    },
+    "stats":["The Ignomon","Gold Amulet","Variant: Pre 3.19.0","Variant: Current","Requires Level 8","Implicits: 1","(12-20)% increased Rarity of Items found","{variant:1}{tags:jewellery_attribute}+10 to Dexterity","{variant:1}{tags:jewellery_elemental,attack}Adds 12 to 24 Fire Damage to Attacks","{variant:2}{tags:jewellery_elemental,attack}Adds (18-24) to (32-40) Fire Damage to Attacks","{tags:attack}+(100-150) to Accuracy Rating","{tags:jewellery_defense}+(100-150) to Evasion Rating","{tags:jewellery_resistance}+20% to Fire Resistance","{variant:2}20% increased Light Radius","{variant:2}Nearby Enemies are Blinded"],
+    "variants":["Pre 3.19.0","Current"]
+  },
+  "The Jinxed Juju":{
+    "baseType":"Citrine Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_attribute}+(30-40) to Intelligence","{tags:jewellery_resistance}+(23-31)% to Chaos Resistance","{variant:1}{tags:caster}(10-15)% increased Effect of your Curses","{variant:2}{tags:caster}(5-10)% increased Effect of your Curses","{variant:1,3}(10-15)% increased effect of Non-Curse Auras from your Skills","{variant:2}(5-10)% increased effect of Non-Curse Auras from your Skills","10% of Damage from Hits is taken from your Spectres' Life before you"],
+    "name":"The Jinxed Juju",
+    "originalString":"The Jinxed Juju\nCitrine Amulet\nVariant: Pre 3.16.0\nVariant: Pre 3.20.0\nVariant: Current\nRequires Level 48\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Dexterity\n{tags:jewellery_attribute}+(30-40) to Intelligence\n{tags:jewellery_resistance}+(23-31)% to Chaos Resistance\n{variant:1}{tags:caster}(10-15)% increased Effect of your Curses\n{variant:2}{tags:caster}(5-10)% increased Effect of your Curses\n{variant:1,3}(10-15)% increased effect of Non-Curse Auras from your Skills\n{variant:2}(5-10)% increased effect of Non-Curse Auras from your Skills\n10% of Damage from Hits is taken from your Spectres' Life before you\n(The damage they take will be divided evenly between them)\n",
+    "requirements":{
+      "level":48
+    },
+    "stats":["The Jinxed Juju","Citrine Amulet","Variant: Pre 3.16.0","Variant: Pre 3.20.0","Variant: Current","Requires Level 48","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Dexterity","{tags:jewellery_attribute}+(30-40) to Intelligence","{tags:jewellery_resistance}+(23-31)% to Chaos Resistance","{variant:1}{tags:caster}(10-15)% increased Effect of your Curses","{variant:2}{tags:caster}(5-10)% increased Effect of your Curses","{variant:1,3}(10-15)% increased effect of Non-Curse Auras from your Skills","{variant:2}(5-10)% increased effect of Non-Curse Auras from your Skills","10% of Damage from Hits is taken from your Spectres' Life before you","(The damage they take will be divided evenly between them)"],
+    "variants":["Pre 3.16.0","Pre 3.20.0","Current"]
+  },
+  "The Pandemonius":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_elemental}(20-30)% increased Cold Damage","{tags:jewellery_resistance}+(35-40)% to Cold Resistance","{tags:jewellery_elemental}Damage Penetrates 20% Cold Resistance against Chilled Enemies"],
+    "name":"The Pandemonius",
+    "originalString":"The Pandemonius\nJade Amulet\nLeague: Breach\nSource: Upgraded from unique{The Halcyon} using currency{Blessing of Tul}\nRequires Level 64\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_elemental}(20-30)% increased Cold Damage\n{tags:jewellery_resistance}+(35-40)% to Cold Resistance\nChill Enemy for 1 second when Hit\nBlind Chilled Enemies on Hit\n{tags:jewellery_elemental}Damage Penetrates 20% Cold Resistance against Chilled Enemies\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Upgraded from unique{The Halcyon} using currency{Blessing of Tul}",
+    "stats":["The Pandemonius","Jade Amulet","League: Breach","Source: Upgraded from unique{The Halcyon} using currency{Blessing of Tul}","Requires Level 64","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_elemental}(20-30)% increased Cold Damage","{tags:jewellery_resistance}+(35-40)% to Cold Resistance","Chill Enemy for 1 second when Hit","Blind Chilled Enemies on Hit","{tags:jewellery_elemental}Damage Penetrates 20% Cold Resistance against Chilled Enemies"],
+    "variants":[]
+  },
+  "The Primordial Chain":{
+    "baseType":"Coral Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Delve",
+    "modifiers":["{tags:life}Regenerate (2-4) Life per second","+3 to maximum number of Golems","25% reduced Golem Size","{variant:1}Golems Deal (35-45)% less Damage","{variant:2}Golems Deal (25-35)% less Damage","{variant:1}{tags:life}Golems have (35-45)% less Life","{variant:2}{tags:life}Golems have (25-35)% less Life","{tags:speed}Golems have (80-100)% increased Movement Speed"],
+    "name":"The Primordial Chain",
+    "originalString":"The Primordial Chain\nCoral Amulet\nLeague: Delve\nRequires Level 34\nVariant: Pre 3.26.0\nVariant: Current\nImplicits: 1\n{tags:life}Regenerate (2-4) Life per second\n+3 to maximum number of Golems\nYou cannot have non-Golem Minions\n25% reduced Golem Size\n{variant:1}Golems Deal (35-45)% less Damage\n{variant:2}Golems Deal (25-35)% less Damage\n{variant:1}{tags:life}Golems have (35-45)% less Life\n{variant:2}{tags:life}Golems have (25-35)% less Life\n{tags:speed}Golems have (80-100)% increased Movement Speed\nPrimordial\n",
+    "requirements":{
+      "level":34
+    },
+    "stats":["The Primordial Chain","Coral Amulet","League: Delve","Requires Level 34","Variant: Pre 3.26.0","Variant: Current","Implicits: 1","{tags:life}Regenerate (2-4) Life per second","+3 to maximum number of Golems","You cannot have non-Golem Minions","25% reduced Golem Size","{variant:1}Golems Deal (35-45)% less Damage","{variant:2}Golems Deal (25-35)% less Damage","{variant:1}{tags:life}Golems have (35-45)% less Life","{variant:2}{tags:life}Golems have (25-35)% less Life","{tags:speed}Golems have (80-100)% increased Movement Speed","Primordial"],
+    "variants":["Pre 3.26.0","Current"]
+  },
+  "The Untouched Soul":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Affliction",
+    "modifiers":["(12-20)% increased Rarity of Items found","{tags:life}+40 to maximum Life for each Empty Red Socket on any Equipped Item","{tags:attack}+225 to Accuracy Rating for each Empty Green Socket on any Equipped Item","{tags:mana}+40 to maximum Mana for each Empty Blue Socket on any Equipped Item","{tags:jewellery_resistance}+18% to all Elemental Resistances for each Empty White Socket on any Equipped Item"],
+    "name":"The Untouched Soul",
+    "originalString":"The Untouched Soul\nGold Amulet\nLeague: Affliction\nRequires Level 48\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{tags:life}+40 to maximum Life for each Empty Red Socket on any Equipped Item\n{tags:attack}+225 to Accuracy Rating for each Empty Green Socket on any Equipped Item\n{tags:mana}+40 to maximum Mana for each Empty Blue Socket on any Equipped Item\n{tags:jewellery_resistance}+18% to all Elemental Resistances for each Empty White Socket on any Equipped Item\n",
+    "requirements":{
+      "level":48
+    },
+    "stats":["The Untouched Soul","Gold Amulet","League: Affliction","Requires Level 48","Implicits: 1","(12-20)% increased Rarity of Items found","{tags:life}+40 to maximum Life for each Empty Red Socket on any Equipped Item","{tags:attack}+225 to Accuracy Rating for each Empty Green Socket on any Equipped Item","{tags:mana}+40 to maximum Mana for each Empty Blue Socket on any Equipped Item","{tags:jewellery_resistance}+18% to all Elemental Resistances for each Empty White Socket on any Equipped Item"],
+    "variants":[]
+  },
+  "The Utmost":{
+    "baseType":"Gold Amulet",
+    "flags":{
+      "corrupted":true
+    },
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","+(0-30)% chance to Suppress Spell Damage","{tags:jewellery_resistance}+(0-5)% to all maximum Elemental Resistances","{tags:caster,attack,speed}(0-40)% increased Attack and Cast Speed","{tags:jewellery_elemental}Damage Penetrates (0-20)% Elemental Resistances"],
+    "name":"The Utmost",
+    "originalString":"The Utmost\nGold Amulet\nSource: Created from unique{Primordial Fragments} obtained from Uber bosses\nRequires Level 8\nImplicits: 1\n(12–20)% increased Rarity of Items found\n+(0–30)% chance to Suppress Spell Damage\n{tags:jewellery_resistance}+(0–5)% to all maximum Elemental Resistances\n{tags:caster,attack,speed}(0–40)% increased Attack and Cast Speed\n{tags:jewellery_elemental}Damage Penetrates (0–20)% Elemental Resistances\nCorrupted\n",
+    "requirements":{
+      "level":8
+    },
+    "source":"Created from unique{Primordial Fragments} obtained from Uber bosses",
+    "stats":["The Utmost","Gold Amulet","Source: Created from unique{Primordial Fragments} obtained from Uber bosses","Requires Level 8","Implicits: 1","(12-20)% increased Rarity of Items found","+(0-30)% chance to Suppress Spell Damage","{tags:jewellery_resistance}+(0-5)% to all maximum Elemental Resistances","{tags:caster,attack,speed}(0-40)% increased Attack and Cast Speed","{tags:jewellery_elemental}Damage Penetrates (0-20)% Elemental Resistances","Corrupted"],
+    "variants":[]
+  },
+  "Ungil's Harmony":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{variant:1}{tags:critical}100% increased Global Critical Strike Chance","{variant:2}{tags:critical}(250-350)% increased Global Critical Strike Chance","{tags:life}+(30-50) to maximum Life","{tags:mana}+(30-50) to maximum Mana","40% increased Stun and Block Recovery"],
+    "name":"Ungil's Harmony",
+    "originalString":"Ungil's Harmony\nTurquoise Amulet\nVariant: Pre 3.11.0\nVariant: Current\nRequires Level 23\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n{variant:1}{tags:critical}100% increased Global Critical Strike Chance\n{variant:2}{tags:critical}(250-350)% increased Global Critical Strike Chance\n{tags:life}+(30-50) to maximum Life\n{tags:mana}+(30-50) to maximum Mana\n40% increased Stun and Block Recovery\nYour Critical Strikes do not deal extra Damage\n",
+    "requirements":{
+      "level":23
+    },
+    "stats":["Ungil's Harmony","Turquoise Amulet","Variant: Pre 3.11.0","Variant: Current","Requires Level 23","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{variant:1}{tags:critical}100% increased Global Critical Strike Chance","{variant:2}{tags:critical}(250-350)% increased Global Critical Strike Chance","{tags:life}+(30-50) to maximum Life","{tags:mana}+(30-50) to maximum Mana","40% increased Stun and Block Recovery","Your Critical Strikes do not deal extra Damage"],
+    "variants":["Pre 3.11.0","Current"]
+  },
+  "Uul-Netol's Vow":{
+    "baseType":"Unset Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_resistance}+(-30-30)% to Fire Resistance","{tags:jewellery_resistance}+(-30-30)% to Cold Resistance","{tags:jewellery_resistance}+(-30-30)% to Lightning Resistance","{tags:jewellery_resistance}+(-23-23)% to Chaos Resistance"],
+    "name":"Uul-Netol's Vow",
+    "originalString":"Uul-Netol's Vow\nUnset Amulet\nSource: Drops from unique{Breachlord} in a normal{Flawless Breachstone}\nRequires Level 72\nImplicits: 1\nHas 1 Socket\nSocketed Support Gems can also Support Skills from your Body Armour\n{tags:jewellery_resistance}+(-30-30)% to Fire Resistance\n{tags:jewellery_resistance}+(-30-30)% to Cold Resistance\n{tags:jewellery_resistance}+(-30-30)% to Lightning Resistance\n{tags:jewellery_resistance}+(-23-23)% to Chaos Resistance\n",
+    "requirements":{
+      "level":72
+    },
+    "source":"Drops from unique{Breachlord} in a normal{Flawless Breachstone}",
+    "stats":["Uul-Netol's Vow","Unset Amulet","Source: Drops from unique{Breachlord} in a normal{Flawless Breachstone}","Requires Level 72","Implicits: 1","Has 1 Socket","Socketed Support Gems can also Support Skills from your Body Armour","{tags:jewellery_resistance}+(-30-30)% to Fire Resistance","{tags:jewellery_resistance}+(-30-30)% to Cold Resistance","{tags:jewellery_resistance}+(-30-30)% to Lightning Resistance","{tags:jewellery_resistance}+(-23-23)% to Chaos Resistance"],
+    "variants":[]
+  },
+  "Victario's Acuity":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Onslaught",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:jewellery_resistance}+(30-40)% to Lightning Resistance","{tags:jewellery_resistance}+(8-10)% to Chaos Resistance","10% chance to gain a Frenzy Charge on Kill","10% chance to gain a Power Charge on Kill","{tags:speed}5% increased Projectile Speed per Frenzy Charge","5% increased Projectile Damage per Power Charge"],
+    "name":"Victario's Acuity",
+    "originalString":"Victario's Acuity\nTurquoise Amulet\nLeague: Onslaught\nRequires Level 16\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n{tags:jewellery_resistance}+(30-40)% to Lightning Resistance\n{tags:jewellery_resistance}+(8-10)% to Chaos Resistance\n10% chance to gain a Frenzy Charge on Kill\n10% chance to gain a Power Charge on Kill\n{tags:speed}5% increased Projectile Speed per Frenzy Charge\n5% increased Projectile Damage per Power Charge\n",
+    "requirements":{
+      "level":16
+    },
+    "stats":["Victario's Acuity","Turquoise Amulet","League: Onslaught","Requires Level 16","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{tags:jewellery_resistance}+(30-40)% to Lightning Resistance","{tags:jewellery_resistance}+(8-10)% to Chaos Resistance","10% chance to gain a Frenzy Charge on Kill","10% chance to gain a Power Charge on Kill","{tags:speed}5% increased Projectile Speed per Frenzy Charge","5% increased Projectile Damage per Power Charge"],
+    "variants":[]
+  },
+  "Voice of the Storm":{
+    "baseType":"Lapis Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Intelligence","{tags:jewellery_attribute}+(10-15) to all Attributes","{variant:3}{tags:jewellery_elemental}50% increased Lightning Damage","{tags:mana}(10-20)% increased maximum Mana","{variant:1}Critical Strike Chance is increased by Lightning Resistance","{variant:2}Critical Strike Chance is increased by Overcapped Lightning Resistance","{variant:3}Lightning Damage with Non-Critical Strikes is Lucky"],
+    "name":"Voice of the Storm",
+    "originalString":"Voice of the Storm\nLapis Amulet\nLeague: Breach\nSource: Drops in Esh Breach or from unique{Esh, Forked Thought}\nUpgrade: Upgrades to unique{Choir of the Storm} using currency{Blessing of Esh}\nVariant: Pre 3.16.0\nVariant: Pre 3.21.0\nVariant: Current\nRequires Level 69\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Intelligence\n{variant:1,2}Trigger Level 12 Lightning Bolt when you deal a Critical Strike\n{tags:jewellery_attribute}+(10-15) to all Attributes\n{variant:3}{tags:jewellery_elemental}50% increased Lightning Damage\n{tags:mana}(10-20)% increased maximum Mana\n{variant:1}Critical Strike Chance is increased by Lightning Resistance\n{variant:2}Critical Strike Chance is increased by Overcapped Lightning Resistance\n{variant:3}Lightning Damage with Non-Critical Strikes is Lucky\n",
+    "requirements":{
+      "level":69
+    },
+    "source":"Drops in Esh Breach or from unique{Esh, Forked Thought}",
+    "stats":["Voice of the Storm","Lapis Amulet","League: Breach","Source: Drops in Esh Breach or from unique{Esh, Forked Thought}","Upgrade: Upgrades to unique{Choir of the Storm} using currency{Blessing of Esh}","Variant: Pre 3.16.0","Variant: Pre 3.21.0","Variant: Current","Requires Level 69","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Intelligence","{variant:1,2}Trigger Level 12 Lightning Bolt when you deal a Critical Strike","{tags:jewellery_attribute}+(10-15) to all Attributes","{variant:3}{tags:jewellery_elemental}50% increased Lightning Damage","{tags:mana}(10-20)% increased maximum Mana","{variant:1}Critical Strike Chance is increased by Lightning Resistance","{variant:2}Critical Strike Chance is increased by Overcapped Lightning Resistance","{variant:3}Lightning Damage with Non-Critical Strikes is Lucky"],
+    "upgrade":"Upgrades to unique{Choir of the Storm} using currency{Blessing of Esh}",
+    "variants":["Pre 3.16.0","Pre 3.21.0","Current"]
+  },
+  "Voll's Devotion":{
+    "baseType":"Agate Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Anarchy, Onslaught",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:life}+(30-40) to maximum Life","{tags:jewellery_defense}+(20-30) to maximum Energy Shield","{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances","30% reduced Endurance Charge Duration","30% reduced Power Charge Duration"],
+    "name":"Voll's Devotion",
+    "originalString":"Voll's Devotion\nAgate Amulet\nLeague: Anarchy, Onslaught\nRequires Level 32\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Strength and Intelligence\n{tags:life}+(30-40) to maximum Life\n{tags:jewellery_defense}+(20-30) to maximum Energy Shield\n{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances\n30% reduced Endurance Charge Duration\n30% reduced Power Charge Duration\nGain an Endurance Charge when a Power Charge expires or is consumed\n",
+    "requirements":{
+      "level":32
+    },
+    "stats":["Voll's Devotion","Agate Amulet","League: Anarchy, Onslaught","Requires Level 32","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Strength and Intelligence","{tags:life}+(30-40) to maximum Life","{tags:jewellery_defense}+(20-30) to maximum Energy Shield","{tags:jewellery_resistance}+(15-20)% to all Elemental Resistances","30% reduced Endurance Charge Duration","30% reduced Power Charge Duration","Gain an Endurance Charge when a Power Charge expires or is consumed"],
+    "variants":[]
+  },
+  "Warped Timepiece":{
+    "baseType":"Turquoise Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{variant:1}{tags:attack,speed}(8-12)% increased Attack Speed","{variant:2}{tags:attack,speed}(10-15)% increased Attack Speed","{variant:3}{tags:attack,speed}(10-25)% increased Attack Speed","{variant:1}{tags:caster,speed}(8-12)% increased Cast Speed","{variant:2}{tags:caster,speed}(10-15)% increased Cast Speed","{variant:3}{tags:caster,speed}(10-25)% increased Cast Speed","{variant:1}{tags:speed}12% increased Movement Speed","{variant:2,3}{tags:speed}(10-15)% increased Movement Speed","{variant:1}(8-12)% reduced Skill Effect Duration","{variant:2}(10-15)% reduced Skill Effect Duration","{variant:3}(10-20)% reduced Skill Effect Duration","{variant:1,2}{tags:life,jewellery_defense}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech","{variant:3}Debuffs on you Expire 100% Faster"],
+    "name":"Warped Timepiece",
+    "originalString":"Warped Timepiece\nTurquoise Amulet\nVariant: Pre 3.11.0\nVariant: Pre 3.19.0\nVariant: Current\nRequires Level 50\nImplicits: 1\n{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence\n{variant:1}{tags:attack,speed}(8-12)% increased Attack Speed\n{variant:2}{tags:attack,speed}(10-15)% increased Attack Speed\n{variant:3}{tags:attack,speed}(10-25)% increased Attack Speed\n{variant:1}{tags:caster,speed}(8-12)% increased Cast Speed\n{variant:2}{tags:caster,speed}(10-15)% increased Cast Speed\n{variant:3}{tags:caster,speed}(10-25)% increased Cast Speed\n{variant:1}{tags:speed}12% increased Movement Speed\n{variant:2,3}{tags:speed}(10-15)% increased Movement Speed\n{variant:1}(8-12)% reduced Skill Effect Duration\n{variant:2}(10-15)% reduced Skill Effect Duration\n{variant:3}(10-20)% reduced Skill Effect Duration\n{variant:1,2}{tags:life,jewellery_defense}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech\n{variant:3}Debuffs on you Expire 100% Faster\n",
+    "requirements":{
+      "level":50
+    },
+    "stats":["Warped Timepiece","Turquoise Amulet","Variant: Pre 3.11.0","Variant: Pre 3.19.0","Variant: Current","Requires Level 50","Implicits: 1","{tags:jewellery_attribute}+(16-24) to Dexterity and Intelligence","{variant:1}{tags:attack,speed}(8-12)% increased Attack Speed","{variant:2}{tags:attack,speed}(10-15)% increased Attack Speed","{variant:3}{tags:attack,speed}(10-25)% increased Attack Speed","{variant:1}{tags:caster,speed}(8-12)% increased Cast Speed","{variant:2}{tags:caster,speed}(10-15)% increased Cast Speed","{variant:3}{tags:caster,speed}(10-25)% increased Cast Speed","{variant:1}{tags:speed}12% increased Movement Speed","{variant:2,3}{tags:speed}(10-15)% increased Movement Speed","{variant:1}(8-12)% reduced Skill Effect Duration","{variant:2}(10-15)% reduced Skill Effect Duration","{variant:3}(10-20)% reduced Skill Effect Duration","{variant:1,2}{tags:life,jewellery_defense}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech","{variant:3}Debuffs on you Expire 100% Faster"],
+    "variants":["Pre 3.11.0","Pre 3.19.0","Current"]
+  },
+  "Willowgift":{
+    "baseType":"Jade Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}10% reduced Strength","{tags:jewellery_attribute}15% increased Dexterity","{tags:jewellery_resistance}-(30-20)% to Fire Resistance","{tags:jewellery_resistance}+(30-40)% to Cold Resistance","{variant:2}+4% chance to Suppress Spell Damage per Fortification","{tags:caster,attack,speed}(15-25)% increased Attack and Cast Speed while at maximum Fortification"],
+    "name":"Willowgift",
+    "originalString":"Willowgift\nJade Amulet\nVariant: Pre 3.16.0\nVariant: Current\nRequires Level 52\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:jewellery_attribute}10% reduced Strength\n{tags:jewellery_attribute}15% increased Dexterity\n{tags:jewellery_resistance}-(30-20)% to Fire Resistance\n{tags:jewellery_resistance}+(30-40)% to Cold Resistance\nYou do not inherently take less Damage for having Fortification\n{variant:2}+4% chance to Suppress Spell Damage per Fortification\n{tags:caster,attack,speed}(15-25)% increased Attack and Cast Speed while at maximum Fortification\n",
+    "requirements":{
+      "level":52
+    },
+    "stats":["Willowgift","Jade Amulet","Variant: Pre 3.16.0","Variant: Current","Requires Level 52","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:jewellery_attribute}10% reduced Strength","{tags:jewellery_attribute}15% increased Dexterity","{tags:jewellery_resistance}-(30-20)% to Fire Resistance","{tags:jewellery_resistance}+(30-40)% to Cold Resistance","You do not inherently take less Damage for having Fortification","{variant:2}+4% chance to Suppress Spell Damage per Fortification","{tags:caster,attack,speed}(15-25)% increased Attack and Cast Speed while at maximum Fortification"],
+    "variants":["Pre 3.16.0","Current"]
+  },
+  "Winterheart":{
+    "baseType":"Gold Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:life}+(50-70) to maximum Life","{tags:jewellery_resistance}+75% to Cold Resistance","{variant:1}{tags:life}Regenerate 20% of Life per second while Frozen","{variant:2}{tags:life}Regenerate 10% of Life per second while Frozen"],
+    "name":"Winterheart",
+    "originalString":"Winterheart\nGold Amulet\nVariant: Pre 3.15.0\nVariant: Current\nRequires Level 42\nImplicits: 1\n(12-20)% increased Rarity of Items found\n{tags:jewellery_attribute}+(20-30) to Dexterity\n{tags:life}+(50-70) to maximum Life\n{tags:jewellery_resistance}+75% to Cold Resistance\nCannot be Chilled\n{variant:1}{tags:life}Regenerate 20% of Life per second while Frozen\n{variant:2}{tags:life}Regenerate 10% of Life per second while Frozen\n",
+    "requirements":{
+      "level":42
+    },
+    "stats":["Winterheart","Gold Amulet","Variant: Pre 3.15.0","Variant: Current","Requires Level 42","Implicits: 1","(12-20)% increased Rarity of Items found","{tags:jewellery_attribute}+(20-30) to Dexterity","{tags:life}+(50-70) to maximum Life","{tags:jewellery_resistance}+75% to Cold Resistance","Cannot be Chilled","{variant:1}{tags:life}Regenerate 20% of Life per second while Frozen","{variant:2}{tags:life}Regenerate 10% of Life per second while Frozen"],
+    "variants":["Pre 3.15.0","Current"]
+  },
+  "Xoph's Blood":{
+    "baseType":"Amber Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Strength","{tags:life}10% increased maximum Life","{tags:jewellery_resistance}+(20-40)% to Fire Resistance","{tags:jewellery_attribute}10% increased Strength","{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance"],
+    "name":"Xoph's Blood",
+    "originalString":"Xoph's Blood\nAmber Amulet\nLeague: Breach\nSource: Upgraded from unique{Xoph's Heart} using currency{Blessing of Xoph}\nRequires Level 64\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:life}10% increased maximum Life\n{tags:jewellery_resistance}+(20-40)% to Fire Resistance\n{tags:jewellery_attribute}10% increased Strength\n{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance\nCover Enemies in Ash when they Hit you\nAvatar of Fire\n",
+    "requirements":{
+      "level":64
+    },
+    "source":"Upgraded from unique{Xoph's Heart} using currency{Blessing of Xoph}",
+    "stats":["Xoph's Blood","Amber Amulet","League: Breach","Source: Upgraded from unique{Xoph's Heart} using currency{Blessing of Xoph}","Requires Level 64","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Strength","{tags:life}10% increased maximum Life","{tags:jewellery_resistance}+(20-40)% to Fire Resistance","{tags:jewellery_attribute}10% increased Strength","{tags:jewellery_elemental}Damage Penetrates 10% Fire Resistance","Cover Enemies in Ash when they Hit you","Avatar of Fire"],
+    "variants":[]
+  },
+  "Xoph's Heart":{
+    "baseType":"Amber Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Breach",
+    "modifiers":["{tags:jewellery_attribute}+(20-30) to Strength","{tags:jewellery_attribute}+(20-30) to Strength","{tags:jewellery_elemental}25% increased Fire Damage","{tags:life}+(25-35) to maximum Life","{tags:jewellery_resistance}+(20-40)% to Fire Resistance","{variant:1}Cover Enemies in Ash when they Hit you","{variant:2}Nearby Enemies are Covered in Ash"],
+    "name":"Xoph's Heart",
+    "originalString":"Xoph's Heart\nAmber Amulet\nVariant: Pre 3.21.0\nVariant: Current\nLeague: Breach\nSource: Drops in Xoph Breach or from unique{Xoph, Dark Embers}\nUpgrade: Upgrades to unique{Xoph's Blood} using currency{Blessing of Xoph}\nRequires Level 35\nImplicits: 1\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:jewellery_attribute}+(20-30) to Strength\n{tags:jewellery_elemental}25% increased Fire Damage\n{tags:life}+(25-35) to maximum Life\n{tags:jewellery_resistance}+(20-40)% to Fire Resistance\n{variant:1}Cover Enemies in Ash when they Hit you\n{variant:2}Nearby Enemies are Covered in Ash\n",
+    "requirements":{
+      "level":35
+    },
+    "source":"Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
+    "stats":["Xoph's Heart","Amber Amulet","Variant: Pre 3.21.0","Variant: Current","League: Breach","Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}","Upgrade: Upgrades to unique{Xoph's Blood} using currency{Blessing of Xoph}","Requires Level 35","Implicits: 1","{tags:jewellery_attribute}+(20-30) to Strength","{tags:jewellery_attribute}+(20-30) to Strength","{tags:jewellery_elemental}25% increased Fire Damage","{tags:life}+(25-35) to maximum Life","{tags:jewellery_resistance}+(20-40)% to Fire Resistance","{variant:1}Cover Enemies in Ash when they Hit you","{variant:2}Nearby Enemies are Covered in Ash"],
+    "upgrade":"Upgrades to unique{Xoph's Blood} using currency{Blessing of Xoph}",
+    "variants":["Pre 3.21.0","Current"]
+  },
+  "Yoke of Suffering":{
+    "baseType":"Onyx Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "modifiers":["{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_resistance}+(10-20)% to Fire Resistance","{tags:jewellery_resistance}+(10-20)% to Cold Resistance","{tags:jewellery_resistance}+(20-40)% to Lightning Resistance","30% reduced Duration of Ailments on Enemies","(5-10)% chance to Shock","{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them","{variant:2}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them"],
+    "name":"Yoke of Suffering",
+    "originalString":"Yoke of Suffering\nOnyx Amulet\nVariant: Pre 3.24.0\nVariant: Current\nRequires Level 70\nImplicits: 1\n{tags:jewellery_attribute}+(10-16) to all Attributes\n{tags:jewellery_resistance}+(10-20)% to Fire Resistance\n{tags:jewellery_resistance}+(10-20)% to Cold Resistance\n{tags:jewellery_resistance}+(20-40)% to Lightning Resistance\n30% reduced Duration of Ailments on Enemies\n(5-10)% chance to Shock\n{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them\n{variant:2}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them\nYour Elemental Damage can Shock\n",
+    "requirements":{
+      "level":70
+    },
+    "stats":["Yoke of Suffering","Onyx Amulet","Variant: Pre 3.24.0","Variant: Current","Requires Level 70","Implicits: 1","{tags:jewellery_attribute}+(10-16) to all Attributes","{tags:jewellery_resistance}+(10-20)% to Fire Resistance","{tags:jewellery_resistance}+(10-20)% to Cold Resistance","{tags:jewellery_resistance}+(20-40)% to Lightning Resistance","30% reduced Duration of Ailments on Enemies","(5-10)% chance to Shock","{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them","{variant:2}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them","Your Elemental Damage can Shock"],
+    "variants":["Pre 3.24.0","Current"]
+  },
+  "Zerphi's Heart":{
+    "baseType":"Paua Amulet",
+    "flags":[],
+    "gameVersion":"poe1",
+    "implicitCount":1,
+    "itemType":"amulet",
+    "league":" Incursion",
+    "modifiers":["{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:chaos_damage}Adds (48-53) to (58-60) Chaos Damage","{tags:jewellery_attribute}Items and Gems have 50% increased Attribute Requirements","{variant:1}Gain Soul Eater for 10 seconds when you use a Vaal Skill","{variant:2}Gain Soul Eater for 20 seconds when you use a Vaal Skill"],
+    "name":"Zerphi's Heart",
+    "originalString":"Zerphi's Heart\nPaua Amulet\nLeague: Incursion\nSource: Upgraded from unique{Sacrificial Heart} via currency{Vial of Sacrifice}\nVariant: Pre 3.10.0\nVariant: Current\nRequires Level 70\nImplicits: 1\n{tags:mana}(20-30)% increased Mana Regeneration Rate\n{tags:chaos_damage}Adds (48-53) to (58-60) Chaos Damage\n{tags:jewellery_attribute}Items and Gems have 50% increased Attribute Requirements\nChaos Damage can Ignite, Chill and Shock\n{variant:1}Gain Soul Eater for 10 seconds when you use a Vaal Skill\n{variant:2}Gain Soul Eater for 20 seconds when you use a Vaal Skill\n",
+    "requirements":{
+      "level":70
+    },
+    "source":"Upgraded from unique{Sacrificial Heart} via currency{Vial of Sacrifice}",
+    "stats":["Zerphi's Heart","Paua Amulet","League: Incursion","Source: Upgraded from unique{Sacrificial Heart} via currency{Vial of Sacrifice}","Variant: Pre 3.10.0","Variant: Current","Requires Level 70","Implicits: 1","{tags:mana}(20-30)% increased Mana Regeneration Rate","{tags:chaos_damage}Adds (48-53) to (58-60) Chaos Damage","{tags:jewellery_attribute}Items and Gems have 50% increased Attribute Requirements","Chaos Damage can Ignite, Chill and Shock","{variant:1}Gain Soul Eater for 10 seconds when you use a Vaal Skill","{variant:2}Gain Soul Eater for 20 seconds when you use a Vaal Skill"],
+    "variants":["Pre 3.10.0","Current"]
+  }
+}
