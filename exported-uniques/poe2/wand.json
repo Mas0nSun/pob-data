@@ -1,89 +1,48 @@
 {
-  "Adonia's Ego":{
-    "baseType":"Siphoning Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level 20 Pinnacle of Power",
-    "implicitCount":2,
-    "itemType":"wand",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+(100-150) to maximum Mana","+3 to Level of all Spell Skills","(15-30)% increased Cast Speed","-10% to all Elemental Resistances per Power Charge","+(-1-1) to Maximum Power Charges"],
-    "name":"Adonia's Ego",
-    "originalString":"Adonia's Ego\nSiphoning Wand\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Level (1-20) Power Siphon\nGrants Skill: Level 20 Pinnacle of Power\n+(100-150) to maximum Mana\n+3 to Level of all Spell Skills\n(15-30)% increased Cast Speed\n-10% to all Elemental Resistances per Power Charge\n+(-1-1) to Maximum Power Charges\n",
-    "requirements":[],
-    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","+(100-150) to maximum Mana","+3 to Level of all Spell Skills","(15-30)% increased Cast Speed","-10% to all Elemental Resistances per Power Charge","+(-1-1) to Maximum Power Charges"],
-    "variants":[]
-  },
-  "Cursecarver":{
-    "baseType":"Acrid Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Decompose",
+  "The Wicked Quill":{
+    "grantSkill":" Level (1-20) Chaos Bolt",
+    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Chaos Bolt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "baseType":"Withered Wand",
+    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
     "implicitCount":1,
-    "itemType":"wand",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(80-100)% increased Spell Damage","(10-20)% increased Cast Speed","(30-50)% increased Mana Regeneration Rate","{variant:3}+4 to Level of Despair Skills","{variant:1}+4 to Level of Elemental Weakness Skills","{variant:4}+4 to Level of Enfeeble Skills","{variant:5}+4 to Level of Temporal Chains Skills","{variant:2}+4 to Level of Vulnerability Skills"],
-    "name":"Cursecarver",
-    "originalString":"Cursecarver\nAcrid Wand\nLeague: Dawn of the Hunt\nVariant: Elemental Weakness\nVariant: Vulnerability\nVariant: Despair\nVariant: Enfeeble\nVariant: Temporal Chains\nImplicits: 1\nGrants Skill: Level (1-20) Decompose\n(80-100)% increased Spell Damage\n(10-20)% increased Cast Speed\nLose 10 Life per Enemy Killed\n(30-50)% increased Mana Regeneration Rate\n{variant:3}+4 to Level of Despair Skills\n{variant:1}+4 to Level of Elemental Weakness Skills\n{variant:4}+4 to Level of Enfeeble Skills\n{variant:5}+4 to Level of Temporal Chains Skills\n{variant:2}+4 to Level of Vulnerability Skills\n",
-    "requirements":[],
-    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","Implicits: 1","Grants Skill: Level (1-20) Decompose","(80-100)% increased Spell Damage","(10-20)% increased Cast Speed","Lose 10 Life per Enemy Killed","(30-50)% increased Mana Regeneration Rate","{variant:3}+4 to Level of Despair Skills","{variant:1}+4 to Level of Elemental Weakness Skills","{variant:4}+4 to Level of Enfeeble Skills","{variant:5}+4 to Level of Temporal Chains Skills","{variant:2}+4 to Level of Vulnerability Skills"],
-    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"]
+    "league":" Dawn of the Hunt"
+  },
+  "Adonia's Ego":{
+    "grantSkill":" Level 20 Pinnacle of Power",
+    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "baseType":"Siphoning Wand",
+    "affixes":["UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "implicitCount":2,
+    "league":" Dawn of the Hunt"
   },
   "Enezun's Charge":{
+    "grantSkill":" Level (1-20) Volatile Dead",
+    "stats":["Enezun's Charge","Volatile Wand","Implicits: 1","Grants Skill: Level (1-20) Volatile Dead","UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
     "baseType":"Volatile Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Volatile Dead",
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
+    "implicitCount":1
+  },
+  "Cursecarver":{
+    "grantSkill":" Level (1-20) Decompose",
+    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","Implicits: 1","Grants Skill: Level (1-20) Decompose","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"],
+    "league":" Dawn of the Hunt",
+    "baseType":"Acrid Wand",
+    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueTemporalChainsGemLevel1","UniqueDespairGemLevel1","UniqueElementalWeaknessGemLevel1","UniqueVulnerabilityGemLevel1","UniqueEnfeebleGemLevel1"],
     "implicitCount":1,
-    "itemType":"wand",
-    "modifiers":["(80-100)% increased Spell Damage","(30-50)% increased Critical Hit Chance for Spells","25% chance to not destroy Corpses when Consuming Corpses"],
-    "name":"Enezun's Charge",
-    "originalString":"Enezun's Charge\nVolatile Wand\nImplicits: 1\nGrants Skill: Level (1-20) Volatile Dead\n(80-100)% increased Spell Damage\n(30-50)% increased Critical Hit Chance for Spells\nGain (10-15) Mana per Enemy Killed\n25% chance to not destroy Corpses when Consuming Corpses\n",
-    "requirements":[],
-    "stats":["Enezun's Charge","Volatile Wand","Implicits: 1","Grants Skill: Level (1-20) Volatile Dead","(80-100)% increased Spell Damage","(30-50)% increased Critical Hit Chance for Spells","Gain (10-15) Mana per Enemy Killed","25% chance to not destroy Corpses when Consuming Corpses"],
-    "variants":[]
+    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"]
   },
   "Lifesprig":{
+    "grantSkill":" Level (1-20) Mana Drain",
+    "stats":["Lifesprig","Attuned Wand","Implicits: 1","Grants Skill: Level (1-20) Mana Drain","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
     "baseType":"Attuned Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Mana Drain",
-    "implicitCount":1,
-    "itemType":"wand",
-    "modifiers":["+(10-20) to maximum Mana","+(1-3) to Level of all Spell Skills","(5-10)% increased Cast Speed","Leeches 1% of maximum Life when you Cast a Spell"],
-    "name":"Lifesprig",
-    "originalString":"Lifesprig\nAttuned Wand\nImplicits: 1\nGrants Skill: Level (1-20) Mana Drain\n+(10-20) to maximum Mana\n+(1-3) to Level of all Spell Skills\n(5-10)% increased Cast Speed\nLeeches 1% of maximum Life when you Cast a Spell\n",
-    "requirements":[],
-    "stats":["Lifesprig","Attuned Wand","Implicits: 1","Grants Skill: Level (1-20) Mana Drain","+(10-20) to maximum Mana","+(1-3) to Level of all Spell Skills","(5-10)% increased Cast Speed","Leeches 1% of maximum Life when you Cast a Spell"],
-    "variants":[]
+    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
+    "implicitCount":1
   },
   "Sanguine Diviner":{
+    "grantSkill":" Level (1-20) Bone Blast",
+    "stats":["Sanguine Diviner","Bone Wand","Implicits: 1","Grants Skill: Level (1-20) Bone Blast","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
     "baseType":"Bone Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Bone Blast",
-    "implicitCount":1,
-    "itemType":"wand",
-    "modifiers":["(80-100)% increased Spell Damage","25% chance to inflict Bleeding on Hit","25% of Spell Mana Cost Converted to Life Cost"],
-    "name":"Sanguine Diviner",
-    "originalString":"Sanguine Diviner\nBone Wand\nImplicits: 1\nGrants Skill: Level (1-20) Bone Blast\n(80-100)% increased Spell Damage\nGain (10-15) Life per Enemy Killed\n25% chance to inflict Bleeding on Hit\n25% of Spell Mana Cost Converted to Life Cost\n",
-    "requirements":[],
-    "stats":["Sanguine Diviner","Bone Wand","Implicits: 1","Grants Skill: Level (1-20) Bone Blast","(80-100)% increased Spell Damage","Gain (10-15) Life per Enemy Killed","25% chance to inflict Bleeding on Hit","25% of Spell Mana Cost Converted to Life Cost"],
-    "variants":[]
-  },
-  "The Wicked Quill":{
-    "baseType":"Withered Wand",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Chaos Bolt",
-    "implicitCount":1,
-    "itemType":"wand",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(60-100)% increased Spell Damage","+(60-100) to maximum Mana","+(7-13)% to Chaos Resistance","Spells have a 25% chance to inflict Withered for 4 seconds on Hit"],
-    "name":"The Wicked Quill",
-    "originalString":"The Wicked Quill\nWithered Wand\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Chaos Bolt\n(60-100)% increased Spell Damage\n+(60-100) to maximum Mana\n+(7-13)% to Chaos Resistance\nSpells have a 25% chance to inflict Withered for 4 seconds on Hit\n",
-    "requirements":[],
-    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Chaos Bolt","(60-100)% increased Spell Damage","+(60-100) to maximum Mana","+(7-13)% to Chaos Resistance","Spells have a 25% chance to inflict Withered for 4 seconds on Hit"],
-    "variants":[]
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
+    "implicitCount":1
   }
 }

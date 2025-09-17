@@ -1,0 +1,633 @@
+{
+  "Beyond Reach":{
+    "affixes":["QuiverImplicitCriticalStrikeChance1","UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"],
+    "baseType":"Visceral Quiver",
+    "implicitCount":1,
+    "stats":["Beyond Reach","Visceral Quiver","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 1","QuiverImplicitCriticalStrikeChance1","UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"],
+    "itemType":"quiver",
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}"
+  },
+  "Death Rush":{
+    "affixes":["RingImplicitIncreasedAccuracy1","UniqueIncreasedAccuracy7","UniqueIncreasedEvasionRating1","UniqueLifeLeech1","UniqueOnslaughtBuffOnKill1"],
+    "baseType":"Emerald Ring",
+    "implicitCount":1,
+    "stats":["Death Rush","Emerald Ring","Implicits: 1","RingImplicitIncreasedAccuracy1","UniqueIncreasedAccuracy7","UniqueIncreasedEvasionRating1","UniqueLifeLeech1","UniqueOnslaughtBuffOnKill1"],
+    "itemType":"ring"
+  },
+  "Goregirdle":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitPhysicalDamageReductionRating1","UniqueStrength10","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1"],
+    "baseType":"Plate Belt",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Goregirdle","Plate Belt","League: Dawn of the Hunt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitPhysicalDamageReductionRating1","UniqueStrength10","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1"],
+    "itemType":"belt"
+  },
+  "Dream Fragments":{
+    "affixes":["RingImplicitColdResistance1","UniqueManaRegeneration3","UniqueCannotBeChilledOrFrozen1","UniqueMaximumManaIncrease1"],
+    "baseType":"Sapphire Ring",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["Dream Fragments","Sapphire Ring","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","RingImplicitColdResistance1","{variant:1}UniqueMaximumManaIncrease1[20,20]","{variant:2}UniqueMaximumManaIncrease1","UniqueManaRegeneration3","UniqueCannotBeChilledOrFrozen1"],
+    "itemType":"ring"
+  },
+  "Ventor's Gamble":{
+    "affixes":["RingImplicitItemFoundRarityIncrease1","UniqueIncreasedLife39","UniqueIncreasedSpirit7","UniqueFireResist24","UniqueColdResist20","UniqueLightningResist18","UniqueItemFoundRarityIncrease17"],
+    "baseType":"Gold Ring",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["Ventor's Gamble","Gold Ring","Variant: Pre 0.2.0","Variant: Current","Requires Level 64","Implicits: 1","RingImplicitItemFoundRarityIncrease1","UniqueIncreasedLife39","UniqueIncreasedSpirit7","{variant:1}UniqueItemFoundRarityIncrease17[-40,40]","{variant:2}UniqueItemFoundRarityIncrease17","UniqueFireResist24","UniqueColdResist20","UniqueLightningResist18"],
+    "level":64,
+    "itemType":"ring"
+  },
+  "Ligurium Talisman":{
+    "affixes":["AmuletImplicitIntelligence1","UniqueIncreasedEnergyShield3","UniqueIncreasedSpirit6","UniqueIntelligence9","UniqueEnergyShieldRegenerationFromLife1"],
+    "baseType":"Lapis Amulet",
+    "implicitCount":1,
+    "stats":["Ligurium Talisman","Lapis Amulet","Requires Level 35","Implicits: 1","AmuletImplicitIntelligence1","UniqueIncreasedEnergyShield3","UniqueIncreasedSpirit6","UniqueIntelligence9","UniqueEnergyShieldRegenerationFromLife1"],
+    "level":35,
+    "itemType":"amulet"
+  },
+  "Choir of the Storm":{
+    "affixes":["AmuletImplicitDexterity1","UniqueLightningResist4","UniqueCriticalStrikesIgnoreLightningResistance1","UniqueTriggerLightningBoltOnCriticalStrike1"],
+    "baseType":"Jade Amulet",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Lightning Bolt",
+    "itemType":"amulet",
+    "stats":["Choir of the Storm","Jade Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 2","AmuletImplicitDexterity1","Grants Skill: Level (1-20) Lightning Bolt","UniqueLightningResist4","UniqueCriticalStrikesIgnoreLightningResistance1","UniqueTriggerLightningBoltOnCriticalStrike1"],
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}"
+  },
+  "The Lethal Draw":{
+    "affixes":["QuiverImplicitLifeGainPerTarget1","UniqueIncreasedAttackSpeed5","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","UniqueBowDamageFromLifeFlaskCharges1"],
+    "baseType":"Sacral Quiver",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["The Lethal Draw","Sacral Quiver","League: Dawn of the Hunt","Implicits: 1","QuiverImplicitLifeGainPerTarget1","UniqueIncreasedAttackSpeed5","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","UniqueBowDamageFromLifeFlaskCharges1"],
+    "itemType":"quiver"
+  },
+  "Levinstone":{
+    "affixes":["RingImplicitLightningResistance1","UniqueIncreasedMana7","UniqueShockChanceIncrease2","UniqueGlobalLightningGemLevel1"],
+    "baseType":"Topaz Ring",
+    "implicitCount":1,
+    "stats":["Levinstone","Topaz Ring","Implicits: 1","RingImplicitLightningResistance1","UniqueIncreasedMana7","UniqueShockChanceIncrease2","UniqueGlobalLightningGemLevel1"],
+    "itemType":"ring"
+  },
+  "Surefooted Sigil":{
+    "affixes":["AmuletImplicitDexterity1","UniqueIncreasedLife3","UniqueDexterity28","UniqueDodgeRollDistance1","UniqueEvasionRatingDodgeRoll1"],
+    "baseType":"Jade Amulet",
+    "implicitCount":1,
+    "stats":["Surefooted Sigil","Jade Amulet","Implicits: 1","AmuletImplicitDexterity1","UniqueIncreasedLife3","UniqueDexterity28","UniqueDodgeRollDistance1","UniqueEvasionRatingDodgeRoll1"],
+    "itemType":"amulet"
+  },
+  "Heartbound Loop":{
+    "affixes":["RingImplicitIncreasedCastSpeed1","UniqueMinionLife3","UniqueLifeRegeneration3","UniqueManaRegeneration11","UniqueSelfPhysicalDamageOnMinionDeath1","UniqueMinionReviveSpeed2"],
+    "baseType":"Pearl Ring",
+    "implicitCount":1,
+    "stats":["Heartbound Loop","Pearl Ring","Implicits: 1","RingImplicitIncreasedCastSpeed1","UniqueMinionLife3","UniqueLifeRegeneration3","UniqueManaRegeneration11","UniqueSelfPhysicalDamageOnMinionDeath1","UniqueMinionReviveSpeed2"],
+    "itemType":"ring"
+  },
+  "Bijouborne":{
+    "affixes":["BeltImplicitCharmSlots3","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"],
+    "baseType":"Double Belt",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Bijouborne","Double Belt","League: Dawn of the Hunt","Implicits: 2","BeltImplicitCharmSlots3","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"],
+    "itemType":"belt"
+  },
+  "Zerphi's Genesis":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","UniqueStrength28","UniqueCorruptedBloodImmunity1","UniqueCharmChargesToLifeFlasks1","UniqueReducedCharmChargesUsed1","UniqueAdditionalCharm1"],
+    "baseType":"Heavy Belt",
+    "variants":["Pre 0.2.0f","Current"],
+    "implicitCount":2,
+    "stats":["Zerphi's Genesis","Heavy Belt","Variant: Pre 0.2.0f","Variant: Current","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Requires Level 56","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","{variant:1}UniqueAdditionalCharm1","UniqueStrength28","UniqueCorruptedBloodImmunity1","UniqueCharmChargesToLifeFlasks1","UniqueReducedCharmChargesUsed1"],
+    "level":56,
+    "itemType":"belt",
+    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}"
+  },
+  "Headhunter":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"],
+    "baseType":"Heavy Belt",
+    "implicitCount":2,
+    "stats":["Headhunter","Heavy Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"],
+    "itemType":"belt"
+  },
+  "Icefang Orbit":{
+    "affixes":["RingImplicitPhysicalDamage1","UniqueAddedPhysicalDamage7","UniqueDexterity37","UniqueBaseChanceToPoison3","UniqueChilledWhilePoisoned1","UniqueNonChilledEnemiesPoisonAndChill1","UniquePoisonEffect1"],
+    "baseType":"Iron Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Icefang Orbit","Iron Ring","League: Dawn of the Hunt","Requires Level 36","Implicits: 1","RingImplicitPhysicalDamage1","UniqueAddedPhysicalDamage7","UniqueDexterity37","UniqueBaseChanceToPoison3","UniqueChilledWhilePoisoned1","UniqueNonChilledEnemiesPoisonAndChill1","UniquePoisonEffect1"],
+    "level":36,
+    "itemType":"ring"
+  },
+  "Thief's Torment":{
+    "affixes":["RingImplicitIncreasedAccuracy1","UniqueItemFoundRarityIncrease16","UniqueAllResistances14","UniqueLifeGainPerTarget1","UniqueDisablesOtherRingSlot1","UniqueManaGainPerTarget1","UniqueSelfCurseDuration1"],
+    "baseType":"Emerald Ring",
+    "implicitCount":1,
+    "stats":["Thief's Torment","Emerald Ring","Implicits: 1","RingImplicitIncreasedAccuracy1","UniqueItemFoundRarityIncrease16","UniqueAllResistances14","UniqueLifeGainPerTarget1","UniqueDisablesOtherRingSlot1","UniqueManaGainPerTarget1","UniqueSelfCurseDuration1"],
+    "itemType":"ring"
+  },
+  "Venopuncture":{
+    "affixes":["RingImplicitPhysicalDamage1","UniqueAddedPhysicalDamage8","UniqueStrength41","UniqueChilledWhileBleeding1","UniqueNonChilledEnemiesBleedAndChill1","UniqueGlobalChanceToBleed2","UniqueBleedEffect1"],
+    "baseType":"Iron Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Venopuncture","Iron Ring","League: Dawn of the Hunt","Requires Level 36","Implicits: 1","RingImplicitPhysicalDamage1","UniqueAddedPhysicalDamage8","UniqueStrength41","UniqueChilledWhileBleeding1","UniqueNonChilledEnemiesBleedAndChill1","UniqueGlobalChanceToBleed2","UniqueBleedEffect1"],
+    "level":36,
+    "itemType":"ring"
+  },
+  "Rondel of Fragility":{
+    "affixes":["AmuletImplicitEnergyShield1","UniqueIncreasedSkillSpeed4","UniqueCriticalStrikeChance1","UniqueAllResistances11","UniqueAllDamage2"],
+    "baseType":"Lunar Amulet",
+    "implicitCount":1,
+    "stats":["Rondel of Fragility","Lunar Amulet","Implicits: 1","AmuletImplicitEnergyShield1","UniqueIncreasedSkillSpeed4","UniqueCriticalStrikeChance1","UniqueAllResistances11","UniqueAllDamage2"],
+    "itemType":"amulet"
+  },
+  "Evergrasping Ring":{
+    "affixes":["RingImplicitIncreasedCastSpeed1","UniqueIncreasedMana12","UniqueAlliesInPresenceGainedAsChaos1","UniqueEnemiesInPresenceGainedAsChaos1"],
+    "baseType":"Pearl Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Evergrasping Ring","Pearl Ring","League: Dawn of the Hunt","Implicits: 1","RingImplicitIncreasedCastSpeed1","UniqueIncreasedMana12","UniqueAlliesInPresenceGainedAsChaos1","UniqueEnemiesInPresenceGainedAsChaos1"],
+    "itemType":"ring"
+  },
+  "Byrnabas":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedFlaskChargesGained1","UniqueIncreasedMana7","UniqueLifeRegeneration2","Cannot be Shocked","UniqueLightningResist7"],
+    "baseType":"Wide Belt",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":2,
+    "stats":["Byrnabas","Wide Belt","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedFlaskChargesGained1","UniqueIncreasedMana7","{variant:1}UniqueLightningResist7[20,30]","{variant:2}UniqueLightningResist7","UniqueLifeRegeneration2","Cannot be Shocked"],
+    "itemType":"belt"
+  },
+  "The Everlasting Gaze":{
+    "affixes":["AmuletImplicitManaRegeneration1","UniqueManaRegeneration8","UniqueGainManaAsExtraEnergyShield1","UniqueIncreasedMana32"],
+    "baseType":"Azure Amulet",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["The Everlasting Gaze","Azure Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","AmuletImplicitManaRegeneration1","{variant:1}UniqueIncreasedMana32[50,50]","{variant:2}UniqueIncreasedMana32","UniqueManaRegeneration8","{variant:1}UniqueGainManaAsExtraEnergyShield1[20,30]","{variant:2}UniqueGainManaAsExtraEnergyShield1"],
+    "itemType":"amulet"
+  },
+  "Blackgleam":{
+    "affixes":["QuiverImplicitFireDamage1","UniqueIncreasedMana5","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1","UniqueAddedFireDamage1"],
+    "baseType":"Fire Quiver",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Blackgleam","Fire Quiver","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","QuiverImplicitFireDamage1","{variant:2}UniqueAddedFireDamage1","UniqueIncreasedMana5","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1"],
+    "itemType":"quiver"
+  },
+  "Astramentis":{
+    "affixes":["AmuletImplicitAllAttributes1","UniquePhysicalAttackDamageTaken2","UniqueAllAttributes3"],
+    "baseType":"Stellar Amulet",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["Astramentis","Stellar Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","AmuletImplicitAllAttributes1","{variant:1}UniqueAllAttributes3[80,100]","{variant:2}UniqueAllAttributes3","UniquePhysicalAttackDamageTaken2"],
+    "itemType":"amulet"
+  },
+  "Gifts from Above":{
+    "affixes":["RingImplicitAllResistances1","UniqueCriticalStrikeChance12","UniqueLightRadius16","UniqueKilledMonsterItemRarityOnCrit1","UniqueConsecratedGroundStationaryRing1"],
+    "baseType":"Prismatic Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Gifts from Above","Prismatic Ring","League: Dawn of the Hunt","Implicits: 1","RingImplicitAllResistances1","UniqueCriticalStrikeChance12","UniqueLightRadius16","UniqueKilledMonsterItemRarityOnCrit1","UniqueConsecratedGroundStationaryRing1"],
+    "itemType":"ring"
+  },
+  "The Pandemonius":{
+    "affixes":["AmuletImplicitIntelligence1","UniqueColdResist10","UniqueColdResistancePenetration1","UniqueOnHitBlindChilledEnemies1"],
+    "baseType":"Lapis Amulet",
+    "implicitCount":1,
+    "stats":["The Pandemonius","Lapis Amulet","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Requires Level 52","Implicits: 1","AmuletImplicitIntelligence1","UniqueColdResist10","UniqueColdResistancePenetration1","UniqueOnHitBlindChilledEnemies1"],
+    "level":52,
+    "itemType":"amulet",
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}"
+  },
+  "The Burrower":{
+    "affixes":["RingImplicitLightningResistance1","UniqueLightningResist4","UniqueEnemyExtraDamageRollsWithLightningDamage1","UniqueManaRegeneration27","UniqueColdResist23"],
+    "baseType":"Topaz Ring",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["The Burrower","Topaz Ring","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","RingImplicitLightningResistance1","{variant:1}UniqueColdResist23[-15,-10]","{variant:2}UniqueColdResist23","UniqueLightningResist4","{variant:1}UniqueManaRegeneration27[25,35]","{variant:2}UniqueManaRegeneration27","UniqueEnemyExtraDamageRollsWithLightningDamage1"],
+    "itemType":"ring"
+  },
+  "Doedre's Damning":{
+    "affixes":["RingImplicitIncreasedMana1","UniqueAllResistances2","UniqueManaGainedFromEnemyDeath2","UniqueAdditionalCurseOnEnemies1"],
+    "baseType":"Lazuli Ring",
+    "implicitCount":1,
+    "stats":["Doedre's Damning","Lazuli Ring","Implicits: 1","RingImplicitIncreasedMana1","UniqueAllResistances2","UniqueManaGainedFromEnemyDeath2","UniqueAdditionalCurseOnEnemies1"],
+    "itemType":"ring"
+  },
+  "Darkness Enthroned":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskPassiveChargeGain1","LocalSocketItemsEffectUnique__1","LocalItemBenefitSocketableAsIfHelmetUnique__1","LocalItemBenefitSocketableAsIfGlovesUnique__1","LocalItemBenefitSocketableAsIfShieldUnique__1","LocalItemBenefitSocketableAsIfBodyArmourUnique__1","LocalItemBenefitSocketableAsIfBootsUnique__1"],
+    "baseType":"Fine Belt",
+    "league":" Rise of the Abyssal",
+    "implicitCount":2,
+    "stats":["Darkness Enthroned","Fine Belt","League: Rise of the Abyssal","Variant: Helmet","Variant: Body Armour","Variant: Gloves","Variant: Boots","Variant: Shield","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskPassiveChargeGain1","{variant:1}LocalItemBenefitSocketableAsIfHelmetUnique__1","{variant:2}LocalItemBenefitSocketableAsIfBodyArmourUnique__1","{variant:3}LocalItemBenefitSocketableAsIfGlovesUnique__1","{variant:4}LocalItemBenefitSocketableAsIfBootsUnique__1","{variant:5}LocalItemBenefitSocketableAsIfShieldUnique__1","LocalSocketItemsEffectUnique__1"],
+    "itemType":"belt",
+    "variants":["Helmet","Body Armour","Gloves","Boots","Shield"]
+  },
+  "Serpent's Egg":{
+    "affixes":["AmuletImplicitItemFoundRarityIncrease1","UniqueAllAttributes1","UniqueChaosResist1","UniqueManaRegeneration6","UniqueAdditionalChargeGeneration1"],
+    "baseType":"Gold Amulet",
+    "implicitCount":1,
+    "stats":["Serpent's Egg","Gold Amulet","Implicits: 1","AmuletImplicitItemFoundRarityIncrease1","UniqueAllAttributes1","UniqueChaosResist1","UniqueManaRegeneration6","UniqueAdditionalChargeGeneration1"],
+    "itemType":"amulet"
+  },
+  "Murkshaft":{
+    "affixes":["QuiverImplicitChanceToPoison1","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"],
+    "baseType":"Toxic Quiver",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Bursting Fen Toad",
+    "itemType":"quiver",
+    "stats":["Murkshaft","Toxic Quiver","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Bursting Fen Toad","QuiverImplicitChanceToPoison1","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"]
+  },
+  "Call of the Brotherhood":{
+    "affixes":["RingImplicitLightningResistance1","UniqueIntelligence6","UniqueManaRegeneration18","UniqueFreezeDamageIncrease4","UniqueLightningDamageConvertToCold1"],
+    "baseType":"Topaz Ring",
+    "implicitCount":1,
+    "stats":["Call of the Brotherhood","Topaz Ring","Requires Level 32","Implicits: 1","RingImplicitLightningResistance1","UniqueIntelligence6","UniqueManaRegeneration18","UniqueFreezeDamageIncrease4","UniqueLightningDamageConvertToCold1"],
+    "level":32,
+    "itemType":"ring"
+  },
+  "Soul Tether":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedCharmDuration1","UniqueIncreasedEnergyShield2","UniqueIntelligence9","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"],
+    "baseType":"Long Belt",
+    "implicitCount":2,
+    "stats":["Soul Tether","Long Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedCharmDuration1","UniqueIncreasedEnergyShield2","UniqueIntelligence9","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"],
+    "itemType":"belt"
+  },
+  "Umbilicus Immortalis":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskManaRecovery1","UniqueBeltFlaskDuration1","UniqueIntelligence42","UniqueMinionLife6","UniqueLifeFlasksApplyToMinions1","MinionsCannotDieWhileAffectedByYourLifeFlasks1","UniqueIncreasedFlaskChargesGained4"],
+    "baseType":"Linen Belt",
+    "league":" Rise of the Abyssal",
+    "implicitCount":2,
+    "stats":["Umbilicus Immortalis","Linen Belt","League: Rise of the Abyssal","Requires Level 24","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskManaRecovery1","UniqueBeltFlaskDuration1","UniqueIntelligence42","UniqueMinionLife6","UniqueLifeFlasksApplyToMinions1","MinionsCannotDieWhileAffectedByYourLifeFlasks1","UniqueIncreasedFlaskChargesGained4"],
+    "level":24,
+    "itemType":"belt"
+  },
+  "The Anvil":{
+    "affixes":["AmuletImplicitIncreasedLife1","UniqueMovementVelocity6","UniqueIncreasedSkillSpeed2","UniqueIncreasedPhysicalDamageReductionRatingPercent1","UniqueMaximumBlockChance1","UniqueBlockChanceIncrease1"],
+    "baseType":"Bloodstone Amulet",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["The Anvil","Bloodstone Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","AmuletImplicitIncreasedLife1","UniqueMovementVelocity6","UniqueIncreasedSkillSpeed2","UniqueIncreasedPhysicalDamageReductionRatingPercent1","{variant:1}UniqueBlockChanceIncrease1[20,20]","{variant:2}UniqueBlockChanceIncrease1","UniqueMaximumBlockChance1"],
+    "itemType":"amulet"
+  },
+  "Fixation of Yix":{
+    "affixes":["AmuletImplicitAllAttributes1","UniqueIncreasedLife35","UniqueNearbyAlliesCriticalStrikeChance2","UniqueNearbyAlliesCriticalMultiplier1","UniqueNearbyAlliesIncreasedAttackSpeed1","UniqueNearbyAlliesIncreasedCastSpeed1","UniquePresenceRadius1"],
+    "baseType":"Stellar Amulet",
+    "implicitCount":1,
+    "stats":["Fixation of Yix","Stellar Amulet","Implicits: 1","AmuletImplicitAllAttributes1","UniqueIncreasedLife35","UniqueNearbyAlliesCriticalStrikeChance2","UniqueNearbyAlliesCriticalMultiplier1","UniqueNearbyAlliesIncreasedAttackSpeed1","UniqueNearbyAlliesIncreasedCastSpeed1","UniquePresenceRadius1"],
+    "itemType":"amulet"
+  },
+  "Perandus Seal":{
+    "affixes":["RingImplicitItemFoundRarityIncrease1","UniqueIncreasedMana5","UniqueAllAttributes2","UniqueGoldFoundIncrease1"],
+    "baseType":"Gold Ring",
+    "implicitCount":1,
+    "stats":["Perandus Seal","Gold Ring","Implicits: 1","RingImplicitItemFoundRarityIncrease1","UniqueIncreasedMana5","UniqueAllAttributes2","UniqueGoldFoundIncrease1"],
+    "itemType":"ring"
+  },
+  "Kalandra's Touch":{
+    "affixes":["UniqueDuplicatesRingStats1","Mirrored"],
+    "baseType":"Ring",
+    "stats":["Kalandra's Touch","Ring","UniqueDuplicatesRingStats1","Mirrored"],
+    "itemType":"ring"
+  },
+  "Andvarius":{
+    "affixes":["RingImplicitItemFoundRarityIncrease1","UniqueItemFoundRarityIncrease5","UniqueDexterity4","UniqueAllResistances3"],
+    "baseType":"Gold Ring",
+    "implicitCount":1,
+    "stats":["Andvarius","Gold Ring","Implicits: 1","RingImplicitItemFoundRarityIncrease1","UniqueItemFoundRarityIncrease5","UniqueDexterity4","UniqueAllResistances3"],
+    "itemType":"ring"
+  },
+  "Birthright Buckle":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedFlaskChargesGained1","UniqueIncreasedPhysicalDamageReductionRating1","UniqueReducedFlaskChargesUsed3","UniqueIncreasedFlaskChargesGained2","UniqueInstantLifeFlaskOnLowLife1","UniqueInstantManaFlaskOnLowMana1"],
+    "baseType":"Wide Belt",
+    "implicitCount":2,
+    "stats":["Birthright Buckle","Wide Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedFlaskChargesGained1","UniqueIncreasedPhysicalDamageReductionRating1","UniqueReducedFlaskChargesUsed3","UniqueIncreasedFlaskChargesGained2","UniqueInstantLifeFlaskOnLowLife1","UniqueInstantManaFlaskOnLowMana1"],
+    "itemType":"belt"
+  },
+  "Polcirkeln":{
+    "affixes":["RingImplicitColdResistance1","UniqueColdDamagePercent1","UniqueIncreasedMana7","UniqueStrength3","UniqueChillHitsCauseShattering1"],
+    "baseType":"Sapphire Ring",
+    "implicitCount":1,
+    "stats":["Polcirkeln","Sapphire Ring","Implicits: 1","RingImplicitColdResistance1","UniqueColdDamagePercent1","UniqueIncreasedMana7","UniqueStrength3","UniqueChillHitsCauseShattering1"],
+    "itemType":"ring"
+  },
+  "Blackflame":{
+    "affixes":["BodyArmourImplicitChaosResistance1","UniqueManaRegeneration2","UniqueIgniteDuration1","UniqueEnemiesIgniteChaosDamage1","UniqueIgniteEffect1"],
+    "baseType":"Amethyst Ring",
+    "implicitCount":1,
+    "stats":["Blackflame","Amethyst Ring","Implicits: 1","BodyArmourImplicitChaosResistance1","UniqueManaRegeneration2","UniqueIgniteDuration1","UniqueEnemiesIgniteChaosDamage1","UniqueIgniteEffect1"],
+    "itemType":"ring"
+  },
+  "Revered Resin":{
+    "affixes":["AmuletImplicitStrength1","UniqueIncreasedLife3","UniqueFlaskLifeRecoveryRate5","UniqueLifeFlaskChargeGeneration2"],
+    "baseType":"Amber Amulet",
+    "implicitCount":1,
+    "stats":["Revered Resin","Amber Amulet","Implicits: 1","AmuletImplicitStrength1","UniqueIncreasedLife3","UniqueFlaskLifeRecoveryRate5","UniqueLifeFlaskChargeGeneration2"],
+    "itemType":"amulet"
+  },
+  "Meginord's Girdle":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskLifeRecovery1","UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"],
+    "baseType":"Rawhide Belt",
+    "implicitCount":2,
+    "stats":["Meginord's Girdle","Rawhide Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskLifeRecovery1","UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"],
+    "itemType":"belt"
+  },
+  "Blackheart":{
+    "affixes":["RingImplicitPhysicalDamage1","UniqueLifeRegeneration4","UniqueChanceToIntimidateOnHit1","UniqueAddedChaosDamage1"],
+    "baseType":"Iron Ring",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Blackheart","Iron Ring","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","RingImplicitPhysicalDamage1","UniqueLifeRegeneration4","{variant:1}UniqueAddedChaosDamage1[2,3][4,5]","{variant:2}UniqueAddedChaosDamage1","UniqueChanceToIntimidateOnHit1"],
+    "itemType":"ring"
+  },
+  "Vigilant View":{
+    "affixes":["RingImplicitIncreasedAccuracy1","UniqueIncreasedAccuracy12","UniqueIncreasedEvasionRating3","UniqueItemFoundRarityIncrease20","UniqueDexterity37","UniqueEnemyAccuracyDistanceFalloff1","UniqueMaximumEvadeChanceOverride1"],
+    "baseType":"Emerald Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Vigilant View","Emerald Ring","League: Dawn of the Hunt","Requires Level 26","Implicits: 1","RingImplicitIncreasedAccuracy1","UniqueIncreasedAccuracy12","UniqueIncreasedEvasionRating3","UniqueItemFoundRarityIncrease20","UniqueDexterity37","UniqueEnemyAccuracyDistanceFalloff1","UniqueMaximumEvadeChanceOverride1"],
+    "level":26,
+    "itemType":"ring"
+  },
+  "Ming's Heart":{
+    "affixes":["BodyArmourImplicitChaosResistance1","UniqueMaximumLifeIncrease3","UniqueDamageAddedAsChaos1","UniqueAllDefences1"],
+    "baseType":"Amethyst Ring",
+    "implicitCount":1,
+    "stats":["Ming's Heart","Amethyst Ring","Implicits: 1","BodyArmourImplicitChaosResistance1","UniqueMaximumLifeIncrease3","UniqueDamageAddedAsChaos1","UniqueAllDefences1"],
+    "itemType":"ring"
+  },
+  "Original Sin":{
+    "affixes":["BodyArmourImplicitChaosResistance1","UniqueElementalDamageConvertToChaos1","UniqueChaosResistanceIsZero1","UniqueChaosResist21"],
+    "baseType":"Amethyst Ring",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Original Sin","Amethyst Ring","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","BodyArmourImplicitChaosResistance1","{variant:2}UniqueChaosResist21","UniqueElementalDamageConvertToChaos1","{variant:1}UniqueChaosResistanceIsZero1"],
+    "itemType":"ring"
+  },
+  "Infernoclasp":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitPhysicalDamageReductionRating1","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","UniqueFireResist3"],
+    "baseType":"Plate Belt",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":2,
+    "stats":["Infernoclasp","Plate Belt","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitPhysicalDamageReductionRating1","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","{variant:1}UniqueFireResist3[25,35]","{variant:2}UniqueFireResist3"],
+    "itemType":"belt",
+    "source":"No longer obtainable"
+  },
+  "Stone of Lazhwar":{
+    "affixes":["AmuletImplicitIntelligence1","UniqueIncreasedMana3","UniqueIncreasedCastSpeed3","UniqueBlockPercentWithFocus1"],
+    "baseType":"Lapis Amulet",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Stone of Lazhwar","Lapis Amulet","League: Dawn of the Hunt","Implicits: 1","AmuletImplicitIntelligence1","UniqueIncreasedMana3","UniqueIncreasedCastSpeed3","UniqueBlockPercentWithFocus1"],
+    "itemType":"amulet"
+  },
+  "Seed of Cataclysm":{
+    "affixes":["RingImplicitIncreasedMana1","UniqueSpellCriticalStrikeChance2","UniqueSpellCriticalStrikeMultiplier1","UniqueChaosResist2","UniqueManaCostReduction2"],
+    "baseType":"Lazuli Ring",
+    "implicitCount":1,
+    "stats":["Seed of Cataclysm","Lazuli Ring","Implicits: 1","RingImplicitIncreasedMana1","UniqueSpellCriticalStrikeChance2","UniqueSpellCriticalStrikeMultiplier1","UniqueChaosResist2","UniqueManaCostReduction2"],
+    "itemType":"ring"
+  },
+  "Xoph's Blood":{
+    "affixes":["AmuletImplicitStrength1","UniqueMaximumLifeIncrease7","UniqueFireResist12","UniqueEnemiesInPresenceFireExposure1"],
+    "baseType":"Amber Amulet",
+    "variants":["Pre 0.3.0","Current"],
+    "implicitCount":1,
+    "stats":["Xoph's Blood","Amber Amulet","Variant: Pre 0.3.0","Variant: Current","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 1","AmuletImplicitStrength1","UniqueMaximumLifeIncrease7","UniqueFireResist12","{variant:1}UniqueEnemiesInPresenceFireExposure1[1,1]","{variant:2}UniqueEnemiesInPresenceFireExposure1"],
+    "itemType":"amulet",
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}"
+  },
+  "Midnight Braid":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskLifeRecovery1","UniqueIncreasedMana5","UniqueAllResistances8","UniqueDamageTakenGoesToMana1"],
+    "baseType":"Rawhide Belt",
+    "implicitCount":2,
+    "stats":["Midnight Braid","Rawhide Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskLifeRecovery1","UniqueIncreasedMana5","UniqueAllResistances8","UniqueDamageTakenGoesToMana1"],
+    "itemType":"belt"
+  },
+  "Bursting Decay":{
+    "affixes":["RingImplicitAdditionalSkillSlots1","UniqueItemFoundRarityIncrease22","UniqueChaosResist34","UniqueLifeDegenerationPercentGracePeriod3","UniquePhysicalDamageMaximumLife1"],
+    "baseType":"Unset Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Bursting Decay","Unset Ring","League: Dawn of the Hunt","Requires Level 60","Implicits: 1","RingImplicitAdditionalSkillSlots1","UniqueItemFoundRarityIncrease22","UniqueChaosResist34","UniqueLifeDegenerationPercentGracePeriod3","UniquePhysicalDamageMaximumLife1"],
+    "level":60,
+    "itemType":"ring"
+  },
+  "Whisper of the Brotherhood":{
+    "affixes":["RingImplicitColdResistance1","UniqueIncreasedSkillSpeed3","UniqueDexterity2","UniqueManaRegeneration18","UniqueColdDamageConvertToLightning1"],
+    "baseType":"Sapphire Ring",
+    "implicitCount":1,
+    "stats":["Whisper of the Brotherhood","Sapphire Ring","Requires Level 32","Implicits: 1","RingImplicitColdResistance1","UniqueIncreasedSkillSpeed3","UniqueDexterity2","UniqueManaRegeneration18","UniqueColdDamageConvertToLightning1"],
+    "level":32,
+    "itemType":"ring"
+  },
+  "Beacon of Azis":{
+    "affixes":["AmuletImplicitBaseSpirit1","UniqueIncreasedMana12","UniqueIncreasedSpirit5","UniqueLightRadius7","UniqueCriticalStrikesIgnoreResistances1"],
+    "baseType":"Solar Amulet",
+    "implicitCount":1,
+    "stats":["Beacon of Azis","Solar Amulet","Implicits: 1","AmuletImplicitBaseSpirit1","UniqueIncreasedMana12","UniqueIncreasedSpirit5","UniqueLightRadius7","UniqueCriticalStrikesIgnoreResistances1"],
+    "itemType":"amulet"
+  },
+  "Ungil's Harmony":{
+    "affixes":["AmuletImplicitManaRegeneration1","UniqueIncreasedLife5","UniqueIncreasedMana5","UniqueStunThreshold6","UniqueNoCriticalStrikeMultiplier1","UniqueCriticalStrikeChance9"],
+    "baseType":"Azure Amulet",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Ungil's Harmony","Azure Amulet","Variant: Pre 0.1.1","Variant: Current","Requires Level 25","Implicits: 1","AmuletImplicitManaRegeneration1","UniqueIncreasedLife5","UniqueIncreasedMana5","{variant:1}UniqueCriticalStrikeChance9[100,100]","{variant:2}UniqueCriticalStrikeChance9","UniqueStunThreshold6","UniqueNoCriticalStrikeMultiplier1"],
+    "level":25,
+    "itemType":"amulet"
+  },
+  "Rearguard":{
+    "affixes":["UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2","QuiverImplicitStunThresholdReduction1"],
+    "baseType":"Blunt Quiver",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Rearguard","Blunt Quiver","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}QuiverImplicitStunThresholdReduction1[20,30]","{variant:2}QuiverImplicitStunThresholdReduction1","UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2"],
+    "itemType":"quiver",
+    "variants":["Pre 0.3.0","Current"]
+  },
+  "Blistering Bond":{
+    "affixes":["RingImplicitFireResistance1","UniqueIncreasedLife3","UniqueFireResist18","UniqueColdResist22","UniqueSelfBleedFireDamage1"],
+    "baseType":"Ruby Ring",
+    "implicitCount":1,
+    "stats":["Blistering Bond","Ruby Ring","Implicits: 1","RingImplicitFireResistance1","UniqueIncreasedLife3","UniqueFireResist18","UniqueColdResist22","UniqueSelfBleedFireDamage1"],
+    "itemType":"ring"
+  },
+  "Idol of Uldurn":{
+    "affixes":["AmuletImplicitLifeRegeneration1","UniqueIncreasedLife14","UniqueDexterity2","UniqueBaseLimit1"],
+    "baseType":"Crimson Amulet",
+    "implicitCount":1,
+    "stats":["Idol of Uldurn","Crimson Amulet","Requires Level 24","Implicits: 1","AmuletImplicitLifeRegeneration1","UniqueIncreasedLife14","UniqueDexterity2","UniqueBaseLimit1"],
+    "level":24,
+    "itemType":"amulet"
+  },
+  "Yoke of Suffering":{
+    "affixes":["AmuletImplicitIncreasedLife1","UniqueAllResistances19","UniqueElementalDamagePercent1","UniqueElementalAilmentDuration1","UniqueEnemiesTakeIncreasedDamagePerAilmentType1"],
+    "baseType":"Bloodstone Amulet",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Yoke of Suffering","Bloodstone Amulet","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","AmuletImplicitIncreasedLife1","UniqueAllResistances19","UniqueElementalDamagePercent1","{variant:1}UniqueEnemiesTakeIncreasedDamagePerAilmentType1[5,10]","{variant:2}UniqueEnemiesTakeIncreasedDamagePerAilmentType1","{variant:1}UniqueElementalAilmentDuration1[-30,-20]","{variant:2}UniqueElementalAilmentDuration1"],
+    "itemType":"amulet",
+    "variants":["Pre 0.2.1","Current"]
+  },
+  "Defiance of Destiny":{
+    "affixes":["AmuletImplicitDexterity1","UniqueMaximumLifeIncrease6","UniqueStrength2","UniqueManaRegeneration13","UniqueGainMissingLifeBeforeHit1"],
+    "baseType":"Jade Amulet",
+    "variants":["Pre 0.1.1","Pre 0.2.1","Current"],
+    "implicitCount":1,
+    "stats":["Defiance of Destiny","Jade Amulet","Variant: Pre 0.1.1","Variant: Pre 0.2.1","Variant: Current","Requires Level 56","Implicits: 1","AmuletImplicitDexterity1","UniqueMaximumLifeIncrease6","UniqueStrength2","UniqueManaRegeneration13","{variant:1}UniqueGainMissingLifeBeforeHit1[5,5]","{variant:2}UniqueGainMissingLifeBeforeHit1[10,10]","{variant:3}UniqueGainMissingLifeBeforeHit1"],
+    "level":56,
+    "itemType":"amulet"
+  },
+  "The Gnashing Sash":{
+    "affixes":["BeltImplicitCharmSlots3","UniqueIncreasedFlaskChargesGained4","UniqueFlaskLifeRecoveryRate7","UniqueChaosResist14","UniqueLifeDegenerationPercentGracePeriod2","UniqueLifeFlasksOvercapLife1"],
+    "baseType":"Wide Belt",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["The Gnashing Sash","Wide Belt","League: Dawn of the Hunt","Requires Level 60","Implicits: 2","BeltImplicitCharmSlots3","UniqueIncreasedFlaskChargesGained4","UniqueFlaskLifeRecoveryRate7","UniqueChaosResist14","UniqueLifeDegenerationPercentGracePeriod2","UniqueLifeFlasksOvercapLife1"],
+    "level":60,
+    "itemType":"belt"
+  },
+  "Eye of Chayula":{
+    "affixes":["AmuletImplicitItemFoundRarityIncrease1","UniqueMaximumLifeIncrease1","UniqueAllAttributes7","UniqueStunThreshold13","UniqueCannotBeLightStunned1"],
+    "baseType":"Gold Amulet",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["Eye of Chayula","Gold Amulet","Variant: Pre 0.2.0","Variant: Current","Implicits: 1","AmuletImplicitItemFoundRarityIncrease1","UniqueMaximumLifeIncrease1","UniqueAllAttributes7","{variant:1}UniqueStunThreshold13","{variant:2}UniqueCannotBeLightStunned1"],
+    "itemType":"amulet"
+  },
+  "Sekhema's Resolve":{
+    "affixes":["UniqueItemFoundRarityIncrease20","UniqueAllAttributes1","UniqueFireResistanceNoPenalty1","UniqueOnlySocketRubyJewel1","UniqueOnlySocketEmeraldJewel1","UniqueOnlySocketSapphireJewel1","UniqueColdResistanceNoPenalty1","UniqueLightningResistanceNoPenalty1"],
+    "baseType":"Ring",
+    "variants":["Ruby","Emerald","Sapphire"],
+    "itemType":"ring",
+    "stats":["Sekhema's Resolve","Ring","Source: Drops from unique{Zarokh, the Temporal}","Variant: Ruby","Variant: Emerald","Variant: Sapphire","Requires Level 40","UniqueItemFoundRarityIncrease20","UniqueAllAttributes1","{variant:1}UniqueFireResistanceNoPenalty1","{variant:2}UniqueLightningResistanceNoPenalty1","{variant:3}UniqueColdResistanceNoPenalty1","{variant:1}UniqueOnlySocketRubyJewel1","{variant:2}UniqueOnlySocketEmeraldJewel1","{variant:3}UniqueOnlySocketSapphireJewel1"],
+    "level":40,
+    "source":"Drops from unique{Zarokh, the Temporal}"
+  },
+  "Shavronne's Satchel":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskPassiveChargeGain1","UniqueFlaskLifeRecoveryRate3","UniqueIntelligence9","BeltImplicitIncreasedFlaskChargesGained1","UniqueFlaskLifeRecoveryEnergyShield1"],
+    "baseType":"Fine Belt",
+    "implicitCount":2,
+    "stats":["Shavronne's Satchel","Fine Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskPassiveChargeGain1","UniqueFlaskLifeRecoveryRate3","UniqueIntelligence9","BeltImplicitIncreasedFlaskChargesGained1","UniqueFlaskLifeRecoveryEnergyShield1"],
+    "itemType":"belt"
+  },
+  "Cadiro's Gambit":{
+    "affixes":["QuiverImplicitIncreasedAttackSpeed1","UniquePerandusArrows1"],
+    "baseType":"Primed Quiver",
+    "league":" Dawn of the Hunt",
+    "itemType":"quiver",
+    "stats":["Cadiro's Gambit","Primed Quiver","League: Dawn of the Hunt","QuiverImplicitIncreasedAttackSpeed1","UniquePerandusArrows1"]
+  },
+  "Glowswarm":{
+    "affixes":["RingImplicitIncreasedMana1","UniqueIncreasedMana7","UniqueFlaskManaRecoveryRate3","UniqueManaFlaskChargeGeneration2"],
+    "baseType":"Lazuli Ring",
+    "implicitCount":1,
+    "stats":["Glowswarm","Lazuli Ring","Implicits: 1","RingImplicitIncreasedMana1","UniqueIncreasedMana7","UniqueFlaskManaRecoveryRate3","UniqueManaFlaskChargeGeneration2"],
+    "itemType":"ring"
+  },
+  "Igniferis":{
+    "affixes":["AmuletImplicitLifeRegeneration1","UniqueFireResist23","UniqueManaRegeneration6","UniqueLightRadius1","UniqueLifeRegenerationNotApplied1","UniqueRecoverLifeBasedOnRegen1"],
+    "baseType":"Crimson Amulet",
+    "implicitCount":1,
+    "stats":["Igniferis","Crimson Amulet","Implicits: 1","AmuletImplicitLifeRegeneration1","UniqueFireResist23","UniqueManaRegeneration6","UniqueLightRadius1","UniqueLifeRegenerationNotApplied1","UniqueRecoverLifeBasedOnRegen1"],
+    "itemType":"amulet"
+  },
+  "Coward's Legacy":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitReducedFlaskChargesUsed1","UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"],
+    "baseType":"Mail Belt",
+    "implicitCount":2,
+    "stats":["Coward's Legacy","Mail Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitReducedFlaskChargesUsed1","UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"],
+    "itemType":"belt"
+  },
+  "Carnage Heart":{
+    "affixes":["AmuletImplicitStrength1","UniqueMaximumLifeIncrease3","UniqueAllAttributes1","UniqueAllResistances6","UniqueLifeLeechAmount1"],
+    "baseType":"Amber Amulet",
+    "implicitCount":1,
+    "stats":["Carnage Heart","Amber Amulet","Implicits: 1","AmuletImplicitStrength1","UniqueMaximumLifeIncrease3","UniqueAllAttributes1","UniqueAllResistances6","UniqueLifeLeechAmount1"],
+    "itemType":"amulet"
+  },
+  "Keelhaul":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitFlaskManaRecovery1","UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","UniqueManaFlaskChargeGeneration1","UniqueLifeFlaskChargeGeneration1"],
+    "baseType":"Linen Belt",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":2,
+    "stats":["Keelhaul","Linen Belt","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitFlaskManaRecovery1","UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","{variant:1}UniqueLifeFlaskChargeGeneration1[0,15]","{variant:2}UniqueLifeFlaskChargeGeneration1","{variant:1}UniqueManaFlaskChargeGeneration1[0,15]","{variant:2}UniqueManaFlaskChargeGeneration1"],
+    "itemType":"belt"
+  },
+  "Prized Pain":{
+    "affixes":["RingImplicitPhysicalDamage1","UniqueStrength41","UniqueLifeCostAsManaCost2","UniqueThornsDamageOnStun1","UniqueAttackerTakesDamage7"],
+    "baseType":"Iron Ring",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["Prized Pain","Iron Ring","League: Dawn of the Hunt","Requires Level 48","Implicits: 1","RingImplicitPhysicalDamage1","UniqueStrength41","UniqueLifeCostAsManaCost2","UniqueThornsDamageOnStun1","UniqueAttackerTakesDamage7"],
+    "level":48,
+    "itemType":"ring"
+  },
+  "Ingenuity":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitInstantFlaskRecoveryPercent1","{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","UniqueIncreasedRingBonuses1","UniqueAdditionalCharm2"],
+    "baseType":"Utility Belt",
+    "variants":["Pre 0.2.0","Pre 0.2.0F","Current"],
+    "implicitCount":2,
+    "stats":["Ingenuity","Utility Belt","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","Variant: Pre 0.2.0","Variant: Pre 0.2.0F","Variant: Current","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitInstantFlaskRecoveryPercent1","{variant:2}UniqueAdditionalCharm2","{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","{variant:1}UniqueIncreasedRingBonuses1"],
+    "itemType":"belt",
+    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}"
+  },
+  "Cracklecreep":{
+    "affixes":["RingImplicitFireResistance1","UniqueFireDamagePercent1","UniqueLifeRegeneration9","UniqueManaRegeneration6","UniqueRingIgniteProliferation1"],
+    "baseType":"Ruby Ring",
+    "implicitCount":1,
+    "stats":["Cracklecreep","Ruby Ring","Implicits: 1","RingImplicitFireResistance1","UniqueFireDamagePercent1","UniqueLifeRegeneration9","UniqueManaRegeneration6","UniqueRingIgniteProliferation1"],
+    "itemType":"ring"
+  },
+  "Waistgate Heavy Belt":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","UniqueIncreasedLife45","UniqueIncreasedMana50","UniqueFlaskLifeRecoveryRate6","UniqueFlaskManaRecoveryRate4","UniqueLifeManaFlaskAnySlot1"],
+    "baseType":"Heavy Belt",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Waistgate Heavy Belt","Heavy Belt","League: Dawn of the Hunt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitIncreasedStunThreshold1","UniqueIncreasedLife45","UniqueIncreasedMana50","UniqueFlaskLifeRecoveryRate6","UniqueFlaskManaRecoveryRate4","UniqueLifeManaFlaskAnySlot1"],
+    "itemType":"belt"
+  },
+  "Hinekora's Sight":{
+    "affixes":["AmuletImplicitAllAttributes1","UniqueIncreasedAccuracy13","UniqueIncreasedEvasionRating5","BlindImmunityUnique__1"],
+    "baseType":"Stellar Amulet",
+    "league":" Rise of the Abyssal",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Future-Past",
+    "level":44,
+    "itemType":"amulet",
+    "stats":["Hinekora's Sight","Stellar Amulet","Requires Level 44","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Future-Past","AmuletImplicitAllAttributes1","UniqueIncreasedAccuracy13","UniqueIncreasedEvasionRating5","BlindImmunityUnique__1"]
+  },
+  "Asphyxia's Wrath":{
+    "affixes":["QuiverImplicitPhysicalDamage1","UniqueIncreasedAttackSpeed4","UniqueColdResist4","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1","UniqueAddedColdDamage2"],
+    "baseType":"Broadhead Quiver",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Asphyxia's Wrath","Broadhead Quiver","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","QuiverImplicitPhysicalDamage1","{variant:2}UniqueAddedColdDamage2","UniqueIncreasedAttackSpeed4","UniqueColdResist4","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1"],
+    "itemType":"quiver"
+  },
+  "Snakepit":{
+    "affixes":["RingImplicitIncreasedCastSpeed1","UniqueSpellDamage2","UniqueIncreasedCastSpeed9","UniqueLeftRingSpellProjectilesCannotChain1","UniqueLeftRingSpellProjectilesFork1","UniqueRightRingSpellProjectilesChain1","UniqueRightRingSpellProjectilesCannotFork1","UniqueSpellsCannotPierce1"],
+    "baseType":"Pearl Ring",
+    "implicitCount":1,
+    "stats":["Snakepit","Pearl Ring","Implicits: 1","RingImplicitIncreasedCastSpeed1","UniqueSpellDamage2","UniqueIncreasedCastSpeed9","UniqueLeftRingSpellProjectilesCannotChain1","UniqueLeftRingSpellProjectilesFork1","UniqueRightRingSpellProjectilesChain1","UniqueRightRingSpellProjectilesCannotFork1","UniqueSpellsCannotPierce1"],
+    "itemType":"ring"
+  },
+  "Ryslatha's Coil":{
+    "affixes":["BeltImplicitCharmSlots3","BeltImplicitReducedCharmChargesUsed1","UniqueIncreasedLife7","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"],
+    "baseType":"Ornate Belt",
+    "implicitCount":2,
+    "stats":["Ryslatha's Coil","Ornate Belt","Implicits: 2","BeltImplicitCharmSlots3","BeltImplicitReducedCharmChargesUsed1","UniqueIncreasedLife7","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"],
+    "itemType":"belt"
+  },
+  "Fireflower":{
+    "affixes":["AmuletImplicitBaseSpirit1","UniqueManaRegeneration7","UniqueTakeFireDamageOnIgnite1","UniqueGlobalFireGemLevel1","UniqueItemFoundRarityIncrease2"],
+    "baseType":"Solar Amulet",
+    "variants":["Pre 0.2.0","Current"],
+    "implicitCount":1,
+    "stats":["Fireflower","Solar Amulet","Variant: Pre 0.2.0","Variant: Current","Requires Level 52","Implicits: 1","AmuletImplicitBaseSpirit1","{variant:1}UniqueItemFoundRarityIncrease2[10,20]","{variant:2}UniqueItemFoundRarityIncrease2","UniqueManaRegeneration7","UniqueTakeFireDamageOnIgnite1","UniqueGlobalFireGemLevel1"],
+    "level":52,
+    "itemType":"amulet"
+  }
+}

@@ -1,125 +1,57 @@
 {
-  "Death's Harp":{
-    "baseType":"Dualstring Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"bow",
-    "modifiers":["{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus","{variant:3}+(20-25)% to Critical Damage Bonus"],
-    "name":"Death's Harp",
-    "originalString":"Death's Harp\nDualstring Bow\nVariant: 0.2.0\nVariant: 0.3.0\nVariant: Current\nImplicits: 1\nBow Attacks fire an additional Arrow\n{variant:1}+(50-70)% to Critical Damage Bonus\n{variant:2}+(30-40)% to Critical Damage Bonus\n{variant:3}+(20-25)% to Critical Damage Bonus\nBow Attacks fire 3 additional Arrows\nGain (20-30) Life per Enemy Killed\nGain (12-18) Mana per Enemy Killed\n",
-    "requirements":[],
-    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: Current","Implicits: 1","Bow Attacks fire an additional Arrow","{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus","{variant:3}+(20-25)% to Critical Damage Bonus","Bow Attacks fire 3 additional Arrows","Gain (20-30) Life per Enemy Killed","Gain (12-18) Mana per Enemy Killed"],
-    "variants":["0.2.0","0.3.0","Current"]
+  "Slivertongue":{
+    "baseType":"Zealot Bow",
+    "affixes":["UniqueLocalAddedPhysicalDamage14","UniqueLocalCriticalStrikeChance6","UniqueLifeLeechLocal1","UniqueManaLeechLocal1","UniqueArrowsFork1","UniqueArrowsAlwaysPierceAfterForking1"],
+    "stats":["Slivertongue","Zealot Bow","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage14","UniqueLocalCriticalStrikeChance6","UniqueLifeLeechLocal1","UniqueManaLeechLocal1","UniqueArrowsFork1","UniqueArrowsAlwaysPierceAfterForking1"],
+    "league":" Dawn of the Hunt"
   },
   "Doomfletch":{
     "baseType":"Composite Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+10 to Dexterity","(30-50)% increased Mana Regeneration Rate","Attacks with this Weapon gain 50% of Physical damage as Extra damage of each Element"],
-    "name":"Doomfletch",
-    "originalString":"Doomfletch\nComposite Bow\nLeague: Dawn of the Hunt\nAdds (5-7) to (10-12) Physical Damage\n+10 to Dexterity\n(30-50)% increased Mana Regeneration Rate\nAttacks with this Weapon gain 50% of Physical damage as Extra damage of each Element\n",
-    "requirements":[],
-    "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","Adds (5-7) to (10-12) Physical Damage","+10 to Dexterity","(30-50)% increased Mana Regeneration Rate","Attacks with this Weapon gain 50% of Physical damage as Extra damage of each Element"],
-    "variants":[]
-  },
-  "Fairgraves' Curse":{
-    "baseType":"Artillery Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Phantasmal Arrow",
-    "implicitCount":2,
-    "itemType":"bow",
-    "league":" Rise of the Abyssal",
-    "modifiers":["50% reduced Projectile Range","(30-50)% increased Flammability Magnitude","(10-20)% increased Ignite Magnitude","30% reduced Life Recovery rate","-30 Physical Damage taken from Hits"],
-    "name":"Fairgraves' Curse",
-    "originalString":"Fairgraves' Curse\nArtillery Bow\nLeague: Rise of the Abyssal\nImplicits: 2\nGrants Skill: Level (1-20) Phantasmal Arrow\n50% reduced Projectile Range\nAdds (76-98) to (126-193) Fire Damage\n(30-50)% increased Flammability Magnitude\n(10-20)% increased Ignite Magnitude\n30% reduced Life Recovery rate\n-30 Physical Damage taken from Hits\nAttack Hits inflict Spectral Fire for 8 seconds\n",
-    "requirements":[],
-    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Phantasmal Arrow","50% reduced Projectile Range","Adds (76-98) to (126-193) Fire Damage","(30-50)% increased Flammability Magnitude","(10-20)% increased Ignite Magnitude","30% reduced Life Recovery rate","-30 Physical Damage taken from Hits","Attack Hits inflict Spectral Fire for 8 seconds"],
-    "variants":[]
-  },
-  "Lioneye's Glare":{
-    "baseType":"Heavy Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently"],
-    "name":"Lioneye's Glare",
-    "originalString":"Lioneye's Glare\nHeavy Bow\nLeague: Dawn of the Hunt\n(150-240)% increased Physical Damage\n+(300-500) to Accuracy Rating\n10% increased Attack Speed\n+(20-30) to Dexterity\n+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently\n-1 metre to Dodge Roll distance if you've Dodge Rolled Recently\nBarrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence\n",
-    "requirements":[],
-    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently","Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence"],
-    "variants":[]
-  },
-  "Quill Rain":{
-    "baseType":"Shortbow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "modifiers":["100% increased Attack Speed","+(10-20) to Dexterity","(50-100)% increased Arrow Speed","40% less Attack Damage"],
-    "name":"Quill Rain",
-    "originalString":"Quill Rain\nShortbow\n100% increased Attack Speed\n+(10-20) to Dexterity\n(50-100)% increased Arrow Speed\n40% less Attack Damage\n",
-    "requirements":[],
-    "stats":["Quill Rain","Shortbow","100% increased Attack Speed","+(10-20) to Dexterity","(50-100)% increased Arrow Speed","40% less Attack Damage"],
-    "variants":[]
-  },
-  "Slivertongue":{
-    "baseType":"Zealot Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+(4-6)% to Critical Hit Chance","Leeches (5-8)% of Physical Damage as Life","Leeches (4-7)% of Physical Damage as Mana"],
-    "name":"Slivertongue",
-    "originalString":"Slivertongue\nZealot Bow\nLeague: Dawn of the Hunt\nAdds (40-48) to (65-72) Physical Damage\n+(4-6)% to Critical Hit Chance\nLeeches (5-8)% of Physical Damage as Life\nLeeches (4-7)% of Physical Damage as Mana\nArrows Fork\nArrows Pierce all targets after Forking\n",
-    "requirements":[],
-    "stats":["Slivertongue","Zealot Bow","League: Dawn of the Hunt","Adds (40-48) to (65-72) Physical Damage","+(4-6)% to Critical Hit Chance","Leeches (5-8)% of Physical Damage as Life","Leeches (4-7)% of Physical Damage as Mana","Arrows Fork","Arrows Pierce all targets after Forking"],
-    "variants":[]
+    "affixes":["UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"],
+    "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"],
+    "league":" Dawn of the Hunt"
   },
   "Splinterheart":{
     "baseType":"Recurve Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "modifiers":["{variant:1}(60-80)% increased Physical Damage","{variant:2}(120-160)% increased Physical Damage","+(50-70) to Accuracy Rating","(20-30)% increased Projectile Speed"],
-    "name":"Splinterheart",
-    "originalString":"Splinterheart\nRecurve Bow\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(60-80)% increased Physical Damage\n{variant:2}(120-160)% increased Physical Damage\n+(50-70) to Accuracy Rating\n(20-30)% increased Projectile Speed\nProjectiles Split towards +2 targets\n",
-    "requirements":[],
-    "stats":["Splinterheart","Recurve Bow","Variant: Pre 0.1.1","Variant: Current","{variant:1}(60-80)% increased Physical Damage","{variant:2}(120-160)% increased Physical Damage","+(50-70) to Accuracy Rating","(20-30)% increased Projectile Speed","Projectiles Split towards +2 targets"],
+    "affixes":["UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1","UniqueLocalIncreasedPhysicalDamagePercent3"],
+    "stats":["Splinterheart","Recurve Bow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent3[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent3","UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1"],
     "variants":["Pre 0.1.1","Current"]
   },
-  "Voltaxic Rift":{
-    "baseType":"Fanatic Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(10-15)% increased Attack Speed","100% of Lightning Damage Converted to Chaos Damage"],
-    "name":"Voltaxic Rift",
-    "originalString":"Voltaxic Rift\nFanatic Bow\nLeague: Dawn of the Hunt\nAdds 1 to (200-300) Lightning Damage\n(10-15)% increased Attack Speed\n100% of Lightning Damage Converted to Chaos Damage\nChaos Damage from Hits also Contributes to Shock Chance\n",
-    "requirements":[],
-    "stats":["Voltaxic Rift","Fanatic Bow","League: Dawn of the Hunt","Adds 1 to (200-300) Lightning Damage","(10-15)% increased Attack Speed","100% of Lightning Damage Converted to Chaos Damage","Chaos Damage from Hits also Contributes to Shock Chance"],
-    "variants":[]
+  "Quill Rain":{
+    "baseType":"Shortbow",
+    "affixes":["UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"],
+    "stats":["Quill Rain","Shortbow","UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"]
+  },
+  "Lioneye's Glare":{
+    "baseType":"Heavy Bow",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"],
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"],
+    "league":" Dawn of the Hunt"
   },
   "Widowhail":{
     "baseType":"Crude Bow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"bow",
-    "modifiers":["(150-250)% increased bonuses gained from Equipped Quiver"],
-    "name":"Widowhail",
-    "originalString":"Widowhail\nCrude Bow\n(150-250)% increased bonuses gained from Equipped Quiver\n",
-    "requirements":[],
-    "stats":["Widowhail","Crude Bow","(150-250)% increased bonuses gained from Equipped Quiver"],
-    "variants":[]
+    "affixes":["UniqueQuiverModifierEffect1"],
+    "stats":["Widowhail","Crude Bow","UniqueQuiverModifierEffect1"]
+  },
+  "Death's Harp":{
+    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: Current","Implicits: 1","BowImplicitAdditionalArrows1","{variant:1}UniqueLocalCriticalMultiplier1[50,70]","{variant:2}UniqueLocalCriticalMultiplier1[30,40]","{variant:3}UniqueLocalCriticalMultiplier1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6"],
+    "baseType":"Dualstring Bow",
+    "affixes":["BowImplicitAdditionalArrows1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6","UniqueLocalCriticalMultiplier1"],
+    "implicitCount":1,
+    "variants":["0.2.0","0.3.0","Current"]
+  },
+  "Voltaxic Rift":{
+    "baseType":"Fanatic Bow",
+    "affixes":["UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"],
+    "stats":["Voltaxic Rift","Fanatic Bow","League: Dawn of the Hunt","UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Fairgraves' Curse":{
+    "grantSkill":" Level (1-20) Phantasmal Arrow",
+    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Phantasmal Arrow","BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
+    "baseType":"Artillery Bow",
+    "affixes":["BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
+    "implicitCount":2,
+    "league":" Rise of the Abyssal"
   }
 }

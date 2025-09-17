@@ -1,58 +1,30 @@
 {
   "Double Vision":{
+    "grantSkill":" Level (1-20) Gemini Surge",
+    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Gemini Surge","CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
     "baseType":"Dyad Crossbow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Gemini Surge",
+    "affixes":["CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
     "implicitCount":2,
-    "itemType":"crossbow",
-    "league":" Rise of the Abyssal",
-    "modifiers":["+5% to Critical Hit Chance","(15-25)% increased Reload Speed"],
-    "name":"Double Vision",
-    "originalString":"Double Vision\nDyad Crossbow\nLeague: Rise of the Abyssal\nImplicits: 2\nGrants Skill: Level (1-20) Gemini Surge\nLoads an additional bolt\nAdds (14-21) to (25-37) Physical Damage\n+5% to Critical Hit Chance\n(15-25)% increased Reload Speed\nWhen you reload, triggers Gemini Surge to alternately\ngain (2-6) Cold Surges or (2-6) Fire Surges\n",
-    "requirements":[],
-    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Gemini Surge","Loads an additional bolt","Adds (14-21) to (25-37) Physical Damage","+5% to Critical Hit Chance","(15-25)% increased Reload Speed","When you reload, triggers Gemini Surge to alternately","gain (2-6) Cold Surges or (2-6) Fire Surges"],
-    "variants":[]
+    "league":" Rise of the Abyssal"
+  },
+  "The Last Lament":{
+    "grantSkill":" Level (1-20) Compose Requiem",
+    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "baseType":"Desolate Crossbow",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt"
   },
   "Mist Whisper":{
     "baseType":"Makeshift Crossbow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"crossbow",
-    "modifiers":["{variant:1}Adds (4-6) to (9-12) Cold Damage","{variant:2}Adds (8-10) to (13-15) Cold Damage","(30-50)% increased Freeze Buildup","{variant:2}30% increased Chill Duration on Enemies","{variant:1}Attacks Chain an additional time","{variant:2}Attacks Chain 2 additional times"],
-    "name":"Mist Whisper",
-    "originalString":"Mist Whisper\nMakeshift Crossbow\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}Adds (4-6) to (9-12) Cold Damage\n{variant:2}Adds (8-10) to (13-15) Cold Damage\nGain 5 Mana per Enemy Killed\n(30-50)% increased Freeze Buildup\n{variant:2}30% increased Chill Duration on Enemies\n{variant:1}Attacks Chain an additional time\n{variant:2}Attacks Chain 2 additional times\n",
-    "requirements":[],
-    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}Adds (4-6) to (9-12) Cold Damage","{variant:2}Adds (8-10) to (13-15) Cold Damage","Gain 5 Mana per Enemy Killed","(30-50)% increased Freeze Buildup","{variant:2}30% increased Chill Duration on Enemies","{variant:1}Attacks Chain an additional time","{variant:2}Attacks Chain 2 additional times"],
+    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueAdditionalAttackChain1","UniqueChillDuration1","UniqueLocalAddedColdDamage4"],
+    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Rampart Raptor":{
     "baseType":"Tense Crossbow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"crossbow",
-    "modifiers":["(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","Bolts fired by Crossbow Attacks have 100% chance to not"],
-    "name":"Rampart Raptor",
-    "originalString":"Rampart Raptor\nTense Crossbow\nImplicits: 1\n(20-30)% increased Bolt Speed\n(40-60)% increased Physical Damage\n(30-40)% increased Attack Speed\n30% reduced Reload Speed\nBolts fired by Crossbow Attacks have 100% chance to not\nexpend Ammunition if you've Reloaded Recently\n",
-    "requirements":[],
-    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","(20-30)% increased Bolt Speed","(40-60)% increased Physical Damage","(30-40)% increased Attack Speed","30% reduced Reload Speed","Bolts fired by Crossbow Attacks have 100% chance to not","expend Ammunition if you've Reloaded Recently"],
-    "variants":[]
-  },
-  "The Last Lament":{
-    "baseType":"Desolate Crossbow",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Compose Requiem",
-    "implicitCount":1,
-    "itemType":"crossbow",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill"],
-    "name":"The Last Lament",
-    "originalString":"The Last Lament\nDesolate Crossbow\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Compose Requiem\n(250-300)% increased Physical Damage\n(10-20)% increased Attack Speed\n(40-60)% reduced Reload Speed\nLeeches (5-10)% of Physical Damage as Life\n(10-20)% chance to load a bolt into all Crossbow skills on Kill\nSacrifice 300 Life to not consume the last bolt when firing\n",
-    "requirements":[],
-    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","(250-300)% increased Physical Damage","(10-20)% increased Attack Speed","(40-60)% reduced Reload Speed","Leeches (5-10)% of Physical Damage as Life","(10-20)% chance to load a bolt into all Crossbow skills on Kill","Sacrifice 300 Life to not consume the last bolt when firing"],
-    "variants":[]
+    "affixes":["CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
+    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
+    "implicitCount":1
   }
 }

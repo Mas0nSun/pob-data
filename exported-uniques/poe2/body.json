@@ -1,876 +1,390 @@
 {
-  "Apron of Emiran":{
-    "baseType":"Hermit Garb",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(30-50)% increased Evasion and Energy Shield","+(10-20) to Dexterity","(40-60)% reduced Duration of Bleeding on You"],
-    "name":"Apron of Emiran",
-    "originalString":"Apron of Emiran\nHermit Garb\n(30-50)% increased Evasion and Energy Shield\n+(10-20) to Dexterity\nBleeding you inflict is Aggravated\n(40-60)% reduced Duration of Bleeding on You\n",
-    "requirements":[],
-    "stats":["Apron of Emiran","Hermit Garb","(30-50)% increased Evasion and Energy Shield","+(10-20) to Dexterity","Bleeding you inflict is Aggravated","(40-60)% reduced Duration of Bleeding on You"],
-    "variants":[]
-  },
-  "Ashrend":{
-    "baseType":"Pathfinder Coat",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(40-60) to maximum Life","{variant:2}+(10-20) to Strength","{variant:1}+(20-30)% to Fire Resistance","{variant:2}+(30-40)% to Fire Resistance","-10 Physical Damage taken from Attack Hits"],
-    "name":"Ashrend",
-    "originalString":"Ashrend\nPathfinder Coat\nVariant: Pre 0.1.1\nVariant: Current\n+(40-60) to maximum Life\n{variant:2}+(10-20) to Strength\n{variant:1}+(20-30)% to Fire Resistance\n{variant:2}+(30-40)% to Fire Resistance\nCannot be Ignited\n-10 Physical Damage taken from Attack Hits\n",
-    "requirements":[],
-    "stats":["Ashrend","Pathfinder Coat","Variant: Pre 0.1.1","Variant: Current","+(40-60) to maximum Life","{variant:2}+(10-20) to Strength","{variant:1}+(20-30)% to Fire Resistance","{variant:2}+(30-40)% to Fire Resistance","Cannot be Ignited","-10 Physical Damage taken from Attack Hits"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Belly of the Beast":{
-    "baseType":"Explorer Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(100-150) to Stun Threshold","{variant:2}(25-30) to (35-40) Physical Thorns damage"],
-    "name":"Belly of the Beast",
-    "originalString":"Belly of the Beast\nExplorer Armour\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Armour and Evasion\n+(100-150) to maximum Life\n+(100-150) to Stun Threshold\nLife Recovery from Flasks is instant\n{variant:2}(25-30) to (35-40) Physical Thorns damage\n",
-    "requirements":[],
-    "stats":["Belly of the Beast","Explorer Armour","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(100-150) to Stun Threshold","Life Recovery from Flasks is instant","{variant:2}(25-30) to (35-40) Physical Thorns damage"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Bitterbloom":{
-    "baseType":"Feathered Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-100)% increased Energy Shield","+(50-100) to maximum Mana","50% increased Energy Shield Recharge Rate"],
-    "name":"Bitterbloom",
-    "originalString":"Bitterbloom\nFeathered Robe\n(50-100)% increased Energy Shield\n+(50-100) to maximum Mana\n50% increased Energy Shield Recharge Rate\nEnergy Shield Recharge starts when you use a Mana Flask\n",
-    "requirements":[],
-    "stats":["Bitterbloom","Feathered Robe","(50-100)% increased Energy Shield","+(50-100) to maximum Mana","50% increased Energy Shield Recharge Rate","Energy Shield Recharge starts when you use a Mana Flask"],
-    "variants":[]
-  },
-  "Blackbraid":{
-    "baseType":"Fur Plate",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(5-15) to Strength","+(5-15) to Intelligence","{variant:2,3}+10% to all Elemental Resistances","{variant:1,2}+100% of Armour also applies to Elemental Damage","{variant:3}+(100-150)% of Armour also applies to Elemental Damage","+(40-60) to Stun Threshold"],
-    "name":"Blackbraid",
-    "originalString":"Blackbraid\nFur Plate\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n{variant:2,3}+(40-60) to Armour\n+(5-15) to Strength\n+(5-15) to Intelligence\n{variant:2,3}+10% to all Elemental Resistances\n{variant:1,2}+100% of Armour also applies to Elemental Damage\n{variant:3}+(100-150)% of Armour also applies to Elemental Damage\n+(40-60) to Stun Threshold\n",
-    "requirements":[],
-    "stats":["Blackbraid","Fur Plate","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}+(40-60) to Armour","+(5-15) to Strength","+(5-15) to Intelligence","{variant:2,3}+10% to all Elemental Resistances","{variant:1,2}+100% of Armour also applies to Elemental Damage","{variant:3}+(100-150)% of Armour also applies to Elemental Damage","+(40-60) to Stun Threshold"],
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
-  },
   "Bramblejack":{
     "baseType":"Rusted Cuirass",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}+(50-80) to maximum Life","{variant:2}+(60-100) to maximum Life","+(60-100) to Stun Threshold","{variant:2}Cannot Evade Enemy Attacks","250% of Melee Physical Damage taken reflected to Attacker","{variant:2}Regenerate 5% of maximum Life per second while Surrounded"],
-    "name":"Bramblejack",
-    "originalString":"Bramblejack\nRusted Cuirass\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}+(50-80) to maximum Life\n{variant:2}+(60-100) to maximum Life\n+(60-100) to Stun Threshold\n{variant:2}Cannot Evade Enemy Attacks\n250% of Melee Physical Damage taken reflected to Attacker\n{variant:2}Regenerate 5% of maximum Life per second while Surrounded\n",
-    "requirements":[],
-    "stats":["Bramblejack","Rusted Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}+(50-80) to maximum Life","{variant:2}+(60-100) to maximum Life","+(60-100) to Stun Threshold","{variant:2}Cannot Evade Enemy Attacks","250% of Melee Physical Damage taken reflected to Attacker","{variant:2}Regenerate 5% of maximum Life per second while Surrounded"],
+    "affixes":["UniqueStunThreshold6","UniquePhysicalDamageTakenPercentToReflect1","UniqueCannotEvade1","UniqueIncreasedLife17","UniqueLifeRegenerationWhileSurrounded1"],
+    "stats":["Bramblejack","Rusted Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueIncreasedLife17[50,80]","{variant:2}UniqueIncreasedLife17","UniqueStunThreshold6","{variant:2}UniqueCannotEvade1","UniquePhysicalDamageTakenPercentToReflect1","{variant:2}UniqueLifeRegenerationWhileSurrounded1"],
     "variants":["Pre 0.1.1","Current"]
-  },
-  "Briskwrap":{
-    "baseType":"Rhoahide Coat",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:2,3}(60-100)% increased Evasion Rating","(40-60)% increased Flask Life Recovery rate","(40-60)% increased Flask Mana Recovery rate","+(20-30) to Dexterity","+(20-30)% to Cold Resistance","{variant:3}Gain Deflection Rating equal to (20-30)% of Evasion Rating"],
-    "name":"Briskwrap",
-    "originalString":"Briskwrap\nRhoahide Coat\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n{variant:2,3}(60-100)% increased Evasion Rating\n(40-60)% increased Flask Life Recovery rate\n(40-60)% increased Flask Mana Recovery rate\n+(20-30) to Dexterity\n+(20-30)% to Cold Resistance\n{variant:3}Gain Deflection Rating equal to (20-30)% of Evasion Rating\n",
-    "requirements":[],
-    "stats":["Briskwrap","Rhoahide Coat","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}(60-100)% increased Evasion Rating","(40-60)% increased Flask Life Recovery rate","(40-60)% increased Flask Mana Recovery rate","+(20-30) to Dexterity","+(20-30)% to Cold Resistance","{variant:3}Gain Deflection Rating equal to (20-30)% of Evasion Rating"],
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
-  },
-  "Bristleboar":{
-    "baseType":"Leather Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}(40-80)% increased Evasion Rating","{variant:2}50% reduced Evasion Rating","+(40-60) to maximum Life","{variant:2}(3-5) Life Regeneration per second","{variant:1}Gain 3 Rage when Hit by an Enemy","{variant:2}Gain 5 Rage when Hit by an Enemy"],
-    "name":"Bristleboar",
-    "originalString":"Bristleboar\nLeather Vest\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(40-80)% increased Evasion Rating\n{variant:2}50% reduced Evasion Rating\n+(40-60) to maximum Life\n{variant:2}(3-5) Life Regeneration per second\n{variant:1}Gain 3 Rage when Hit by an Enemy\n{variant:2}Gain 5 Rage when Hit by an Enemy\nGain 10 Rage when Critically Hit by an Enemy\n",
-    "requirements":[],
-    "stats":["Bristleboar","Leather Vest","Variant: Pre 0.1.1","Variant: Current","{variant:1}(40-80)% increased Evasion Rating","{variant:2}50% reduced Evasion Rating","+(40-60) to maximum Life","{variant:2}(3-5) Life Regeneration per second","{variant:1}Gain 3 Rage when Hit by an Enemy","{variant:2}Gain 5 Rage when Hit by an Enemy","Gain 10 Rage when Critically Hit by an Enemy"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Cloak of Defiance":{
-    "baseType":"Havoc Raiment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(50-100)% increased Energy Shield","+(100-150) to maximum Mana","50% increased Mana Regeneration Rate","30% of Damage is taken from Mana before Life"],
-    "name":"Cloak of Defiance",
-    "originalString":"Cloak of Defiance\nHavoc Raiment\nLeague: Dawn of the Hunt\n(50-100)% increased Energy Shield\n+(100-150) to maximum Mana\n50% increased Mana Regeneration Rate\n30% of Damage is taken from Mana before Life\n",
-    "requirements":[],
-    "stats":["Cloak of Defiance","Havoc Raiment","League: Dawn of the Hunt","(50-100)% increased Energy Shield","+(100-150) to maximum Mana","50% increased Mana Regeneration Rate","30% of Damage is taken from Mana before Life"],
-    "variants":[]
-  },
-  "Cloak of Flame":{
-    "baseType":"Silk Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(30-50)% to Fire Resistance","(30-50)% reduced Ignite Duration on you","40% of Physical Damage taken as Fire Damage"],
-    "name":"Cloak of Flame",
-    "originalString":"Cloak of Flame\nSilk Robe\n+(30-50)% to Fire Resistance\n(30-50)% reduced Ignite Duration on you\n40% of Physical Damage taken as Fire Damage\n25 to 35 Fire Thorns damage\n",
-    "requirements":[],
-    "stats":["Cloak of Flame","Silk Robe","+(30-50)% to Fire Resistance","(30-50)% reduced Ignite Duration on you","40% of Physical Damage taken as Fire Damage","25 to 35 Fire Thorns damage"],
-    "variants":[]
-  },
-  "Coat of Red":{
-    "baseType":"Chain Mail",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(80-100)% increased Armour and Evasion","+(80-100) to maximum Life","+(75-150) to Stun Threshold","25% chance to be inflicted with Bleeding when Hit"],
-    "name":"Coat of Red",
-    "originalString":"Coat of Red\nChain Mail\n(80-100)% increased Armour and Evasion\n+(80-100) to maximum Life\n+(75-150) to Stun Threshold\n25% chance to be inflicted with Bleeding when Hit\n",
-    "requirements":[],
-    "stats":["Coat of Red","Chain Mail","(80-100)% increased Armour and Evasion","+(80-100) to maximum Life","+(75-150) to Stun Threshold","25% chance to be inflicted with Bleeding when Hit"],
-    "variants":[]
-  },
-  "Cospri's Will":{
-    "baseType":"Assassin Garb",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Withering Presence",
-    "implicitCount":2,
-    "itemType":"body",
-    "league":" Rise of the Abyssal",
-    "modifiers":["5% increased Movement Speed","(150-200)% increased Evasion and Energy Shield","+(23-29)% to Chaos Resistance"],
-    "name":"Cospri's Will",
-    "originalString":"Cospri's Will\nAssassin Garb\nLeague: Rise of the Abyssal\nImplicits: 2\nGrants Skill: Level (1-20) Withering Presence\n5% increased Movement Speed\n(150-200)% increased Evasion and Energy Shield\n+(23-29)% to Chaos Resistance\nCurses you inflict have infinite Duration\nCurses you inflict can affect Hexproof Enemies\nWithered you inflict has infinite Duration\n",
-    "requirements":[],
-    "stats":["Cospri's Will","Assassin Garb","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Withering Presence","5% increased Movement Speed","(150-200)% increased Evasion and Energy Shield","+(23-29)% to Chaos Resistance","Curses you inflict have infinite Duration","Curses you inflict can affect Hexproof Enemies","Withered you inflict has infinite Duration"],
-    "variants":[]
-  },
-  "Couture of Crimson":{
-    "baseType":"Gilded Vestments",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-100)% increased Armour and Energy Shield","25% reduced maximum Life","(40-60)% reduced Duration of Bleeding on You"],
-    "name":"Couture of Crimson",
-    "originalString":"Couture of Crimson\nGilded Vestments\n(50-100)% increased Armour and Energy Shield\n25% reduced maximum Life\nLife Leech can Overflow Maximum Life\n(40-60)% reduced Duration of Bleeding on You\n",
-    "requirements":[],
-    "stats":["Couture of Crimson","Gilded Vestments","(50-100)% increased Armour and Energy Shield","25% reduced maximum Life","Life Leech can Overflow Maximum Life","(40-60)% reduced Duration of Bleeding on You"],
-    "variants":[]
-  },
-  "Doryani's Prototype":{
-    "baseType":"Scale Mail",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-100)% increased Armour and Evasion","+(60-80) to maximum Life","+100% of Armour also applies to Lightning Damage"],
-    "name":"Doryani's Prototype",
-    "originalString":"Doryani's Prototype\nScale Mail\n(50-100)% increased Armour and Evasion\n+(60-80) to maximum Life\n+100% of Armour also applies to Lightning Damage\nEnemies in your Presence have Lightning Resistance equal to yours\nLightning Resistance does not affect Lightning damage taken\n",
-    "requirements":[],
-    "stats":["Doryani's Prototype","Scale Mail","(50-100)% increased Armour and Evasion","+(60-80) to maximum Life","+100% of Armour also applies to Lightning Damage","Enemies in your Presence have Lightning Resistance equal to yours","Lightning Resistance does not affect Lightning damage taken"],
-    "variants":[]
-  },
-  "Dustbloom":{
-    "baseType":"Studded Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Evasion Rating","+(20-30)% to Cold Resistance","0.5% of maximum Life Regenerated per second per Fragile Regrowth","10% increased Mana Regeneration Rate per Fragile Regrowth"],
-    "name":"Dustbloom",
-    "originalString":"Dustbloom\nStudded Vest\n(100-150)% increased Evasion Rating\n+(20-30)% to Cold Resistance\nMaximum 10 Fragile Regrowth\n0.5% of maximum Life Regenerated per second per Fragile Regrowth\n10% increased Mana Regeneration Rate per Fragile Regrowth\nLose all Fragile Regrowth when Hit\nGain 1 Fragile Regrowth each second\n",
-    "requirements":[],
-    "stats":["Dustbloom","Studded Vest","(100-150)% increased Evasion Rating","+(20-30)% to Cold Resistance","Maximum 10 Fragile Regrowth","0.5% of maximum Life Regenerated per second per Fragile Regrowth","10% increased Mana Regeneration Rate per Fragile Regrowth","Lose all Fragile Regrowth when Hit","Gain 1 Fragile Regrowth each second"],
-    "variants":[]
-  },
-  "Edyrn's Tusks":{
-    "baseType":"Iron Cuirass",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(120-160)% increased Armour","{variant:1}10% chance to inflict Bleeding on Hit","{variant:2}50% chance to inflict Bleeding on Hit","50% reduced Slowing Potency of Debuffs on You"],
-    "name":"Edyrn's Tusks",
-    "originalString":"Edyrn's Tusks\nIron Cuirass\nVariant: Pre 0.1.1\nVariant: Current\n(120-160)% increased Armour\n{variant:1}10% chance to inflict Bleeding on Hit\n{variant:2}50% chance to inflict Bleeding on Hit\n50% reduced Slowing Potency of Debuffs on You\n(15-20) to (25-30) Physical Thorns damage\n",
-    "requirements":[],
-    "stats":["Edyrn's Tusks","Iron Cuirass","Variant: Pre 0.1.1","Variant: Current","(120-160)% increased Armour","{variant:1}10% chance to inflict Bleeding on Hit","{variant:2}50% chance to inflict Bleeding on Hit","50% reduced Slowing Potency of Debuffs on You","(15-20) to (25-30) Physical Thorns damage"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Enfolding Dawn":{
-    "baseType":"Pilgrim Vestments",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-100)% increased Armour and Energy Shield","+100 to Spirit","+(5-15)% to all Elemental Resistances"],
-    "name":"Enfolding Dawn",
-    "originalString":"Enfolding Dawn\nPilgrim Vestments\n(50-100)% increased Armour and Energy Shield\n+100 to Spirit\n+(5-15)% to all Elemental Resistances\nGain no inherent bonus from Intelligence\n",
-    "requirements":[],
-    "stats":["Enfolding Dawn","Pilgrim Vestments","(50-100)% increased Armour and Energy Shield","+100 to Spirit","+(5-15)% to all Elemental Resistances","Gain no inherent bonus from Intelligence"],
-    "variants":[]
-  },
-  "Foxshade":{
-    "baseType":"Quilted Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(50-70) to Evasion Rating","+(20-30) to Dexterity","10% increased Movement Speed when on Full Life","100% increased Evasion Rating when on Full Life"],
-    "name":"Foxshade",
-    "originalString":"Foxshade\nQuilted Vest\n+(50-70) to Evasion Rating\n+(20-30) to Dexterity\n10% increased Movement Speed when on Full Life\n100% increased Evasion Rating when on Full Life\n",
-    "requirements":[],
-    "stats":["Foxshade","Quilted Vest","+(50-70) to Evasion Rating","+(20-30) to Dexterity","10% increased Movement Speed when on Full Life","100% increased Evasion Rating when on Full Life"],
-    "variants":[]
-  },
-  "Ghostwrithe":{
-    "baseType":"Tattered Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+100 to maximum Energy Shield","+(29-37)% to Chaos Resistance","{variant:1}50% of Maximum Life Converted to Energy Shield","{variant:2}25% of Maximum Life Converted to Energy Shield"],
-    "name":"Ghostwrithe",
-    "originalString":"Ghostwrithe\nTattered Robe\nVariant: Pre 0.2.0\nVariant: Current\n+100 to maximum Energy Shield\n+(29-37)% to Chaos Resistance\n{variant:1}50% of Maximum Life Converted to Energy Shield\n{variant:2}25% of Maximum Life Converted to Energy Shield\n",
-    "requirements":[],
-    "stats":["Ghostwrithe","Tattered Robe","Variant: Pre 0.2.0","Variant: Current","+100 to maximum Energy Shield","+(29-37)% to Chaos Resistance","{variant:1}50% of Maximum Life Converted to Energy Shield","{variant:2}25% of Maximum Life Converted to Energy Shield"],
-    "variants":["Pre 0.2.0","Current"]
-  },
-  "Gloamgown":{
-    "baseType":"Elementalist Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(100-140)% increased Energy Shield","+(30-40) to Spirit","+(25-35)% to Cold Resistance","1000% increased Energy Shield Recharge Rate"],
-    "name":"Gloamgown",
-    "originalString":"Gloamgown\nElementalist Robe\nLeague: Dawn of the Hunt\n(100-140)% increased Energy Shield\n+(30-40) to Spirit\n+(25-35)% to Cold Resistance\n1000% increased Energy Shield Recharge Rate\nYour base Energy Shield Recharge Delay is 10 seconds\n",
-    "requirements":[],
-    "stats":["Gloamgown","Elementalist Robe","League: Dawn of the Hunt","(100-140)% increased Energy Shield","+(30-40) to Spirit","+(25-35)% to Cold Resistance","1000% increased Energy Shield Recharge Rate","Your base Energy Shield Recharge Delay is 10 seconds"],
-    "variants":[]
-  },
-  "Gloomform":{
-    "baseType":"Waxed Jacket",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Evasion Rating","+(10-20) to Dexterity","{variant:2}+(10-20)% to Fire Resistance","20% reduced Light Radius"],
-    "name":"Gloomform",
-    "originalString":"Gloomform\nWaxed Jacket\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Evasion Rating\n+(10-20) to Dexterity\n{variant:2}+(10-20)% to Fire Resistance\n20% reduced Light Radius\nYou have a Smoke Cloud around you while stationary\n",
-    "requirements":[],
-    "stats":["Gloomform","Waxed Jacket","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Evasion Rating","+(10-20) to Dexterity","{variant:2}+(10-20)% to Fire Resistance","20% reduced Light Radius","You have a Smoke Cloud around you while stationary"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Greed's Embrace":{
-    "baseType":"Vaal Cuirass",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["50% increased Strength Requirement","20% reduced Movement Speed","(100-150)% increased Armour","(30-50)% increased Rarity of Items found","+(20-30)% to Fire Resistance"],
-    "name":"Greed's Embrace",
-    "originalString":"Greed's Embrace\nVaal Cuirass\n50% increased Strength Requirement\n20% reduced Movement Speed\n(100-150)% increased Armour\n(30-50)% increased Rarity of Items found\n+(20-30)% to Fire Resistance\n",
-    "requirements":[],
-    "stats":["Greed's Embrace","Vaal Cuirass","50% increased Strength Requirement","20% reduced Movement Speed","(100-150)% increased Armour","(30-50)% increased Rarity of Items found","+(20-30)% to Fire Resistance"],
-    "variants":[]
-  },
-  "Husk of Dreams":{
-    "baseType":"Shaman Mantle",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Armour and Energy Shield","-10% to Fire Resistance","{variant:1}+(13-17)% to Chaos Resistance","{variant:2}+(13-17)% to Chaos Resistance","{variant:1}(25-50)% increased Flask Charges gained","{variant:2}(20-30)% increased Flask Charges gained","50% less Flask Charges used"],
-    "name":"Husk of Dreams",
-    "originalString":"Husk of Dreams\nShaman Mantle\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Armour and Energy Shield\n-10% to Fire Resistance\n{variant:1}+(13-17)% to Chaos Resistance\n{variant:2}+(13-17)% to Chaos Resistance\n{variant:1}(25-50)% increased Flask Charges gained\n{variant:2}(20-30)% increased Flask Charges gained\n50% less Flask Charges used\n",
-    "requirements":[],
-    "stats":["Husk of Dreams","Shaman Mantle","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Armour and Energy Shield","-10% to Fire Resistance","{variant:1}+(13-17)% to Chaos Resistance","{variant:2}+(13-17)% to Chaos Resistance","{variant:1}(25-50)% increased Flask Charges gained","{variant:2}(20-30)% increased Flask Charges gained","50% less Flask Charges used"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Hyrri's Ire":{
-    "baseType":"Armoured Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(30-40)% increased Elemental Ailment Threshold","(100-130)% increased Evasion Rating","+(30-40) to Dexterity","25% increased Chill Duration on Enemies"],
-    "name":"Hyrri's Ire",
-    "originalString":"Hyrri's Ire\nArmoured Vest\nLeague: Dawn of the Hunt\nImplicits: 1\n(30-40)% increased Elemental Ailment Threshold\n(100-130)% increased Evasion Rating\nAdds (13-20) to (21-31) Cold damage to Attacks\n+(30-40) to Dexterity\n25% increased Chill Duration on Enemies\nEvasion Rating is doubled if you have not been Hit Recently\n",
-    "requirements":[],
-    "stats":["Hyrri's Ire","Armoured Vest","League: Dawn of the Hunt","Implicits: 1","(30-40)% increased Elemental Ailment Threshold","(100-130)% increased Evasion Rating","Adds (13-20) to (21-31) Cold damage to Attacks","+(30-40) to Dexterity","25% increased Chill Duration on Enemies","Evasion Rating is doubled if you have not been Hit Recently"],
-    "variants":[]
-  },
-  "Icetomb":{
-    "baseType":"Mail Vestments",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(20-30) to Strength","+(20-30) to Intelligence","+(30-40)% to Cold Resistance","Gain Cold Thorns Damage equal to (10-18)% of your maximum Mana"],
-    "name":"Icetomb",
-    "originalString":"Icetomb\nMail Vestments\n+(20-30) to Strength\n+(20-30) to Intelligence\n+(30-40)% to Cold Resistance\nGain Cold Thorns Damage equal to (10-18)% of your maximum Mana\n",
-    "requirements":[],
-    "stats":["Icetomb","Mail Vestments","+(20-30) to Strength","+(20-30) to Intelligence","+(30-40)% to Cold Resistance","Gain Cold Thorns Damage equal to (10-18)% of your maximum Mana"],
-    "variants":[]
-  },
-  "Irongrasp":{
-    "baseType":"Vagabond Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Armour and Evasion","{variant:2}+(20-30) to Strength","+(100-150) to Stun Threshold"],
-    "name":"Irongrasp",
-    "originalString":"Irongrasp\nVagabond Armour\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Armour and Evasion\n{variant:2}+(20-30) to Strength\n+(100-150) to Stun Threshold\nIron Grip\nIron Will\n",
-    "requirements":[],
-    "stats":["Irongrasp","Vagabond Armour","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Armour and Evasion","{variant:2}+(20-30) to Strength","+(100-150) to Stun Threshold","Iron Grip","Iron Will"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Kaom's Heart":{
-    "baseType":"Conqueror Plate",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"body",
-    "modifiers":["(30-40)% increased Stun Threshold","{variant:1}+1000 to maximum Life","{variant:2}+1500 to maximum Life"],
-    "name":"Kaom's Heart",
-    "originalString":"Kaom's Heart\nConqueror Plate\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\n(30-40)% increased Stun Threshold\n{variant:1}+1000 to maximum Life\n{variant:2}+1500 to maximum Life\nYou have no Spirit\n",
-    "requirements":[],
-    "stats":["Kaom's Heart","Conqueror Plate","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","(30-40)% increased Stun Threshold","{variant:1}+1000 to maximum Life","{variant:2}+1500 to maximum Life","You have no Spirit"],
-    "variants":["Pre 0.2.1","Current"]
-  },
-  "Kingsguard":{
-    "baseType":"Full Plate",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(60-80) to maximum Life","+(40-60) to maximum Mana","+(5-10)% to all Elemental Resistances","25% reduced Endurance Charge Duration","Recover 5% of maximum Life for each Endurance Charge consumed"],
-    "name":"Kingsguard",
-    "originalString":"Kingsguard\nFull Plate\n+(60-80) to maximum Life\n+(40-60) to maximum Mana\n+(5-10)% to all Elemental Resistances\n25% reduced Endurance Charge Duration\nRecover 5% of maximum Life for each Endurance Charge consumed\n",
-    "requirements":[],
-    "stats":["Kingsguard","Full Plate","+(60-80) to maximum Life","+(40-60) to maximum Mana","+(5-10)% to all Elemental Resistances","25% reduced Endurance Charge Duration","Recover 5% of maximum Life for each Endurance Charge consumed"],
-    "variants":[]
-  },
-  "Lightning Coil":{
-    "baseType":"Ancestral Mail",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Valako's Charge",
-    "implicitCount":1,
-    "itemType":"body",
-    "league":" Rise of the Abyssal",
-    "modifiers":["(80-120)% increased Armour and Evasion","+(80-100) to maximum Life","+(20-30) to Dexterity","-(40-30)% to Lightning Resistance","(20-40)% of Physical damage from Hits taken as Lightning damage"],
-    "name":"Lightning Coil",
-    "originalString":"Lightning Coil\nAncestral Mail\nLeague: Rise of the Abyssal\nImplicits: 1\nGrants Skill: Level (1-20) Valako's Charge\n(80-120)% increased Armour and Evasion\n+(80-100) to maximum Life\n+(20-30) to Dexterity\n-(40-30)% to Lightning Resistance\n(20-40)% of Physical damage from Hits taken as Lightning damage\n",
-    "requirements":[],
-    "stats":["Lightning Coil","Ancestral Mail","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Level (1-20) Valako's Charge","(80-120)% increased Armour and Evasion","+(80-100) to maximum Life","+(20-30) to Dexterity","-(40-30)% to Lightning Resistance","(20-40)% of Physical damage from Hits taken as Lightning damage"],
-    "variants":[]
-  },
-  "Morior Invictus":{
-    "baseType":"Grand Regalia",
-    "flags":{
-      "hasAltVariant":true
-    },
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(200-300)% increased Armour, Evasion and Energy Shield","{variant:13}+(4-6) to all Attributes per Socket filled","{variant:12}5% increased Attributes per Socket filled","{variant:14}+(7-10)% to Chaos Resistance per Socket filled","{variant:16}(4-6) Life Regeneration per second per Socket filled","{variant:4}+(25-40) to maximum Life per Socket filled","{variant:6}+(20-30) to maximum Mana per Socket filled","{variant:17}Hits against you have (10-15)% reduced Critical Damage Bonus per Socket filled","{variant:7}10% increased Global Defences per Socket filled","{variant:8}(6-10)% increased Global Defences per Socket filled","{variant:9}10% increased Rarity of Items found per Socket filled","{variant:3}5% increased Maximum Life per Socket filled","{variant:5}5% increased Maximum Mana per Socket filled","{variant:10}+10% to all Elemental Resistances per Socket filled","{variant:11}+(5-7)% to all Elemental Resistances per Socket filled","{variant:1}+10 to Spirit per Socket filled","{variant:2}+(6-10) to Spirit per Socket filled","{variant:15}+(40-60) to Stun Threshold per Socket filled"],
-    "name":"Morior Invictus",
-    "originalString":"Morior Invictus\nGrand Regalia\nHas Alt Variant: true\nHas Alt Variant Two: true\nSource: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}\nSelected Variant: 2\nSelected Alt Variant: 4\nSelected Alt Variant Two: 6\nVariant: Spirit (Pre 0.2.0)\nVariant: Spirit\nVariant: Life (Pre 0.2.0)\nVariant: Life\nVariant: Mana (Pre 0.2.0)\nVariant: Mana\nVariant: Global Defences (Pre 0.2.0)\nVariant: Global Defences\nVariant: Item Rarity (Pre 0.2.0)\nVariant: All Resistances (Pre 0.2.0)\nVariant: All Resistances\nVariant: Attributes (Pre 0.2.0)\nVariant: Attributes\nVariant: Chaos Resistance\nVariant: Stun Threshold\nVariant: Life Regeneration\nVariant: Reduced Crit Damage\nSockets: S S S S\n(200-300)% increased Armour, Evasion and Energy Shield\n{variant:13}+(4-6) to all Attributes per Socket filled\n{variant:12}5% increased Attributes per Socket filled\n{variant:14}+(7-10)% to Chaos Resistance per Socket filled\n{variant:16}(4-6) Life Regeneration per second per Socket filled\n{variant:4}+(25-40) to maximum Life per Socket filled\n{variant:6}+(20-30) to maximum Mana per Socket filled\n{variant:17}Hits against you have (10-15)% reduced Critical Damage Bonus per Socket filled\n{variant:7}10% increased Global Defences per Socket filled\n{variant:8}(6-10)% increased Global Defences per Socket filled\n{variant:9}10% increased Rarity of Items found per Socket filled\n{variant:3}5% increased Maximum Life per Socket filled\n{variant:5}5% increased Maximum Mana per Socket filled\n{variant:10}+10% to all Elemental Resistances per Socket filled\n{variant:11}+(5-7)% to all Elemental Resistances per Socket filled\n{variant:1}+10 to Spirit per Socket filled\n{variant:2}+(6-10) to Spirit per Socket filled\n{variant:15}+(40-60) to Stun Threshold per Socket filled\n",
-    "requirements":[],
-    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
-    "stats":["Morior Invictus","Grand Regalia","Has Alt Variant: true","Has Alt Variant Two: true","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Selected Variant: 2","Selected Alt Variant: 4","Selected Alt Variant Two: 6","Variant: Spirit (Pre 0.2.0)","Variant: Spirit","Variant: Life (Pre 0.2.0)","Variant: Life","Variant: Mana (Pre 0.2.0)","Variant: Mana","Variant: Global Defences (Pre 0.2.0)","Variant: Global Defences","Variant: Item Rarity (Pre 0.2.0)","Variant: All Resistances (Pre 0.2.0)","Variant: All Resistances","Variant: Attributes (Pre 0.2.0)","Variant: Attributes","Variant: Chaos Resistance","Variant: Stun Threshold","Variant: Life Regeneration","Variant: Reduced Crit Damage","Sockets: S S S S","(200-300)% increased Armour, Evasion and Energy Shield","{variant:13}+(4-6) to all Attributes per Socket filled","{variant:12}5% increased Attributes per Socket filled","{variant:14}+(7-10)% to Chaos Resistance per Socket filled","{variant:16}(4-6) Life Regeneration per second per Socket filled","{variant:4}+(25-40) to maximum Life per Socket filled","{variant:6}+(20-30) to maximum Mana per Socket filled","{variant:17}Hits against you have (10-15)% reduced Critical Damage Bonus per Socket filled","{variant:7}10% increased Global Defences per Socket filled","{variant:8}(6-10)% increased Global Defences per Socket filled","{variant:9}10% increased Rarity of Items found per Socket filled","{variant:3}5% increased Maximum Life per Socket filled","{variant:5}5% increased Maximum Mana per Socket filled","{variant:10}+10% to all Elemental Resistances per Socket filled","{variant:11}+(5-7)% to all Elemental Resistances per Socket filled","{variant:1}+10 to Spirit per Socket filled","{variant:2}+(6-10) to Spirit per Socket filled","{variant:15}+(40-60) to Stun Threshold per Socket filled"],
-    "variants":["Spirit (Pre 0.2.0)","Spirit","Life (Pre 0.2.0)","Life","Mana (Pre 0.2.0)","Mana","Global Defences (Pre 0.2.0)","Global Defences","Item Rarity (Pre 0.2.0)","All Resistances (Pre 0.2.0)","All Resistances","Attributes (Pre 0.2.0)","Attributes","Chaos Resistance","Stun Threshold","Life Regeneration","Reduced Crit Damage"]
-  },
-  "Necromantle":{
-    "baseType":"Bone Raiment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(40-60) to maximum Life","+(30-50) to maximum Mana","{variant:2}Minions have +(17-23)% to Chaos Resistance","Minions gain (20-30)% of their maximum Life as Extra maximum Energy Shield","Minions Revive 50% faster"],
-    "name":"Necromantle",
-    "originalString":"Necromantle\nBone Raiment\nVariant: Pre 0.1.1\nVariant: Current\n+(40-60) to maximum Life\n+(30-50) to maximum Mana\n{variant:2}Minions have +(17-23)% to Chaos Resistance\nMinions gain (20-30)% of their maximum Life as Extra maximum Energy Shield\nMinions Revive 50% faster\n",
-    "requirements":[],
-    "stats":["Necromantle","Bone Raiment","Variant: Pre 0.1.1","Variant: Current","+(40-60) to maximum Life","+(30-50) to maximum Mana","{variant:2}Minions have +(17-23)% to Chaos Resistance","Minions gain (20-30)% of their maximum Life as Extra maximum Energy Shield","Minions Revive 50% faster"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Pariah's Embrace":{
-    "baseType":"Cloaked Mail",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-80)% increased Armour and Evasion","+50 to Spirit","{variant:1,2}20% reduced Mana Cost of Skills","{variant:3}(20-40)% increased Mana Cost Efficiency"],
-    "name":"Pariah's Embrace",
-    "originalString":"Pariah's Embrace\nCloaked Mail\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n(50-80)% increased Armour and Evasion\n+50 to Spirit\n{variant:2,3}+(10-15) to all Attributes\n(10-15) Life Regeneration per second\n{variant:1,2}20% reduced Mana Cost of Skills\n{variant:3}(20-40)% increased Mana Cost Efficiency\n",
-    "requirements":[],
-    "stats":["Pariah's Embrace","Cloaked Mail","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","(50-80)% increased Armour and Evasion","+50 to Spirit","{variant:2,3}+(10-15) to all Attributes","(10-15) Life Regeneration per second","{variant:1,2}20% reduced Mana Cost of Skills","{variant:3}(20-40)% increased Mana Cost Efficiency"],
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
-  },
-  "Perfidy":{
-    "baseType":"Knight Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Armour and Evasion","(10-40)% chance to Avoid Physical Damage from Hits","(10-40)% chance to Avoid Chaos Damage from Hits"],
-    "name":"Perfidy",
-    "originalString":"Perfidy\nKnight Armour\nSource: Drops from unique{Kosis, The Revelation}\n(100-150)% increased Armour and Evasion\n(10-40)% chance to Avoid Physical Damage from Hits\n(10-40)% chance to Avoid Chaos Damage from Hits\nEnemies in your Presence are Intimidated\n",
-    "requirements":[],
-    "source":"Drops from unique{Kosis, The Revelation}",
-    "stats":["Perfidy","Knight Armour","Source: Drops from unique{Kosis, The Revelation}","(100-150)% increased Armour and Evasion","(10-40)% chance to Avoid Physical Damage from Hits","(10-40)% chance to Avoid Chaos Damage from Hits","Enemies in your Presence are Intimidated"],
-    "variants":[]
-  },
-  "Pragmatism":{
-    "baseType":"Explorer Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(200-300)% increased Armour and Evasion","+(10-20)% to all Elemental Resistances","-17% to Chaos Resistance"],
-    "name":"Pragmatism",
-    "originalString":"Pragmatism\nExplorer Armour\nSource: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}\n(200-300)% increased Armour and Evasion\n+(10-20)% to all Elemental Resistances\n-17% to Chaos Resistance\nCharms use no Charges\n",
-    "requirements":[],
-    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}",
-    "stats":["Pragmatism","Explorer Armour","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","(200-300)% increased Armour and Evasion","+(10-20)% to all Elemental Resistances","-17% to Chaos Resistance","Charms use no Charges"],
-    "variants":[]
-  },
-  "Prayers for Rain":{
-    "baseType":"Keth Raiment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(60-100)% increased Energy Shield","+(10-15) to Intelligence","{variant:2}+(10-20)% to Lightning Resistance","30% slower start of Energy Shield Recharge"],
-    "name":"Prayers for Rain",
-    "originalString":"Prayers for Rain\nKeth Raiment\nVariant: Pre 0.1.1\nVariant: Current\n(60-100)% increased Energy Shield\n+(10-15) to Intelligence\n{variant:2}+(10-20)% to Lightning Resistance\n30% slower start of Energy Shield Recharge\nEnergy Shield Recharge is not interrupted by Damage if Recharge began Recently\n",
-    "requirements":[],
-    "stats":["Prayers for Rain","Keth Raiment","Variant: Pre 0.1.1","Variant: Current","(60-100)% increased Energy Shield","+(10-15) to Intelligence","{variant:2}+(10-20)% to Lightning Resistance","30% slower start of Energy Shield Recharge","Energy Shield Recharge is not interrupted by Damage if Recharge began Recently"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Quatl's Molt":{
-    "baseType":"Serpentscale Coat",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:2,3}(60-80)% increased Evasion Rating","{variant:1}+(30-50) to maximum Life","+(17-23)% to Chaos Resistance","{variant:3}Gain Deflection Rating equal to (40-60)% of Evasion Rating"],
-    "name":"Quatl's Molt",
-    "originalString":"Quatl's Molt\nSerpentscale Coat\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n{variant:2,3}(60-80)% increased Evasion Rating\n{variant:1}+(30-50) to maximum Life\n{variant:2,3}+(60-80) to maximum Life\n+(17-23)% to Chaos Resistance\n{variant:3}Gain Deflection Rating equal to (40-60)% of Evasion Rating\n(10-20) Life Regeneration per second\nCannot be Poisoned\n",
-    "requirements":[],
-    "stats":["Quatl's Molt","Serpentscale Coat","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}(60-80)% increased Evasion Rating","{variant:1}+(30-50) to maximum Life","{variant:2,3}+(60-80) to maximum Life","+(17-23)% to Chaos Resistance","{variant:3}Gain Deflection Rating equal to (40-60)% of Evasion Rating","(10-20) Life Regeneration per second","Cannot be Poisoned"],
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
-  },
-  "Queen of the Forest":{
-    "baseType":"Smuggler Coat",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Evasion Rating","-(15-10)% to Fire Resistance","+(25-30)% to Cold Resistance","+(10-15)% to Lightning Resistance","{variant:1}1% increased Movement Speed per 500 Evasion Rating","{variant:2}1% increased Movement Speed per 800 Evasion Rating","{variant:1}Other Modifiers to Movement Speed do not apply","{variant:2}Other Modifiers to Movement Speed do not apply"],
-    "name":"Queen of the Forest",
-    "originalString":"Queen of the Forest\nSmuggler Coat\nVariant: Pre 0.2.0\nVariant: Current\n(100-150)% increased Evasion Rating\n-(15-10)% to Fire Resistance\n+(25-30)% to Cold Resistance\n+(10-15)% to Lightning Resistance\n{variant:1}1% increased Movement Speed per 500 Evasion Rating\n{variant:2}1% increased Movement Speed per 800 Evasion Rating\n{variant:1}Other Modifiers to Movement Speed do not apply\n{variant:2}Other Modifiers to Movement Speed do not apply\n",
-    "requirements":[],
-    "stats":["Queen of the Forest","Smuggler Coat","Variant: Pre 0.2.0","Variant: Current","(100-150)% increased Evasion Rating","-(15-10)% to Fire Resistance","+(25-30)% to Cold Resistance","+(10-15)% to Lightning Resistance","{variant:1}1% increased Movement Speed per 500 Evasion Rating","{variant:2}1% increased Movement Speed per 800 Evasion Rating","{variant:1}Other Modifiers to Movement Speed do not apply","{variant:2}Other Modifiers to Movement Speed do not apply"],
-    "variants":["Pre 0.2.0","Current"]
-  },
-  "Redflare Conduit":{
-    "baseType":"Anchorite Garb",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(50-70) to maximum Mana","{variant:2}-15% to Cold Resistance","{variant:1}+(20-30)% to Lightning Resistance","{variant:2}+(30-40)% to Lightning Resistance","20% chance to gain a Power Charge on Hit"],
-    "name":"Redflare Conduit",
-    "originalString":"Redflare Conduit\nAnchorite Garb\nVariant: Pre 0.1.1\nVariant: Current\n+(50-70) to maximum Mana\n{variant:2}-15% to Cold Resistance\n{variant:1}+(20-30)% to Lightning Resistance\n{variant:2}+(30-40)% to Lightning Resistance\n20% chance to gain a Power Charge on Hit\nLose all Power Charges on reaching maximum Power Charges\nShocks you when you reach maximum Power Charges\n",
-    "requirements":[],
-    "stats":["Redflare Conduit","Anchorite Garb","Variant: Pre 0.1.1","Variant: Current","+(50-70) to maximum Mana","{variant:2}-15% to Cold Resistance","{variant:1}+(20-30)% to Lightning Resistance","{variant:2}+(30-40)% to Lightning Resistance","20% chance to gain a Power Charge on Hit","Lose all Power Charges on reaching maximum Power Charges","Shocks you when you reach maximum Power Charges"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Sacrosanctum":{
-    "baseType":"Corvus Mantle",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+(20-30) to Spirit","(80-120)% increased Armour and Energy Shield","+(20-30) to Strength","+(20-30) to Intelligence","+(17-23)% to Chaos Resistance","(5-10)% of Damage taken Recouped as Life"],
-    "name":"Sacrosanctum",
-    "originalString":"Sacrosanctum\nCorvus Mantle\nLeague: Dawn of the Hunt\nImplicits: 1\n+(20-30) to Spirit\n(80-120)% increased Armour and Energy Shield\n+(20-30) to Strength\n+(20-30) to Intelligence\n+(17-23)% to Chaos Resistance\n(5-10)% of Damage taken Recouped as Life\nDamage taken Recouped as Life is also Recouped as Energy Shield\n",
-    "requirements":[],
-    "stats":["Sacrosanctum","Corvus Mantle","League: Dawn of the Hunt","Implicits: 1","+(20-30) to Spirit","(80-120)% increased Armour and Energy Shield","+(20-30) to Strength","+(20-30) to Intelligence","+(17-23)% to Chaos Resistance","(5-10)% of Damage taken Recouped as Life","Damage taken Recouped as Life is also Recouped as Energy Shield"],
-    "variants":[]
-  },
-  "Sands of Silk":{
-    "baseType":"Shrouded Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(50-100)% increased Evasion Rating","+(50-80) to maximum Mana","+(10-20) to Dexterity","+(10-20) to Intelligence","+(10-15)% to Fire Resistance","(15-30)% increased Cooldown Recovery Rate"],
-    "name":"Sands of Silk",
-    "originalString":"Sands of Silk\nShrouded Vest\nLeague: Dawn of the Hunt\n(50-100)% increased Evasion Rating\n+(50-80) to maximum Mana\n+(10-20) to Dexterity\n+(10-20) to Intelligence\n+(10-15)% to Fire Resistance\n(15-30)% increased Cooldown Recovery Rate\n",
-    "requirements":[],
-    "stats":["Sands of Silk","Shrouded Vest","League: Dawn of the Hunt","(50-100)% increased Evasion Rating","+(50-80) to maximum Mana","+(10-20) to Dexterity","+(10-20) to Intelligence","+(10-15)% to Fire Resistance","(15-30)% increased Cooldown Recovery Rate"],
-    "variants":[]
-  },
-  "Sierran Inheritance":{
-    "baseType":"Marabout Garb",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-80)% increased Evasion and Energy Shield","+(15-25)% to Lightning Resistance","(30-50)% faster start of Energy Shield Recharge"],
-    "name":"Sierran Inheritance",
-    "originalString":"Sierran Inheritance\nMarabout Garb\n(50-80)% increased Evasion and Energy Shield\n+(15-25)% to Lightning Resistance\n(30-50)% faster start of Energy Shield Recharge\nThe Effect of Chill on you is reversed\n",
-    "requirements":[],
-    "stats":["Sierran Inheritance","Marabout Garb","(50-80)% increased Evasion and Energy Shield","+(15-25)% to Lightning Resistance","(30-50)% faster start of Energy Shield Recharge","The Effect of Chill on you is reversed"],
-    "variants":[]
-  },
-  "Silks of Veneration":{
-    "baseType":"Enlightened Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":1,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(40-50)% increased Mana Regeneration Rate","+(30-50) to Spirit","+(20-30) to Intelligence","+(10-20)% to all Elemental Resistances","(30-50)% increased Energy Shield Recharge Rate"],
-    "name":"Silks of Veneration",
-    "originalString":"Silks of Veneration\nEnlightened Robe\nLeague: Dawn of the Hunt\nImplicits: 1\n(40-50)% increased Mana Regeneration Rate\n+(30-50) to Spirit\n+(20-30) to Intelligence\n+(10-20)% to all Elemental Resistances\n(30-50)% increased Energy Shield Recharge Rate\nCurrent Energy Shield also grants Elemental Damage reduction\n",
-    "requirements":[],
-    "stats":["Silks of Veneration","Enlightened Robe","League: Dawn of the Hunt","Implicits: 1","(40-50)% increased Mana Regeneration Rate","+(30-50) to Spirit","+(20-30) to Intelligence","+(10-20)% to all Elemental Resistances","(30-50)% increased Energy Shield Recharge Rate","Current Energy Shield also grants Elemental Damage reduction"],
-    "variants":[]
-  },
-  "Skin of the Loyal":{
-    "baseType":"Garment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(5-40)% to all Elemental Resistances"],
-    "name":"Skin of the Loyal",
-    "originalString":"Skin of the Loyal\nGarment\nSource: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}\n+(5-40)% to all Elemental Resistances\nElemental Ailment Threshold is increased by Overcapped Chaos Resistance\nArmour is increased by Overcapped Fire Resistance\nEnergy Shield is increased by Overcapped Cold Resistance\nEvasion Rating is increased by Overcapped Lightning Resistance\n",
-    "requirements":[],
-    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "stats":["Skin of the Loyal","Garment","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","+(5-40)% to all Elemental Resistances","Elemental Ailment Threshold is increased by Overcapped Chaos Resistance","Armour is increased by Overcapped Fire Resistance","Energy Shield is increased by Overcapped Cold Resistance","Evasion Rating is increased by Overcapped Lightning Resistance"],
-    "variants":[]
-  },
-  "Soul Mantle":{
-    "baseType":"Sacrificial Mantle",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(80-120)% increased Armour and Energy Shield","+10 to Strength","+15 to Intelligence","(20-30)% reduced Totem Life","+1 to maximum number of Summoned Totems"],
-    "name":"Soul Mantle",
-    "originalString":"Soul Mantle\nSacrificial Mantle\nLeague: Dawn of the Hunt\n(80-120)% increased Armour and Energy Shield\n+10 to Strength\n+15 to Intelligence\n(20-30)% reduced Totem Life\n+1 to maximum number of Summoned Totems\nInflicts a random Curse on you when your Totems die, ignoring Curse limit\n",
-    "requirements":[],
-    "stats":["Soul Mantle","Sacrificial Mantle","League: Dawn of the Hunt","(80-120)% increased Armour and Energy Shield","+10 to Strength","+15 to Intelligence","(20-30)% reduced Totem Life","+1 to maximum number of Summoned Totems","Inflicts a random Curse on you when your Totems die, ignoring Curse limit"],
-    "variants":[]
-  },
-  "Tabula Rasa":{
-    "baseType":"Garment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":[],
-    "name":"Tabula Rasa",
-    "originalString":"Tabula Rasa\nGarment\nLeague: Dawn of the Hunt\nSockets: S S S S S S\nHas 6 Rune Sockets\n",
-    "requirements":[],
-    "stats":["Tabula Rasa","Garment","League: Dawn of the Hunt","Sockets: S S S S S S","Has 6 Rune Sockets"],
-    "variants":[]
-  },
-  "Temporalis":{
-    "baseType":"Silk Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["+(100-150) to maximum Energy Shield","+(10-20)% to all Elemental Resistances","(5-30)% of Damage taken Recouped as Life","(5-30)% of Damage taken Recouped as Mana","{variant:1}Skills have -(4-2) seconds to Cooldown","{variant:2}Skills have -(2-1) seconds to Cooldown"],
-    "name":"Temporalis",
-    "originalString":"Temporalis\nSilk Robe\nSource: Drops from unique{Zarokh, the Temporal}\nVariant: Pre 0.2.0\nVariant: Current\n+(100-150) to maximum Energy Shield\n+(10-20)% to all Elemental Resistances\n(5-30)% of Damage taken Recouped as Life\n(5-30)% of Damage taken Recouped as Mana\n{variant:1}Skills have -(4-2) seconds to Cooldown\n{variant:2}Skills have -(2-1) seconds to Cooldown\n",
-    "requirements":[],
-    "source":"Drops from unique{Zarokh, the Temporal}",
-    "stats":["Temporalis","Silk Robe","Source: Drops from unique{Zarokh, the Temporal}","Variant: Pre 0.2.0","Variant: Current","+(100-150) to maximum Energy Shield","+(10-20)% to all Elemental Resistances","(5-30)% of Damage taken Recouped as Life","(5-30)% of Damage taken Recouped as Mana","{variant:1}Skills have -(4-2) seconds to Cooldown","{variant:2}Skills have -(2-1) seconds to Cooldown"],
-    "variants":["Pre 0.2.0","Current"]
-  },
-  "Tetzlapokal's Desire":{
-    "baseType":"Votive Raiment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Energy Shield","+(20-30) to Strength","{variant:2}+(20-30) to Intelligence","+(17-23)% to Chaos Resistance"],
-    "name":"Tetzlapokal's Desire",
-    "originalString":"Tetzlapokal's Desire\nVotive Raiment\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Energy Shield\n+(20-30) to Strength\n{variant:2}+(20-30) to Intelligence\n+(17-23)% to Chaos Resistance\nLife Recharges\n",
-    "requirements":[],
-    "stats":["Tetzlapokal's Desire","Votive Raiment","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Energy Shield","+(20-30) to Strength","{variant:2}+(20-30) to Intelligence","+(17-23)% to Chaos Resistance","Life Recharges"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Barrow Dweller":{
-    "baseType":"Rogue Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(60-100)% increased Armour and Evasion","-(20-10)% to Fire Resistance","+50% to Cold Resistance","{variant:2}Damage of Enemies Hitting you is Unlucky while you are on Low Life","50% chance to Avoid Death from Hits"],
-    "name":"The Barrow Dweller",
-    "originalString":"The Barrow Dweller\nRogue Armour\nVariant: Pre 0.1.1\nVariant: Current\n(60-100)% increased Armour and Evasion\n-(20-10)% to Fire Resistance\n+50% to Cold Resistance\n{variant:2}Damage of Enemies Hitting you is Unlucky while you are on Low Life\n50% chance to Avoid Death from Hits\n",
-    "requirements":[],
-    "stats":["The Barrow Dweller","Rogue Armour","Variant: Pre 0.1.1","Variant: Current","(60-100)% increased Armour and Evasion","-(20-10)% to Fire Resistance","+50% to Cold Resistance","{variant:2}Damage of Enemies Hitting you is Unlucky while you are on Low Life","50% chance to Avoid Death from Hits"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Black Doubt":{
-    "baseType":"Hexer's Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(60-100)% increased Energy Shield","+(10-30) to Intelligence","{variant:2}+(10-20)% to Cold Resistance","While not on Full Life, Sacrifice 10% of maximum Mana per Second to Recover that much Life"],
-    "name":"The Black Doubt",
-    "originalString":"The Black Doubt\nHexer's Robe\nVariant: Pre 0.1.1\nVariant: Current\n(60-100)% increased Energy Shield\n+(10-30) to Intelligence\n{variant:2}+(10-20)% to Cold Resistance\nDamage over Time bypasses your Energy Shield\nWhile not on Full Life, Sacrifice 10% of maximum Mana per Second to Recover that much Life\n",
-    "requirements":[],
-    "stats":["The Black Doubt","Hexer's Robe","Variant: Pre 0.1.1","Variant: Current","(60-100)% increased Energy Shield","+(10-30) to Intelligence","{variant:2}+(10-20)% to Cold Resistance","Damage over Time bypasses your Energy Shield","While not on Full Life, Sacrifice 10% of maximum Mana per Second to Recover that much Life"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Brass Dome":{
-    "baseType":"Champion Cuirass",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}(300-400)% increased Armour","{variant:2}(400-500)% increased Armour","{variant:1}+5% to all Maximum Elemental Resistances","{variant:2}-(5-1)% to all Maximum Elemental Resistances","+(200-300) to Stun Threshold"],
-    "name":"The Brass Dome",
-    "originalString":"The Brass Dome\nChampion Cuirass\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(300-400)% increased Armour\n{variant:2}(400-500)% increased Armour\n{variant:1}+5% to all Maximum Elemental Resistances\n{variant:2}-(5-1)% to all Maximum Elemental Resistances\n+(200-300) to Stun Threshold\nTake no Extra Damage from Critical Hits\n",
-    "requirements":[],
-    "stats":["The Brass Dome","Champion Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}(300-400)% increased Armour","{variant:2}(400-500)% increased Armour","{variant:1}+5% to all Maximum Elemental Resistances","{variant:2}-(5-1)% to all Maximum Elemental Resistances","+(200-300) to Stun Threshold","Take no Extra Damage from Critical Hits"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Coming Calamity":{
-    "baseType":"Heroic Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Herald of Thunder",
-    "implicitCount":4,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+(60-80) to maximum Life","+(30-40)% to all Elemental Resistances"],
-    "name":"The Coming Calamity",
-    "originalString":"The Coming Calamity\nHeroic Armour\nLeague: Dawn of the Hunt\nImplicits: 4\nGrants Skill: Level (1-20) Herald of Ash\nGrants Skill: Level (1-20) Herald of Ice\nGrants Skill: Level (1-20) Herald of Thunder\n+(60-80) to maximum Life\n+(30-40)% to all Elemental Resistances\nEnemies in your Presence have no Elemental Resistances\n",
-    "requirements":[],
-    "stats":["The Coming Calamity","Heroic Armour","League: Dawn of the Hunt","Implicits: 4","Grants Skill: Level (1-20) Herald of Ash","Grants Skill: Level (1-20) Herald of Ice","Grants Skill: Level (1-20) Herald of Thunder","+(60-80) to maximum Life","+(30-40)% to all Elemental Resistances","Enemies in your Presence have no Elemental Resistances"],
-    "variants":[]
   },
   "The Covenant":{
     "baseType":"Altar Robe",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Energy Shield","+(100-150) to maximum Life","5% of Spell Damage Leeched as Life","Skills gain a Base Life Cost equal to 50% of Base Mana Cost"],
-    "name":"The Covenant",
-    "originalString":"The Covenant\nAltar Robe\n(100-150)% increased Energy Shield\n+(100-150) to maximum Life\n5% of Spell Damage Leeched as Life\nSkills gain a Base Life Cost equal to 50% of Base Mana Cost\n",
-    "requirements":[],
-    "stats":["The Covenant","Altar Robe","(100-150)% increased Energy Shield","+(100-150) to maximum Life","5% of Spell Damage Leeched as Life","Skills gain a Base Life Cost equal to 50% of Base Mana Cost"],
-    "variants":[]
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent11","UniqueIncreasedLife25","UniqueSpellDamageLifeLeech1","UniqueLifeCostAsManaCost1"],
+    "stats":["The Covenant","Altar Robe","UniqueLocalIncreasedEnergyShieldPercent11","UniqueIncreasedLife25","UniqueSpellDamageLifeLeech1","UniqueLifeCostAsManaCost1"]
   },
-  "The Dancing Mirage":{
-    "baseType":"Wayfarer Jacket",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}(60-100)% increased Evasion and Energy Shield","{variant:2}(150-200)% increased Evasion and Energy Shield","+(10-20)% to Lightning Resistance","20% less Damage taken if you have not been Hit Recently","100% increased Evasion Rating if you have been Hit Recently"],
-    "name":"The Dancing Mirage",
-    "originalString":"The Dancing Mirage\nWayfarer Jacket\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(60-100)% increased Evasion and Energy Shield\n{variant:2}(150-200)% increased Evasion and Energy Shield\n+(10-20)% to Lightning Resistance\n20% less Damage taken if you have not been Hit Recently\n100% increased Evasion Rating if you have been Hit Recently\n",
-    "requirements":[],
-    "stats":["The Dancing Mirage","Wayfarer Jacket","Variant: Pre 0.1.1","Variant: Current","{variant:1}(60-100)% increased Evasion and Energy Shield","{variant:2}(150-200)% increased Evasion and Energy Shield","+(10-20)% to Lightning Resistance","20% less Damage taken if you have not been Hit Recently","100% increased Evasion Rating if you have been Hit Recently"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Fallen Formation":{
-    "baseType":"Lamellar Mail",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(100-200)% increased Armour and Evasion","+(20-30) to Strength","+(20-30) to Dexterity","-20 to maximum Valour"],
-    "name":"The Fallen Formation",
-    "originalString":"The Fallen Formation\nLamellar Mail\nSource: No longer obtainable\nLeague: Dawn of the Hunt\n(100-200)% increased Armour and Evasion\n+(20-30) to Strength\n+(20-30) to Dexterity\n(8-12) Life Regeneration per second\n-20 to maximum Valour\nBanners always have maximum Valour\n",
-    "requirements":[],
-    "source":"No longer obtainable",
-    "stats":["The Fallen Formation","Lamellar Mail","Source: No longer obtainable","League: Dawn of the Hunt","(100-200)% increased Armour and Evasion","+(20-30) to Strength","+(20-30) to Dexterity","(8-12) Life Regeneration per second","-20 to maximum Valour","Banners always have maximum Valour"],
-    "variants":[]
-  },
-  "The Mutable Star":{
-    "baseType":"Cleric Vestments",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(100-150)% increased Armour and Energy Shield","(50-100)% increased Energy Shield Recharge Rate","(30-50)% reduced Ignite Duration on you","Defend against Hits as though you had 1% more Armour per 1% current Energy Shield","(30-50)% reduced Duration of Bleeding on You"],
-    "name":"The Mutable Star",
-    "originalString":"The Mutable Star\nCleric Vestments\nLeague: Dawn of the Hunt\n(100-150)% increased Armour and Energy Shield\n(50-100)% increased Energy Shield Recharge Rate\n(25-35) Life Regeneration per second\n(30-50)% reduced Ignite Duration on you\nDefend against Hits as though you had 1% more Armour per 1% current Energy Shield\n(30-50)% reduced Duration of Bleeding on You\n",
-    "requirements":[],
-    "stats":["The Mutable Star","Cleric Vestments","League: Dawn of the Hunt","(100-150)% increased Armour and Energy Shield","(50-100)% increased Energy Shield Recharge Rate","(25-35) Life Regeneration per second","(30-50)% reduced Ignite Duration on you","Defend against Hits as though you had 1% more Armour per 1% current Energy Shield","(30-50)% reduced Duration of Bleeding on You"],
-    "variants":[]
-  },
-  "The Rat Cage":{
-    "baseType":"Scout's Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Evasion Rating","+300 to maximum Life","25% reduced Attribute Requirements","100% of Fire Damage from Hits taken as Physical Damage"],
-    "name":"The Rat Cage",
-    "originalString":"The Rat Cage\nScout's Vest\n(100-150)% increased Evasion Rating\n+300 to maximum Life\n25% reduced Attribute Requirements\n100% of Fire Damage from Hits taken as Physical Damage\n",
-    "requirements":[],
-    "stats":["The Rat Cage","Scout's Vest","(100-150)% increased Evasion Rating","+300 to maximum Life","25% reduced Attribute Requirements","100% of Fire Damage from Hits taken as Physical Damage"],
-    "variants":[]
-  },
-  "The Road Warrior":{
-    "baseType":"Raider Plate",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}(50-100)% increased Armour","{variant:2}+(10-15) to all Attributes","{variant:1}+(15-25)% to Fire Resistance","{variant:2}+(15-30)% to Fire Resistance","{variant:1}+(15-25)% to Lightning Resistance","{variant:2}+(15-30)% to Lightning Resistance","{variant:2}(10-15) Life Regeneration per second"],
-    "name":"The Road Warrior",
-    "originalString":"The Road Warrior\nRaider Plate\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(50-100)% increased Armour\n{variant:2}+(10-15) to all Attributes\n{variant:1}+(15-25)% to Fire Resistance\n{variant:2}+(15-30)% to Fire Resistance\n{variant:1}+(15-25)% to Lightning Resistance\n{variant:2}+(15-30)% to Lightning Resistance\n{variant:2}(10-15) Life Regeneration per second\nMoving while Bleeding doesn't cause you to take extra damage\n",
-    "requirements":[],
-    "stats":["The Road Warrior","Raider Plate","Variant: Pre 0.1.1","Variant: Current","{variant:1}(50-100)% increased Armour","{variant:2}+(10-15) to all Attributes","{variant:1}+(15-25)% to Fire Resistance","{variant:2}+(15-30)% to Fire Resistance","{variant:1}+(15-25)% to Lightning Resistance","{variant:2}+(15-30)% to Lightning Resistance","{variant:2}(10-15) Life Regeneration per second","Moving while Bleeding doesn't cause you to take extra damage"],
-    "variants":["Pre 0.1.1","Current"]
+  "Queen of the Forest":{
+    "baseType":"Smuggler Coat",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent4","UniqueFireResist17","UniqueColdResist17","UniqueLightningResist14","UniqueSetMovementVelocityPerEvasion1"],
+    "stats":["Queen of the Forest","Smuggler Coat","Variant: Pre 0.2.0","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent4","UniqueFireResist17","UniqueColdResist17","UniqueLightningResist14","{variant:1}UniqueSetMovementVelocityPerEvasion1[500,500]","{variant:2}UniqueSetMovementVelocityPerEvasion1"],
+    "variants":["Pre 0.2.0","Current"]
   },
   "Titanrot Cataphract":{
     "baseType":"Maraketh Cuirass",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["{variant:1}(200-300)% increased Armour","{variant:2}(400-500)% increased Armour","{variant:1}(10-20)% increased Strength","{variant:2}(15-30)% increased Strength","10% reduced Dexterity","10% reduced Intelligence"],
-    "name":"Titanrot Cataphract",
-    "originalString":"Titanrot Cataphract\nMaraketh Cuirass\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(200-300)% increased Armour\n{variant:2}(400-500)% increased Armour\n{variant:1}(10-20)% increased Strength\n{variant:2}(15-30)% increased Strength\n10% reduced Dexterity\n10% reduced Intelligence\nYou have no Life Regeneration\n",
-    "requirements":[],
-    "stats":["Titanrot Cataphract","Maraketh Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}(200-300)% increased Armour","{variant:2}(400-500)% increased Armour","{variant:1}(10-20)% increased Strength","{variant:2}(15-30)% increased Strength","10% reduced Dexterity","10% reduced Intelligence","You have no Life Regeneration"],
+    "affixes":["UniquePercentageDexterity2","UniquePercentageIntelligence2","UniqueNoLifeRegeneration1","UniquePercentageStrength2","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent12"],
+    "stats":["Titanrot Cataphract","Maraketh Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent12[200,300]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent12","{variant:1}UniquePercentageStrength2[10,20]","{variant:2}UniquePercentageStrength2","UniquePercentageDexterity2","UniquePercentageIntelligence2","UniqueNoLifeRegeneration1"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Vis Mortis":{
     "baseType":"Plated Raiment",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(70-100)% increased Energy Shield","+(70-100) to maximum Mana","Minions have 50% reduced maximum Life"],
-    "name":"Vis Mortis",
-    "originalString":"Vis Mortis\nPlated Raiment\nLeague: Dawn of the Hunt\n(70-100)% increased Energy Shield\n+(70-100) to maximum Mana\nMinions have 50% reduced maximum Life\nMinions have Unholy Might\n",
-    "requirements":[],
-    "stats":["Vis Mortis","Plated Raiment","League: Dawn of the Hunt","(70-100)% increased Energy Shield","+(70-100) to maximum Mana","Minions have 50% reduced maximum Life","Minions have Unholy Might"],
-    "variants":[]
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent22","UniqueIncreasedMana43","UniqueMinionLife5","UniqueMinionsHaveUnholyMight1"],
+    "stats":["Vis Mortis","Plated Raiment","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent22","UniqueIncreasedMana43","UniqueMinionLife5","UniqueMinionsHaveUnholyMight1"],
+    "league":" Dawn of the Hunt"
   },
-  "Voll's Protector":{
-    "baseType":"Ironclad Vestments",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(100-150)% increased Armour and Energy Shield","25% reduced maximum Mana","{variant:2}+(13-17)% to Chaos Resistance","25% chance to gain a Power Charge on Critical Hit"],
-    "name":"Voll's Protector",
-    "originalString":"Voll's Protector\nIronclad Vestments\nVariant: Pre 0.1.1\nVariant: Current\n(100-150)% increased Armour and Energy Shield\n25% reduced maximum Mana\n{variant:2}+(13-17)% to Chaos Resistance\n25% chance to gain a Power Charge on Critical Hit\n",
-    "requirements":[],
-    "stats":["Voll's Protector","Ironclad Vestments","Variant: Pre 0.1.1","Variant: Current","(100-150)% increased Armour and Energy Shield","25% reduced maximum Mana","{variant:2}+(13-17)% to Chaos Resistance","25% chance to gain a Power Charge on Critical Hit"],
+  "Widow's Reign":{
+    "baseType":"Knight Armour",
+    "affixes":["(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(17-23)% to Chaos Resistance","+(200-300) to Ailment Threshold","Life that would be lost by taking Damage is instead Reserved","until you take no Damage to Life for 5 seconds"],
+    "stats":["Widow's Reign","Knight Armour","League: Dawn of the Hunt","(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(17-23)% to Chaos Resistance","+(200-300) to Ailment Threshold","Life that would be lost by taking Damage is instead Reserved","until you take no Damage to Life for 5 seconds"],
+    "league":" Dawn of the Hunt"
+  },
+  "Irongrasp":{
+    "baseType":"Vagabond Armour",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion7","UniqueStunThreshold9","UniqueIronGrip1","UniqueIronWill1","UniqueStrength32"],
+    "stats":["Irongrasp","Vagabond Armour","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion7","{variant:2}UniqueStrength32","UniqueStunThreshold9","UniqueIronGrip1","UniqueIronWill1"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Wandering Reliquary":{
     "baseType":"Steel Plate",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "modifiers":["(50-100)% increased Armour","+(40-60) to maximum Mana","+(10-20) to Strength","{variant:2}+(60-80) to Stun Threshold","50% of Physical Damage prevented Recouped as Life"],
-    "name":"Wandering Reliquary",
-    "originalString":"Wandering Reliquary\nSteel Plate\nVariant: Pre 0.1.1\nVariant: Current\n(50-100)% increased Armour\n+(40-60) to maximum Mana\n+(10-20) to Strength\n{variant:2}+(60-80) to Stun Threshold\n50% of Physical Damage prevented Recouped as Life\n",
-    "requirements":[],
-    "stats":["Wandering Reliquary","Steel Plate","Variant: Pre 0.1.1","Variant: Current","(50-100)% increased Armour","+(40-60) to maximum Mana","+(10-20) to Strength","{variant:2}+(60-80) to Stun Threshold","50% of Physical Damage prevented Recouped as Life"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","UniqueIncreasedMana7","UniqueStrength2","UniquePhysicalDamagePreventedRecoup1","UniqueStunThreshold16"],
+    "stats":["Wandering Reliquary","Steel Plate","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","UniqueIncreasedMana7","UniqueStrength2","{variant:2}UniqueStunThreshold16","UniquePhysicalDamagePreventedRecoup1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Blackbraid":{
+    "baseType":"Fur Plate",
+    "affixes":["{variant:2,3}UniqueLocalIncreasedPhysicalDamageReductionRating2","UniqueStrength5","UniqueIntelligence4","{variant:2,3}UniqueAllResistances17","UniqueStunThreshold1","{variant:1,2}UniqueArmourAppliesToElementalDamage1[100,100]","UniqueArmourAppliesToElementalDamage1"],
+    "stats":["Blackbraid","Fur Plate","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}UniqueLocalIncreasedPhysicalDamageReductionRating2","UniqueStrength5","UniqueIntelligence4","{variant:2,3}UniqueAllResistances17","UniqueStunThreshold1","{variant:1,2}UniqueArmourAppliesToElementalDamage1[100,100]","{variant:3}UniqueArmourAppliesToElementalDamage1"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+  },
+  "Morior Invictus":{
+    "stats":["Morior Invictus","Grand Regalia","Has Alt Variant: true","Has Alt Variant Two: true","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Selected Variant: 2","Selected Alt Variant: 4","Selected Alt Variant Two: 6","Variant: Spirit (Pre 0.2.0)","Variant: Spirit","Variant: Life (Pre 0.2.0)","Variant: Life","Variant: Mana (Pre 0.2.0)","Variant: Mana","Variant: Global Defences (Pre 0.2.0)","Variant: Global Defences","Variant: Item Rarity (Pre 0.2.0)","Variant: All Resistances (Pre 0.2.0)","Variant: All Resistances","Variant: Attributes (Pre 0.2.0)","Variant: Attributes","Variant: Chaos Resistance","Variant: Stun Threshold","Variant: Life Regeneration","Variant: Reduced Crit Damage","Sockets: S S S S","UniqueLocalArmourAndEvasionAndEnergyShield1","{variant:1}UniqueSpiritPerSocketable1[10,10]","{variant:2}UniqueSpiritPerSocketable1","{variant:3}UniqueMaximumLifePerSocketable1","{variant:4}UniqueBaseLifePerSocketable1","{variant:5}UniqueMaximumManaPerSocketable1","{variant:6}UniqueBaseManaPerSocketable1","{variant:7}UniqueGlobalDefencesPerSocketable1[10,10]","{variant:8}UniqueGlobalDefencesPerSocketable1","{variant:9}UniqueItemRarityPerSocketable1","{variant:10}UniqueAllResistancesPerSocketable1[10,10]","{variant:11}UniqueAllResistancesPerSocketable1","{variant:12}UniquePercentAllAttributesPerSocketable1","{variant:13}UniqueAllAttributesPerSocketable1","{variant:14}UniqueChaosResistancePerSocketable1","{variant:15}UniqueStunThresholdPerSocketable1","{variant:16}UniqueLifeRegenerationPerSocketable1","{variant:17}UniqueReducedExtraDamageFromCritsPerSocketable1"],
+    "baseType":"Grand Regalia",
+    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Selected Variant: 2","Selected Alt Variant: 4","Selected Alt Variant Two: 6","Sockets: S S S S","UniqueLocalArmourAndEvasionAndEnergyShield1","UniqueReducedExtraDamageFromCritsPerSocketable1","UniqueAllResistancesPerSocketable1","UniquePercentAllAttributesPerSocketable1","UniqueMaximumLifePerSocketable1","UniqueMaximumManaPerSocketable1","UniqueAllAttributesPerSocketable1","UniqueStunThresholdPerSocketable1","UniqueChaosResistancePerSocketable1","UniqueLifeRegenerationPerSocketable1","UniqueSpiritPerSocketable1","UniqueGlobalDefencesPerSocketable1","UniqueBaseManaPerSocketable1","UniqueItemRarityPerSocketable1","UniqueBaseLifePerSocketable1"],
+    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
+    "variants":["Spirit (Pre 0.2.0)","Spirit","Life (Pre 0.2.0)","Life","Mana (Pre 0.2.0)","Mana","Global Defences (Pre 0.2.0)","Global Defences","Item Rarity (Pre 0.2.0)","All Resistances (Pre 0.2.0)","All Resistances","Attributes (Pre 0.2.0)","Attributes","Chaos Resistance","Stun Threshold","Life Regeneration","Reduced Crit Damage"]
+  },
+  "Bristleboar":{
+    "baseType":"Leather Vest",
+    "affixes":["UniqueIncreasedLife3","UniqueGainRageWhenCrit1","UniqueGainRageWhenHit1","UniqueLifeRegeneration11","UniqueLocalIncreasedEvasionRatingPercent5"],
+    "stats":["Bristleboar","Leather Vest","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedEvasionRatingPercent5[40,80]","{variant:2}UniqueLocalIncreasedEvasionRatingPercent5","UniqueIncreasedLife3","{variant:2}UniqueLifeRegeneration11","{variant:1}UniqueGainRageWhenHit1[3,3]","{variant:2}UniqueGainRageWhenHit1","UniqueGainRageWhenCrit1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Pariah's Embrace":{
+    "baseType":"Cloaked Mail",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion8","UniqueIncreasedSpirit2","{variant:2,3}UniqueAllAttributes12","UniqueLifeRegeneration3","{variant:1,2}UniqueManaCostReduction1","UniqueManaCostEfficiency1"],
+    "stats":["Pariah's Embrace","Cloaked Mail","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","UniqueLocalIncreasedArmourAndEvasion8","UniqueIncreasedSpirit2","{variant:2,3}UniqueAllAttributes12","UniqueLifeRegeneration3","{variant:1,2}UniqueManaCostReduction1","{variant:3}UniqueManaCostEfficiency1"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+  },
+  "Temporalis":{
+    "stats":["Temporalis","Silk Robe","Source: Drops from unique{Zarokh, the Temporal}","Variant: Pre 0.2.0","Variant: Current","UniqueLocalIncreasedEnergyShield9","UniqueAllResistances6","UniqueDamageTakenGainedAsLife1","UniqueDamageTakenGoesToMana2","{variant:1}UniqueFlatCooldownRecovery1[-4000,-2000]","{variant:2}UniqueFlatCooldownRecovery1"],
+    "baseType":"Silk Robe",
+    "affixes":["UniqueLocalIncreasedEnergyShield9","UniqueAllResistances6","UniqueDamageTakenGainedAsLife1","UniqueDamageTakenGoesToMana2","UniqueFlatCooldownRecovery1"],
+    "source":"Drops from unique{Zarokh, the Temporal}",
+    "variants":["Pre 0.2.0","Current"]
+  },
+  "Tabula Rasa":{
+    "baseType":"Garment",
+    "affixes":["Sockets: S S S S S S","Has 6 Rune Sockets"],
+    "stats":["Tabula Rasa","Garment","League: Dawn of the Hunt","Sockets: S S S S S S","Has 6 Rune Sockets"],
+    "league":" Dawn of the Hunt"
+  },
+  "Belly of the Beast":{
+    "baseType":"Explorer Armour",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion7","UniqueIncreasedLife25","UniqueStunThreshold9","UniqueInstantLifeFlaskRecovery1","UniqueAttackerTakesDamage6"],
+    "stats":["Belly of the Beast","Explorer Armour","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion7","UniqueIncreasedLife25","UniqueStunThreshold9","UniqueInstantLifeFlaskRecovery1","{variant:2}UniqueAttackerTakesDamage6"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "The Mutable Star":{
+    "baseType":"Cleric Vestments",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield20","UniqueEnergyShieldRechargeRate5","UniqueLifeRegeneration22","UniqueReducedBleedDuration3","UniqueReducedBurnDuration2","UniqueDefendWithArmourPerEnergyShield1"],
+    "stats":["The Mutable Star","Cleric Vestments","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield20","UniqueEnergyShieldRechargeRate5","UniqueLifeRegeneration22","UniqueReducedBleedDuration3","UniqueReducedBurnDuration2","UniqueDefendWithArmourPerEnergyShield1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Sands of Silk":{
+    "baseType":"Shrouded Vest",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent20","UniqueIncreasedMana38","UniqueDexterity2","UniqueIntelligence6","UniqueFireResist34","GlobalCooldownRecoveryUnique__2"],
+    "stats":["Sands of Silk","Shrouded Vest","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent20","UniqueIncreasedMana38","UniqueDexterity2","UniqueIntelligence6","UniqueFireResist34","GlobalCooldownRecoveryUnique__2"],
+    "league":" Dawn of the Hunt"
+  },
+  "The Rat Cage":{
+    "baseType":"Scout's Vest",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent4","UniqueIncreasedLife26","UniqueReducedLocalAttributeRequirements1","UniqueFireDamageTakenAsPhysical1"],
+    "stats":["The Rat Cage","Scout's Vest","UniqueLocalIncreasedEvasionRatingPercent4","UniqueIncreasedLife26","UniqueReducedLocalAttributeRequirements1","UniqueFireDamageTakenAsPhysical1"]
+  },
+  "Perfidy":{
+    "baseType":"Knight Armour",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion7","UniquePhysicalDamageAvoidance1","UniqueChaosDamageAvoidance1","UniqueEnemiesInPresenceIntimidate1"],
+    "stats":["Perfidy","Knight Armour","Source: Drops from unique{Kosis, The Revelation}","UniqueLocalIncreasedArmourAndEvasion7","UniquePhysicalDamageAvoidance1","UniqueChaosDamageAvoidance1","UniqueEnemiesInPresenceIntimidate1"],
+    "source":"Drops from unique{Kosis, The Revelation}"
+  },
+  "Briskwrap":{
+    "baseType":"Rhoahide Coat",
+    "affixes":["{variant:2,3}UniqueLocalIncreasedEvasionRatingPercent22","UniqueFlaskLifeRecoveryRate2","UniqueFlaskManaRecoveryRate1","UniqueDexterity3","UniqueColdResist10","UniqueEvasionAppliesToDeflection1"],
+    "stats":["Briskwrap","Rhoahide Coat","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}UniqueLocalIncreasedEvasionRatingPercent22","UniqueFlaskLifeRecoveryRate2","UniqueFlaskManaRecoveryRate1","UniqueDexterity3","UniqueColdResist10","{variant:3}UniqueEvasionAppliesToDeflection1"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+  },
+  "Quatl's Molt":{
+    "baseType":"Serpentscale Coat",
+    "affixes":["{variant:2,3}UniqueLocalIncreasedEvasionRatingPercent23","{variant:2,3}UniqueIncreasedLife1","UniqueChaosResist1","UniqueLifeRegeneration1","UniqueCannotBePoisoned1","UniqueEvasionAppliesToDeflection2","UniqueIncreasedLife1[30,50]"],
+    "stats":["Quatl's Molt","Serpentscale Coat","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:2,3}UniqueLocalIncreasedEvasionRatingPercent23","{variant:1}UniqueIncreasedLife1[30,50]","{variant:2,3}UniqueIncreasedLife1","UniqueChaosResist1","UniqueLifeRegeneration1","UniqueCannotBePoisoned1","{variant:3}UniqueEvasionAppliesToDeflection2"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+  },
+  "The Barrow Dweller":{
+    "baseType":"Rogue Armour",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion2","UniqueFireResist4","UniqueColdResist2","UniqueChanceToAvoidDeath1","UniqueEnemyExtraDamageRollsOnLowLife1"],
+    "stats":["The Barrow Dweller","Rogue Armour","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion2","UniqueFireResist4","UniqueColdResist2","{variant:2}UniqueEnemyExtraDamageRollsOnLowLife1","UniqueChanceToAvoidDeath1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Yriel's Fostering":{
+    "baseType":"Strider Vest",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent32","UniqueIncreasedLife53","UniqueIncreasedSpirit12","UniqueReducedBleedDuration4","UniqueReducedPoisonDuration1","UniqueMultipleCompanions1"],
+    "stats":["Yriel's Fostering","Strider Vest","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent32","UniqueIncreasedLife53","UniqueIncreasedSpirit12","UniqueReducedBleedDuration4","UniqueReducedPoisonDuration1","UniqueMultipleCompanions1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Ghostwrithe":{
+    "baseType":"Tattered Robe",
+    "affixes":["UniqueLocalIncreasedEnergyShield3","UniqueChaosResist4","UniqueLifeConvertedToEnergyShield1"],
+    "stats":["Ghostwrithe","Tattered Robe","Variant: Pre 0.2.0","Variant: Current","UniqueLocalIncreasedEnergyShield3","UniqueChaosResist4","{variant:1}UniqueLifeConvertedToEnergyShield1[50,50]","{variant:2}UniqueLifeConvertedToEnergyShield1"],
+    "variants":["Pre 0.2.0","Current"]
+  },
+  "Necromantle":{
+    "baseType":"Bone Raiment",
+    "affixes":["UniqueIncreasedLife3","UniqueIncreasedMana5","UniqueMinionLifeGainAsEnergyShield1","UniqueMinionReviveSpeed1","UniqueMinionChaosResistance1"],
+    "stats":["Necromantle","Bone Raiment","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedLife3","UniqueIncreasedMana5","{variant:2}UniqueMinionChaosResistance1","UniqueMinionLifeGainAsEnergyShield1","UniqueMinionReviveSpeed1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Husk of Dreams":{
+    "baseType":"Shaman Mantle",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield7","UniqueFireResist9","UniqueFlaskChanceToNotConsume1","UniqueReducedFlaskChargesUsed1","UniqueChaosResist2"],
+    "stats":["Husk of Dreams","Shaman Mantle","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield7","UniqueFireResist9","{variant:1}UniqueChaosResist2[13,17]","{variant:2}UniqueChaosResist2","{variant:1}UniqueReducedFlaskChargesUsed1[25,50]","{variant:2}UniqueReducedFlaskChargesUsed1","UniqueFlaskChanceToNotConsume1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Soul Mantle":{
+    "baseType":"Sacrificial Mantle",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield12","UniqueStrength42","UniqueIntelligence40","UniqueIncreasedTotemLife1","UniqueAdditionalTotems1","UniqueRandomlyCursedWhenTotemsDie1"],
+    "stats":["Soul Mantle","Sacrificial Mantle","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield12","UniqueStrength42","UniqueIntelligence40","UniqueIncreasedTotemLife1","UniqueAdditionalTotems1","UniqueRandomlyCursedWhenTotemsDie1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Skin of the Loyal":{
+    "baseType":"Garment",
+    "affixes":["UniqueAllResistances16","UniqueAilmentThresholdOvercappedChaosResistance1","UniqueArmourOvercappedFireResistance1","UniqueEnergyShieldOvercappedColdResistance1","UniqueEvasionOvercappedLightningResistance1"],
+    "stats":["Skin of the Loyal","Garment","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","UniqueAllResistances16","UniqueAilmentThresholdOvercappedChaosResistance1","UniqueArmourOvercappedFireResistance1","UniqueEnergyShieldOvercappedColdResistance1","UniqueEvasionOvercappedLightningResistance1"],
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}"
+  },
+  "Ashrend":{
+    "baseType":"Pathfinder Coat",
+    "affixes":["UniqueIncreasedLife3","UniqueCannotBeIgnited1","UniquePhysicalAttackDamageTaken1","UniqueStrength29","UniqueFireResist8"],
+    "stats":["Ashrend","Pathfinder Coat","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedLife3","{variant:2}UniqueStrength29","{variant:1}UniqueFireResist8[20,30]","{variant:2}UniqueFireResist8","UniqueCannotBeIgnited1","UniquePhysicalAttackDamageTaken1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Kaom's Heart":{
+    "stats":["Kaom's Heart","Conqueror Plate","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","BodyArmourImplicitIncreasedStunThreshold1","{variant:1}UniqueIncreasedLife2[1000,1000]","{variant:2}UniqueIncreasedLife2","UniqueRemoveSpirit1"],
+    "baseType":"Conqueror Plate",
+    "affixes":["BodyArmourImplicitIncreasedStunThreshold1","UniqueRemoveSpirit1","UniqueIncreasedLife2"],
+    "implicitCount":1,
+    "variants":["Pre 0.2.1","Current"]
+  },
+  "The Fallen Formation":{
+    "league":" Dawn of the Hunt",
+    "baseType":"Lamellar Mail",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion29","UniqueStrength20","UniqueDexterity37","UniqueLifeRegeneration19","UniqueMaximumValour1","UniqueValourAlwaysMaximum1"],
+    "source":"No longer obtainable",
+    "stats":["The Fallen Formation","Lamellar Mail","Source: No longer obtainable","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEvasion29","UniqueStrength20","UniqueDexterity37","UniqueLifeRegeneration19","UniqueMaximumValour1","UniqueValourAlwaysMaximum1"]
+  },
+  "The Black Doubt":{
+    "baseType":"Hexer's Robe",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence2","UniqueDrainManaHealLife1","UniqueColdResist26"],
+    "stats":["The Black Doubt","Hexer's Robe","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence2","{variant:2}UniqueColdResist26","UniqueDrainManaHealLife1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Prayers for Rain":{
+    "baseType":"Keth Raiment",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence13","UniqueEnergyShieldDelay2","UniqueRechargeNotInterruptedRecently1","UniqueLightningResist22"],
+    "stats":["Prayers for Rain","Keth Raiment","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence13","{variant:2}UniqueLightningResist22","UniqueEnergyShieldDelay2","UniqueRechargeNotInterruptedRecently1"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Waveshaper":{
     "baseType":"Tideseer Mantle",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["+(100-200) to maximum Energy Shield","+(20-40) to Spirit","+(25-35)% to Fire Resistance","+(25-35)% to Cold Resistance","Gain (30-50)% of Maximum Mana as Armour"],
-    "name":"Waveshaper",
-    "originalString":"Waveshaper\nTideseer Mantle\nLeague: Dawn of the Hunt\n+(100-200) to maximum Energy Shield\n+(20-40) to Spirit\n+(25-35)% to Fire Resistance\n+(25-35)% to Cold Resistance\nIncreases and Reductions to Mana Regeneration Rate also\napply to Energy Shield Recharge Rate\nGain (30-50)% of Maximum Mana as Armour\n",
-    "requirements":[],
-    "stats":["Waveshaper","Tideseer Mantle","League: Dawn of the Hunt","+(100-200) to maximum Energy Shield","+(20-40) to Spirit","+(25-35)% to Fire Resistance","+(25-35)% to Cold Resistance","Increases and Reductions to Mana Regeneration Rate also","apply to Energy Shield Recharge Rate","Gain (30-50)% of Maximum Mana as Armour"],
-    "variants":[]
+    "affixes":["UniqueLocalIncreasedEnergyShield16","UniqueIncreasedSpirit9","UniqueFireResist30","UniqueColdResist29","UniqueManaRegenAppliesToRecharge1","UniqueGainManaAsExtraArmour1"],
+    "stats":["Waveshaper","Tideseer Mantle","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShield16","UniqueIncreasedSpirit9","UniqueFireResist30","UniqueColdResist29","UniqueManaRegenAppliesToRecharge1","UniqueGainManaAsExtraArmour1"],
+    "league":" Dawn of the Hunt"
   },
-  "Widow's Reign":{
-    "baseType":"Knight Armour",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(17-23)% to Chaos Resistance","+(200-300) to Ailment Threshold"],
-    "name":"Widow's Reign",
-    "originalString":"Widow's Reign\nKnight Armour\nLeague: Dawn of the Hunt\n(100-150)% increased Armour and Evasion\n+(100-150) to maximum Life\n+(17-23)% to Chaos Resistance\n+(200-300) to Ailment Threshold\nLife that would be lost by taking Damage is instead Reserved\nuntil you take no Damage to Life for 5 seconds\n",
-    "requirements":[],
-    "stats":["Widow's Reign","Knight Armour","League: Dawn of the Hunt","(100-150)% increased Armour and Evasion","+(100-150) to maximum Life","+(17-23)% to Chaos Resistance","+(200-300) to Ailment Threshold","Life that would be lost by taking Damage is instead Reserved","until you take no Damage to Life for 5 seconds"],
-    "variants":[]
+  "Apron of Emiran":{
+    "baseType":"Hermit Garb",
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield1","UniqueDexterity2","UniqueReducedBleedDuration1","UniqueBleedsAlwaysAggravated1"],
+    "stats":["Apron of Emiran","Hermit Garb","UniqueLocalIncreasedEvasionAndEnergyShield1","UniqueDexterity2","UniqueReducedBleedDuration1","UniqueBleedsAlwaysAggravated1"]
   },
-  "Yriel's Fostering":{
-    "baseType":"Strider Vest",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(100-150)% increased Evasion Rating","+(80-120) to maximum Life","+(10-30) to Spirit","(40-60)% reduced Poison Duration on you","(40-60)% reduced Duration of Bleeding on You"],
-    "name":"Yriel's Fostering",
-    "originalString":"Yriel's Fostering\nStrider Vest\nLeague: Dawn of the Hunt\n(100-150)% increased Evasion Rating\n+(80-120) to maximum Life\n+(10-30) to Spirit\n(40-60)% reduced Poison Duration on you\nYou can have two Companions of different types\n(40-60)% reduced Duration of Bleeding on You\n",
-    "requirements":[],
-    "stats":["Yriel's Fostering","Strider Vest","League: Dawn of the Hunt","(100-150)% increased Evasion Rating","+(80-120) to maximum Life","+(10-30) to Spirit","(40-60)% reduced Poison Duration on you","You can have two Companions of different types","(40-60)% reduced Duration of Bleeding on You"],
-    "variants":[]
+  "Cospri's Will":{
+    "grantSkill":" Level (1-20) Withering Presence",
+    "stats":["Cospri's Will","Assassin Garb","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Withering Presence","BodyArmourImplicitMovementVelocity1","UniqueLocalIncreasedEvasionAndEnergyShield18","UniqueChaosResist32","UniqueCursesNeverExpire1","UniqueIgnoreHexproof1","UniqueWitherNeverExpires1"],
+    "baseType":"Assassin Garb",
+    "affixes":["BodyArmourImplicitMovementVelocity1","UniqueLocalIncreasedEvasionAndEnergyShield18","UniqueChaosResist32","UniqueCursesNeverExpire1","UniqueIgnoreHexproof1","UniqueWitherNeverExpires1"],
+    "implicitCount":2,
+    "league":" Rise of the Abyssal"
+  },
+  "Coat of Red":{
+    "baseType":"Chain Mail",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion4","UniqueIncreasedLife7","UniqueStunThreshold4","UniqueReceiveBleedingWhenHit1"],
+    "stats":["Coat of Red","Chain Mail","UniqueLocalIncreasedArmourAndEvasion4","UniqueIncreasedLife7","UniqueStunThreshold4","UniqueReceiveBleedingWhenHit1"]
+  },
+  "Redflare Conduit":{
+    "baseType":"Anchorite Garb",
+    "affixes":["UniqueIncreasedMana16","UniquePowerChargeOnHit1","UniqueLosePowerChargesOnMaxCharges1","UniqueShockOnMaxPowerCharges1","UniqueLightningResist7","UniqueColdResist27"],
+    "stats":["Redflare Conduit","Anchorite Garb","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedMana16","{variant:2}UniqueColdResist27","{variant:1}UniqueLightningResist7[20,30]","{variant:2}UniqueLightningResist7","UniquePowerChargeOnHit1","UniqueLosePowerChargesOnMaxCharges1","UniqueShockOnMaxPowerCharges1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Sierran Inheritance":{
+    "baseType":"Marabout Garb",
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield5","UniqueLightningResist2","UniqueEnergyShieldDelay1","UniqueReverseChill1"],
+    "stats":["Sierran Inheritance","Marabout Garb","UniqueLocalIncreasedEvasionAndEnergyShield5","UniqueLightningResist2","UniqueEnergyShieldDelay1","UniqueReverseChill1"]
+  },
+  "Icetomb":{
+    "baseType":"Mail Vestments",
+    "affixes":["UniqueStrength10","UniqueIntelligence9","UniqueColdResist7","UniqueFreezeDamageMaximumMana1"],
+    "stats":["Icetomb","Mail Vestments","UniqueStrength10","UniqueIntelligence9","UniqueColdResist7","UniqueFreezeDamageMaximumMana1"]
+  },
+  "Pragmatism":{
+    "baseType":"Explorer Armour",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion22","UniqueAllResistances6","UniqueChaosResist19","UniqueCharmsNoCharges1"],
+    "stats":["Pragmatism","Explorer Armour","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","UniqueLocalIncreasedArmourAndEvasion22","UniqueAllResistances6","UniqueChaosResist19","UniqueCharmsNoCharges1"],
+    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}"
+  },
+  "Gloomform":{
+    "baseType":"Waxed Jacket",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent4","UniqueDexterity2","UniqueLightRadius2","UniqueSmokeCloudWhenStationary1","UniqueFireResist29"],
+    "stats":["Gloomform","Waxed Jacket","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent4","UniqueDexterity2","{variant:2}UniqueFireResist29","UniqueLightRadius2","UniqueSmokeCloudWhenStationary1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Voll's Protector":{
+    "baseType":"Ironclad Vestments",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield7","UniqueMaximumManaIncrease2","UniquePowerChargeOnCritChance1","UniqueChaosResist24"],
+    "stats":["Voll's Protector","Ironclad Vestments","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield7","UniqueMaximumManaIncrease2","{variant:2}UniqueChaosResist24","UniquePowerChargeOnCritChance1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Bitterbloom":{
+    "baseType":"Feathered Robe",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent10","UniqueIncreasedMana13","UniqueEnergyShieldRechargeRate2","UniqueRechargeOnManaFlask1"],
+    "stats":["Bitterbloom","Feathered Robe","UniqueLocalIncreasedEnergyShieldPercent10","UniqueIncreasedMana13","UniqueEnergyShieldRechargeRate2","UniqueRechargeOnManaFlask1"]
   },
   "Zerphi's Serape":{
     "baseType":"Scalper's Jacket",
-    "flags":[],
-    "gameVersion":"poe2",
-    "implicitCount":0,
-    "itemType":"body",
-    "league":" Dawn of the Hunt",
-    "modifiers":["(60-80)% increased Evasion and Energy Shield","+(40-60) to maximum Mana","50% increased Attribute Requirements","(-30-30)% reduced Life Regeneration rate","(-30-30)% reduced Mana Regeneration Rate"],
-    "name":"Zerphi's Serape",
-    "originalString":"Zerphi's Serape\nScalper's Jacket\nLeague: Dawn of the Hunt\n(60-80)% increased Evasion and Energy Shield\n+(40-60) to maximum Mana\n50% increased Attribute Requirements\n(-30-30)% reduced Life Regeneration rate\n(-30-30)% reduced Mana Regeneration Rate\nSoul Eater\n",
-    "requirements":[],
-    "stats":["Zerphi's Serape","Scalper's Jacket","League: Dawn of the Hunt","(60-80)% increased Evasion and Energy Shield","+(40-60) to maximum Mana","50% increased Attribute Requirements","(-30-30)% reduced Life Regeneration rate","(-30-30)% reduced Mana Regeneration Rate","Soul Eater"],
-    "variants":[]
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIncreasedMana7","UniqueReducedLocalAttributeRequirements4","UniqueLifeRegenerationRate2","UniqueManaRegeneration31","UniqueHasSoulEater1"],
+    "stats":["Zerphi's Serape","Scalper's Jacket","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIncreasedMana7","UniqueReducedLocalAttributeRequirements4","UniqueLifeRegenerationRate2","UniqueManaRegeneration31","UniqueHasSoulEater1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Kingsguard":{
+    "baseType":"Full Plate",
+    "affixes":["UniqueIncreasedLife14","UniqueIncreasedMana7","UniqueAllResistances8","UniqueEnduranceChargeDuration1","UniqueLifeGainedOnEnduranceChargeConsumed1"],
+    "stats":["Kingsguard","Full Plate","UniqueIncreasedLife14","UniqueIncreasedMana7","UniqueAllResistances8","UniqueEnduranceChargeDuration1","UniqueLifeGainedOnEnduranceChargeConsumed1"]
+  },
+  "Tetzlapokal's Desire":{
+    "baseType":"Votive Raiment",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent11","UniqueStrength10","UniqueChaosResist1","UniqueLifeRecharge1","UniqueIntelligence32"],
+    "stats":["Tetzlapokal's Desire","Votive Raiment","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent11","UniqueStrength10","{variant:2}UniqueIntelligence32","UniqueChaosResist1","UniqueLifeRecharge1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Couture of Crimson":{
+    "baseType":"Gilded Vestments",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield5","UniqueMaximumLifeIncrease4","UniqueReducedBleedDuration1","UniqueLifeLeechOvercapLife1"],
+    "stats":["Couture of Crimson","Gilded Vestments","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueMaximumLifeIncrease4","UniqueReducedBleedDuration1","UniqueLifeLeechOvercapLife1"]
+  },
+  "Gloamgown":{
+    "baseType":"Elementalist Robe",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent16","UniqueIncreasedSpirit10","UniqueColdResist31","UniqueEnergyShieldRechargeRate6","UniqueEnergyShieldRechargeOverride1"],
+    "stats":["Gloamgown","Elementalist Robe","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent16","UniqueIncreasedSpirit10","UniqueColdResist31","UniqueEnergyShieldRechargeRate6","UniqueEnergyShieldRechargeOverride1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Sacrosanctum":{
+    "stats":["Sacrosanctum","Corvus Mantle","League: Dawn of the Hunt","Implicits: 1","BodyArmourImplicitIncreasedSpirit1","UniqueLocalIncreasedArmourAndEnergyShield23","UniqueStrength33","UniqueIntelligence33","UniqueChaosResist33","UniqueDamageTakenGainedAsLife2","UniqueLifeRecoupAppliesToEnergyShield1"],
+    "baseType":"Corvus Mantle",
+    "affixes":["BodyArmourImplicitIncreasedSpirit1","UniqueLocalIncreasedArmourAndEnergyShield23","UniqueStrength33","UniqueIntelligence33","UniqueChaosResist33","UniqueDamageTakenGainedAsLife2","UniqueLifeRecoupAppliesToEnergyShield1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt"
+  },
+  "Enfolding Dawn":{
+    "baseType":"Pilgrim Vestments",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedSpirit1","UniqueAllResistances2","UniqueNoManaPerIntelligence1"],
+    "stats":["Enfolding Dawn","Pilgrim Vestments","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedSpirit1","UniqueAllResistances2","UniqueNoManaPerIntelligence1"]
+  },
+  "Cloak of Flame":{
+    "baseType":"Silk Robe",
+    "affixes":["UniqueFireResist1","UniqueReducedBurnDuration1","UniquePhysicalDamageTakenAsFire1","UniqueAttackerTakesFireDamage1"],
+    "stats":["Cloak of Flame","Silk Robe","UniqueFireResist1","UniqueReducedBurnDuration1","UniquePhysicalDamageTakenAsFire1","UniqueAttackerTakesFireDamage1"]
+  },
+  "Edyrn's Tusks":{
+    "baseType":"Iron Cuirass",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent19","UniqueSlowPotency1","UniqueAttackerTakesDamage3","UniqueGlobalChanceToBleed1"],
+    "stats":["Edyrn's Tusks","Iron Cuirass","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent19","{variant:1}UniqueGlobalChanceToBleed1[10,10]","{variant:2}UniqueGlobalChanceToBleed1","UniqueSlowPotency1","UniqueAttackerTakesDamage3"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "The Road Warrior":{
+    "baseType":"Raider Plate",
+    "affixes":["UniqueNoExtraBleedDamageWhileMoving1","UniqueLifeRegeneration14","UniqueFireResist10","UniqueAllAttributes11","UniqueLightningResist8","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7"],
+    "stats":["The Road Warrior","Raider Plate","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","{variant:2}UniqueAllAttributes11","{variant:1}UniqueFireResist10[15,25]","{variant:2}UniqueFireResist10","{variant:1}UniqueLightningResist8[15,25]","{variant:2}UniqueLightningResist8","{variant:2}UniqueLifeRegeneration14","UniqueNoExtraBleedDamageWhileMoving1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Foxshade":{
+    "baseType":"Quilted Vest",
+    "affixes":["UniqueLocalIncreasedEvasionRating2","UniqueDexterity3","UniqueMovementVelocityOnFullLife1","UniqueGlobalEvasionOnFullLife1"],
+    "stats":["Foxshade","Quilted Vest","UniqueLocalIncreasedEvasionRating2","UniqueDexterity3","UniqueMovementVelocityOnFullLife1","UniqueGlobalEvasionOnFullLife1"]
+  },
+  "The Dancing Mirage":{
+    "baseType":"Wayfarer Jacket",
+    "affixes":["UniqueLightningResist3","UniqueReducedDamageIfNotHitRecently1","UniqueIncreasedEvasionIfHitRecently1","UniqueLocalIncreasedEvasionAndEnergyShield3"],
+    "stats":["The Dancing Mirage","Wayfarer Jacket","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedEvasionAndEnergyShield3[60,100]","{variant:2}UniqueLocalIncreasedEvasionAndEnergyShield3","UniqueLightningResist3","UniqueReducedDamageIfNotHitRecently1","UniqueIncreasedEvasionIfHitRecently1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Cloak of Defiance":{
+    "baseType":"Havoc Raiment",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent14","UniqueIncreasedMana20","UniqueManaRegeneration29","UniqueDamageRemovedFromManaBeforeLife1"],
+    "stats":["Cloak of Defiance","Havoc Raiment","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent14","UniqueIncreasedMana20","UniqueManaRegeneration29","UniqueDamageRemovedFromManaBeforeLife1"],
+    "league":" Dawn of the Hunt"
+  },
+  "The Coming Calamity":{
+    "grantSkill":" Level (1-20) Herald of Thunder",
+    "stats":["The Coming Calamity","Heroic Armour","League: Dawn of the Hunt","Implicits: 4","Grants Skill: Level (1-20) Herald of Ash","Grants Skill: Level (1-20) Herald of Ice","Grants Skill: Level (1-20) Herald of Thunder","BodyArmourImplicitIncreasedLife1","UniqueAllResistances20","UniqueEnemiesInPresenceNoElementalResist1"],
+    "baseType":"Heroic Armour",
+    "affixes":["BodyArmourImplicitIncreasedLife1","UniqueAllResistances20","UniqueEnemiesInPresenceNoElementalResist1"],
+    "implicitCount":4,
+    "league":" Dawn of the Hunt"
+  },
+  "The Brass Dome":{
+    "baseType":"Champion Cuirass",
+    "affixes":["UniqueStunThreshold3","UniqueTakeNoExtraDamageFromCriticalStrikes1","UniqueMaximumElementalResistance1","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent3"],
+    "stats":["The Brass Dome","Champion Cuirass","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent3[300,400]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent3","{variant:1}UniqueMaximumElementalResistance1[5,5]","{variant:2}UniqueMaximumElementalResistance1","UniqueStunThreshold3","UniqueTakeNoExtraDamageFromCriticalStrikes1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Hyrri's Ire":{
+    "stats":["Hyrri's Ire","Armoured Vest","League: Dawn of the Hunt","Implicits: 1","BodyArmourImplicitIncreasedAilmentThreshold1","UniqueLocalIncreasedEvasionRatingPercent33","UniqueAddedColdDamage3","UniqueDexterity38","UniqueChillDuration2","UniqueCanEvadeAllDamageNotHitRecently1"],
+    "baseType":"Armoured Vest",
+    "affixes":["BodyArmourImplicitIncreasedAilmentThreshold1","UniqueLocalIncreasedEvasionRatingPercent33","UniqueAddedColdDamage3","UniqueDexterity38","UniqueChillDuration2","UniqueCanEvadeAllDamageNotHitRecently1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt"
+  },
+  "Greed's Embrace":{
+    "baseType":"Vaal Cuirass",
+    "affixes":["UniqueIncreasedStrengthRequirements1","UniqueMovementVelocity8","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueItemFoundRarityIncrease12","UniqueFireResist12"],
+    "stats":["Greed's Embrace","Vaal Cuirass","UniqueIncreasedStrengthRequirements1","UniqueMovementVelocity8","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueItemFoundRarityIncrease12","UniqueFireResist12"]
+  },
+  "Silks of Veneration":{
+    "stats":["Silks of Veneration","Enlightened Robe","League: Dawn of the Hunt","Implicits: 1","BodyArmourImplicitManaRegeneration1","UniqueIncreasedSpirit11","UniqueIntelligence39","UniqueAllResistances6","UniqueEnergyShieldRechargeRate4","UniqueEnergyShieldAppliesElementalReduction1"],
+    "baseType":"Enlightened Robe",
+    "affixes":["BodyArmourImplicitManaRegeneration1","UniqueIncreasedSpirit11","UniqueIntelligence39","UniqueAllResistances6","UniqueEnergyShieldRechargeRate4","UniqueEnergyShieldAppliesElementalReduction1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt"
+  },
+  "Dustbloom":{
+    "baseType":"Studded Vest",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent4","UniqueColdResist10","UniqueFragileRegrowth1"],
+    "stats":["Dustbloom","Studded Vest","UniqueLocalIncreasedEvasionRatingPercent4","UniqueColdResist10","UniqueFragileRegrowth1"]
+  },
+  "Lightning Coil":{
+    "grantSkill":" Level (1-20) Valako's Charge",
+    "stats":["Lightning Coil","Ancestral Mail","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Level (1-20) Valako's Charge","UniqueLocalIncreasedArmourAndEvasion14","UniqueIncreasedLife30","UniqueDexterity44","UniqueLightningResist13","UniquePhysicalDamageTakenAsLightningPercent1"],
+    "baseType":"Ancestral Mail",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion14","UniqueIncreasedLife30","UniqueDexterity44","UniqueLightningResist13","UniquePhysicalDamageTakenAsLightningPercent1"],
+    "implicitCount":1,
+    "league":" Rise of the Abyssal"
+  },
+  "Doryani's Prototype":{
+    "baseType":"Scale Mail",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion6","BodyArmourImplicitIncreasedLife1","UniqueArmourAppliesToLightningDamage1","UniqueNearbyEnemyLightningResistanceEqual1","UniqueLightningResistNoReduction1"],
+    "stats":["Doryani's Prototype","Scale Mail","UniqueLocalIncreasedArmourAndEvasion6","BodyArmourImplicitIncreasedLife1","UniqueArmourAppliesToLightningDamage1","UniqueNearbyEnemyLightningResistanceEqual1","UniqueLightningResistNoReduction1"]
   }
 }

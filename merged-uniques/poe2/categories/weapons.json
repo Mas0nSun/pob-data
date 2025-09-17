@@ -1,0 +1,557 @@
+{
+  "The Wicked Quill":{
+    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "baseType":"Withered Wand",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Chaos Bolt",
+    "itemType":"wand",
+    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Chaos Bolt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"]
+  },
+  "Dusk Vigil":{
+    "affixes":["UniqueSpellDamageOnWeapon3","UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1"],
+    "baseType":"Ashen Staff",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Ember Fusillade",
+    "itemType":"staff",
+    "stats":["Dusk Vigil","Ashen Staff","Implicits: 2","Grants Skill: Level (1-20) Firebolt","Grants Skill: Level (1-20) Ember Fusillade","UniqueSpellDamageOnWeapon3","UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1"]
+  },
+  "Quecholli":{
+    "affixes":["MaceImplicitEnemiesExplodeOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueAllAttributes7","UniqueLifeGainedFromEnemyDeath8","UniqueLocalCritChanceOverride1","UniqueLocalNoCriticalStrikeMultiplier1"],
+    "baseType":"Crumbling Maul",
+    "implicitCount":1,
+    "stats":["Quecholli","Crumbling Maul","Implicits: 1","MaceImplicitEnemiesExplodeOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueAllAttributes7","UniqueLifeGainedFromEnemyDeath8","UniqueLocalCritChanceOverride1","UniqueLocalNoCriticalStrikeMultiplier1"],
+    "itemType":"mace"
+  },
+  "Doomfletch":{
+    "affixes":["UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"],
+    "baseType":"Composite Bow",
+    "league":" Dawn of the Hunt",
+    "itemType":"bow",
+    "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"]
+  },
+  "Nebuloch":{
+    "affixes":["UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"],
+    "baseType":"Brigand Mace",
+    "league":" Dawn of the Hunt",
+    "itemType":"mace",
+    "stats":["Nebuloch","Brigand Mace","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"]
+  },
+  "The Dark Defiler":{
+    "affixes":["UniqueIncreasedMana2","UniqueIntelligence3","UniqueManaRegeneration1","UniqueExtraChaosDamagePerUndeadMinion1"],
+    "baseType":"Rattling Sceptre",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Skeletal Warrior Minion",
+    "itemType":"sceptre",
+    "stats":["The Dark Defiler","Rattling Sceptre","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Skeletal Warrior Minion","UniqueIncreasedMana2","UniqueIntelligence3","UniqueManaRegeneration1","{variant:1}UniqueExtraChaosDamagePerUndeadMinion1[3,3]","{variant:2}UniqueExtraChaosDamagePerUndeadMinion1"]
+  },
+  "Palm of the Dreamer":{
+    "affixes":["UniqueNearbyAlliesAddedChaosDamage1","UniqueAllAttributes17","UniqueLightRadius20","SkillEffectDurationUnique__4","UniqueDamageGainedAsChaos1","UniqueChaosShrine1"],
+    "baseType":"Shrine Sceptre",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Impurity",
+    "itemType":"sceptre",
+    "stats":["Palm of the Dreamer","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Impurity","UniqueNearbyAlliesAddedChaosDamage1","UniqueAllAttributes17","UniqueLightRadius20","SkillEffectDurationUnique__4","UniqueDamageGainedAsChaos1","UniqueChaosShrine1"]
+  },
+  "Adonia's Ego":{
+    "affixes":["UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "baseType":"Siphoning Wand",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Level 20 Pinnacle of Power",
+    "itemType":"wand",
+    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"]
+  },
+  "Earthbound":{
+    "affixes":["UniqueLightningDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueManaRegeneration6","UniqueTriggerSparkOnKillingShockedEnemy1"],
+    "baseType":"Voltaic Staff",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Spark",
+    "itemType":"staff",
+    "stats":["Earthbound","Voltaic Staff","Implicits: 1","Grants Skill: Level (1-20) Lightning Bolt","Grants Skill: Level (1-20) Spark","UniqueLightningDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueManaRegeneration6","UniqueTriggerSparkOnKillingShockedEnemy1"]
+  },
+  "Nazir's Judgement":{
+    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueIncreasedAccuracy2","UniqueStunDuration1","UniqueLocalDazeBuildup1","UniqueMeleeDamageAgainstStunnedEnemies1","UniqueLocalIncreasedPhysicalDamagePercent4"],
+    "baseType":"Steelpoint Quarterstaff",
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
+    "itemType":"staff",
+    "stats":["Nazir's Judgement","Steelpoint Quarterstaff","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueIncreasedAccuracy2","UniqueStunDuration1","UniqueLocalDazeBuildup1","{variant:3}UniqueMeleeDamageAgainstStunnedEnemies1"]
+  },
+  "Pillar of the Caged God":{
+    "affixes":["Long Quarterstaff","QuarterstaffWeaponRange1","UniqueWeaponDamagePerStrength1","UniqueAttackAreaOfEffectPerIntelligence1","UniqueAttackSpeedPerDexterity1"],
+    "baseType":"Variant: Pre 0.2.0",
+    "variants":["Current"],
+    "implicitCount":1,
+    "stats":["Pillar of the Caged God","Variant: Pre 0.2.0","Variant: Current","Long Quarterstaff","Implicits: 1","QuarterstaffWeaponRange1","{variant:1}UniqueAttackAreaOfEffectPerIntelligence1[2,2]","{variant:2}UniqueAttackAreaOfEffectPerIntelligence1","{variant:1}UniqueAttackSpeedPerDexterity1[2,2]","{variant:2}UniqueAttackSpeedPerDexterity1","UniqueWeaponDamagePerStrength1"],
+    "itemType":"staff"
+  },
+  "The Empty Roar":{
+    "affixes":["MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"],
+    "baseType":"Cultist Greathammer",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "stats":["The Empty Roar","Cultist Greathammer","League: Dawn of the Hunt","Implicits: 1","MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"],
+    "itemType":"mace"
+  },
+  "Collapsing Horizon":{
+    "affixes":["UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"],
+    "baseType":"Wyrm Quarterstaff",
+    "itemType":"staff",
+    "stats":["Collapsing Horizon","Wyrm Quarterstaff","Source: Drops from unique{Kosis, The Revelation}","UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"],
+    "source":"Drops from unique{Kosis, The Revelation}"
+  },
+  "The Searing Touch":{
+    "affixes":["UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2"],
+    "baseType":"Pyrophyte Staff",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Living Bomb",
+    "itemType":"staff",
+    "stats":["The Searing Touch","Pyrophyte Staff","Implicits: 1","Grants Skill: Level (1-20) Living Bomb","UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2"]
+  },
+  "Slivertongue":{
+    "affixes":["UniqueLocalAddedPhysicalDamage14","UniqueLocalCriticalStrikeChance6","UniqueLifeLeechLocal1","UniqueManaLeechLocal1","UniqueArrowsFork1","UniqueArrowsAlwaysPierceAfterForking1"],
+    "baseType":"Zealot Bow",
+    "league":" Dawn of the Hunt",
+    "itemType":"bow",
+    "stats":["Slivertongue","Zealot Bow","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage14","UniqueLocalCriticalStrikeChance6","UniqueLifeLeechLocal1","UniqueManaLeechLocal1","UniqueArrowsFork1","UniqueArrowsAlwaysPierceAfterForking1"]
+  },
+  "Lioneye's Glare":{
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"],
+    "baseType":"Heavy Bow",
+    "league":" Dawn of the Hunt",
+    "itemType":"bow",
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"]
+  },
+  "Mjölner":{
+    "affixes":["UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","UniqueLocalIncreasedAttackSpeed20","UniqueGlobalLightningGemLevel1","UniqueLocalIncreasedPhysicalDamagePercent11","UniqueGlobalLightningGemLevel2"],
+    "baseType":"Torment Club",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Thundergod's Wrath",
+    "itemType":"mace",
+    "variants":["Pre 0.2.1","Current"],
+    "stats":["Mjölner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent11[150,200]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent11","UniqueLocalIncreasedAttackSpeed20","{variant:1}UniqueGlobalLightningGemLevel1","{variant:2}UniqueGlobalLightningGemLevel2"]
+  },
+  "Olrovasara":{
+    "affixes":["UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1","UniqueLocalAddedLightningDamage1"],
+    "baseType":"Torment Club",
+    "variants":["Pre 0.2.0","Current"],
+    "itemType":"mace",
+    "stats":["Olrovasara","Torment Club","Source: Drops from unique{Olroth, Origin of the Fall}","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedLightningDamage1[1,1][60,80]","{variant:2}UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1"],
+    "source":"Drops from unique{Olroth, Origin of the Fall}"
+  },
+  "Cursecarver":{
+    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueTemporalChainsGemLevel1","UniqueDespairGemLevel1","UniqueElementalWeaknessGemLevel1","UniqueVulnerabilityGemLevel1","UniqueEnfeebleGemLevel1"],
+    "baseType":"Acrid Wand",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Decompose",
+    "itemType":"wand",
+    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"],
+    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","Implicits: 1","Grants Skill: Level (1-20) Decompose","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"]
+  },
+  "The Whispering Ice":{
+    "affixes":["UniqueGlobalColdSpellGemsLevel1","UniqueIncreasedCastSpeed16","UniquePercentageIntelligence3","SpellDamagePerIntelligenceUniqueStaff12","UniqueColdExposureOnHitWithMagnitude1"],
+    "baseType":"Permafrost Staff",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Icestorm",
+    "itemType":"staff",
+    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Heart of Ice","Grants Skill: Level (1-20) Icestorm","UniqueGlobalColdSpellGemsLevel1","UniqueIncreasedCastSpeed16","UniquePercentageIntelligence3","SpellDamagePerIntelligenceUniqueStaff12","UniqueColdExposureOnHitWithMagnitude1"]
+  },
+  "Chainsting":{
+    "affixes":["SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
+    "baseType":"Hunting Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Chainsting","Hunting Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"]
+  },
+  "Taryn's Shiver":{
+    "affixes":["UniqueColdDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueFreezeDamageIncrease1","UniqueFrozenMonstersTakeIncreasedDamage1"],
+    "baseType":"Gelid Staff",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Freezing Shards",
+    "itemType":"staff",
+    "stats":["Taryn's Shiver","Gelid Staff","Implicits: 1","Grants Skill: Level (1-20) Freezing Shards","UniqueColdDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueFreezeDamageIncrease1","UniqueFrozenMonstersTakeIncreasedDamage1"]
+  },
+  "Seeing Stars":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1","UniqueLocalAddedColdDamage3","UniqueLocalAddedLightningDamage2"],
+    "baseType":"Plated Mace",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Seeing Stars","Plated Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage3[9,12][18,22]","{variant:2}UniqueLocalAddedColdDamage3","{variant:1}UniqueLocalAddedLightningDamage2[1,1][30,35]","{variant:2}UniqueLocalAddedLightningDamage2","UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1"]
+  },
+  "The Hammer of Faith":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","UniqueLocalIncreasedPhysicalDamagePercent9","Gain a random Shrine buff every 10 seconds"],
+    "baseType":"Giant Maul",
+    "variants":["Pre 0.2.1","Current"],
+    "itemType":"mace",
+    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent9[200,250]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent9","UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","{variant:1}Gain a random Shrine buff every 10 seconds"],
+    "league":" Dawn of the Hunt"
+  },
+  "The Unborn Lich":{
+    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","UniqueDesecratedModEffect1","Grants Skill: Level (1-20) His Scattering Calamity","UniqueKulemakChaosDamageCurseLowersChaosRes_1","UniqueKulemakSpellPhysicalDamageBleedChance_1","Grants Skill: Level (1-20) His Winnowing Flame","Grants Skill: Level (1-20) His Vile Intrusion","UniqueKulemakUnholyMightAndMagnitude_1","UniqueKulemakChaosDamageAndExplosion_1","Grants Skill: Level (1-20) His Foul Emergence","UniqueKulemakSpiritAndSpiritReservationEfficiency_1","Grants Skill: Level (1-20) His Grave Command","Grants Skill: Level (1-20) His Dark Horizon","UniqueKulemakElementalDamageEleAilmentDuration_1"],
+    "baseType":"Ravenous Staff",
+    "league":" Rise of the Abyssal",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Feast of Flesh",
+    "itemType":"staff",
+    "variants":["His Dark Horizon","His Foul Emergence","His Grave Command","His Scattering Calamity","His Vile Intrusion","His Winnowing Flame","Elemental Damage and Ailment Duration","Spirit and Spirit Reservation Efficiency","Chaos Damage and Curse","Spell Physical Damage and Bleed Chance","Chaos Damage and Explode","Unholy Might"],
+    "stats":["The Unborn Lich","Ravenous Staff","League: Rise of the Abyssal","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","Variant: His Dark Horizon","Variant: His Foul Emergence","Variant: His Grave Command","Variant: His Scattering Calamity","Variant: His Vile Intrusion","Variant: His Winnowing Flame","Variant: Elemental Damage and Ailment Duration","Variant: Spirit and Spirit Reservation Efficiency","Variant: Chaos Damage and Curse","Variant: Spell Physical Damage and Bleed Chance","Variant: Chaos Damage and Explode","Variant: Unholy Might","Implicits: 1","Grants Skill: Level (1-20) Feast of Flesh","UniqueDesecratedModEffect1","{variant:1}Grants Skill: Level (1-20) His Dark Horizon","{variant:2}Grants Skill: Level (1-20) His Foul Emergence","{variant:3}Grants Skill: Level (1-20) His Grave Command","{variant:4}Grants Skill: Level (1-20) His Scattering Calamity","{variant:5}Grants Skill: Level (1-20) His Vile Intrusion","{variant:6}Grants Skill: Level (1-20) His Winnowing Flame","{variant:7}UniqueKulemakElementalDamageEleAilmentDuration_1","{variant:8}UniqueKulemakSpiritAndSpiritReservationEfficiency_1","{variant:9}UniqueKulemakChaosDamageCurseLowersChaosRes_1","{variant:10}UniqueKulemakSpellPhysicalDamageBleedChance_1","{variant:11}UniqueKulemakChaosDamageAndExplosion_1","{variant:12}UniqueKulemakUnholyMightAndMagnitude_1"]
+  },
+  "Widowhail":{
+    "affixes":["UniqueQuiverModifierEffect1"],
+    "baseType":"Crude Bow",
+    "stats":["Widowhail","Crude Bow","UniqueQuiverModifierEffect1"],
+    "itemType":"bow"
+  },
+  "Mist Whisper":{
+    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueAdditionalAttackChain1","UniqueChillDuration1","UniqueLocalAddedColdDamage4"],
+    "baseType":"Makeshift Crossbow",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"crossbow",
+    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"]
+  },
+  "Hrimnor's Hymn":{
+    "affixes":["MaceImplicitStunDamageIncrease1","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1","UniqueLocalIncreasedPhysicalDamagePercent6"],
+    "baseType":"Oak Greathammer",
+    "variants":["Pre 0.1.1","Current"],
+    "implicitCount":1,
+    "stats":["Hrimnor's Hymn","Oak Greathammer","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","MaceImplicitStunDamageIncrease1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent6[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent6","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1"],
+    "itemType":"mace"
+  },
+  "Splinterheart":{
+    "affixes":["UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1","UniqueLocalIncreasedPhysicalDamagePercent3"],
+    "baseType":"Recurve Bow",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"bow",
+    "stats":["Splinterheart","Recurve Bow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent3[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent3","UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1"]
+  },
+  "Font of Power":{
+    "affixes":["UniqueLocalIncreasedSpiritPercent1","UniqueIncreasedMana7","UniqueManaRegeneration6","UniqueManaScarificeToAllies1"],
+    "baseType":"Omen Sceptre",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Malice",
+    "itemType":"sceptre",
+    "stats":["Font of Power","Omen Sceptre","Implicits: 1","Grants Skill: Level (1-20) Malice","UniqueLocalIncreasedSpiritPercent1","UniqueIncreasedMana7","UniqueManaRegeneration6","UniqueManaScarificeToAllies1"]
+  },
+  "Hoghunt":{
+    "affixes":["UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent2","UniqueLocalAddedPhysicalDamage11"],
+    "baseType":"Felled Greatclub",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Hoghunt","Felled Greatclub","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent2","{variant:2}UniqueLocalAddedPhysicalDamage11","UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1"]
+  },
+  "Trephina":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1","UniqueLocalAddedPhysicalDamage8"],
+    "baseType":"Forge Maul",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Trephina","Forge Maul","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage8[7,10][12,18]","{variant:2}UniqueLocalAddedPhysicalDamage8","UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1"]
+  },
+  "The Blood Thorn":{
+    "affixes":["UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1","UniqueLocalAddedPhysicalDamage2"],
+    "baseType":"Wrapped Quarterstaff",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"staff",
+    "stats":["The Blood Thorn","Wrapped Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage2[3,5][9,11]","{variant:2}UniqueLocalAddedPhysicalDamage2","UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1"]
+  },
+  "Shyaba":{
+    "affixes":["UniqueDexterityRequirements1","UniqueStrengthRequirements1","UniqueLocalIncreasedPhysicalDamagePercent5","UniqueLocalIncreasedAttackSpeed15","UniqueLightRadius17","UniqueAlwaysHits1"],
+    "baseType":"Temple Maul",
+    "league":" Dawn of the Hunt",
+    "itemType":"mace",
+    "stats":["Shyaba","Temple Maul","League: Dawn of the Hunt","UniqueDexterityRequirements1","UniqueStrengthRequirements1","UniqueLocalIncreasedPhysicalDamagePercent5","UniqueLocalIncreasedAttackSpeed15","UniqueLightRadius17","UniqueAlwaysHits1"]
+  },
+  "Sacred Flame":{
+    "affixes":["UniqueDamageGainedAsFire1","UniqueNearbyAlliesDamageAsFire1","UniqueNearbyAlliesPercentLifeRegeneration1","UniqueEnemiesInPresenceLowestResistance1"],
+    "baseType":"Shrine Sceptre",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Purity of Fire",
+    "itemType":"sceptre",
+    "stats":["Sacred Flame","Shrine Sceptre","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Implicits: 1","Grants Skill: Level (1-20) Purity of Fire","UniqueDamageGainedAsFire1","UniqueNearbyAlliesDamageAsFire1","UniqueNearbyAlliesPercentLifeRegeneration1","UniqueEnemiesInPresenceLowestResistance1"],
+    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}"
+  },
+  "Sanguine Diviner":{
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
+    "baseType":"Bone Wand",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Bone Blast",
+    "itemType":"wand",
+    "stats":["Sanguine Diviner","Bone Wand","Implicits: 1","Grants Skill: Level (1-20) Bone Blast","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"]
+  },
+  "Enezun's Charge":{
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
+    "baseType":"Volatile Wand",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Volatile Dead",
+    "itemType":"wand",
+    "stats":["Enezun's Charge","Volatile Wand","Implicits: 1","Grants Skill: Level (1-20) Volatile Dead","UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"]
+  },
+  "Lifesprig":{
+    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
+    "baseType":"Attuned Wand",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Mana Drain",
+    "itemType":"wand",
+    "stats":["Lifesprig","Attuned Wand","Implicits: 1","Grants Skill: Level (1-20) Mana Drain","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"]
+  },
+  "The Sentry":{
+    "affixes":["UniqueFireResist13","UniqueIgniteChanceIncrease1","UniqueLightRadius7","UniqueLocalIncreasedAccuracy6","UniqueLocalNoWeaponPhysicalDamage3","UniqueLocalAddedFireDamage3"],
+    "baseType":"Gothic Quarterstaff",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"staff",
+    "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalNoWeaponPhysicalDamage3","{variant:1}UniqueLocalAddedFireDamage3[8,12][16,20]","{variant:2}UniqueLocalAddedFireDamage3","{variant:2}UniqueLocalIncreasedAccuracy6","UniqueFireResist13","UniqueIgniteChanceIncrease1","UniqueLightRadius7"]
+  },
+  "The Last Lament":{
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "baseType":"Desolate Crossbow",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Compose Requiem",
+    "itemType":"crossbow",
+    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"]
+  },
+  "Sire of Shards":{
+    "affixes":["UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed4","UniqueAllResistances22","LightRadiusUniqueStaff10_","UniqueSpellAdditionalProjectilesInCircle1"],
+    "baseType":"Chiming Staff",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Sigil of Power",
+    "itemType":"staff",
+    "stats":["Sire of Shards","Chiming Staff","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Sigil of Power","UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed4","UniqueAllResistances22","LightRadiusUniqueStaff10_","UniqueSpellAdditionalProjectilesInCircle1"]
+  },
+  "Spire of Ire":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed21","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1","UniqueLifeLeechLocal3","UniqueLocalChaosDamage2"],
+    "baseType":"Helix Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Chaotic Infusion",
+    "itemType":"spear",
+    "variants":["Pre 0.2.1","Current"],
+    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","UniqueLocalIncreasedAttackSpeed21","{variant:1}UniqueLifeLeechLocal3[6,10]","{variant:2}UniqueLifeLeechLocal3","{variant:1}UniqueLocalChaosDamage2[106,146][181,221]","{variant:2}UniqueLocalChaosDamage2","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1"]
+  },
+  "Voltaxic Rift":{
+    "affixes":["UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"],
+    "baseType":"Fanatic Bow",
+    "league":" Dawn of the Hunt",
+    "itemType":"bow",
+    "stats":["Voltaxic Rift","Fanatic Bow","League: Dawn of the Hunt","UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"]
+  },
+  "Chober Chaber":{
+    "affixes":["UniqueIntelligenceRequirements1","UniqueIncreasedMana22","UniqueMinionDamageAffectsYou1","UniqueLocalCriticalStrikeChance3","UniqueLocalAddedPhysicalDamage12","UniqueIncreasedSpirit8","UniqueLocalIncreasedPhysicalDamagePercent4"],
+    "baseType":"Leaden Greathammer",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Chober Chaber","Leaden Greathammer","Variant: Pre 0.1.1","Variant: Current","UniqueIntelligenceRequirements1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2}UniqueLocalAddedPhysicalDamage12","UniqueIncreasedMana22","{variant:2}UniqueIncreasedSpirit8","{variant:1}UniqueLocalCriticalStrikeChance3","UniqueMinionDamageAffectsYou1"]
+  },
+  "Frostbreath":{
+    "affixes":["UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1","UniqueLocalAddedColdDamage2","UniqueLocalCriticalStrikeChance5","UniqueLocalAddedPhysicalDamage4"],
+    "baseType":"Slim Mace",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Frostbreath","Slim Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage4[4,6][8,12]","{variant:2}UniqueLocalAddedPhysicalDamage4","{variant:1}UniqueLocalAddedColdDamage2[4,6][8,12]","{variant:2}UniqueLocalAddedColdDamage2","{variant:2}UniqueLocalCriticalStrikeChance5","UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1"]
+  },
+  "Rampart Raptor":{
+    "affixes":["CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
+    "baseType":"Tense Crossbow",
+    "implicitCount":1,
+    "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
+    "itemType":"crossbow"
+  },
+  "Fairgraves' Curse":{
+    "affixes":["BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
+    "baseType":"Artillery Bow",
+    "league":" Rise of the Abyssal",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Phantasmal Arrow",
+    "itemType":"bow",
+    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Phantasmal Arrow","BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"]
+  },
+  "Matsya":{
+    "affixes":["UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration13","UniqueHalvedSpiritReservation1","UniqueLocalAddedColdDamage5","UniqueLocalAddedLightningDamage5"],
+    "baseType":"Crescent Quarterstaff",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"staff",
+    "stats":["Matsya","Crescent Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalAddedColdDamage5","{variant:2}UniqueLocalAddedLightningDamage5","UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration13","UniqueHalvedSpiritReservation1"]
+  },
+  "Tidebreaker":{
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"],
+    "baseType":"Pointed Maul",
+    "league":" Dawn of the Hunt",
+    "itemType":"mace",
+    "stats":["Tidebreaker","Pointed Maul","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"]
+  },
+  "Double Vision":{
+    "affixes":["CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
+    "baseType":"Dyad Crossbow",
+    "league":" Rise of the Abyssal",
+    "implicitCount":2,
+    "grantSkill":" Level (1-20) Gemini Surge",
+    "itemType":"crossbow",
+    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Gemini Surge","CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"]
+  },
+  "Wylund's Stake":{
+    "affixes":["UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1","UniqueFireResist27","UniqueLocalAddedPhysicalDamage6","UniqueStrength30","UniqueLocalAddedFireDamage2"],
+    "baseType":"Smithing Hammer",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Wylund's Stake","Smithing Hammer","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage6[2,3][4,5]","{variant:2}UniqueLocalAddedPhysicalDamage6","{variant:1}UniqueLocalAddedFireDamage2[2,3][4,5]","{variant:2}UniqueLocalAddedFireDamage2","{variant:2}UniqueFireResist27","{variant:2}UniqueStrength30","UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1"],
+    "source":"No longer obtainable"
+  },
+  "Skysliver":{
+    "affixes":["UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
+    "baseType":"Winged Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Skysliver","Winged Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"]
+  },
+  "Splinter of Loratta":{
+    "affixes":["UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
+    "baseType":"Hardwood Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Splinter of Loratta","Hardwood Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"]
+  },
+  "Tangletongue":{
+    "affixes":["UniqueLocalAddedPhysicalDamage21","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2","UniqueLocalCriticalStrikeChance8"],
+    "baseType":"Forked Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "variants":["Pre 0.3.0","Current"],
+    "stats":["Tangletongue","Forked Spear","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage21","{variant:1}UniqueLocalCriticalStrikeChance8[1000,2000]","{variant:2}UniqueLocalCriticalStrikeChance8","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2"]
+  },
+  "The Burden of Shadows":{
+    "affixes":["UniqueIncreasedCastSpeed11","UniqueLifeCost1","UniqueDamageGainedAsChaosPerCost1"],
+    "baseType":"Chiming Staff",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Sigil of Power",
+    "itemType":"staff",
+    "stats":["The Burden of Shadows","Chiming Staff","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","Implicits: 1","Grants Skill: Level (1-20) Sigil of Power","UniqueIncreasedCastSpeed11","UniqueLifeCost1","UniqueDamageGainedAsChaosPerCost1"],
+    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}"
+  },
+  "Death's Harp":{
+    "affixes":["BowImplicitAdditionalArrows1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6","UniqueLocalCriticalMultiplier1"],
+    "baseType":"Dualstring Bow",
+    "variants":["0.2.0","0.3.0","Current"],
+    "implicitCount":1,
+    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: Current","Implicits: 1","BowImplicitAdditionalArrows1","{variant:1}UniqueLocalCriticalMultiplier1[50,70]","{variant:2}UniqueLocalCriticalMultiplier1[30,40]","{variant:3}UniqueLocalCriticalMultiplier1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6"],
+    "itemType":"bow"
+  },
+  "Brynhand's Mark":{
+    "affixes":["UniqueLocalIncreasedAccuracy1","UniqueLocalDoubleStunDamage1","UniqueLocalAddedPhysicalDamage5","UniqueStrength15","UniqueLocalIncreasedAttackSpeed12"],
+    "baseType":"Wooden Club",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Brynhand's Mark","Wooden Club","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage5[3,4][6,8]","{variant:2}UniqueLocalAddedPhysicalDamage5","UniqueLocalIncreasedAccuracy1","{variant:2}UniqueLocalIncreasedAttackSpeed12","{variant:1}UniqueStrength15[5,10]","{variant:2}UniqueStrength15","UniqueLocalDoubleStunDamage1"]
+  },
+  "Guiding Palm":{
+    "affixes":["{variant:1,4}Grants Skill: Level (1-20) Purity of Fire","{variant:2,5}Grants Skill: Level (1-20) Purity of Ice","{variant:3,6}Grants Skill: Level (1-20) Purity of Lightning","UniqueAllAttributes2","UniqueLightRadius9","UniqueBaseLifeRegenToAllies1","UniqueNearbyAlliesAddedColdDamage1","UniqueNearbyAlliesAddedLightningDamage1","UniqueNearbyAlliesAddedFireDamage1"],
+    "baseType":"Shrine Sceptre",
+    "variants":["Fire (Pre 0.2.1 )","Cold (Pre 0.2.1 )","Lightning (Pre 0.2.1 )","Fire","Cold","Lightning"],
+    "implicitCount":3,
+    "stats":["Guiding Palm","Shrine Sceptre","Variant: Fire (Pre 0.2.1 )","Variant: Cold (Pre 0.2.1 )","Variant: Lightning (Pre 0.2.1 )","Variant: Fire","Variant: Cold","Variant: Lightning","Implicits: 3","{variant:1,4}Grants Skill: Level (1-20) Purity of Fire","{variant:2,5}Grants Skill: Level (1-20) Purity of Ice","{variant:3,6}Grants Skill: Level (1-20) Purity of Lightning","{variant:1}UniqueNearbyAlliesAddedFireDamage1[4,6][7,10]","{variant:2}UniqueNearbyAlliesAddedColdDamage1[3,5][6,8]","{variant:3}UniqueNearbyAlliesAddedLightningDamage1[1,1][10,15]","{variant:4}UniqueNearbyAlliesAddedFireDamage1","{variant:5}UniqueNearbyAlliesAddedColdDamage1","{variant:6}UniqueNearbyAlliesAddedLightningDamage1","UniqueAllAttributes2","UniqueLightRadius9","UniqueBaseLifeRegenToAllies1"],
+    "itemType":"sceptre"
+  },
+  "Guiding Palm of the Eye":{
+    "affixes":["UniqueDamageGainedAsCold1","UniqueNearbyAlliesAddedColdDamage1","UniqueBaseLifeRegenToAllies1","UniqueIntelligence42","UniqueLightRadius15","UniqueColdShrine1"],
+    "baseType":"Shrine Sceptre",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Purity of Ice",
+    "itemType":"sceptre",
+    "stats":["Guiding Palm of the Eye","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Ice","UniqueDamageGainedAsCold1","UniqueNearbyAlliesAddedColdDamage1","UniqueBaseLifeRegenToAllies1","UniqueIntelligence42","UniqueLightRadius15","UniqueColdShrine1"]
+  },
+  "Sculpted Suffering":{
+    "affixes":["UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1","MaceImplicitCriticalMultiplier1"],
+    "baseType":"Warpick",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Sculpted Suffering","Warpick","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}MaceImplicitCriticalMultiplier1[10,15]","{variant:2}MaceImplicitCriticalMultiplier1","UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1"],
+    "itemType":"mace",
+    "variants":["Pre 0.3.0","Current"]
+  },
+  "Marohi Erqi":{
+    "affixes":["MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"],
+    "baseType":"Totemic Greatclub",
+    "league":" Rise of the Abyssal",
+    "implicitCount":1,
+    "stats":["Marohi Erqi","Totemic Greatclub","League: Rise of the Abyssal","Implicits: 1","MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"],
+    "itemType":"mace"
+  },
+  "Brain Rattler":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalAllDamageCanElectrocute1","UniqueLocalAddedPhysicalDamage9","UniqueLocalAddedLightningDamage3"],
+    "baseType":"Studded Greatclub",
+    "variants":["Pre 0.1.1","Current"],
+    "itemType":"mace",
+    "stats":["Brain Rattler","Studded Greatclub","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage9[10,12][18,22]","{variant:2}UniqueLocalAddedPhysicalDamage9","{variant:1}UniqueLocalAddedLightningDamage3[1,1][36,42]","{variant:2}UniqueLocalAddedLightningDamage3","UniqueLocalIncreasedAttackSpeed5","UniqueLocalAllDamageCanElectrocute1"]
+  },
+  "Saitha's Spear":{
+    "affixes":["UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
+    "baseType":"Barbed Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Saitha's Spear","Barbed Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"]
+  },
+  "Guiding Palm of the Heart":{
+    "affixes":["UniqueDamageGainedAsFire2","UniqueNearbyAlliesAddedFireDamage1","UniqueBaseLifeRegenToAllies1","UniqueStrength43","UniqueLightRadius14","UniqueFireShrine1"],
+    "baseType":"Shrine Sceptre",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Purity of Fire",
+    "itemType":"sceptre",
+    "stats":["Guiding Palm of the Heart","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Fire","UniqueDamageGainedAsFire2","UniqueNearbyAlliesAddedFireDamage1","UniqueBaseLifeRegenToAllies1","UniqueStrength43","UniqueLightRadius14","UniqueFireShrine1"]
+  },
+  "Daevata's Wind":{
+    "affixes":["SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
+    "baseType":"War Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Daevata's Wind","War Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"]
+  },
+  "Quill Rain":{
+    "affixes":["UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"],
+    "baseType":"Shortbow",
+    "stats":["Quill Rain","Shortbow","UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"],
+    "itemType":"bow"
+  },
+  "Tyranny's Grip":{
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
+    "baseType":"Ironhead Spear",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Spear Throw",
+    "itemType":"spear",
+    "stats":["Tyranny's Grip","Ironhead Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"]
+  },
+  "Guiding Palm of the Mind":{
+    "affixes":["UniqueDamageGainedAsLightning1","UniqueNearbyAlliesAddedLightningDamage1","UniqueBaseLifeRegenToAllies1","UniqueDexterity42","UniqueLightRadius11","UniqueLightningShrine1"],
+    "baseType":"Shrine Sceptre",
+    "league":" Dawn of the Hunt",
+    "implicitCount":1,
+    "grantSkill":" Level (1-20) Purity of Lightning",
+    "itemType":"sceptre",
+    "stats":["Guiding Palm of the Mind","Shrine Sceptre","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Purity of Lightning","UniqueDamageGainedAsLightning1","UniqueNearbyAlliesAddedLightningDamage1","UniqueBaseLifeRegenToAllies1","UniqueDexterity42","UniqueLightRadius11","UniqueLightningShrine1"]
+  },
+  "Trenchtimbre":{
+    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","UniqueMinionAttackSpeedAffectsYou1","UniqueGlobalMinionSpellSkillGemLevel1","UniqueLocalAddedPhysicalDamage10[10,12][18,35]"],
+    "baseType":"Spiked Club",
+    "variants":["Pre 0.1.1","Pre 0.2.0","Current"],
+    "itemType":"mace",
+    "stats":["Trenchtimbre","Spiked Club","Variant: Pre 0.1.1","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage10[10,12][18,35]","{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","{variant:2}UniqueGlobalMinionSpellSkillGemLevel1[1,3]","{variant:3}UniqueGlobalMinionSpellSkillGemLevel1","UniqueMinionAttackSpeedAffectsYou1"]
+  }
+}
