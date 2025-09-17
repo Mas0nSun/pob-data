@@ -29,7 +29,7 @@ jobs:
       - name: checkout pob2
         uses: actions/checkout@v4.2.2
         with:
-          repository: PathOfBuildingCommunity/PathOfBuilding-PoE2
+          repository: Mas0nSun/PathOfBuilding-PoE2
           path: PathOfBuilding2
       - name: install json
         run: luarocks install dkjson
@@ -41,6 +41,12 @@ jobs:
         run: find PathOfBuilding2/src/Data/ -type d | sed 's|PathOfBuilding2/src/Data|RePoE/pob-data/poe2/|g' | while read DIR; do mkdir -p $DIR; done
       - name: run poe2 lua
         run: find PathOfBuilding2/src/Data/ -name '*.lua' -exec luajit RePoE/lua/Generate.lua '{}' RePoE/pob-data/poe2/ \;
+      - name: export unique items
+        run: luajit RePoE/lua/export_uniques_to_json.lua RePoE
+        working-directory: .
+      - name: merge unique items
+        run: luajit RePoE/lua/merge_uniques.lua RePoE all
+        working-directory: .
       - name: commit changes
         id: autocommit
         uses: stefanzweifel/git-auto-commit-action@v5.2.0
@@ -55,21 +61,21 @@ jobs:
         with:
           path: RePoE/pob-data/
 
-  deploy:
-    runs-on: ubuntu-latest
+  # deploy:
+  #   runs-on: ubuntu-latest
 
-    needs: build
-    if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
+  #   needs: build
+  #   if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
 
-    permissions:
-      pages: write
-      id-token: write
+  #   permissions:
+  #     pages: write
+  #     id-token: write
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
 
-    steps:
-      - name: deploy gh-pages
-        id: deployment
-        uses: actions/deploy-pages@v4.0.5
+  #   steps:
+  #     - name: deploy gh-pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4.0.5
