@@ -53,5 +53,19 @@
     "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
     "stats":["The Adorned","Diamond","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Limited to: 1","(0-100)% increased Effect of Jewel Socket Passive Skills","containing Corrupted Magic Jewels"],
     "variants":[]
+  },
+  "Undying Hate":{
+    "baseType":"Timeless Jewel",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"jewel",
+    "modifiers":["{variant:1}Glorifying the defilement of (100-8000) souls in tribute to Amanamu","{variant:2}Glorifying the defilement of (100-8000) souls in tribute to Kulemak","{variant:3}Glorifying the defilement of (100-8000) souls in tribute to Kurgal","{variant:4}Glorifying the defilement of (100-8000) souls in tribute to Tecrod","{variant:5}Glorifying the defilement of (100-8000) souls in tribute to Ulaman"],
+    "name":"Undying Hate",
+    "originalString":"Undying Hate\nTimeless Jewel\nSource: Drops from unique{Vessel of Kulemak}\nLimited to: 1 Historic\nVariant: Amanamu\nVariant: Kulemak\nVariant: Kurgal\nVariant: Tecrod\nVariant: Ulaman\nRadius: Very Large\n{variant:1}Glorifying the defilement of (100-8000) souls in tribute to Amanamu\n{variant:2}Glorifying the defilement of (100-8000) souls in tribute to Kulemak\n{variant:3}Glorifying the defilement of (100-8000) souls in tribute to Kurgal\n{variant:4}Glorifying the defilement of (100-8000) souls in tribute to Tecrod\n{variant:5}Glorifying the defilement of (100-8000) souls in tribute to Ulaman\nPassives in radius are Conquered by the Abyssals\nHistoric\n",
+    "requirements":[],
+    "source":"Drops from unique{Vessel of Kulemak}",
+    "stats":["Undying Hate","Timeless Jewel","Source: Drops from unique{Vessel of Kulemak}","Limited to: 1 Historic","Variant: Amanamu","Variant: Kulemak","Variant: Kurgal","Variant: Tecrod","Variant: Ulaman","Radius: Very Large","{variant:1}Glorifying the defilement of (100-8000) souls in tribute to Amanamu","{variant:2}Glorifying the defilement of (100-8000) souls in tribute to Kulemak","{variant:3}Glorifying the defilement of (100-8000) souls in tribute to Kurgal","{variant:4}Glorifying the defilement of (100-8000) souls in tribute to Tecrod","{variant:5}Glorifying the defilement of (100-8000) souls in tribute to Ulaman","Passives in radius are Conquered by the Abyssals","Historic"],
+    "variants":["Amanamu","Kulemak","Kurgal","Tecrod","Ulaman"]
   }
 }

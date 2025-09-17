@@ -73,9 +73,9 @@
     "itemType":"gloves",
     "modifiers":["(50-80)% increased Energy Shield","{variant:2}(20-40)% increased Fire Damage","{variant:2}(10-20)% reduced Cold Damage","{variant:1}+(15-30)% to Fire Resistance","{variant:2}+(20-40)% to Fire Resistance","{variant:1}-(30-15)% to Cold Resistance","{variant:2}-(20-10)% to Cold Resistance"],
     "name":"Candlemaker",
-    "originalString":"Candlemaker\nSombre Gloves\nVariant: Pre 0.1.1\nVariant: Current\n(50-80)% increased Energy Shield\n{variant:2}(20-40)% increased Fire Damage\n{variant:2}(10-20)% reduced Cold Damage\n{variant:1}+(15-30)% to Fire Resistance\n{variant:2}+(20-40)% to Fire Resistance\n{variant:1}-(30-15)% to Cold Resistance\n{variant:2}-(20-10)% to Cold Resistance\nChance to Ignite is doubled\n",
+    "originalString":"Candlemaker\nSombre Gloves\nVariant: Pre 0.1.1\nVariant: Current\n(50-80)% increased Energy Shield\n{variant:2}(20-40)% increased Fire Damage\n{variant:2}(10-20)% reduced Cold Damage\n{variant:1}+(15-30)% to Fire Resistance\n{variant:2}+(20-40)% to Fire Resistance\n{variant:1}-(30-15)% to Cold Resistance\n{variant:2}-(20-10)% to Cold Resistance\nFlammability Magnitude is doubled\n",
     "requirements":[],
-    "stats":["Candlemaker","Sombre Gloves","Variant: Pre 0.1.1","Variant: Current","(50-80)% increased Energy Shield","{variant:2}(20-40)% increased Fire Damage","{variant:2}(10-20)% reduced Cold Damage","{variant:1}+(15-30)% to Fire Resistance","{variant:2}+(20-40)% to Fire Resistance","{variant:1}-(30-15)% to Cold Resistance","{variant:2}-(20-10)% to Cold Resistance","Chance to Ignite is doubled"],
+    "stats":["Candlemaker","Sombre Gloves","Variant: Pre 0.1.1","Variant: Current","(50-80)% increased Energy Shield","{variant:2}(20-40)% increased Fire Damage","{variant:2}(10-20)% reduced Cold Damage","{variant:1}+(15-30)% to Fire Resistance","{variant:2}+(20-40)% to Fire Resistance","{variant:1}-(30-15)% to Cold Resistance","{variant:2}-(20-10)% to Cold Resistance","Flammability Magnitude is doubled"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Death Articulated":{
@@ -312,11 +312,11 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"gloves",
-    "modifiers":["(60-80)% increased Evasion Rating","(20-30)% increased Critical Hit Chance","5% increased Attack Speed","+(10-20) to Dexterity","Your Critical Damage Bonus is 300%"],
+    "modifiers":["(60-80)% increased Evasion Rating","(20-30)% increased Critical Hit Chance","5% increased Attack Speed","+(10-20) to Dexterity","Your Critical Damage Bonus is 250%"],
     "name":"Maligaro's Virtuosity",
-    "originalString":"Maligaro's Virtuosity\nFine Bracers\n(60-80)% increased Evasion Rating\n(20-30)% increased Critical Hit Chance\n5% increased Attack Speed\n+(10-20) to Dexterity\nYour Critical Damage Bonus is 300%\n",
+    "originalString":"Maligaro's Virtuosity\nFine Bracers\n(60-80)% increased Evasion Rating\n(20-30)% increased Critical Hit Chance\n5% increased Attack Speed\n+(10-20) to Dexterity\nYour Critical Damage Bonus is 250%\n",
     "requirements":[],
-    "stats":["Maligaro's Virtuosity","Fine Bracers","(60-80)% increased Evasion Rating","(20-30)% increased Critical Hit Chance","5% increased Attack Speed","+(10-20) to Dexterity","Your Critical Damage Bonus is 300%"],
+    "stats":["Maligaro's Virtuosity","Fine Bracers","(60-80)% increased Evasion Rating","(20-30)% increased Critical Hit Chance","5% increased Attack Speed","+(10-20) to Dexterity","Your Critical Damage Bonus is 250%"],
     "variants":[]
   },
   "Nightscale":{
@@ -352,11 +352,11 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"gloves",
-    "modifiers":["{variant:1}+(5-10)% to Fire Resistance","{variant:1}+(5-10)% to Cold Resistance","{variant:1}+(5-10)% to Lightning Resistance","{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage","{variant:2}Gain (5-10)% of Elemental Damage Damage as Extra Lightning Damage","33% of Elemental Damage Converted to Cold Damage","33% of Elemental Damage Converted to Fire Damage","33% of Elemental Damage Converted to Lightning Damage"],
+    "modifiers":["{variant:1}+(5-10)% to Fire Resistance","{variant:1}+(5-10)% to Cold Resistance","{variant:1}+(5-10)% to Lightning Resistance","{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Lightning Damage","33% of Elemental Damage Converted to Cold Damage","33% of Elemental Damage Converted to Fire Damage","33% of Elemental Damage Converted to Lightning Damage"],
     "name":"Painter's Servant",
-    "originalString":"Painter's Servant\nTorn Gloves\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}+(5-10)% to Fire Resistance\n{variant:1}+(5-10)% to Cold Resistance\n{variant:1}+(5-10)% to Lightning Resistance\n{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage\n{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage\n{variant:2}Gain (5-10)% of Elemental Damage Damage as Extra Lightning Damage\n33% of Elemental Damage Converted to Cold Damage\n33% of Elemental Damage Converted to Fire Damage\n33% of Elemental Damage Converted to Lightning Damage\n",
+    "originalString":"Painter's Servant\nTorn Gloves\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}+(5-10)% to Fire Resistance\n{variant:1}+(5-10)% to Cold Resistance\n{variant:1}+(5-10)% to Lightning Resistance\n{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage\n{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage\n{variant:2}Gain (5-10)% of Elemental Damage as Extra Lightning Damage\n33% of Elemental Damage Converted to Cold Damage\n33% of Elemental Damage Converted to Fire Damage\n33% of Elemental Damage Converted to Lightning Damage\n",
     "requirements":[],
-    "stats":["Painter's Servant","Torn Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:1}+(5-10)% to Fire Resistance","{variant:1}+(5-10)% to Cold Resistance","{variant:1}+(5-10)% to Lightning Resistance","{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage","{variant:2}Gain (5-10)% of Elemental Damage Damage as Extra Lightning Damage","33% of Elemental Damage Converted to Cold Damage","33% of Elemental Damage Converted to Fire Damage","33% of Elemental Damage Converted to Lightning Damage"],
+    "stats":["Painter's Servant","Torn Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:1}+(5-10)% to Fire Resistance","{variant:1}+(5-10)% to Cold Resistance","{variant:1}+(5-10)% to Lightning Resistance","{variant:2}Gain (5-10)% of Elemental Damage as Extra Cold Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Fire Damage","{variant:2}Gain (5-10)% of Elemental Damage as Extra Lightning Damage","33% of Elemental Damage Converted to Cold Damage","33% of Elemental Damage Converted to Fire Damage","33% of Elemental Damage Converted to Lightning Damage"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Plaguefinger":{
@@ -413,7 +413,7 @@
     "variants":["Pre 0.1.1","Current"]
   },
   "The Prisoner's Manacles":{
-    "baseType":"Diviner Cuffs",
+    "baseType":"Verisium Cuffs",
     "flags":[],
     "gameVersion":"poe2",
     "implicitCount":0,
@@ -421,9 +421,24 @@
     "league":" Dawn of the Hunt",
     "modifiers":["(200-300)% increased Armour and Energy Shield","+100 to maximum Life","100% increased Attribute Requirements","+(20-40)% to Lightning Resistance","Debuffs you inflict have (20-30)% increased Slow Magnitude"],
     "name":"The Prisoner's Manacles",
-    "originalString":"The Prisoner's Manacles\nDiviner Cuffs\nLeague: Dawn of the Hunt\n(200-300)% increased Armour and Energy Shield\n+100 to maximum Life\n100% increased Attribute Requirements\n+(20-40)% to Lightning Resistance\n(15-30) Life Regeneration per second\nDebuffs you inflict have (20-30)% increased Slow Magnitude\nCannot Immobilise enemies\n",
+    "originalString":"The Prisoner's Manacles\nVerisium Cuffs\nLeague: Dawn of the Hunt\n(200-300)% increased Armour and Energy Shield\n+100 to maximum Life\n100% increased Attribute Requirements\n+(20-40)% to Lightning Resistance\n(15-30) Life Regeneration per second\nDebuffs you inflict have (20-30)% increased Slow Magnitude\nCannot Immobilise enemies\n",
     "requirements":[],
-    "stats":["The Prisoner's Manacles","Diviner Cuffs","League: Dawn of the Hunt","(200-300)% increased Armour and Energy Shield","+100 to maximum Life","100% increased Attribute Requirements","+(20-40)% to Lightning Resistance","(15-30) Life Regeneration per second","Debuffs you inflict have (20-30)% increased Slow Magnitude","Cannot Immobilise enemies"],
+    "stats":["The Prisoner's Manacles","Verisium Cuffs","League: Dawn of the Hunt","(200-300)% increased Armour and Energy Shield","+100 to maximum Life","100% increased Attribute Requirements","+(20-40)% to Lightning Resistance","(15-30) Life Regeneration per second","Debuffs you inflict have (20-30)% increased Slow Magnitude","Cannot Immobilise enemies"],
+    "variants":[]
+  },
+  "Thunderfist":{
+    "baseType":"Utility Wraps",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Crackling Palm",
+    "implicitCount":1,
+    "itemType":"gloves",
+    "league":" Rise of the Abyssal",
+    "modifiers":["(1-111)% increased Evasion and Energy Shield","(1-11)% increased Attack Speed","+(1-33)% to Lightning Resistance","+(0.1-1.1)% to Unarmed Melee Attack Critical Hit Chance"],
+    "name":"Thunderfist",
+    "originalString":"Thunderfist\nUtility Wraps\nLeague: Rise of the Abyssal\nImplicits: 1\nGrants Skill: Level (1-20) Crackling Palm\n(1-111)% increased Evasion and Energy Shield\n(1-11)% increased Attack Speed\n+(1-33)% to Lightning Resistance\nAdds 1 to (77-111) Lightning Damage to Unarmed Melee Hits\n+(0.1-1.1)% to Unarmed Melee Attack Critical Hit Chance\n",
+    "requirements":[],
+    "stats":["Thunderfist","Utility Wraps","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Level (1-20) Crackling Palm","(1-111)% increased Evasion and Energy Shield","(1-11)% increased Attack Speed","+(1-33)% to Lightning Resistance","Adds 1 to (77-111) Lightning Damage to Unarmed Melee Hits","+(0.1-1.1)% to Unarmed Melee Attack Critical Hit Chance"],
     "variants":[]
   },
   "Treefingers":{

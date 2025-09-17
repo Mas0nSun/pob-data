@@ -5,12 +5,12 @@
     "gameVersion":"poe2",
     "implicitCount":1,
     "itemType":"bow",
-    "modifiers":["{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus"],
+    "modifiers":["{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus","{variant:3}+(20-25)% to Critical Damage Bonus"],
     "name":"Death's Harp",
-    "originalString":"Death's Harp\nDualstring Bow\nVariant: 0.2.0\nVariant: Current\nImplicits: 1\nBow Attacks fire an additional Arrow\n{variant:1}+(50-70)% to Critical Damage Bonus\n{variant:2}+(30-40)% to Critical Damage Bonus\nBow Attacks fire 3 additional Arrows\nGain (20-30) Life per Enemy Killed\nGain (12-18) Mana per Enemy Killed\n",
+    "originalString":"Death's Harp\nDualstring Bow\nVariant: 0.2.0\nVariant: 0.3.0\nVariant: Current\nImplicits: 1\nBow Attacks fire an additional Arrow\n{variant:1}+(50-70)% to Critical Damage Bonus\n{variant:2}+(30-40)% to Critical Damage Bonus\n{variant:3}+(20-25)% to Critical Damage Bonus\nBow Attacks fire 3 additional Arrows\nGain (20-30) Life per Enemy Killed\nGain (12-18) Mana per Enemy Killed\n",
     "requirements":[],
-    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: Current","Implicits: 1","Bow Attacks fire an additional Arrow","{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus","Bow Attacks fire 3 additional Arrows","Gain (20-30) Life per Enemy Killed","Gain (12-18) Mana per Enemy Killed"],
-    "variants":["0.2.0","Current"]
+    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: Current","Implicits: 1","Bow Attacks fire an additional Arrow","{variant:1}+(50-70)% to Critical Damage Bonus","{variant:2}+(30-40)% to Critical Damage Bonus","{variant:3}+(20-25)% to Critical Damage Bonus","Bow Attacks fire 3 additional Arrows","Gain (20-30) Life per Enemy Killed","Gain (12-18) Mana per Enemy Killed"],
+    "variants":["0.2.0","0.3.0","Current"]
   },
   "Doomfletch":{
     "baseType":"Composite Bow",
@@ -24,6 +24,35 @@
     "originalString":"Doomfletch\nComposite Bow\nLeague: Dawn of the Hunt\nAdds (5-7) to (10-12) Physical Damage\n+10 to Dexterity\n(30-50)% increased Mana Regeneration Rate\nAttacks with this Weapon gain 50% of Physical damage as Extra damage of each Element\n",
     "requirements":[],
     "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","Adds (5-7) to (10-12) Physical Damage","+10 to Dexterity","(30-50)% increased Mana Regeneration Rate","Attacks with this Weapon gain 50% of Physical damage as Extra damage of each Element"],
+    "variants":[]
+  },
+  "Fairgraves' Curse":{
+    "baseType":"Artillery Bow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Phantasmal Arrow",
+    "implicitCount":2,
+    "itemType":"bow",
+    "league":" Rise of the Abyssal",
+    "modifiers":["50% reduced Projectile Range","(30-50)% increased Flammability Magnitude","(10-20)% increased Ignite Magnitude","30% reduced Life Recovery rate","-30 Physical Damage taken from Hits"],
+    "name":"Fairgraves' Curse",
+    "originalString":"Fairgraves' Curse\nArtillery Bow\nLeague: Rise of the Abyssal\nImplicits: 2\nGrants Skill: Level (1-20) Phantasmal Arrow\n50% reduced Projectile Range\nAdds (76-98) to (126-193) Fire Damage\n(30-50)% increased Flammability Magnitude\n(10-20)% increased Ignite Magnitude\n30% reduced Life Recovery rate\n-30 Physical Damage taken from Hits\nAttack Hits inflict Spectral Fire for 8 seconds\n",
+    "requirements":[],
+    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Phantasmal Arrow","50% reduced Projectile Range","Adds (76-98) to (126-193) Fire Damage","(30-50)% increased Flammability Magnitude","(10-20)% increased Ignite Magnitude","30% reduced Life Recovery rate","-30 Physical Damage taken from Hits","Attack Hits inflict Spectral Fire for 8 seconds"],
+    "variants":[]
+  },
+  "Lioneye's Glare":{
+    "baseType":"Heavy Bow",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"bow",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently"],
+    "name":"Lioneye's Glare",
+    "originalString":"Lioneye's Glare\nHeavy Bow\nLeague: Dawn of the Hunt\n(150-240)% increased Physical Damage\n+(300-500) to Accuracy Rating\n10% increased Attack Speed\n+(20-30) to Dexterity\n+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently\n-1 metre to Dodge Roll distance if you've Dodge Rolled Recently\nBarrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence\n",
+    "requirements":[],
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","(150-240)% increased Physical Damage","+(300-500) to Accuracy Rating","10% increased Attack Speed","+(20-30) to Dexterity","+2 metres to Dodge Roll distance if you haven't Dodge Rolled Recently","-1 metre to Dodge Roll distance if you've Dodge Rolled Recently","Barrageable Attacks with this Bow Repeat +1 time if no enemies are in your Presence"],
     "variants":[]
   },
   "Quill Rain":{

@@ -85,12 +85,26 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"helmet",
-    "modifiers":["10% reduced Movement Speed","(50-100)% increased Armour and Energy Shield","{variant:1}+(40-60) to maximum Life","{variant:2}+100 to maximum Life","(35-50)% reduced Effect of Chill on you","(35-50)% reduced effect of Ignite on you","(35-50)% reduced effect of Shock on you"],
+    "modifiers":["10% reduced Movement Speed","(50-100)% increased Armour and Energy Shield","{variant:1}+(40-60) to maximum Life","{variant:2}+100 to maximum Life","(35-50)% reduced Effect of Chill on you","(35-50)% reduced Magnitude of Ignite on you","(35-50)% reduced effect of Shock on you"],
     "name":"Bronzebeard",
-    "originalString":"Bronzebeard\nHorned Crown\nVariant: Pre 0.1.1\nVariant: Current\n10% reduced Movement Speed\n(50-100)% increased Armour and Energy Shield\n{variant:1}+(40-60) to maximum Life\n{variant:2}+100 to maximum Life\n(35-50)% reduced Effect of Chill on you\n(35-50)% reduced effect of Ignite on you\n(35-50)% reduced effect of Shock on you\n",
+    "originalString":"Bronzebeard\nHorned Crown\nVariant: Pre 0.1.1\nVariant: Current\n10% reduced Movement Speed\n(50-100)% increased Armour and Energy Shield\n{variant:1}+(40-60) to maximum Life\n{variant:2}+100 to maximum Life\n(35-50)% reduced Effect of Chill on you\n(35-50)% reduced Magnitude of Ignite on you\n(35-50)% reduced effect of Shock on you\n",
     "requirements":[],
-    "stats":["Bronzebeard","Horned Crown","Variant: Pre 0.1.1","Variant: Current","10% reduced Movement Speed","(50-100)% increased Armour and Energy Shield","{variant:1}+(40-60) to maximum Life","{variant:2}+100 to maximum Life","(35-50)% reduced Effect of Chill on you","(35-50)% reduced effect of Ignite on you","(35-50)% reduced effect of Shock on you"],
+    "stats":["Bronzebeard","Horned Crown","Variant: Pre 0.1.1","Variant: Current","10% reduced Movement Speed","(50-100)% increased Armour and Energy Shield","{variant:1}+(40-60) to maximum Life","{variant:2}+100 to maximum Life","(35-50)% reduced Effect of Chill on you","(35-50)% reduced Magnitude of Ignite on you","(35-50)% reduced effect of Shock on you"],
     "variants":["Pre 0.1.1","Current"]
+  },
+  "Constricting Command":{
+    "baseType":"Viper Cap",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(80-120) to maximum Life","+(10-15) to all Attributes","{variant:1}Pin Enemies which are Primed for Pinning","{variant:2}Require (2-5) fewer enemies to be Surrounded"],
+    "name":"Constricting Command",
+    "originalString":"Constricting Command\nViper Cap\nLeague: Dawn of the Hunt\nVariant: Pre 0.3.0\nVariant: Current\n+(80-120) to maximum Life\n+(10-15) to all Attributes\n(8-12) Life Regeneration per second\n{variant:1}Pin Enemies which are Primed for Pinning\n{variant:2}Require (2-5) fewer enemies to be Surrounded\n",
+    "requirements":[],
+    "stats":["Constricting Command","Viper Cap","League: Dawn of the Hunt","Variant: Pre 0.3.0","Variant: Current","+(80-120) to maximum Life","+(10-15) to all Attributes","(8-12) Life Regeneration per second","{variant:1}Pin Enemies which are Primed for Pinning","{variant:2}Require (2-5) fewer enemies to be Surrounded"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Cornathaum":{
     "baseType":"Heavy Crown",
@@ -113,13 +127,13 @@
     "itemType":"helmet",
     "modifiers":["+(100-150) to Accuracy Rating","+(60-80) to maximum Life","{variant:2}+(20-25)% to Fire Resistance","25% increased Light Radius"],
     "name":"Corona of the Red Sun",
-    "originalString":"Corona of the Red Sun\nWarrior Greathelm\nVariant: Pre 0.1.1\nVariant: Current\n+(100-150) to Accuracy Rating\n+(60-80) to maximum Life\n{variant:2}+(20-25)% to Fire Resistance\n25% increased Light Radius\nWhen you Leech Life from a Hit, Allies in your Presence also Leech the same amount of Life\n",
+    "originalString":"Corona of the Red Sun\nWarrior Greathelm\nVariant: Pre 0.1.1\nVariant: Current\n+(100-150) to Accuracy Rating\n+(60-80) to maximum Life\n{variant:2}+(20-25)% to Fire Resistance\n25% increased Light Radius\nLeeching Life from your Hits causes Allies in your Presence to also Leech the same amount of Life\n",
     "requirements":[],
-    "stats":["Corona of the Red Sun","Warrior Greathelm","Variant: Pre 0.1.1","Variant: Current","+(100-150) to Accuracy Rating","+(60-80) to maximum Life","{variant:2}+(20-25)% to Fire Resistance","25% increased Light Radius","When you Leech Life from a Hit, Allies in your Presence also Leech the same amount of Life"],
+    "stats":["Corona of the Red Sun","Warrior Greathelm","Variant: Pre 0.1.1","Variant: Current","+(100-150) to Accuracy Rating","+(60-80) to maximum Life","{variant:2}+(20-25)% to Fire Resistance","25% increased Light Radius","Leeching Life from your Hits causes Allies in your Presence to also Leech the same amount of Life"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Crown of Eyes":{
-    "baseType":"Coral Circlet",
+    "baseType":"Vermeil Circlet",
     "flags":[],
     "gameVersion":"poe2",
     "implicitCount":0,
@@ -127,9 +141,9 @@
     "league":" Dawn of the Hunt",
     "modifiers":["(100-140)% increased Energy Shield","+(150-200) to Accuracy Rating","+(10-15) to all Attributes","-10% to Fire Resistance"],
     "name":"Crown of Eyes",
-    "originalString":"Crown of Eyes\nCoral Circlet\nLeague: Dawn of the Hunt\n(100-140)% increased Energy Shield\n+(150-200) to Accuracy Rating\n+(10-15) to all Attributes\n-10% to Fire Resistance\nIncreases and Reductions to Spell damage also apply to Attacks\n",
+    "originalString":"Crown of Eyes\nVermeil Circlet\nLeague: Dawn of the Hunt\n(100-140)% increased Energy Shield\n+(150-200) to Accuracy Rating\n+(10-15) to all Attributes\n-10% to Fire Resistance\nIncreases and Reductions to Spell damage also apply to Attacks\n",
     "requirements":[],
-    "stats":["Crown of Eyes","Coral Circlet","League: Dawn of the Hunt","(100-140)% increased Energy Shield","+(150-200) to Accuracy Rating","+(10-15) to all Attributes","-10% to Fire Resistance","Increases and Reductions to Spell damage also apply to Attacks"],
+    "stats":["Crown of Eyes","Vermeil Circlet","League: Dawn of the Hunt","(100-140)% increased Energy Shield","+(150-200) to Accuracy Rating","+(10-15) to all Attributes","-10% to Fire Resistance","Increases and Reductions to Spell damage also apply to Attacks"],
     "variants":[]
   },
   "Crown of Thorns":{
@@ -231,9 +245,10 @@
     "itemType":"helmet",
     "modifiers":["(60-100)% increased Energy Shield","+(3-5)% to Maximum Cold Resistance","{variant:1}+(25-35)% to Cold Resistance","{variant:2}+(30-50)% to Cold Resistance","25% reduced Light Radius"],
     "name":"Forbidden Gaze",
-    "originalString":"Forbidden Gaze\nChain Tiara\nVariant: Pre 0.1.1\nVariant: Current\n(60-100)% increased Energy Shield\n+(3-5)% to Maximum Cold Resistance\n{variant:1}+(25-35)% to Cold Resistance\n{variant:2}+(30-50)% to Cold Resistance\n25% reduced Light Radius\n",
+    "originalString":"Forbidden Gaze\nChain Tiara\nSource: No longer obtainable\nVariant: Pre 0.1.1\nVariant: Current\n(60-100)% increased Energy Shield\n+(3-5)% to Maximum Cold Resistance\n{variant:1}+(25-35)% to Cold Resistance\n{variant:2}+(30-50)% to Cold Resistance\n25% reduced Light Radius\n",
     "requirements":[],
-    "stats":["Forbidden Gaze","Chain Tiara","Variant: Pre 0.1.1","Variant: Current","(60-100)% increased Energy Shield","+(3-5)% to Maximum Cold Resistance","{variant:1}+(25-35)% to Cold Resistance","{variant:2}+(30-50)% to Cold Resistance","25% reduced Light Radius"],
+    "source":"No longer obtainable",
+    "stats":["Forbidden Gaze","Chain Tiara","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","(60-100)% increased Energy Shield","+(3-5)% to Maximum Cold Resistance","{variant:1}+(25-35)% to Cold Resistance","{variant:2}+(30-50)% to Cold Resistance","25% reduced Light Radius"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Glimpse of Chaos":{
@@ -370,6 +385,19 @@
     "stats":["Leer Cast","Hooded Mask","Variant: Pre 0.1.1","Variant: Current","+(30-50) to maximum Life","+(30-50) to maximum Mana","Allies in your Presence deal 50% increased Damage","{variant:2}+(10-20) to Dexterity","25% reduced Damage"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Mask of the Sanguimancer":{
+    "baseType":"Face Mask",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet",
+    "modifiers":["+(20-25) to Evasion Rating","+(10-15) to maximum Energy Shield","(20-40)% increased Critical Hit Chance for Spells","+(10-20) to Strength","+(10-20) to Intelligence"],
+    "name":"Mask of the Sanguimancer",
+    "originalString":"Mask of the Sanguimancer\nFace Mask\n+(20-25) to Evasion Rating\n+(10-15) to maximum Energy Shield\n(20-40)% increased Critical Hit Chance for Spells\n+(10-20) to Strength\n+(10-20) to Intelligence\nBlood Magic\n",
+    "requirements":[],
+    "stats":["Mask of the Sanguimancer","Face Mask","+(20-25) to Evasion Rating","+(10-15) to maximum Energy Shield","(20-40)% increased Critical Hit Chance for Spells","+(10-20) to Strength","+(10-20) to Intelligence","Blood Magic"],
+    "variants":[]
+  },
   "Mask of the Stitched Demon":{
     "baseType":"Feathered Tiara",
     "flags":[],
@@ -381,6 +409,20 @@
     "originalString":"Mask of the Stitched Demon\nFeathered Tiara\n(120-160)% increased Energy Shield\n+(17-23)% to Chaos Resistance\nCannot have Energy Shield\nRegenerate 0.05 Life per second per Maximum Energy Shield\n",
     "requirements":[],
     "stats":["Mask of the Stitched Demon","Feathered Tiara","(120-160)% increased Energy Shield","+(17-23)% to Chaos Resistance","Cannot have Energy Shield","Regenerate 0.05 Life per second per Maximum Energy Shield"],
+    "variants":[]
+  },
+  "Mind of the Council":{
+    "baseType":"Death Mask",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"helmet",
+    "league":" Dawn of the Hunt",
+    "modifiers":["(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
+    "name":"Mind of the Council",
+    "originalString":"Mind of the Council\nDeath Mask\nLeague: Dawn of the Hunt\n(60-90)% increased Evasion and Energy Shield\n+(60-90) to maximum Mana\n+(20-30)% to Lightning Resistance\nAttacks cost an additional 6% of your maximum Mana\nAttacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana\n",
+    "requirements":[],
+    "stats":["Mind of the Council","Death Mask","League: Dawn of the Hunt","(60-90)% increased Evasion and Energy Shield","+(60-90) to maximum Mana","+(20-30)% to Lightning Resistance","Attacks cost an additional 6% of your maximum Mana","Attacks have Added maximum Lightning Damage equal to (6-9)% of maximum Mana"],
     "variants":[]
   },
   "Myris Uxor":{
@@ -445,10 +487,10 @@
     "itemType":"helmet",
     "modifiers":["+(60-100) to maximum Mana","25% increased Light Radius","(100-150)% increased Armour, Evasion and Energy Shield","Equipment and Skill Gems have 25% increased Attribute Requirements"],
     "name":"Solus Ipse",
-    "originalString":"Solus Ipse\nGrand Visage\nSource: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}\n+(60-100) to maximum Mana\n25% increased Light Radius\n(100-150)% increased Armour, Evasion and Energy Shield\nEquipment and Skill Gems have 25% increased Attribute Requirements\nYou can use each type of Support Gem an additional time in different Skills\n",
+    "originalString":"Solus Ipse\nGrand Visage\nSource: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}\n+(60-100) to maximum Mana\n25% increased Light Radius\n(100-150)% increased Armour, Evasion and Energy Shield\nEquipment and Skill Gems have 25% increased Attribute Requirements\nYou can Socket an additional copy of each Lineage Support Gem, in different Skills\n",
     "requirements":[],
     "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
-    "stats":["Solus Ipse","Grand Visage","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","+(60-100) to maximum Mana","25% increased Light Radius","(100-150)% increased Armour, Evasion and Energy Shield","Equipment and Skill Gems have 25% increased Attribute Requirements","You can use each type of Support Gem an additional time in different Skills"],
+    "stats":["Solus Ipse","Grand Visage","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","+(60-100) to maximum Mana","25% increased Light Radius","(100-150)% increased Armour, Evasion and Energy Shield","Equipment and Skill Gems have 25% increased Attribute Requirements","You can Socket an additional copy of each Lineage Support Gem, in different Skills"],
     "variants":[]
   },
   "Starkonja's Head":{
@@ -486,12 +528,12 @@
     "implicitCount":0,
     "itemType":"helmet",
     "league":" Dawn of the Hunt",
-    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating"],
+    "modifiers":["(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance"],
     "name":"The Bringer of Rain",
-    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
+    "originalString":"The Bringer of Rain\nDecorated Helm\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n(600-800)% increased Armour and Evasion\n+(200-300) to Accuracy Rating\n{variant:2}100% increased Critical Hit Chance\n(30-60) Life Regeneration per second\nCan't use Body Armour\nYou can wield Two-Handed Axes, Maces and Swords in one hand\n",
     "requirements":[],
-    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
-    "variants":[]
+    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","(600-800)% increased Armour and Evasion","+(200-300) to Accuracy Rating","{variant:2}100% increased Critical Hit Chance","(30-60) Life Regeneration per second","Can't use Body Armour","You can wield Two-Handed Axes, Maces and Swords in one hand"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "The Deepest Tower":{
     "baseType":"Spiritbone Crown",
@@ -502,9 +544,10 @@
     "league":" Dawn of the Hunt",
     "modifiers":["(70-130)% increased Armour and Energy Shield","+(70-100) to maximum Life","+(17-23)% to Chaos Resistance","50% reduced Presence Area of Effect","10% reduced Light Radius"],
     "name":"The Deepest Tower",
-    "originalString":"The Deepest Tower\nSpiritbone Crown\nLeague: Dawn of the Hunt\n(70-130)% increased Armour and Energy Shield\n+(70-100) to maximum Life\n+(17-23)% to Chaos Resistance\n50% reduced Presence Area of Effect\n10% reduced Light Radius\nEnemies in your Presence count as being on Low Life\n",
+    "originalString":"The Deepest Tower\nSpiritbone Crown\nSource: No longer obtainable\nLeague: Dawn of the Hunt\n(70-130)% increased Armour and Energy Shield\n+(70-100) to maximum Life\n+(17-23)% to Chaos Resistance\n50% reduced Presence Area of Effect\n10% reduced Light Radius\nEnemies in your Presence count as being on Low Life\n",
     "requirements":[],
-    "stats":["The Deepest Tower","Spiritbone Crown","League: Dawn of the Hunt","(70-130)% increased Armour and Energy Shield","+(70-100) to maximum Life","+(17-23)% to Chaos Resistance","50% reduced Presence Area of Effect","10% reduced Light Radius","Enemies in your Presence count as being on Low Life"],
+    "source":"No longer obtainable",
+    "stats":["The Deepest Tower","Spiritbone Crown","Source: No longer obtainable","League: Dawn of the Hunt","(70-130)% increased Armour and Energy Shield","+(70-100) to maximum Life","+(17-23)% to Chaos Resistance","50% reduced Presence Area of Effect","10% reduced Light Radius","Enemies in your Presence count as being on Low Life"],
     "variants":[]
   },
   "The Devouring Diadem":{
@@ -554,9 +597,9 @@
     "itemType":"helmet",
     "modifiers":["(40-60)% increased Evasion and Energy Shield","+(10-20)% to all Elemental Resistances"],
     "name":"The Three Dragons",
-    "originalString":"The Three Dragons\nSolid Mask\n(40-60)% increased Evasion and Energy Shield\n+(10-20)% to all Elemental Resistances\nFire Damage from Hits Contributes to Shock Chance instead of Ignite Chance and Magnitude\nCold Damage from Hits Contributes to Ignite Chance and Magnitude instead of Chill Magnitude or Freeze Buildup\nLightning Damage from Hits Contributes to Freeze Buildup instead of Shock Chance\n",
+    "originalString":"The Three Dragons\nSolid Mask\n(40-60)% increased Evasion and Energy Shield\n+(10-20)% to all Elemental Resistances\nFire Damage from Hits Contributes to Shock Chance instead of Flammability and Ignite Magnitudes\nCold Damage from Hits Contributes to Flammability and Ignite Magnitudes instead of Chill Magnitude or Freeze Buildup\nLightning Damage from Hits Contributes to Freeze Buildup instead of Shock Chance\n",
     "requirements":[],
-    "stats":["The Three Dragons","Solid Mask","(40-60)% increased Evasion and Energy Shield","+(10-20)% to all Elemental Resistances","Fire Damage from Hits Contributes to Shock Chance instead of Ignite Chance and Magnitude","Cold Damage from Hits Contributes to Ignite Chance and Magnitude instead of Chill Magnitude or Freeze Buildup","Lightning Damage from Hits Contributes to Freeze Buildup instead of Shock Chance"],
+    "stats":["The Three Dragons","Solid Mask","(40-60)% increased Evasion and Energy Shield","+(10-20)% to all Elemental Resistances","Fire Damage from Hits Contributes to Shock Chance instead of Flammability and Ignite Magnitudes","Cold Damage from Hits Contributes to Flammability and Ignite Magnitudes instead of Chill Magnitude or Freeze Buildup","Lightning Damage from Hits Contributes to Freeze Buildup instead of Shock Chance"],
     "variants":[]
   },
   "The Vertex":{

@@ -60,12 +60,12 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"staff",
-    "modifiers":["{variant:1}(80-120)% increased Physical Damage","{variant:2}Adds (30-36) to (75-81) Physical Damage","+(50-100) to Accuracy Rating","(10-20)% increased Stun Duration","Causes Daze buildup equal to 100% of Damage dealt"],
+    "modifiers":["{variant:1}(80-120)% increased Physical Damage","+(50-100) to Accuracy Rating","(10-20)% increased Stun Duration","{variant:3}(35-50)% increased Melee Damage against Heavy Stunned enemies"],
     "name":"Nazir's Judgement",
-    "originalString":"Nazir's Judgement\nSteelpoint Quarterstaff\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(80-120)% increased Physical Damage\n{variant:2}Adds (30-36) to (75-81) Physical Damage\n+(50-100) to Accuracy Rating\n(10-20)% increased Stun Duration\nCauses Daze buildup equal to 100% of Damage dealt\n",
+    "originalString":"Nazir's Judgement\nSteelpoint Quarterstaff\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n{variant:1}(80-120)% increased Physical Damage\n{variant:2,3}Adds (30-36) to (75-81) Physical Damage\n+(50-100) to Accuracy Rating\n(10-20)% increased Stun Duration\nDazes on Hit\n{variant:3}(35-50)% increased Melee Damage against Heavy Stunned enemies\n",
     "requirements":[],
-    "stats":["Nazir's Judgement","Steelpoint Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:1}(80-120)% increased Physical Damage","{variant:2}Adds (30-36) to (75-81) Physical Damage","+(50-100) to Accuracy Rating","(10-20)% increased Stun Duration","Causes Daze buildup equal to 100% of Damage dealt"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Nazir's Judgement","Steelpoint Quarterstaff","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:1}(80-120)% increased Physical Damage","{variant:2,3}Adds (30-36) to (75-81) Physical Damage","+(50-100) to Accuracy Rating","(10-20)% increased Stun Duration","Dazes on Hit","{variant:3}(35-50)% increased Melee Damage against Heavy Stunned enemies"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
   "Pillar of the Caged God":{
     "baseType":"Variant: Pre 0.2.0",
@@ -144,11 +144,11 @@
     "grantSkill":"Level (1-20) Living Bomb",
     "implicitCount":1,
     "itemType":"staff",
-    "modifiers":["(80-120)% increased Fire Damage","(10-20)% increased Cast Speed","100% increased chance to Ignite","100% increased Magnitude of Ignite you inflict"],
+    "modifiers":["(80-120)% increased Fire Damage","(10-20)% increased Cast Speed","100% increased Flammability Magnitude","100% increased Ignite Magnitude"],
     "name":"The Searing Touch",
-    "originalString":"The Searing Touch\nPyrophyte Staff\nImplicits: 1\nGrants Skill: Level (1-20) Living Bomb\n(80-120)% increased Fire Damage\n(10-20)% increased Cast Speed\n100% increased chance to Ignite\n100% increased Magnitude of Ignite you inflict\n",
+    "originalString":"The Searing Touch\nPyrophyte Staff\nImplicits: 1\nGrants Skill: Level (1-20) Living Bomb\n(80-120)% increased Fire Damage\n(10-20)% increased Cast Speed\n100% increased Flammability Magnitude\n100% increased Ignite Magnitude\n",
     "requirements":[],
-    "stats":["The Searing Touch","Pyrophyte Staff","Implicits: 1","Grants Skill: Level (1-20) Living Bomb","(80-120)% increased Fire Damage","(10-20)% increased Cast Speed","100% increased chance to Ignite","100% increased Magnitude of Ignite you inflict"],
+    "stats":["The Searing Touch","Pyrophyte Staff","Implicits: 1","Grants Skill: Level (1-20) Living Bomb","(80-120)% increased Fire Damage","(10-20)% increased Cast Speed","100% increased Flammability Magnitude","100% increased Ignite Magnitude"],
     "variants":[]
   },
   "The Sentry":{
@@ -157,11 +157,43 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"staff",
-    "modifiers":["{variant:2}No Physical Damage","{variant:1}Adds (8-12) to (16-20) Fire Damage","{variant:2}Adds (25-32) to (40-50) Fire Damage","{variant:2}+(30-50) to Accuracy Rating","+20% to Fire Resistance","100% increased chance to Ignite","30% increased Light Radius"],
+    "modifiers":["{variant:2}No Physical Damage","{variant:1}Adds (8-12) to (16-20) Fire Damage","{variant:2}Adds (25-32) to (40-50) Fire Damage","{variant:2}+(30-50) to Accuracy Rating","+20% to Fire Resistance","100% increased Flammability Magnitude","30% increased Light Radius"],
     "name":"The Sentry",
-    "originalString":"The Sentry\nGothic Quarterstaff\nVariant: Pre 0.1.1\nVariant: Current\n{variant:2}No Physical Damage\n{variant:1}Adds (8-12) to (16-20) Fire Damage\n{variant:2}Adds (25-32) to (40-50) Fire Damage\n{variant:2}+(30-50) to Accuracy Rating\n+20% to Fire Resistance\n100% increased chance to Ignite\n30% increased Light Radius\n",
+    "originalString":"The Sentry\nGothic Quarterstaff\nVariant: Pre 0.1.1\nVariant: Current\n{variant:2}No Physical Damage\n{variant:1}Adds (8-12) to (16-20) Fire Damage\n{variant:2}Adds (25-32) to (40-50) Fire Damage\n{variant:2}+(30-50) to Accuracy Rating\n+20% to Fire Resistance\n100% increased Flammability Magnitude\n30% increased Light Radius\n",
     "requirements":[],
-    "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}No Physical Damage","{variant:1}Adds (8-12) to (16-20) Fire Damage","{variant:2}Adds (25-32) to (40-50) Fire Damage","{variant:2}+(30-50) to Accuracy Rating","+20% to Fire Resistance","100% increased chance to Ignite","30% increased Light Radius"],
+    "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}No Physical Damage","{variant:1}Adds (8-12) to (16-20) Fire Damage","{variant:2}Adds (25-32) to (40-50) Fire Damage","{variant:2}+(30-50) to Accuracy Rating","+20% to Fire Resistance","100% increased Flammability Magnitude","30% increased Light Radius"],
     "variants":["Pre 0.1.1","Current"]
+  },
+  "The Unborn Lich":{
+    "baseType":"Ravenous Staff",
+    "flags":{
+      "hasAltVariant":true
+    },
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Feast of Flesh",
+    "implicitCount":1,
+    "itemType":"staff",
+    "league":" Rise of the Abyssal",
+    "modifiers":["(60-80)% increased Desecrated Modifier magnitudes","{variant:9}(80-120)% increased Chaos Damage","{variant:11}(80-120)% increased Chaos Damage","{variant:10}(80-120)% increased Spell Physical Damage","{variant:8}+(40-60) to Spirit","{variant:7}(10-20)% increased Duration of Elemental Ailments on Enemies","{variant:7}(80-120)% increased Elemental Damage","{variant:11}Enemies you Kill have a (5-10)% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","{variant:9}Enemies you Curse have -(8-5)% to Chaos Resistance","{variant:10}(20-30)% chance to inflict Bleeding on Hit","{variant:8}(6-10)% increased Spirit Reservation Efficiency of Skills","{variant:12}(13-31)% increased Magnitude of Unholy Might buffs you grant","{variant:12}You have Unholy Might","{variant:1}Grants Skill: Level (1-20) His Dark Horizon","{variant:2}Grants Skill: Level (1-20) His Foul Emergence","{variant:3}Grants Skill: Level (1-20) His Grave Command","{variant:4}Grants Skill: Level (1-20) His Scattering Calamity","{variant:5}Grants Skill: Level (1-20) His Vile Intrusion","{variant:6}Grants Skill: Level (1-20) His Winnowing Flame"],
+    "name":"The Unborn Lich",
+    "originalString":"The Unborn Lich\nRavenous Staff\nLeague: Rise of the Abyssal\nHas Alt Variant: true\nHas Alt Variant Two: true\nHas Alt Variant Three: true\nSelected Variant: 7\nSelected Alt Variant: 8\nSelected Alt Variant Two: 9\nSelected Alt Variant Three: 10\nVariant: His Dark Horizon\nVariant: His Foul Emergence\nVariant: His Grave Command\nVariant: His Scattering Calamity\nVariant: His Vile Intrusion\nVariant: His Winnowing Flame\nVariant: Elemental Damage and Ailment Duration\nVariant: Spirit and Spirit Reservation Efficiency\nVariant: Chaos Damage and Curse\nVariant: Spell Physical Damage and Bleed Chance\nVariant: Chaos Damage and Explode\nVariant: Unholy Might\nImplicits: 1\nGrants Skill: Level (1-20) Feast of Flesh\n(60-80)% increased Desecrated Modifier magnitudes\n{variant:9}(80-120)% increased Chaos Damage\n{variant:11}(80-120)% increased Chaos Damage\n{variant:10}(80-120)% increased Spell Physical Damage\n{variant:8}+(40-60) to Spirit\n{variant:7}(10-20)% increased Duration of Elemental Ailments on Enemies\n{variant:7}(80-120)% increased Elemental Damage\n{variant:11}Enemies you Kill have a (5-10)% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage\n{variant:9}Enemies you Curse have -(8-5)% to Chaos Resistance\n{variant:10}(20-30)% chance to inflict Bleeding on Hit\n{variant:8}(6-10)% increased Spirit Reservation Efficiency of Skills\n{variant:12}(13-31)% increased Magnitude of Unholy Might buffs you grant\n{variant:12}You have Unholy Might\n{variant:1}Grants Skill: Level (1-20) His Dark Horizon\n{variant:2}Grants Skill: Level (1-20) His Foul Emergence\n{variant:3}Grants Skill: Level (1-20) His Grave Command\n{variant:4}Grants Skill: Level (1-20) His Scattering Calamity\n{variant:5}Grants Skill: Level (1-20) His Vile Intrusion\n{variant:6}Grants Skill: Level (1-20) His Winnowing Flame\n",
+    "requirements":[],
+    "stats":["The Unborn Lich","Ravenous Staff","League: Rise of the Abyssal","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","Variant: His Dark Horizon","Variant: His Foul Emergence","Variant: His Grave Command","Variant: His Scattering Calamity","Variant: His Vile Intrusion","Variant: His Winnowing Flame","Variant: Elemental Damage and Ailment Duration","Variant: Spirit and Spirit Reservation Efficiency","Variant: Chaos Damage and Curse","Variant: Spell Physical Damage and Bleed Chance","Variant: Chaos Damage and Explode","Variant: Unholy Might","Implicits: 1","Grants Skill: Level (1-20) Feast of Flesh","(60-80)% increased Desecrated Modifier magnitudes","{variant:9}(80-120)% increased Chaos Damage","{variant:11}(80-120)% increased Chaos Damage","{variant:10}(80-120)% increased Spell Physical Damage","{variant:8}+(40-60) to Spirit","{variant:7}(10-20)% increased Duration of Elemental Ailments on Enemies","{variant:7}(80-120)% increased Elemental Damage","{variant:11}Enemies you Kill have a (5-10)% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","{variant:9}Enemies you Curse have -(8-5)% to Chaos Resistance","{variant:10}(20-30)% chance to inflict Bleeding on Hit","{variant:8}(6-10)% increased Spirit Reservation Efficiency of Skills","{variant:12}(13-31)% increased Magnitude of Unholy Might buffs you grant","{variant:12}You have Unholy Might","{variant:1}Grants Skill: Level (1-20) His Dark Horizon","{variant:2}Grants Skill: Level (1-20) His Foul Emergence","{variant:3}Grants Skill: Level (1-20) His Grave Command","{variant:4}Grants Skill: Level (1-20) His Scattering Calamity","{variant:5}Grants Skill: Level (1-20) His Vile Intrusion","{variant:6}Grants Skill: Level (1-20) His Winnowing Flame"],
+    "variants":["His Dark Horizon","His Foul Emergence","His Grave Command","His Scattering Calamity","His Vile Intrusion","His Winnowing Flame","Elemental Damage and Ailment Duration","Spirit and Spirit Reservation Efficiency","Chaos Damage and Curse","Spell Physical Damage and Bleed Chance","Chaos Damage and Explode","Unholy Might"]
+  },
+  "The Whispering Ice":{
+    "baseType":"Permafrost Staff",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Icestorm",
+    "implicitCount":2,
+    "itemType":"staff",
+    "league":" Dawn of the Hunt",
+    "modifiers":["+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Elemental Exposure on Hit, lowering Total Elemental Resistances by (20-30)%"],
+    "name":"The Whispering Ice",
+    "originalString":"The Whispering Ice\nPermafrost Staff\nLeague: Dawn of the Hunt\nImplicits: 2\nGrants Skill: Level (1-20) Heart of Ice\nGrants Skill: Level (1-20) Icestorm\n+(2-4) to Level of all Cold Spell Skills\n(10-20)% reduced Cast Speed\n(5-15)% increased Intelligence\n4% increased Spell Damage per 10 Intelligence\nInflict Elemental Exposure on Hit, lowering Total Elemental Resistances by (20-30)%\n",
+    "requirements":[],
+    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Heart of Ice","Grants Skill: Level (1-20) Icestorm","+(2-4) to Level of all Cold Spell Skills","(10-20)% reduced Cast Speed","(5-15)% increased Intelligence","4% increased Spell Damage per 10 Intelligence","Inflict Elemental Exposure on Hit, lowering Total Elemental Resistances by (20-30)%"],
+    "variants":[]
   }
 }

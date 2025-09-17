@@ -77,20 +77,34 @@
     "stats":["Hrimnor's Hymn","Oak Greathammer","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Causes (30-50)% increased Stun Buildup","{variant:1}(60-80)% increased Physical Damage","{variant:2}(80-120)% increased Physical Damage","+(10-15) to Strength","Gain (10-20) Life per Enemy Killed","Slam Skills you use yourself cause Aftershocks"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Marohi Erqi":{
+    "baseType":"Totemic Greatclub",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":1,
+    "itemType":"mace",
+    "league":" Rise of the Abyssal",
+    "modifiers":["+150 Strength Requirement","(600-700)% increased Physical Damage","-(300-200) to Accuracy Rating","35% reduced Attack Speed","Causes (40-60)% increased Stun Buildup"],
+    "name":"Marohi Erqi",
+    "originalString":"Marohi Erqi\nTotemic Greatclub\nLeague: Rise of the Abyssal\nImplicits: 1\nCrushes Enemies on Hit\n+150 Strength Requirement\n(600-700)% increased Physical Damage\n-(300-200) to Accuracy Rating\n35% reduced Attack Speed\nCauses (40-60)% increased Stun Buildup\nHeavy Stuns Enemies that are on Full Life\n",
+    "requirements":[],
+    "stats":["Marohi Erqi","Totemic Greatclub","League: Rise of the Abyssal","Implicits: 1","Crushes Enemies on Hit","+150 Strength Requirement","(600-700)% increased Physical Damage","-(300-200) to Accuracy Rating","35% reduced Attack Speed","Causes (40-60)% increased Stun Buildup","Heavy Stuns Enemies that are on Full Life"],
+    "variants":[]
+  },
   "Mjolner":{
     "baseType":"Torment Club",
     "flags":[],
     "gameVersion":"poe2",
-    "grantSkill":"Level (1-20) Lightning Spell on Melee Hit",
+    "grantSkill":"Level (1-20) Thundergod's Wrath",
     "implicitCount":1,
     "itemType":"mace",
     "league":" Dawn of the Hunt",
-    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
+    "modifiers":["+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
     "name":"Mjolner",
-    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Level (1-20) Lightning Spell on Melee Hit\n+200 Intelligence Requirement\n+100 Strength Requirement\n(150-200)% increased Physical Damage\n(10-20)% increased Attack Speed\n+(1-2) to Level of all Lightning Skills\n",
+    "originalString":"Mjölner\nTorment Club\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Level (1-20) Thundergod's Wrath\n+200 Intelligence Requirement\n+100 Strength Requirement\n{variant:1}(150-200)% increased Physical Damage\n{variant:2}(250-350)% increased Physical Damage\n(10-20)% increased Attack Speed\n{variant:1}+1 to Level of all Lightning Skills\n{variant:2}+(2-4) to Level of all Lightning Skills\n",
     "requirements":[],
-    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Lightning Spell on Melee Hit","+200 Intelligence Requirement","+100 Strength Requirement","(150-200)% increased Physical Damage","(10-20)% increased Attack Speed","+(1-2) to Level of all Lightning Skills"],
-    "variants":[]
+    "stats":["Mjolner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","+200 Intelligence Requirement","+100 Strength Requirement","{variant:1}(150-200)% increased Physical Damage","{variant:2}(250-350)% increased Physical Damage","(10-20)% increased Attack Speed","{variant:1}+1 to Level of all Lightning Skills","{variant:2}+(2-4) to Level of all Lightning Skills"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Nebuloch":{
     "baseType":"Brigand Mace",
@@ -137,15 +151,15 @@
     "baseType":"Warpick",
     "flags":[],
     "gameVersion":"poe2",
-    "implicitCount":1,
+    "implicitCount":2,
     "itemType":"mace",
     "league":" Dawn of the Hunt",
-    "modifiers":["+(10-15)% to Critical Damage Bonus","(10-15)% increased Attack Speed","Breaks Armour equal to 40% of damage from Hits with this weapon"],
+    "modifiers":["{variant:1}+(10-15)% to Critical Damage Bonus","{variant:2}+(5-10)% to Critical Damage Bonus","(10-15)% increased Attack Speed","Breaks Armour equal to 40% of damage from Hits with this weapon"],
     "name":"Sculpted Suffering",
-    "originalString":"Sculpted Suffering\nWarpick\nLeague: Dawn of the Hunt\nImplicits: 1\n+(10-15)% to Critical Damage Bonus\nAdds (21-26) to (25-31) Physical Damage\n(10-15)% increased Attack Speed\nBreaks Armour equal to 40% of damage from Hits with this weapon\nFully Armour Broken enemies you kill with Hits Shatter\n",
+    "originalString":"Sculpted Suffering\nWarpick\nVariant: Pre 0.3.0\nVariant: Current\nLeague: Dawn of the Hunt\nImplicits: 2\n{variant:1}+(10-15)% to Critical Damage Bonus\n{variant:2}+(5-10)% to Critical Damage Bonus\nAdds (21-26) to (25-31) Physical Damage\n(10-15)% increased Attack Speed\nBreaks Armour equal to 40% of damage from Hits with this weapon\nFully Armour Broken enemies you kill with Hits Shatter\n",
     "requirements":[],
-    "stats":["Sculpted Suffering","Warpick","League: Dawn of the Hunt","Implicits: 1","+(10-15)% to Critical Damage Bonus","Adds (21-26) to (25-31) Physical Damage","(10-15)% increased Attack Speed","Breaks Armour equal to 40% of damage from Hits with this weapon","Fully Armour Broken enemies you kill with Hits Shatter"],
-    "variants":[]
+    "stats":["Sculpted Suffering","Warpick","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}+(10-15)% to Critical Damage Bonus","{variant:2}+(5-10)% to Critical Damage Bonus","Adds (21-26) to (25-31) Physical Damage","(10-15)% increased Attack Speed","Breaks Armour equal to 40% of damage from Hits with this weapon","Fully Armour Broken enemies you kill with Hits Shatter"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Seeing Stars":{
     "baseType":"Plated Mace",
@@ -195,12 +209,12 @@
     "implicitCount":0,
     "itemType":"mace",
     "league":" Dawn of the Hunt",
-    "modifiers":["(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate"],
+    "modifiers":["{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
     "name":"The Hammer of Faith",
-    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\n(200-250)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\nGain a random Shrine buff every 10 seconds\n",
+    "originalString":"The Hammer of Faith\nGiant Maul\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\n{variant:1}(200-250)% increased Physical Damage\n{variant:2}(250-300)% increased Physical Damage\n10% reduced Attack Speed\n+10% to all Elemental Resistances\n50% increased Mana Regeneration Rate\n{variant:1}Gain a random Shrine buff every 10 seconds\n",
     "requirements":[],
-    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","(200-250)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","Gain a random Shrine buff every 10 seconds"],
-    "variants":[]
+    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}(200-250)% increased Physical Damage","{variant:2}(250-300)% increased Physical Damage","10% reduced Attack Speed","+10% to all Elemental Resistances","50% increased Mana Regeneration Rate","{variant:1}Gain a random Shrine buff every 10 seconds"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Tidebreaker":{
     "baseType":"Pointed Maul",
@@ -250,9 +264,10 @@
     "itemType":"mace",
     "modifiers":["{variant:1}Adds (2-3) to (4-5) Physical Damage","{variant:2}Adds (4-6) to (8-10) Physical Damage","{variant:1}Adds (2-3) to (4-5) Fire Damage","{variant:2}Adds (4-6) to (8-10) Fire Damage","{variant:2}+(10-20) to Strength","{variant:2}+(20-30)% to Fire Resistance"],
     "name":"Wylund's Stake",
-    "originalString":"Wylund's Stake\nSmithing Hammer\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}Adds (2-3) to (4-5) Physical Damage\n{variant:2}Adds (4-6) to (8-10) Physical Damage\n{variant:1}Adds (2-3) to (4-5) Fire Damage\n{variant:2}Adds (4-6) to (8-10) Fire Damage\n{variant:2}+(10-20) to Strength\n{variant:2}+(20-30)% to Fire Resistance\nHits Break (30-50) Armour\nInflicts Fire Exposure when this Weapon Fully Breaks Armour\n",
+    "originalString":"Wylund's Stake\nSmithing Hammer\nSource: No longer obtainable\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}Adds (2-3) to (4-5) Physical Damage\n{variant:2}Adds (4-6) to (8-10) Physical Damage\n{variant:1}Adds (2-3) to (4-5) Fire Damage\n{variant:2}Adds (4-6) to (8-10) Fire Damage\n{variant:2}+(10-20) to Strength\n{variant:2}+(20-30)% to Fire Resistance\nHits Break (30-50) Armour\nInflicts Fire Exposure when this Weapon Fully Breaks Armour\n",
     "requirements":[],
-    "stats":["Wylund's Stake","Smithing Hammer","Variant: Pre 0.1.1","Variant: Current","{variant:1}Adds (2-3) to (4-5) Physical Damage","{variant:2}Adds (4-6) to (8-10) Physical Damage","{variant:1}Adds (2-3) to (4-5) Fire Damage","{variant:2}Adds (4-6) to (8-10) Fire Damage","{variant:2}+(10-20) to Strength","{variant:2}+(20-30)% to Fire Resistance","Hits Break (30-50) Armour","Inflicts Fire Exposure when this Weapon Fully Breaks Armour"],
+    "source":"No longer obtainable",
+    "stats":["Wylund's Stake","Smithing Hammer","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}Adds (2-3) to (4-5) Physical Damage","{variant:2}Adds (4-6) to (8-10) Physical Damage","{variant:1}Adds (2-3) to (4-5) Fire Damage","{variant:2}Adds (4-6) to (8-10) Fire Damage","{variant:2}+(10-20) to Strength","{variant:2}+(20-30)% to Fire Resistance","Hits Break (30-50) Armour","Inflicts Fire Exposure when this Weapon Fully Breaks Armour"],
     "variants":["Pre 0.1.1","Current"]
   }
 }

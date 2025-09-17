@@ -6,12 +6,12 @@
     "grantSkill":"Raise Shield",
     "implicitCount":1,
     "itemType":"shield",
-    "modifiers":["(30-40)% increased Block chance","(30-50)% increased Armour and Energy Shield","{variant:1}+(15-30) to maximum Mana","{variant:2}+(50-70) to maximum Mana"],
+    "modifiers":["{variant:1,2}(30-40)% increased Block chance","{variant:3}(10-15)% increased Block chance","(30-50)% increased Armour and Energy Shield","{variant:1}+(15-30) to maximum Mana"],
     "name":"Alkem Eira",
-    "originalString":"Alkem Eira\nBlazon Crest Shield\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n(30-40)% increased Block chance\n(30-50)% increased Armour and Energy Shield\n{variant:1}+(15-30) to maximum Mana\n{variant:2}+(50-70) to maximum Mana\nDamage Blocked is Recouped as Mana\n",
+    "originalString":"Alkem Eira\nBlazon Crest Shield\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1,2}(30-40)% increased Block chance\n{variant:3}(10-15)% increased Block chance\n(30-50)% increased Armour and Energy Shield\n{variant:1}+(15-30) to maximum Mana\n{variant:2,3}+(50-70) to maximum Mana\nDamage Blocked is Recouped as Mana\n",
     "requirements":[],
-    "stats":["Alkem Eira","Blazon Crest Shield","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","(30-40)% increased Block chance","(30-50)% increased Armour and Energy Shield","{variant:1}+(15-30) to maximum Mana","{variant:2}+(50-70) to maximum Mana","Damage Blocked is Recouped as Mana"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Alkem Eira","Blazon Crest Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}(30-40)% increased Block chance","{variant:3}(10-15)% increased Block chance","(30-50)% increased Armour and Energy Shield","{variant:1}+(15-30) to maximum Mana","{variant:2,3}+(50-70) to maximum Mana","Damage Blocked is Recouped as Mana"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
   "Arvil's Wheel":{
     "baseType":"Hardwood Targe",
@@ -35,12 +35,12 @@
     "implicitCount":1,
     "itemType":"shield",
     "league":" Dawn of the Hunt",
-    "modifiers":["(20-30)% increased Block chance","+(13-17)% to Chaos Resistance","Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of"],
+    "modifiers":["{variant:1}(20-30)% increased Block chance","{variant:2}(10-15)% increased Block chance","+(13-17)% to Chaos Resistance","Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of"],
     "name":"Bloodbarrier",
-    "originalString":"Bloodbarrier\nIron Buckler\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n(20-30)% increased Block chance\n+(13-17)% to Chaos Resistance\n(5-10) Life Regeneration per second\nInflict Corrupted Blood for 5 seconds on Block, dealing 50% of\nyour maximum Life as Physical damage per second\n",
+    "originalString":"Bloodbarrier\nIron Buckler\nVariant: Pre 0.3.0\nVariant: Current\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n{variant:1}(20-30)% increased Block chance\n{variant:2}(10-15)% increased Block chance\n+(13-17)% to Chaos Resistance\n(5-10) Life Regeneration per second\nInflict Corrupted Blood for 5 seconds on Block, dealing 50% of\nyour maximum Life as Physical damage per second\n",
     "requirements":[],
-    "stats":["Bloodbarrier","Iron Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","(20-30)% increased Block chance","+(13-17)% to Chaos Resistance","(5-10) Life Regeneration per second","Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of","your maximum Life as Physical damage per second"],
-    "variants":[]
+    "stats":["Bloodbarrier","Iron Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}(20-30)% increased Block chance","{variant:2}(10-15)% increased Block chance","+(13-17)% to Chaos Resistance","(5-10) Life Regeneration per second","Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of","your maximum Life as Physical damage per second"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Calgyra's Arc":{
     "baseType":"Ornate Buckler",
@@ -52,9 +52,9 @@
     "league":" Dawn of the Hunt",
     "modifiers":["(60-100)% increased Evasion Rating","+(60-100) to maximum Mana","+(10-20) to Intelligence","50% increased Parried Debuff Duration"],
     "name":"Calgyra's Arc",
-    "originalString":"Calgyra's Arc\nOrnate Buckler\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n(60-100)% increased Evasion Rating\n+(60-100) to maximum Mana\n+(10-20) to Intelligence\nInfinite Projectile Parry Range\n50% increased Parried Debuff Duration\n",
+    "originalString":"Calgyra's Arc\nOrnate Buckler\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n(60-100)% increased Evasion Rating\n+(60-100) to maximum Mana\n+(10-20) to Intelligence\nInfinite Parry Range\n50% increased Parried Debuff Duration\n",
     "requirements":[],
-    "stats":["Calgyra's Arc","Ornate Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","(60-100)% increased Evasion Rating","+(60-100) to maximum Mana","+(10-20) to Intelligence","Infinite Projectile Parry Range","50% increased Parried Debuff Duration"],
+    "stats":["Calgyra's Arc","Ornate Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","(60-100)% increased Evasion Rating","+(60-100) to maximum Mana","+(10-20) to Intelligence","Infinite Parry Range","50% increased Parried Debuff Duration"],
     "variants":[]
   },
   "Chernobog's Pillar":{
@@ -107,12 +107,12 @@
     "grantSkill":"Raise Shield",
     "implicitCount":1,
     "itemType":"shield",
-    "modifiers":["80% increased Block chance","(100-150)% increased Armour","{variant:2}+(13-17)% to Chaos Resistance","You take 20% of damage from Blocked Hits"],
+    "modifiers":["{variant:1,2}80% increased Block chance","{variant:3}(80-100)% increased Block chance","(100-150)% increased Armour","{variant:2,3}+(13-17)% to Chaos Resistance","{variant:1,2}You take 20% of damage from Blocked Hits","{variant:3}You take (25-40)% of damage from Blocked Hits"],
     "name":"Doomgate",
-    "originalString":"Doomgate\nBraced Tower Shield\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n80% increased Block chance\n(100-150)% increased Armour\n{variant:2}+(13-17)% to Chaos Resistance\nYou take 20% of damage from Blocked Hits\nEnemies are Culled on Block\n",
+    "originalString":"Doomgate\nBraced Tower Shield\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1,2}80% increased Block chance\n{variant:3}(80-100)% increased Block chance\n(100-150)% increased Armour\n{variant:2,3}+(13-17)% to Chaos Resistance\n{variant:1,2}You take 20% of damage from Blocked Hits\n{variant:3}You take (25-40)% of damage from Blocked Hits\nEnemies are Culled on Block\n",
     "requirements":[],
-    "stats":["Doomgate","Braced Tower Shield","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","80% increased Block chance","(100-150)% increased Armour","{variant:2}+(13-17)% to Chaos Resistance","You take 20% of damage from Blocked Hits","Enemies are Culled on Block"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Doomgate","Braced Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}80% increased Block chance","{variant:3}(80-100)% increased Block chance","(100-150)% increased Armour","{variant:2,3}+(13-17)% to Chaos Resistance","{variant:1,2}You take 20% of damage from Blocked Hits","{variant:3}You take (25-40)% of damage from Blocked Hits","Enemies are Culled on Block"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
   "Dunkelhalt":{
     "baseType":"Leather Buckler",
@@ -122,12 +122,12 @@
     "implicitCount":1,
     "itemType":"shield",
     "league":" Dawn of the Hunt",
-    "modifiers":["(30-50)% increased Block chance","+(20-30) to Evasion Rating","You take 50% of damage from Blocked Hits","50% increased Parried Debuff Magnitude"],
+    "modifiers":["{variant:1}(30-50)% increased Block chance","{variant:2}(20-30)% increased Block chance","+(20-30) to Evasion Rating","You take 50% of damage from Blocked Hits","50% increased Parried Debuff Magnitude"],
     "name":"Dunkelhalt",
-    "originalString":"Dunkelhalt\nLeather Buckler\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n(30-50)% increased Block chance\n+(20-30) to Evasion Rating\nYou take 50% of damage from Blocked Hits\n50% increased Parried Debuff Magnitude\n",
+    "originalString":"Dunkelhalt\nLeather Buckler\nVariant: Pre 0.3.0\nVariant: Current\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Parry\n{variant:1}(30-50)% increased Block chance\n{variant:2}(20-30)% increased Block chance\n+(20-30) to Evasion Rating\nYou take 50% of damage from Blocked Hits\n50% increased Parried Debuff Magnitude\n",
     "requirements":[],
-    "stats":["Dunkelhalt","Leather Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","(30-50)% increased Block chance","+(20-30) to Evasion Rating","You take 50% of damage from Blocked Hits","50% increased Parried Debuff Magnitude"],
-    "variants":[]
+    "stats":["Dunkelhalt","Leather Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}(30-50)% increased Block chance","{variant:2}(20-30)% increased Block chance","+(20-30) to Evasion Rating","You take 50% of damage from Blocked Hits","50% increased Parried Debuff Magnitude"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Feathered Fortress":{
     "baseType":"Crescent Targe",
@@ -143,6 +143,21 @@
     "stats":["Feathered Fortress","Crescent Targe","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}+(10-20) to Strength","{variant:2}+(20-30) to Strength","{variant:1}+(10-20) to Dexterity","{variant:2}+(20-30) to Dexterity","{variant:1}+(10-20)% to Fire Resistance","{variant:2}+(20-30)% to Fire Resistance","{variant:1}+(10-20)% to Cold Resistance","{variant:2}+(20-30)% to Cold Resistance","No Movement Speed Penalty while Shield is Raised"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Kaltenhalt":{
+    "baseType":"Ridged Buckler",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Parry",
+    "implicitCount":1,
+    "itemType":"shield",
+    "league":" Rise of the Abyssal",
+    "modifiers":["(80-120)% increased Evasion Rating","+5% to Maximum Cold Resistance","+40% to Cold Resistance","100% of Parry Physical Damage Converted to Cold Damage"],
+    "name":"Kaltenhalt",
+    "originalString":"Kaltenhalt\nRidged Buckler\nLeague: Rise of the Abyssal\nImplicits: 1\nGrants Skill: Parry\n(80-120)% increased Evasion Rating\n+5% to Maximum Cold Resistance\n+40% to Cold Resistance\nModifiers to Stun Buildup apply to Freeze Buildup instead for Parry\n100% of Parry Physical Damage Converted to Cold Damage\n25 to 35 Cold Thorns damage\n",
+    "requirements":[],
+    "stats":["Kaltenhalt","Ridged Buckler","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Parry","(80-120)% increased Evasion Rating","+5% to Maximum Cold Resistance","+40% to Cold Resistance","Modifiers to Stun Buildup apply to Freeze Buildup instead for Parry","100% of Parry Physical Damage Converted to Cold Damage","25 to 35 Cold Thorns damage"],
+    "variants":[]
+  },
   "Lycosidae":{
     "baseType":"Rampart Tower Shield",
     "flags":[],
@@ -150,12 +165,12 @@
     "grantSkill":"Raise Shield",
     "implicitCount":1,
     "itemType":"shield",
-    "modifiers":["(30-40)% increased Block chance","(60-100)% increased Armour","{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage","{variant:2}Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage"],
+    "modifiers":["{variant:1,2}(30-40)% increased Block chance","{variant:3}(10-15)% increased Block chance","(60-100)% increased Armour","{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage"],
     "name":"Lycosidae",
-    "originalString":"Lycosidae\nRampart Tower Shield\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n(30-40)% increased Block chance\n(60-100)% increased Armour\nAccuracy Rating is Doubled\n{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage\n{variant:2}Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage\n",
+    "originalString":"Lycosidae\nRampart Tower Shield\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1,2}(30-40)% increased Block chance\n{variant:3}(10-15)% increased Block chance\n(60-100)% increased Armour\nAccuracy Rating is Doubled\n{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage\n{variant:2,3}Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage\n",
     "requirements":[],
-    "stats":["Lycosidae","Rampart Tower Shield","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","(30-40)% increased Block chance","(60-100)% increased Armour","Accuracy Rating is Doubled","{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage","{variant:2}Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Lycosidae","Rampart Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}(30-40)% increased Block chance","{variant:3}(10-15)% increased Block chance","(60-100)% increased Armour","Accuracy Rating is Doubled","{variant:1}Blocking Damage Poisons the Enemy as though dealing 100 Base Chaos Damage","{variant:2,3}Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
   "Mahuxotl's Machination":{
     "baseType":"Omen Crest Shield",
@@ -179,12 +194,12 @@
     "grantSkill":"Raise Shield",
     "implicitCount":1,
     "itemType":"shield",
-    "modifiers":["(30-50)% increased Block chance","(60-80)% increased Armour and Evasion","+(60-80) to Stun Threshold"],
+    "modifiers":["{variant:1}(30-50)% increased Block chance","{variant:2}(20-25)% increased Block chance","(60-80)% increased Armour and Evasion","+(60-80) to Stun Threshold"],
     "name":"Merit of Service",
-    "originalString":"Merit of Service\nPelage Targe\nImplicits: 1\nGrants Skill: Raise Shield\n(30-50)% increased Block chance\n(60-80)% increased Armour and Evasion\n+(60-80) to Stun Threshold\nAllies in your Presence have Block Chance equal to yours\n",
+    "originalString":"Merit of Service\nPelage Targe\nVariant: Pre 0.3.0\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1}(30-50)% increased Block chance\n{variant:2}(20-25)% increased Block chance\n(60-80)% increased Armour and Evasion\n+(60-80) to Stun Threshold\nAllies in your Presence have Block Chance equal to yours\n",
     "requirements":[],
-    "stats":["Merit of Service","Pelage Targe","Implicits: 1","Grants Skill: Raise Shield","(30-50)% increased Block chance","(60-80)% increased Armour and Evasion","+(60-80) to Stun Threshold","Allies in your Presence have Block Chance equal to yours"],
-    "variants":[]
+    "stats":["Merit of Service","Pelage Targe","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}(30-50)% increased Block chance","{variant:2}(20-25)% increased Block chance","(60-80)% increased Armour and Evasion","+(60-80) to Stun Threshold","Allies in your Presence have Block Chance equal to yours"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Nocturne":{
     "baseType":"Wooden Buckler",
@@ -208,12 +223,12 @@
     "grantSkill":"Raise Shield",
     "implicitCount":1,
     "itemType":"shield",
-    "modifiers":["(40-60)% increased Block chance","(80-120)% increased Armour and Energy Shield","{variant:1}+50 to Spirit","+(17-23)% to Chaos Resistance","{variant:2}50% increased Life Regeneration rate"],
+    "modifiers":["{variant:1,2}(40-60)% increased Block chance","{variant:3}(20-30)% increased Block chance","(80-120)% increased Armour and Energy Shield","{variant:1}+50 to Spirit","+(17-23)% to Chaos Resistance","{variant:2,3}50% increased Life Regeneration rate"],
     "name":"Oaksworn",
-    "originalString":"Oaksworn\nVariant: Pre 0.2.0\nVariant: Current\nSigil Crest Shield\nImplicits: 1\nGrants Skill: Raise Shield\n(40-60)% increased Block chance\n(80-120)% increased Armour and Energy Shield\n{variant:1}+50 to Spirit\n+(17-23)% to Chaos Resistance\n{variant:2}50% increased Life Regeneration rate\n",
+    "originalString":"Oaksworn\nVariant: Pre 0.2.0\nVariant: Pre 0.3.0\nVariant: Current\nSigil Crest Shield\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1,2}(40-60)% increased Block chance\n{variant:3}(20-30)% increased Block chance\n(80-120)% increased Armour and Energy Shield\n{variant:1}+50 to Spirit\n+(17-23)% to Chaos Resistance\n{variant:2,3}50% increased Life Regeneration rate\n",
     "requirements":[],
-    "stats":["Oaksworn","Variant: Pre 0.2.0","Variant: Current","Sigil Crest Shield","Implicits: 1","Grants Skill: Raise Shield","(40-60)% increased Block chance","(80-120)% increased Armour and Energy Shield","{variant:1}+50 to Spirit","+(17-23)% to Chaos Resistance","{variant:2}50% increased Life Regeneration rate"],
-    "variants":["Current"]
+    "stats":["Oaksworn","Variant: Pre 0.2.0","Variant: Pre 0.3.0","Variant: Current","Sigil Crest Shield","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}(40-60)% increased Block chance","{variant:3}(20-30)% increased Block chance","(80-120)% increased Armour and Energy Shield","{variant:1}+50 to Spirit","+(17-23)% to Chaos Resistance","{variant:2,3}50% increased Life Regeneration rate"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Prism Guardian":{
     "baseType":"Sectarian Crest Shield",
@@ -223,12 +238,12 @@
     "implicitCount":1,
     "itemType":"shield",
     "league":" Dawn of the Hunt",
-    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
+    "modifiers":["(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
     "name":"Prism Guardian",
-    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n+1 to Maximum Spirit per 50 Maximum Life\n",
+    "originalString":"Prism Guardian\nSectarian Crest Shield\nLeague: Dawn of the Hunt\nVariant: Pre 0.2.1\nVariant: Current\nImplicits: 1\nGrants Skill: Raise Shield\n(80-150)% increased Armour and Energy Shield\n+(20-30) to Dexterity\n+(10-20)% to all Elemental Resistances\n{variant:1}+1 to Maximum Spirit per 50 Maximum Life\n{variant:2}+1 to Maximum Spirit per 25 Maximum Life\n",
     "requirements":[],
-    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","+1 to Maximum Spirit per 50 Maximum Life"],
-    "variants":[]
+    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","(80-150)% increased Armour and Energy Shield","+(20-30) to Dexterity","+(10-20)% to all Elemental Resistances","{variant:1}+1 to Maximum Spirit per 50 Maximum Life","{variant:2}+1 to Maximum Spirit per 25 Maximum Life"],
+    "variants":["Pre 0.2.1","Current"]
   },
   "Redblade Banner":{
     "baseType":"Heraldric Tower Shield",
@@ -238,12 +253,12 @@
     "implicitCount":1,
     "itemType":"shield",
     "league":" Dawn of the Hunt",
-    "modifiers":["(20-30)% increased Block chance","(60-100)% increased Armour","+(20-30) to Strength","+(100-150) to Stun Threshold"],
+    "modifiers":["{variant:1}(20-30)% increased Block chance","{variant:2}(10-15)% increased Block chance","(60-100)% increased Armour","+(20-30) to Strength","+(100-150) to Stun Threshold"],
     "name":"Redblade Banner",
-    "originalString":"Redblade Banner\nHeraldric Tower Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(20-30)% increased Block chance\n(60-100)% increased Armour\n+(20-30) to Strength\n+(100-150) to Stun Threshold\nEnemies in your Presence count as having double Power\n",
+    "originalString":"Redblade Banner\nHeraldric Tower Shield\nVariant: Pre 0.3.0\nVariant: Current\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n{variant:1}(20-30)% increased Block chance\n{variant:2}(10-15)% increased Block chance\n(60-100)% increased Armour\n+(20-30) to Strength\n+(100-150) to Stun Threshold\nEnemies in your Presence count as having double Power\n",
     "requirements":[],
-    "stats":["Redblade Banner","Heraldric Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(20-30)% increased Block chance","(60-100)% increased Armour","+(20-30) to Strength","+(100-150) to Stun Threshold","Enemies in your Presence count as having double Power"],
-    "variants":[]
+    "stats":["Redblade Banner","Heraldric Tower Shield","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","{variant:1}(20-30)% increased Block chance","{variant:2}(10-15)% increased Block chance","(60-100)% increased Armour","+(20-30) to Strength","+(100-150) to Stun Threshold","Enemies in your Presence count as having double Power"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "Rise of the Phoenix":{
     "baseType":"Omen Crest Shield",
@@ -283,9 +298,9 @@
     "itemType":"shield",
     "modifiers":["+(15-25)% to Fire Resistance","+(15-25)% to Cold Resistance","+(15-25)% to Lightning Resistance"],
     "name":"Saffell's Frame",
-    "originalString":"Saffell's Frame\nEmblem Crest Shield\nImplicits: 1\nGrants Skill: Raise Shield\n+(15-25)% to Fire Resistance\n+(15-25)% to Cold Resistance\n+(15-25)% to Lightning Resistance\nYou cannot Block\nModifiers to Maximum Block Chance instead apply to Maximum Resistances\n",
+    "originalString":"Saffell's Frame\nEmblem Crest Shield\nImplicits: 1\nGrants Skill: Raise Shield\n+(15-25)% to Fire Resistance\n+(15-25)% to Cold Resistance\n+(15-25)% to Lightning Resistance\nCannot Block\nModifiers to Maximum Block Chance instead apply to Maximum Resistances\n",
     "requirements":[],
-    "stats":["Saffell's Frame","Emblem Crest Shield","Implicits: 1","Grants Skill: Raise Shield","+(15-25)% to Fire Resistance","+(15-25)% to Cold Resistance","+(15-25)% to Lightning Resistance","You cannot Block","Modifiers to Maximum Block Chance instead apply to Maximum Resistances"],
+    "stats":["Saffell's Frame","Emblem Crest Shield","Implicits: 1","Grants Skill: Raise Shield","+(15-25)% to Fire Resistance","+(15-25)% to Cold Resistance","+(15-25)% to Lightning Resistance","Cannot Block","Modifiers to Maximum Block Chance instead apply to Maximum Resistances"],
     "variants":[]
   },
   "Silverthorne":{
@@ -327,13 +342,13 @@
     "grantSkill":"Cast on Block",
     "implicitCount":2,
     "itemType":"shield",
-    "modifiers":["(100-150)% increased Armour","-(20-10)% to maximum Block chance"],
+    "modifiers":["{variant:1}(100-150)% increased Armour","{variant:2}(150-200)% increased Armour","{variant:1}-(20-10)% to maximum Block chance","{variant:2}You take (15-20)% of damage from Blocked Hits"],
     "name":"Svalinn",
-    "originalString":"Svalinn\nCrucible Tower Shield\nSource: Drops from unique{Olroth, Origin of the Fall}\nImplicits: 2\nGrants Skill: Raise Shield\nGrants Skill: Cast on Block\n(100-150)% increased Armour\n-(20-10)% to maximum Block chance\nBlock chance is Lucky\n",
+    "originalString":"Svalinn\nCrucible Tower Shield\nVariant: Pre 0.3.0\nVariant: Current\nSource: Drops from unique{Olroth, Origin of the Fall}\nImplicits: 2\nGrants Skill: Raise Shield\nGrants Skill: Cast on Block\n{variant:1}(100-150)% increased Armour\n{variant:2}(150-200)% increased Armour\n{variant:1}-(20-10)% to maximum Block chance\nChance to Block Damage is Lucky\n{variant:2}You take (15-20)% of damage from Blocked Hits\n",
     "requirements":[],
     "source":"Drops from unique{Olroth, Origin of the Fall}",
-    "stats":["Svalinn","Crucible Tower Shield","Source: Drops from unique{Olroth, Origin of the Fall}","Implicits: 2","Grants Skill: Raise Shield","Grants Skill: Cast on Block","(100-150)% increased Armour","-(20-10)% to maximum Block chance","Block chance is Lucky"],
-    "variants":[]
+    "stats":["Svalinn","Crucible Tower Shield","Variant: Pre 0.3.0","Variant: Current","Source: Drops from unique{Olroth, Origin of the Fall}","Implicits: 2","Grants Skill: Raise Shield","Grants Skill: Cast on Block","{variant:1}(100-150)% increased Armour","{variant:2}(150-200)% increased Armour","{variant:1}-(20-10)% to maximum Block chance","Chance to Block Damage is Lucky","{variant:2}You take (15-20)% of damage from Blocked Hits"],
+    "variants":["Pre 0.3.0","Current"]
   },
   "The Surrender":{
     "baseType":"Stone Tower Shield",
@@ -358,9 +373,10 @@
     "itemType":"shield",
     "modifiers":["10% reduced Movement Speed","(100-150)% increased Armour","+(100-150) to Stun Threshold"],
     "name":"The Wailing Wall",
-    "originalString":"The Wailing Wall\nEffigial Tower Shield\nImplicits: 1\nGrants Skill: Raise Shield\n10% reduced Movement Speed\n(100-150)% increased Armour\n+(100-150) to Stun Threshold\nCan Block damage from all Hits\nCannot use Shield Skills\n",
+    "originalString":"The Wailing Wall\nEffigial Tower Shield\nSource: No longer obtainable\nImplicits: 1\nGrants Skill: Raise Shield\n10% reduced Movement Speed\n(100-150)% increased Armour\n+(100-150) to Stun Threshold\nCannot use Shield Skills\n",
     "requirements":[],
-    "stats":["The Wailing Wall","Effigial Tower Shield","Implicits: 1","Grants Skill: Raise Shield","10% reduced Movement Speed","(100-150)% increased Armour","+(100-150) to Stun Threshold","Can Block damage from all Hits","Cannot use Shield Skills"],
+    "source":"No longer obtainable",
+    "stats":["The Wailing Wall","Effigial Tower Shield","Source: No longer obtainable","Implicits: 1","Grants Skill: Raise Shield","10% reduced Movement Speed","(100-150)% increased Armour","+(100-150) to Stun Threshold","Cannot use Shield Skills"],
     "variants":[]
   },
   "Window to Paradise":{
@@ -373,9 +389,9 @@
     "league":" Dawn of the Hunt",
     "modifiers":["(60-120)% increased Armour","+(60-100) to maximum Mana","+(10-15)% to all Elemental Resistances"],
     "name":"Window to Paradise",
-    "originalString":"Window to Paradise\nBarricade Tower Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(60-120)% increased Armour\n+(60-100) to maximum Mana\n+(10-15)% to all Elemental Resistances\nApply Elemental Exposure to Enemies 3 metres in front of you\nfor 4 seconds while Shield is raised\n",
+    "originalString":"Window to Paradise\nBarricade Tower Shield\nLeague: Dawn of the Hunt\nImplicits: 1\nGrants Skill: Raise Shield\n(60-120)% increased Armour\n+(60-100) to maximum Mana\n+(10-15)% to all Elemental Resistances\nInflict Elemental Exposure to Enemies 3 metres in front of you\nfor 4 seconds, every 0.25 seconds while raised\n",
     "requirements":[],
-    "stats":["Window to Paradise","Barricade Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(60-120)% increased Armour","+(60-100) to maximum Mana","+(10-15)% to all Elemental Resistances","Apply Elemental Exposure to Enemies 3 metres in front of you","for 4 seconds while Shield is raised"],
+    "stats":["Window to Paradise","Barricade Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","(60-120)% increased Armour","+(60-100) to maximum Mana","+(10-15)% to all Elemental Resistances","Inflict Elemental Exposure to Enemies 3 metres in front of you","for 4 seconds, every 0.25 seconds while raised"],
     "variants":[]
   },
   "Wulfsbane":{

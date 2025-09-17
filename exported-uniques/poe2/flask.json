@@ -20,11 +20,25 @@
     "implicitCount":1,
     "itemType":"flask",
     "league":" Dawn of the Hunt",
-    "modifiers":["(20-25)% Chance to gain a Charge when you Kill an Enemy","Ignite Enemies in Presence as though dealing Fire damage equal to 500% of your maximum Life when used"],
+    "modifiers":["(20-25)% Chance to gain a Charge when you Kill an Enemy","Creates Ignited Ground for 4 seconds when used, Igniting enemies as though dealing Fire damage equal to 500% of your maximum Life"],
     "name":"Beira's Anguish",
-    "originalString":"Beira's Anguish\nDousing Charm\nLeague: Dawn of the Hunt\nImplicits: 1\nUsed when you become Ignited\n(20-25)% Chance to gain a Charge when you Kill an Enemy\nIgnite Enemies in Presence as though dealing Fire damage equal to 500% of your maximum Life when used\n",
+    "originalString":"Beira's Anguish\nDousing Charm\nLeague: Dawn of the Hunt\nImplicits: 1\nUsed when you become Ignited\n(20-25)% Chance to gain a Charge when you Kill an Enemy\nCreates Ignited Ground for 4 seconds when used, Igniting enemies as though dealing Fire damage equal to 500% of your maximum Life\n",
     "requirements":[],
-    "stats":["Beira's Anguish","Dousing Charm","League: Dawn of the Hunt","Implicits: 1","Used when you become Ignited","(20-25)% Chance to gain a Charge when you Kill an Enemy","Ignite Enemies in Presence as though dealing Fire damage equal to 500% of your maximum Life when used"],
+    "stats":["Beira's Anguish","Dousing Charm","League: Dawn of the Hunt","Implicits: 1","Used when you become Ignited","(20-25)% Chance to gain a Charge when you Kill an Enemy","Creates Ignited Ground for 4 seconds when used, Igniting enemies as though dealing Fire damage equal to 500% of your maximum Life"],
+    "variants":[]
+  },
+  "Blood of the Warrior":{
+    "baseType":"Gargantuan Life Flask",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":0,
+    "itemType":"flask",
+    "league":" Rise of the Abyssal",
+    "modifiers":["90% less Life Recovered","(15-30)% of Damage taken during effect Recouped as Life","(25-50)% increased Duration"],
+    "name":"Blood of the Warrior",
+    "originalString":"Blood of the Warrior\nGargantuan Life Flask\nLeague: Rise of the Abyssal\n90% less Life Recovered\nEffect is not removed when Unreserved Life is Filled\n(15-30)% of Damage taken during effect Recouped as Life\nGain (3-5) Rage when Hit by an Enemy during effect\nNo Inherent loss of Rage during effect\n(25-50)% increased Duration\n",
+    "requirements":[],
+    "stats":["Blood of the Warrior","Gargantuan Life Flask","League: Rise of the Abyssal","90% less Life Recovered","Effect is not removed when Unreserved Life is Filled","(15-30)% of Damage taken during effect Recouped as Life","Gain (3-5) Rage when Hit by an Enemy during effect","No Inherent loss of Rage during effect","(25-50)% increased Duration"],
     "variants":[]
   },
   "Breath of the Mountains":{
@@ -147,9 +161,9 @@
     "league":" Dawn of the Hunt",
     "modifiers":[],
     "name":"Sanguis Heroum",
-    "originalString":"Sanguis Heroum\nStaunching Charm\nLeague: Dawn of the Hunt\nImplicits: 1\nUsed when you start Bleeding\nCreates Consecrated Ground on use\nGains (0.15-0.2) Charges per Second\n",
+    "originalString":"Sanguis Heroum\nStaunching Charm\nLeague: Dawn of the Hunt\nImplicits: 1\nUsed when you start Bleeding\nGains (0.15-0.2) Charges per Second\nCreates Consecrated Ground on use\n",
     "requirements":[],
-    "stats":["Sanguis Heroum","Staunching Charm","League: Dawn of the Hunt","Implicits: 1","Used when you start Bleeding","Creates Consecrated Ground on use","Gains (0.15-0.2) Charges per Second"],
+    "stats":["Sanguis Heroum","Staunching Charm","League: Dawn of the Hunt","Implicits: 1","Used when you start Bleeding","Gains (0.15-0.2) Charges per Second","Creates Consecrated Ground on use"],
     "variants":[]
   },
   "The Black Cat":{

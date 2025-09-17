@@ -26,17 +26,17 @@
     "stats":["Birthright Buckle","Wide Belt","Implicits: 2","Has (1-3) Charm Slot","(20-30)% increased Flask Charges gained","+(100-150) to Armour","(10-15)% reduced Flask Charges used","(20-30)% increased Flask Charges gained","Life Flasks used while on Low Life apply Recovery Instantly","Mana Flasks used while on Low Mana apply Recovery Instantly"],
     "variants":[]
   },
-  "Brynabas":{
+  "Byrnabas":{
     "baseType":"Wide Belt",
     "flags":[],
     "gameVersion":"poe2",
     "implicitCount":2,
     "itemType":"belt",
     "modifiers":["(20-30)% increased Flask Charges gained","+(40-60) to maximum Mana","{variant:1}+(20-30)% to Lightning Resistance","{variant:2}+(30-40)% to Lightning Resistance"],
-    "name":"Brynabas",
-    "originalString":"Brynabas\nWide Belt\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 2\nHas (1-3) Charm Slot\n(20-30)% increased Flask Charges gained\n+(40-60) to maximum Mana\n{variant:1}+(20-30)% to Lightning Resistance\n{variant:2}+(30-40)% to Lightning Resistance\n(7-12) Life Regeneration per second\nCannot be Shocked\n",
+    "name":"Byrnabas",
+    "originalString":"Byrnabas\nWide Belt\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 2\nHas (1-3) Charm Slot\n(20-30)% increased Flask Charges gained\n+(40-60) to maximum Mana\n{variant:1}+(20-30)% to Lightning Resistance\n{variant:2}+(30-40)% to Lightning Resistance\n(7-12) Life Regeneration per second\nCannot be Shocked\n",
     "requirements":[],
-    "stats":["Brynabas","Wide Belt","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","Has (1-3) Charm Slot","(20-30)% increased Flask Charges gained","+(40-60) to maximum Mana","{variant:1}+(20-30)% to Lightning Resistance","{variant:2}+(30-40)% to Lightning Resistance","(7-12) Life Regeneration per second","Cannot be Shocked"],
+    "stats":["Byrnabas","Wide Belt","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","Has (1-3) Charm Slot","(20-30)% increased Flask Charges gained","+(40-60) to maximum Mana","{variant:1}+(20-30)% to Lightning Resistance","{variant:2}+(30-40)% to Lightning Resistance","(7-12) Life Regeneration per second","Cannot be Shocked"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Coward's Legacy":{
@@ -51,6 +51,20 @@
     "requirements":[],
     "stats":["Coward's Legacy","Mail Belt","Implicits: 2","(10-15)% reduced Flask Charges used","Has (1-3) Charm Slot","-(20-10) to Strength","+(20-30) to Dexterity","(30-40)% increased Life and Mana Recovery from Flasks","You are considered on Low Life while at 75% of maximum Life or below instead"],
     "variants":[]
+  },
+  "Darkness Enthroned":{
+    "baseType":"Fine Belt",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":2,
+    "itemType":"belt",
+    "league":" Rise of the Abyssal",
+    "modifiers":["{variant:2}This item gains bonuses from Socketed Items as though it was a Body Armour","{variant:4}This item gains bonuses from Socketed Items as though it was Boots","{variant:3}This item gains bonuses from Socketed Items as though it was Gloves","{variant:1}This item gains bonuses from Socketed Items as though it was a Helmet","{variant:5}This item gains bonuses from Socketed Items as though it was a Shield","(50-100)% increased effect of Socketed Items"],
+    "name":"Darkness Enthroned",
+    "originalString":"Darkness Enthroned\nFine Belt\nLeague: Rise of the Abyssal\nVariant: Helmet\nVariant: Body Armour\nVariant: Gloves\nVariant: Boots\nVariant: Shield\nImplicits: 2\nHas (1-3) Charm Slot\nFlasks gain 0.17 charges per Second\n{variant:2}This item gains bonuses from Socketed Items as though it was a Body Armour\n{variant:4}This item gains bonuses from Socketed Items as though it was Boots\n{variant:3}This item gains bonuses from Socketed Items as though it was Gloves\n{variant:1}This item gains bonuses from Socketed Items as though it was a Helmet\n{variant:5}This item gains bonuses from Socketed Items as though it was a Shield\n(50-100)% increased effect of Socketed Items\n",
+    "requirements":[],
+    "stats":["Darkness Enthroned","Fine Belt","League: Rise of the Abyssal","Variant: Helmet","Variant: Body Armour","Variant: Gloves","Variant: Boots","Variant: Shield","Implicits: 2","Has (1-3) Charm Slot","Flasks gain 0.17 charges per Second","{variant:2}This item gains bonuses from Socketed Items as though it was a Body Armour","{variant:4}This item gains bonuses from Socketed Items as though it was Boots","{variant:3}This item gains bonuses from Socketed Items as though it was Gloves","{variant:1}This item gains bonuses from Socketed Items as though it was a Helmet","{variant:5}This item gains bonuses from Socketed Items as though it was a Shield","(50-100)% increased effect of Socketed Items"],
+    "variants":["Helmet","Body Armour","Gloves","Boots","Shield"]
   },
   "Goregirdle":{
     "baseType":"Plate Belt",
@@ -74,9 +88,9 @@
     "itemType":"belt",
     "modifiers":["(20-30)% increased Stun Threshold","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity"],
     "name":"Headhunter",
-    "originalString":"Headhunter\nHeavy Belt\nImplicits: 2\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n+(40-60) to maximum Life\n+(20-40) to Strength\n+(20-40) to Dexterity\nWhen you Kill a Rare monster, you gain its Modifiers for 20 seconds\n",
+    "originalString":"Headhunter\nHeavy Belt\nImplicits: 2\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n+(40-60) to maximum Life\n+(20-40) to Strength\n+(20-40) to Dexterity\nWhen you Kill a Rare monster, you gain its Modifiers for 60 seconds\n",
     "requirements":[],
-    "stats":["Headhunter","Heavy Belt","Implicits: 2","(20-30)% increased Stun Threshold","Has (1-3) Charm Slot","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity","When you Kill a Rare monster, you gain its Modifiers for 20 seconds"],
+    "stats":["Headhunter","Heavy Belt","Implicits: 2","(20-30)% increased Stun Threshold","Has (1-3) Charm Slot","+(40-60) to maximum Life","+(20-40) to Strength","+(20-40) to Dexterity","When you Kill a Rare monster, you gain its Modifiers for 60 seconds"],
     "variants":[]
   },
   "Infernoclasp":{
@@ -87,9 +101,10 @@
     "itemType":"belt",
     "modifiers":["+(100-140) to Armour","+(100-150) to Armour","+(10-20) to Strength","+(3-5)% to Maximum Fire Resistance","{variant:1}+(25-35)% to Fire Resistance","{variant:2}+(30-50)% to Fire Resistance"],
     "name":"Infernoclasp",
-    "originalString":"Infernoclasp\nPlate Belt\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 2\n+(100-140) to Armour\nHas (1-3) Charm Slot\n+(100-150) to Armour\n+(10-20) to Strength\n+(3-5)% to Maximum Fire Resistance\n{variant:1}+(25-35)% to Fire Resistance\n{variant:2}+(30-50)% to Fire Resistance\n",
+    "originalString":"Infernoclasp\nPlate Belt\nSource: No longer obtainable\nVariant: Pre 0.1.1\nVariant: Current\nImplicits: 2\n+(100-140) to Armour\nHas (1-3) Charm Slot\n+(100-150) to Armour\n+(10-20) to Strength\n+(3-5)% to Maximum Fire Resistance\n{variant:1}+(25-35)% to Fire Resistance\n{variant:2}+(30-50)% to Fire Resistance\n",
     "requirements":[],
-    "stats":["Infernoclasp","Plate Belt","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","+(100-140) to Armour","Has (1-3) Charm Slot","+(100-150) to Armour","+(10-20) to Strength","+(3-5)% to Maximum Fire Resistance","{variant:1}+(25-35)% to Fire Resistance","{variant:2}+(30-50)% to Fire Resistance"],
+    "source":"No longer obtainable",
+    "stats":["Infernoclasp","Plate Belt","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","Implicits: 2","+(100-140) to Armour","Has (1-3) Charm Slot","+(100-150) to Armour","+(10-20) to Strength","+(3-5)% to Maximum Fire Resistance","{variant:1}+(25-35)% to Fire Resistance","{variant:2}+(30-50)% to Fire Resistance"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Ingenuity":{
@@ -198,6 +213,22 @@
       "level":60
     },
     "stats":["The Gnashing Sash","Wide Belt","League: Dawn of the Hunt","Requires Level 60","Implicits: 2","Has (1-3) Charm Slot","(20-30)% increased Flask Charges gained","(15-35)% increased Flask Life Recovery rate","+(17-23)% to Chaos Resistance","Lose 5% of maximum Life per second","Life Recovery from Flasks can Overflow Maximum Life"],
+    "variants":[]
+  },
+  "Umbilicus Immortalis":{
+    "baseType":"Linen Belt",
+    "flags":[],
+    "gameVersion":"poe2",
+    "implicitCount":2,
+    "itemType":"belt",
+    "league":" Rise of the Abyssal",
+    "modifiers":["(20-30)% increased Mana Recovery from Flasks","(30-40)% reduced Flask Effect Duration","+(20-30) to Intelligence","Minions have (20-30)% increased maximum Life","(20-30)% increased Flask Charges gained"],
+    "name":"Umbilicus Immortalis",
+    "originalString":"Umbilicus Immortalis\nLinen Belt\nLeague: Rise of the Abyssal\nRequires Level 24\nImplicits: 2\n(20-30)% increased Mana Recovery from Flasks\nHas (1-3) Charm Slot\n(30-40)% reduced Flask Effect Duration\n+(20-30) to Intelligence\nMinions have (20-30)% increased maximum Life\nYour Life Flask also applies to your Minions\nMinions cannot Die while affected by a Life Flask\n(20-30)% increased Flask Charges gained\n",
+    "requirements":{
+      "level":24
+    },
+    "stats":["Umbilicus Immortalis","Linen Belt","League: Rise of the Abyssal","Requires Level 24","Implicits: 2","(20-30)% increased Mana Recovery from Flasks","Has (1-3) Charm Slot","(30-40)% reduced Flask Effect Duration","+(20-30) to Intelligence","Minions have (20-30)% increased maximum Life","Your Life Flask also applies to your Minions","Minions cannot Die while affected by a Life Flask","(20-30)% increased Flask Charges gained"],
     "variants":[]
   },
   "Waistgate Heavy Belt":{

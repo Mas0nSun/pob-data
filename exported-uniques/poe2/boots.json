@@ -46,12 +46,12 @@
     "gameVersion":"poe2",
     "implicitCount":0,
     "itemType":"boots",
-    "modifiers":["(40-60)% increased Energy Shield","{variant:1}+25 to maximum Life","{variant:2}+(20-40) to maximum Life","{variant:1}+25 to maximum Mana","{variant:2}+(20-40) to maximum Mana","Undead Minions have 20% reduced Reservation"],
+    "modifiers":["{variant:3}(5-15)% increased Movement Speed","(40-60)% increased Energy Shield","{variant:1}+25 to maximum Life","{variant:1}+25 to maximum Mana","{variant:2}+(20-40) to maximum Mana","{variant:1,2}20% reduced Reservation Efficiency of Skills which create Undead Minions","{variant:3}(20-30)% increased Reservation Efficiency of Skills which create Undead Minions"],
     "name":"Bones of Ullr",
-    "originalString":"Bones of Ullr\nLattice Sandals\nVariant: Pre 0.1.1\nVariant: Current\n(40-60)% increased Energy Shield\n{variant:1}+25 to maximum Life\n{variant:2}+(20-40) to maximum Life\n{variant:1}+25 to maximum Mana\n{variant:2}+(20-40) to maximum Mana\nUndead Minions have 20% reduced Reservation\n",
+    "originalString":"Bones of Ullr\nLattice Sandals\nVariant: Pre 0.1.1\nVariant: Pre 0.3.0\nVariant: Current\n{variant:3}(5-15)% increased Movement Speed\n(40-60)% increased Energy Shield\n{variant:1}+25 to maximum Life\n{variant:2,3}+(20-40) to maximum Life\n{variant:1}+25 to maximum Mana\n{variant:2}+(20-40) to maximum Mana\n{variant:1,2}20% reduced Reservation Efficiency of Skills which create Undead Minions\n{variant:3}(20-30)% increased Reservation Efficiency of Skills which create Undead Minions\n",
     "requirements":[],
-    "stats":["Bones of Ullr","Lattice Sandals","Variant: Pre 0.1.1","Variant: Current","(40-60)% increased Energy Shield","{variant:1}+25 to maximum Life","{variant:2}+(20-40) to maximum Life","{variant:1}+25 to maximum Mana","{variant:2}+(20-40) to maximum Mana","Undead Minions have 20% reduced Reservation"],
-    "variants":["Pre 0.1.1","Current"]
+    "stats":["Bones of Ullr","Lattice Sandals","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:3}(5-15)% increased Movement Speed","(40-60)% increased Energy Shield","{variant:1}+25 to maximum Life","{variant:2,3}+(20-40) to maximum Life","{variant:1}+25 to maximum Mana","{variant:2}+(20-40) to maximum Mana","{variant:1,2}20% reduced Reservation Efficiency of Skills which create Undead Minions","{variant:3}(20-30)% increased Reservation Efficiency of Skills which create Undead Minions"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
   "Briarpatch":{
     "baseType":"Laced Boots",
@@ -184,6 +184,21 @@
     "stats":["Powertread","Hunting Shoes","Variant: Pre 0.1.1","Variant: Current","(10-15)% increased Movement Speed","(60-80)% increased Evasion and Energy Shield","+(10-20) to Intelligence","+1 to Maximum Power Charges","{variant:1}8% increased Critical Damage Bonus per Power Charge","{variant:2}12% increased Critical Damage Bonus per Power Charge"],
     "variants":["Pre 0.1.1","Current"]
   },
+  "Shankgonne":{
+    "baseType":"Covered Sabatons",
+    "flags":[],
+    "gameVersion":"poe2",
+    "grantSkill":"Level (1-20) Black Powder Blitz",
+    "implicitCount":1,
+    "itemType":"boots",
+    "league":" Rise of the Abyssal",
+    "modifiers":["(80-100)% increased Armour and Evasion","(10-20)% increased Rarity of Items found","+(15-25)% to Fire Resistance","Gain Deflection Rating equal to 20% of Armour","+(200-300) to Stun Threshold"],
+    "name":"Shankgonne",
+    "originalString":"Shankgonne\nCovered Sabatons\nLeague: Rise of the Abyssal\nImplicits: 1\nGrants Skill: Level (1-20) Black Powder Blitz\n(80-100)% increased Armour and Evasion\n(10-20)% increased Rarity of Items found\n+(15-25)% to Fire Resistance\nGain Deflection Rating equal to 20% of Armour\n+(200-300) to Stun Threshold\nYou cannot Sprint\n",
+    "requirements":[],
+    "stats":["Shankgonne","Covered Sabatons","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Level (1-20) Black Powder Blitz","(80-100)% increased Armour and Evasion","(10-20)% increased Rarity of Items found","+(15-25)% to Fire Resistance","Gain Deflection Rating equal to 20% of Armour","+(200-300) to Stun Threshold","You cannot Sprint"],
+    "variants":[]
+  },
   "The Infinite Pursuit":{
     "baseType":"Bronze Greaves",
     "flags":[],
@@ -218,9 +233,10 @@
     "itemType":"boots",
     "modifiers":["{variant:1}(10-15)% increased Movement Speed","{variant:2}(10-20)% increased Movement Speed","(40-60)% increased Evasion Rating","+(3-5)% to Maximum Lightning Resistance","{variant:1}+(25-35)% to Lightning Resistance","{variant:2}+(30-50)% to Lightning Resistance"],
     "name":"Thunderstep",
-    "originalString":"Thunderstep\nSteeltoe Boots\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(10-15)% increased Movement Speed\n{variant:2}(10-20)% increased Movement Speed\n(40-60)% increased Evasion Rating\n+(3-5)% to Maximum Lightning Resistance\n{variant:1}+(25-35)% to Lightning Resistance\n{variant:2}+(30-50)% to Lightning Resistance\n",
+    "originalString":"Thunderstep\nSteeltoe Boots\nSource: No longer obtainable\nVariant: Pre 0.1.1\nVariant: Current\n{variant:1}(10-15)% increased Movement Speed\n{variant:2}(10-20)% increased Movement Speed\n(40-60)% increased Evasion Rating\n+(3-5)% to Maximum Lightning Resistance\n{variant:1}+(25-35)% to Lightning Resistance\n{variant:2}+(30-50)% to Lightning Resistance\n",
     "requirements":[],
-    "stats":["Thunderstep","Steeltoe Boots","Variant: Pre 0.1.1","Variant: Current","{variant:1}(10-15)% increased Movement Speed","{variant:2}(10-20)% increased Movement Speed","(40-60)% increased Evasion Rating","+(3-5)% to Maximum Lightning Resistance","{variant:1}+(25-35)% to Lightning Resistance","{variant:2}+(30-50)% to Lightning Resistance"],
+    "source":"No longer obtainable",
+    "stats":["Thunderstep","Steeltoe Boots","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}(10-15)% increased Movement Speed","{variant:2}(10-20)% increased Movement Speed","(40-60)% increased Evasion Rating","+(3-5)% to Maximum Lightning Resistance","{variant:1}+(25-35)% to Lightning Resistance","{variant:2}+(30-50)% to Lightning Resistance"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Trampletoe":{
