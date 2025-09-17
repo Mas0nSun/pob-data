@@ -1,105 +1,105 @@
 {
-  "Nascent Hope":{
-    "stats":["Nascent Hope","Thawing Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnFreeze1","UniqueFlaskChanceRechargeOnKill1","UniqueCharmStartEnergyShieldRecharge1"],
-    "baseType":"Thawing Charm",
-    "affixes":["CharmImplicitUseOnFreeze1","UniqueFlaskChanceRechargeOnKill1","UniqueCharmStartEnergyShieldRecharge1"],
+  "The Fall of the Axe":{
+    "baseType":"Silver Charm",
+    "stats":["The Fall of the Axe","Silver Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnSlow1","UniqueCharmOnslaughtDuringEffect1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnSlow1","UniqueCharmOnslaughtDuringEffect1"]
   },
   "Melting Maelstrom":{
-    "stats":["Melting Maelstrom","Ultimate Mana Flask","Source: Drops from unique{Kosis, The Revelation}","Variant: Pre 0.2.0","Variant: Current","UniqueFlaskEffectNotRemovedOnFullMana1","UniqueFlaskDealChaosDamageNova1","{variant:1}UniqueFlaskRecoverAllMana1","UniqueFlaskTakeDamageWhenEnds1"],
     "baseType":"Ultimate Mana Flask",
-    "affixes":["UniqueFlaskEffectNotRemovedOnFullMana1","UniqueFlaskDealChaosDamageNova1","UniqueFlaskTakeDamageWhenEnds1","UniqueFlaskRecoverAllMana1"],
+    "stats":["Melting Maelstrom","Ultimate Mana Flask","Source: Drops from unique{Kosis, The Revelation}","Variant: Pre 0.2.0","Variant: Current","UniqueFlaskEffectNotRemovedOnFullMana1","UniqueFlaskDealChaosDamageNova1","{variant:1}UniqueFlaskRecoverAllMana1","UniqueFlaskTakeDamageWhenEnds1"],
+    "variants":["Pre 0.2.0","Current"],
     "source":"Drops from unique{Kosis, The Revelation}",
-    "variants":["Pre 0.2.0","Current"]
-  },
-  "Valako's Roar":{
-    "stats":["Valako's Roar","Topaz Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnLightningDamage1","UniqueFlaskChargesAddedPercent1","UniqueCharmGrantsFrenzyCharge1"],
-    "baseType":"Topaz Charm",
-    "affixes":["CharmImplicitUseOnLightningDamage1","UniqueFlaskChargesAddedPercent1","UniqueCharmGrantsFrenzyCharge1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "For Utopia":{
-    "baseType":"Stone Charm",
-    "affixes":["CharmImplicitUseOnStun1","UniqueCharmDoubleArmourEffect1"],
-    "stats":["For Utopia","Stone Charm","Implicits: 1","CharmImplicitUseOnStun1","UniqueCharmDoubleArmourEffect1"],
-    "implicitCount":1
-  },
-  "The Fall of the Axe":{
-    "stats":["The Fall of the Axe","Silver Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnSlow1","UniqueCharmOnslaughtDuringEffect1"],
-    "baseType":"Silver Charm",
-    "affixes":["CharmImplicitUseOnSlow1","UniqueCharmOnslaughtDuringEffect1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Rite of Passage":{
-    "stats":["Rite of Passage","Golden Charm","League: Dawn of the Hunt","Variant: Owl","Variant: Serpent","Variant: Primate","Variant: Bear","Variant: Boar","Variant: Ox","Variant: Wolf","Variant: Stag","Variant: Cat","Implicits: 1","15% increased Rarity of Items found","CharmImplicitUseOnRareUniqueKill1","{variant:1}UniqueCharmOwlPossess1","{variant:2}UniqueCharmSerpentPossess1","{variant:3}UniqueCharmPrimatePossess1","{variant:4}UniqueCharmBearPossess1","{variant:5}UniqueCharmBoarPossess1","{variant:6}UniqueCharmOxPossess1","{variant:7}UniqueCharmWolfPossess1","{variant:8}UniqueCharmStagPossess1","{variant:9}UniqueCharmCatPossess1"],
-    "league":" Dawn of the Hunt",
-    "variants":["Owl","Serpent","Primate","Bear","Boar","Ox","Wolf","Stag","Cat"],
-    "affixes":["15% increased Rarity of Items found","CharmImplicitUseOnRareUniqueKill1","UniqueCharmSerpentPossess1","UniqueCharmCatPossess1","UniqueCharmPrimatePossess1","UniqueCharmBearPossess1","UniqueCharmOxPossess1","UniqueCharmBoarPossess1","UniqueCharmWolfPossess1","UniqueCharmOwlPossess1","UniqueCharmStagPossess1"],
-    "implicitCount":1,
-    "baseType":"Golden Charm"
-  },
-  "Breath of the Mountains":{
-    "stats":["Breath of the Mountains","Sapphire Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnColdDamage1","UniqueFlaskChargesUsed2","UniqueCharmGrantsPowerCharge1"],
-    "baseType":"Sapphire Charm",
-    "affixes":["CharmImplicitUseOnColdDamage1","UniqueFlaskChargesUsed2","UniqueCharmGrantsPowerCharge1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "affixes":["UniqueFlaskEffectNotRemovedOnFullMana1","UniqueFlaskDealChaosDamageNova1","UniqueFlaskTakeDamageWhenEnds1","UniqueFlaskRecoverAllMana1"]
   },
   "Blood of the Warrior":{
     "baseType":"Gargantuan Life Flask",
-    "affixes":["UniqueFlaskMoreLife__1","UniqueFlaskEffectNotRemovedOnFullLife__1","UniqueDuringRageFlaskEffects__1","UniqueFlaskDuration__1"],
     "stats":["Blood of the Warrior","Gargantuan Life Flask","League: Rise of the Abyssal","UniqueFlaskMoreLife__1","UniqueFlaskEffectNotRemovedOnFullLife__1","UniqueDuringRageFlaskEffects__1","UniqueFlaskDuration__1"],
-    "league":" Rise of the Abyssal"
-  },
-  "Arakaali's Gift":{
-    "stats":["Arakaali's Gift","Antidote Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnPoison1","UniqueCharmRecoverLifeBasedOnManaFlask1","UniqueCharmRecoverManaBasedOnLifeFlask1"],
-    "baseType":"Antidote Charm",
-    "affixes":["CharmImplicitUseOnPoison1","UniqueCharmRecoverLifeBasedOnManaFlask1","UniqueCharmRecoverManaBasedOnLifeFlask1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Beira's Anguish":{
-    "stats":["Beira's Anguish","Dousing Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnIgnite1","UniqueFlaskChanceRechargeOnKill2","UniqueCharmIgniteEnemiesInPresence1"],
-    "baseType":"Dousing Charm",
-    "affixes":["CharmImplicitUseOnIgnite1","UniqueFlaskChanceRechargeOnKill2","UniqueCharmIgniteEnemiesInPresence1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Forsaken Bangle":{
-    "stats":["Forsaken Bangle","Amethyst Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnChaosDamage1","UniqueCharmIncreasedDuration1","UniqueCharmRecoupChaosDamagePrevented1"],
-    "baseType":"Amethyst Charm",
-    "affixes":["CharmImplicitUseOnChaosDamage1","UniqueCharmIncreasedDuration1","UniqueCharmRecoupChaosDamagePrevented1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "The Black Cat":{
-    "stats":["The Black Cat","Grounding Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnShock1","UniqueCharmIncreasedDuration2","UniqueCharmEnemyExtraLightningDamageRoll1"],
-    "baseType":"Grounding Charm",
-    "affixes":["CharmImplicitUseOnShock1","UniqueCharmIncreasedDuration2","UniqueCharmEnemyExtraLightningDamageRoll1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Sanguis Heroum":{
-    "stats":["Sanguis Heroum","Staunching Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnBleed1","UniqueCharmCreateConsecratedGround1","UniqueFlaskFillChargesPerMinute1"],
-    "baseType":"Staunching Charm",
-    "affixes":["CharmImplicitUseOnBleed1","UniqueCharmCreateConsecratedGround1","UniqueFlaskFillChargesPerMinute1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Rise of the Abyssal",
+    "affixes":["UniqueFlaskMoreLife__1","UniqueFlaskEffectNotRemovedOnFullLife__1","UniqueDuringRageFlaskEffects__1","UniqueFlaskDuration__1"]
   },
   "Ngamahu's Chosen":{
-    "stats":["Ngamahu's Chosen","Ruby Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnFireDamage1","UniqueFlaskExtraCharges1","UniqueCharmGrantsMaximumRage1"],
     "baseType":"Ruby Charm",
-    "affixes":["CharmImplicitUseOnFireDamage1","UniqueFlaskExtraCharges1","UniqueCharmGrantsMaximumRage1"],
+    "stats":["Ngamahu's Chosen","Ruby Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnFireDamage1","UniqueFlaskExtraCharges1","UniqueCharmGrantsMaximumRage1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnFireDamage1","UniqueFlaskExtraCharges1","UniqueCharmGrantsMaximumRage1"]
+  },
+  "For Utopia":{
+    "baseType":"Stone Charm",
+    "stats":["For Utopia","Stone Charm","Implicits: 1","CharmImplicitUseOnStun1","UniqueCharmDoubleArmourEffect1"],
+    "implicitCount":1,
+    "affixes":["CharmImplicitUseOnStun1","UniqueCharmDoubleArmourEffect1"]
+  },
+  "Beira's Anguish":{
+    "baseType":"Dousing Charm",
+    "stats":["Beira's Anguish","Dousing Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnIgnite1","UniqueFlaskChanceRechargeOnKill2","UniqueCharmIgniteEnemiesInPresence1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnIgnite1","UniqueFlaskChanceRechargeOnKill2","UniqueCharmIgniteEnemiesInPresence1"]
+  },
+  "The Black Cat":{
+    "baseType":"Grounding Charm",
+    "stats":["The Black Cat","Grounding Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnShock1","UniqueCharmIncreasedDuration2","UniqueCharmEnemyExtraLightningDamageRoll1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnShock1","UniqueCharmIncreasedDuration2","UniqueCharmEnemyExtraLightningDamageRoll1"]
+  },
+  "Rite of Passage":{
+    "baseType":"Golden Charm",
+    "stats":["Rite of Passage","Golden Charm","League: Dawn of the Hunt","Variant: Owl","Variant: Serpent","Variant: Primate","Variant: Bear","Variant: Boar","Variant: Ox","Variant: Wolf","Variant: Stag","Variant: Cat","Implicits: 1","15% increased Rarity of Items found","CharmImplicitUseOnRareUniqueKill1","{variant:1}UniqueCharmOwlPossess1","{variant:2}UniqueCharmSerpentPossess1","{variant:3}UniqueCharmPrimatePossess1","{variant:4}UniqueCharmBearPossess1","{variant:5}UniqueCharmBoarPossess1","{variant:6}UniqueCharmOxPossess1","{variant:7}UniqueCharmWolfPossess1","{variant:8}UniqueCharmStagPossess1","{variant:9}UniqueCharmCatPossess1"],
+    "implicitCount":1,
+    "variants":["Owl","Serpent","Primate","Bear","Boar","Ox","Wolf","Stag","Cat"],
+    "league":" Dawn of the Hunt",
+    "affixes":["15% increased Rarity of Items found","CharmImplicitUseOnRareUniqueKill1","UniqueCharmBoarPossess1","UniqueCharmOxPossess1","UniqueCharmWolfPossess1","UniqueCharmOwlPossess1","UniqueCharmSerpentPossess1","UniqueCharmPrimatePossess1","UniqueCharmCatPossess1","UniqueCharmBearPossess1","UniqueCharmStagPossess1"]
   },
   "Olroth's Resolve":{
     "baseType":"Ultimate Life Flask",
-    "affixes":["UniqueFlaskFullInstantRecovery1","UniqueFlaskChargesUsed1","UniqueFlaskOverhealToGuard1"],
     "stats":["Olroth's Resolve","Ultimate Life Flask","Source: Drops from unique{Olroth, Origin of the Fall}","UniqueFlaskFullInstantRecovery1","UniqueFlaskChargesUsed1","UniqueFlaskOverhealToGuard1"],
-    "source":"Drops from unique{Olroth, Origin of the Fall}"
+    "source":"Drops from unique{Olroth, Origin of the Fall}",
+    "affixes":["UniqueFlaskFullInstantRecovery1","UniqueFlaskChargesUsed1","UniqueFlaskOverhealToGuard1"]
+  },
+  "Arakaali's Gift":{
+    "baseType":"Antidote Charm",
+    "stats":["Arakaali's Gift","Antidote Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnPoison1","UniqueCharmRecoverLifeBasedOnManaFlask1","UniqueCharmRecoverManaBasedOnLifeFlask1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnPoison1","UniqueCharmRecoverLifeBasedOnManaFlask1","UniqueCharmRecoverManaBasedOnLifeFlask1"]
+  },
+  "Forsaken Bangle":{
+    "baseType":"Amethyst Charm",
+    "stats":["Forsaken Bangle","Amethyst Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnChaosDamage1","UniqueCharmIncreasedDuration1","UniqueCharmRecoupChaosDamagePrevented1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnChaosDamage1","UniqueCharmIncreasedDuration1","UniqueCharmRecoupChaosDamagePrevented1"]
+  },
+  "Breath of the Mountains":{
+    "baseType":"Sapphire Charm",
+    "stats":["Breath of the Mountains","Sapphire Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnColdDamage1","UniqueFlaskChargesUsed2","UniqueCharmGrantsPowerCharge1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnColdDamage1","UniqueFlaskChargesUsed2","UniqueCharmGrantsPowerCharge1"]
+  },
+  "Sanguis Heroum":{
+    "baseType":"Staunching Charm",
+    "stats":["Sanguis Heroum","Staunching Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnBleed1","UniqueCharmCreateConsecratedGround1","UniqueFlaskFillChargesPerMinute1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnBleed1","UniqueCharmCreateConsecratedGround1","UniqueFlaskFillChargesPerMinute1"]
+  },
+  "Nascent Hope":{
+    "baseType":"Thawing Charm",
+    "stats":["Nascent Hope","Thawing Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnFreeze1","UniqueFlaskChanceRechargeOnKill1","UniqueCharmStartEnergyShieldRecharge1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnFreeze1","UniqueFlaskChanceRechargeOnKill1","UniqueCharmStartEnergyShieldRecharge1"]
+  },
+  "Valako's Roar":{
+    "baseType":"Topaz Charm",
+    "stats":["Valako's Roar","Topaz Charm","League: Dawn of the Hunt","Implicits: 1","CharmImplicitUseOnLightningDamage1","UniqueFlaskChargesAddedPercent1","UniqueCharmGrantsFrenzyCharge1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["CharmImplicitUseOnLightningDamage1","UniqueFlaskChargesAddedPercent1","UniqueCharmGrantsFrenzyCharge1"]
   }
 }

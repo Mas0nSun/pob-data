@@ -1,133 +1,133 @@
 {
-  "Brynhand's Mark":{
-    "baseType":"Wooden Club",
-    "affixes":["UniqueLocalIncreasedAccuracy1","UniqueLocalDoubleStunDamage1","UniqueLocalAddedPhysicalDamage5","UniqueStrength15","UniqueLocalIncreasedAttackSpeed12"],
-    "stats":["Brynhand's Mark","Wooden Club","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage5[3,4][6,8]","{variant:2}UniqueLocalAddedPhysicalDamage5","UniqueLocalIncreasedAccuracy1","{variant:2}UniqueLocalIncreasedAttackSpeed12","{variant:1}UniqueStrength15[5,10]","{variant:2}UniqueStrength15","UniqueLocalDoubleStunDamage1"],
-    "variants":["Pre 0.1.1","Current"]
+  "Hrimnor's Hymn":{
+    "baseType":"Oak Greathammer",
+    "stats":["Hrimnor's Hymn","Oak Greathammer","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","MaceImplicitStunDamageIncrease1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent6[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent6","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Current"],
+    "affixes":["MaceImplicitStunDamageIncrease1","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1","UniqueLocalIncreasedPhysicalDamagePercent6"]
   },
-  "Seeing Stars":{
-    "baseType":"Plated Mace",
-    "affixes":["UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1","UniqueLocalAddedColdDamage3","UniqueLocalAddedLightningDamage2"],
-    "stats":["Seeing Stars","Plated Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage3[9,12][18,22]","{variant:2}UniqueLocalAddedColdDamage3","{variant:1}UniqueLocalAddedLightningDamage2[1,1][30,35]","{variant:2}UniqueLocalAddedLightningDamage2","UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Frostbreath":{
-    "baseType":"Slim Mace",
-    "affixes":["UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1","UniqueLocalAddedColdDamage2","UniqueLocalCriticalStrikeChance5","UniqueLocalAddedPhysicalDamage4"],
-    "stats":["Frostbreath","Slim Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage4[4,6][8,12]","{variant:2}UniqueLocalAddedPhysicalDamage4","{variant:1}UniqueLocalAddedColdDamage2[4,6][8,12]","{variant:2}UniqueLocalAddedColdDamage2","{variant:2}UniqueLocalCriticalStrikeChance5","UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1"],
-    "variants":["Pre 0.1.1","Current"]
+  "Olrovasara":{
+    "baseType":"Torment Club",
+    "stats":["Olrovasara","Torment Club","Source: Drops from unique{Olroth, Origin of the Fall}","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedLightningDamage1[1,1][60,80]","{variant:2}UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1"],
+    "variants":["Pre 0.2.0","Current"],
+    "source":"Drops from unique{Olroth, Origin of the Fall}",
+    "affixes":["UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1","UniqueLocalAddedLightningDamage1"]
   },
   "Mjölner":{
-    "grantSkill":" Level (1-20) Thundergod's Wrath",
-    "stats":["Mjölner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent11[150,200]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent11","UniqueLocalIncreasedAttackSpeed20","{variant:1}UniqueGlobalLightningGemLevel1","{variant:2}UniqueGlobalLightningGemLevel2"],
-    "league":" Dawn of the Hunt",
     "baseType":"Torment Club",
-    "affixes":["UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","UniqueLocalIncreasedAttackSpeed20","UniqueGlobalLightningGemLevel1","UniqueLocalIncreasedPhysicalDamagePercent11","UniqueGlobalLightningGemLevel2"],
+    "stats":["Mjölner","Torment Club","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Level (1-20) Thundergod's Wrath","UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent11[150,200]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent11","UniqueLocalIncreasedAttackSpeed20","{variant:1}UniqueGlobalLightningGemLevel1","{variant:2}UniqueGlobalLightningGemLevel2"],
     "implicitCount":1,
-    "variants":["Pre 0.2.1","Current"]
-  },
-  "Hrimnor's Hymn":{
-    "stats":["Hrimnor's Hymn","Oak Greathammer","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","MaceImplicitStunDamageIncrease1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent6[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent6","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1"],
-    "baseType":"Oak Greathammer",
-    "affixes":["MaceImplicitStunDamageIncrease1","UniqueStrength3","UniqueLifeGainedFromEnemyDeath6","UniqueAftershockChance1","UniqueLocalIncreasedPhysicalDamagePercent6"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Empty Roar":{
-    "stats":["The Empty Roar","Cultist Greathammer","League: Dawn of the Hunt","Implicits: 1","MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"],
-    "baseType":"Cultist Greathammer",
-    "affixes":["MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Wylund's Stake":{
-    "stats":["Wylund's Stake","Smithing Hammer","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage6[2,3][4,5]","{variant:2}UniqueLocalAddedPhysicalDamage6","{variant:1}UniqueLocalAddedFireDamage2[2,3][4,5]","{variant:2}UniqueLocalAddedFireDamage2","{variant:2}UniqueFireResist27","{variant:2}UniqueStrength30","UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1"],
-    "baseType":"Smithing Hammer",
-    "affixes":["UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1","UniqueFireResist27","UniqueLocalAddedPhysicalDamage6","UniqueStrength30","UniqueLocalAddedFireDamage2"],
-    "source":"No longer obtainable",
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Trephina":{
-    "baseType":"Forge Maul",
-    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1","UniqueLocalAddedPhysicalDamage8"],
-    "stats":["Trephina","Forge Maul","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage8[7,10][12,18]","{variant:2}UniqueLocalAddedPhysicalDamage8","UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1"],
-    "variants":["Pre 0.1.1","Current"]
+    "variants":["Pre 0.2.1","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueIntelligenceRequirements2","UniqueStrengthRequirements2","UniqueLocalIncreasedAttackSpeed20","UniqueLocalIncreasedPhysicalDamagePercent11","UniqueGlobalLightningGemLevel1","UniqueGlobalLightningGemLevel2"],
+    "grantSkill":" Level (1-20) Thundergod's Wrath"
   },
   "Brain Rattler":{
     "baseType":"Studded Greatclub",
-    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalAllDamageCanElectrocute1","UniqueLocalAddedPhysicalDamage9","UniqueLocalAddedLightningDamage3"],
     "stats":["Brain Rattler","Studded Greatclub","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage9[10,12][18,22]","{variant:2}UniqueLocalAddedPhysicalDamage9","{variant:1}UniqueLocalAddedLightningDamage3[1,1][36,42]","{variant:2}UniqueLocalAddedLightningDamage3","UniqueLocalIncreasedAttackSpeed5","UniqueLocalAllDamageCanElectrocute1"],
+    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalAllDamageCanElectrocute1","UniqueLocalAddedLightningDamage3","UniqueLocalAddedPhysicalDamage9"],
     "variants":["Pre 0.1.1","Current"]
   },
-  "Tidebreaker":{
-    "baseType":"Pointed Maul",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"],
-    "stats":["Tidebreaker","Pointed Maul","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Hoghunt":{
-    "baseType":"Felled Greatclub",
-    "affixes":["UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent2","UniqueLocalAddedPhysicalDamage11"],
-    "stats":["Hoghunt","Felled Greatclub","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent2","{variant:2}UniqueLocalAddedPhysicalDamage11","UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Marohi Erqi":{
-    "stats":["Marohi Erqi","Totemic Greatclub","League: Rise of the Abyssal","Implicits: 1","MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"],
-    "baseType":"Totemic Greatclub",
-    "affixes":["MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"],
-    "implicitCount":1,
-    "league":" Rise of the Abyssal"
-  },
-  "Trenchtimbre":{
-    "baseType":"Spiked Club",
-    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","UniqueMinionAttackSpeedAffectsYou1","UniqueGlobalMinionSpellSkillGemLevel1","UniqueLocalAddedPhysicalDamage10[10,12][18,35]"],
-    "stats":["Trenchtimbre","Spiked Club","Variant: Pre 0.1.1","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage10[10,12][18,35]","{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","{variant:2}UniqueGlobalMinionSpellSkillGemLevel1[1,3]","{variant:3}UniqueGlobalMinionSpellSkillGemLevel1","UniqueMinionAttackSpeedAffectsYou1"],
-    "variants":["Pre 0.1.1","Pre 0.2.0","Current"]
-  },
-  "Nebuloch":{
-    "baseType":"Brigand Mace",
-    "affixes":["UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"],
-    "stats":["Nebuloch","Brigand Mace","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Sculpted Suffering":{
-    "stats":["Sculpted Suffering","Warpick","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}MaceImplicitCriticalMultiplier1[10,15]","{variant:2}MaceImplicitCriticalMultiplier1","UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1"],
+  "The Hammer of Faith":{
+    "baseType":"Giant Maul",
+    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent9[200,250]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent9","UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","{variant:1}Gain a random Shrine buff every 10 seconds"],
+    "variants":["Pre 0.2.1","Current"],
     "league":" Dawn of the Hunt",
-    "variants":["Pre 0.3.0","Current"],
-    "affixes":["UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1","MaceImplicitCriticalMultiplier1"],
-    "implicitCount":2,
-    "baseType":"Warpick"
-  },
-  "Olrovasara":{
-    "stats":["Olrovasara","Torment Club","Source: Drops from unique{Olroth, Origin of the Fall}","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedLightningDamage1[1,1][60,80]","{variant:2}UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1"],
-    "baseType":"Torment Club",
-    "affixes":["UniqueLocalIncreasedAccuracy5","UniqueLocalIncreasedAttackSpeed10","UniqueMaximumLightningDamagePerPower1","UniqueLocalAddedLightningDamage1"],
-    "source":"Drops from unique{Olroth, Origin of the Fall}",
-    "variants":["Pre 0.2.0","Current"]
-  },
-  "Chober Chaber":{
-    "baseType":"Leaden Greathammer",
-    "affixes":["UniqueIntelligenceRequirements1","UniqueIncreasedMana22","UniqueMinionDamageAffectsYou1","UniqueLocalCriticalStrikeChance3","UniqueLocalAddedPhysicalDamage12","UniqueIncreasedSpirit8","UniqueLocalIncreasedPhysicalDamagePercent4"],
-    "stats":["Chober Chaber","Leaden Greathammer","Variant: Pre 0.1.1","Variant: Current","UniqueIntelligenceRequirements1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2}UniqueLocalAddedPhysicalDamage12","UniqueIncreasedMana22","{variant:2}UniqueIncreasedSpirit8","{variant:1}UniqueLocalCriticalStrikeChance3","UniqueMinionDamageAffectsYou1"],
-    "variants":["Pre 0.1.1","Current"]
+    "affixes":["UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","Gain a random Shrine buff every 10 seconds","UniqueLocalIncreasedPhysicalDamagePercent9"]
   },
   "Quecholli":{
     "baseType":"Crumbling Maul",
-    "affixes":["MaceImplicitEnemiesExplodeOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueAllAttributes7","UniqueLifeGainedFromEnemyDeath8","UniqueLocalCritChanceOverride1","UniqueLocalNoCriticalStrikeMultiplier1"],
     "stats":["Quecholli","Crumbling Maul","Implicits: 1","MaceImplicitEnemiesExplodeOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueAllAttributes7","UniqueLifeGainedFromEnemyDeath8","UniqueLocalCritChanceOverride1","UniqueLocalNoCriticalStrikeMultiplier1"],
-    "implicitCount":1
+    "implicitCount":1,
+    "affixes":["MaceImplicitEnemiesExplodeOnCrit1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueAllAttributes7","UniqueLifeGainedFromEnemyDeath8","UniqueLocalCritChanceOverride1","UniqueLocalNoCriticalStrikeMultiplier1"]
   },
-  "The Hammer of Faith":{
-    "stats":["The Hammer of Faith","Giant Maul","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent9[200,250]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent9","UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","{variant:1}Gain a random Shrine buff every 10 seconds"],
-    "baseType":"Giant Maul",
-    "affixes":["UniqueLocalIncreasedAttackSpeed14","UniqueAllResistances21","UniqueManaRegeneration29","UniqueLocalIncreasedPhysicalDamagePercent9","Gain a random Shrine buff every 10 seconds"],
-    "variants":["Pre 0.2.1","Current"],
-    "league":" Dawn of the Hunt"
+  "Frostbreath":{
+    "baseType":"Slim Mace",
+    "stats":["Frostbreath","Slim Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage4[4,6][8,12]","{variant:2}UniqueLocalAddedPhysicalDamage4","{variant:1}UniqueLocalAddedColdDamage2[4,6][8,12]","{variant:2}UniqueLocalAddedColdDamage2","{variant:2}UniqueLocalCriticalStrikeChance5","UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1"],
+    "affixes":["UniqueLocalAllDamageCanFreeze1","UniqueLocalCullingStrikeFrozenEnemies1","UniqueLocalAddedPhysicalDamage4","UniqueLocalAddedColdDamage2","UniqueLocalCriticalStrikeChance5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Sculpted Suffering":{
+    "baseType":"Warpick",
+    "stats":["Sculpted Suffering","Warpick","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}MaceImplicitCriticalMultiplier1[10,15]","{variant:2}MaceImplicitCriticalMultiplier1","UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1"],
+    "implicitCount":2,
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage18","UniqueLocalIncreasedAttackSpeed17","UniqueLocalArmourBreakOnDamage1","UniqueFullyArmourBrokenShatterOnKill1","MaceImplicitCriticalMultiplier1"]
+  },
+  "The Empty Roar":{
+    "baseType":"Cultist Greathammer",
+    "stats":["The Empty Roar","Cultist Greathammer","League: Dawn of the Hunt","Implicits: 1","MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["MaceImplicitSplashDamage1","UniqueLocalAddedPhysicalDamage15","UniqueLifeLeechLocal2","UniqueLocalChanceToBleed1","UniqueAttacksCountAsExerted1","UniqueCannotUseWarcries1"]
+  },
+  "Tidebreaker":{
+    "baseType":"Pointed Maul",
+    "stats":["Tidebreaker","Pointed Maul","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent13","UniqueGlobalIncreaseMeleeSkillGemLevel1","UniqueIntelligence39","UniqueLocalStunDamageIncrease2","UniqueLocalAllDamageCanChill1"]
+  },
+  "Chober Chaber":{
+    "baseType":"Leaden Greathammer",
+    "stats":["Chober Chaber","Leaden Greathammer","Variant: Pre 0.1.1","Variant: Current","UniqueIntelligenceRequirements1","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2}UniqueLocalAddedPhysicalDamage12","UniqueIncreasedMana22","{variant:2}UniqueIncreasedSpirit8","{variant:1}UniqueLocalCriticalStrikeChance3","UniqueMinionDamageAffectsYou1"],
+    "affixes":["UniqueIntelligenceRequirements1","UniqueIncreasedMana22","UniqueMinionDamageAffectsYou1","UniqueLocalAddedPhysicalDamage12","UniqueIncreasedSpirit8","UniqueLocalCriticalStrikeChance3","UniqueLocalIncreasedPhysicalDamagePercent4"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Hoghunt":{
+    "baseType":"Felled Greatclub",
+    "stats":["Hoghunt","Felled Greatclub","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent2","{variant:2}UniqueLocalAddedPhysicalDamage11","UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1"],
+    "affixes":["UniqueLocalCriticalStrikeChance1","UniqueLocalIncreasedAttackSpeed4","UniqueStrength19","UniqueLocalMaimOnCrit1","UniqueLocalAddedPhysicalDamage11","UniqueLocalIncreasedPhysicalDamagePercent2"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Wylund's Stake":{
+    "baseType":"Smithing Hammer",
+    "stats":["Wylund's Stake","Smithing Hammer","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage6[2,3][4,5]","{variant:2}UniqueLocalAddedPhysicalDamage6","{variant:1}UniqueLocalAddedFireDamage2[2,3][4,5]","{variant:2}UniqueLocalAddedFireDamage2","{variant:2}UniqueFireResist27","{variant:2}UniqueStrength30","UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1"],
+    "variants":["Pre 0.1.1","Current"],
+    "source":"No longer obtainable",
+    "affixes":["UniqueLocalBreakArmourOnHit1","UniqueLocalFireExposureOnArmourBreak1","UniqueFireResist27","UniqueLocalAddedPhysicalDamage6","UniqueStrength30","UniqueLocalAddedFireDamage2"]
+  },
+  "Brynhand's Mark":{
+    "baseType":"Wooden Club",
+    "stats":["Brynhand's Mark","Wooden Club","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage5[3,4][6,8]","{variant:2}UniqueLocalAddedPhysicalDamage5","UniqueLocalIncreasedAccuracy1","{variant:2}UniqueLocalIncreasedAttackSpeed12","{variant:1}UniqueStrength15[5,10]","{variant:2}UniqueStrength15","UniqueLocalDoubleStunDamage1"],
+    "affixes":["UniqueLocalIncreasedAccuracy1","UniqueLocalDoubleStunDamage1","UniqueLocalIncreasedAttackSpeed12","UniqueStrength15","UniqueLocalAddedPhysicalDamage5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Marohi Erqi":{
+    "baseType":"Totemic Greatclub",
+    "stats":["Marohi Erqi","Totemic Greatclub","League: Rise of the Abyssal","Implicits: 1","MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"],
+    "implicitCount":1,
+    "league":" Rise of the Abyssal",
+    "affixes":["MaceImplicitLocalCrushOnHit1","UniqueStrengthRequirements3","UniqueLocalIncreasedPhysicalDamagePercent16","UniqueIncreasedAccuracy14","UniqueIncreasedAttackSpeed14","UniqueLocalStunDamageIncrease3","LocalAlwaysHeavyStunOnFullLifeUnique__1"]
+  },
+  "Nebuloch":{
+    "baseType":"Brigand Mace",
+    "stats":["Nebuloch","Brigand Mace","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage17","UniqueLocalCriticalMultiplier2","UniqueLocalChaosDamage1","UniqueConsumeEnduranceChargeAlwaysCrit1","UniqueChaosDamagePerEnduranceCharge1"]
+  },
+  "Trephina":{
+    "baseType":"Forge Maul",
+    "stats":["Trephina","Forge Maul","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage8[7,10][12,18]","{variant:2}UniqueLocalAddedPhysicalDamage8","UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1"],
+    "affixes":["UniqueLocalIncreasedAttackSpeed5","UniqueLocalStunDamageIncrease1","UniqueAlwaysCritHeavyStun1","UniqueLocalAddedPhysicalDamage8"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Trenchtimbre":{
+    "baseType":"Spiked Club",
+    "stats":["Trenchtimbre","Spiked Club","Variant: Pre 0.1.1","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage10[10,12][18,35]","{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","{variant:2}UniqueGlobalMinionSpellSkillGemLevel1[1,3]","{variant:3}UniqueGlobalMinionSpellSkillGemLevel1","UniqueMinionAttackSpeedAffectsYou1"],
+    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage10","UniqueLocalIncreasedAttackSpeed11","UniqueMinionAttackSpeedAffectsYou1","UniqueGlobalMinionSpellSkillGemLevel1","UniqueLocalAddedPhysicalDamage10[10,12][18,35]"],
+    "variants":["Pre 0.1.1","Pre 0.2.0","Current"]
+  },
+  "Seeing Stars":{
+    "baseType":"Plated Mace",
+    "stats":["Seeing Stars","Plated Mace","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage3[9,12][18,22]","{variant:2}UniqueLocalAddedColdDamage3","{variant:1}UniqueLocalAddedLightningDamage2[1,1][30,35]","{variant:2}UniqueLocalAddedLightningDamage2","UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1"],
+    "affixes":["UniqueLocalIncreasedAttackSpeed6","UniqueDoubleEnergyGain1","UniqueLocalAddedLightningDamage2","UniqueLocalAddedColdDamage3"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "Shyaba":{
     "baseType":"Temple Maul",
-    "affixes":["UniqueDexterityRequirements1","UniqueStrengthRequirements1","UniqueLocalIncreasedPhysicalDamagePercent5","UniqueLocalIncreasedAttackSpeed15","UniqueLightRadius17","UniqueAlwaysHits1"],
     "stats":["Shyaba","Temple Maul","League: Dawn of the Hunt","UniqueDexterityRequirements1","UniqueStrengthRequirements1","UniqueLocalIncreasedPhysicalDamagePercent5","UniqueLocalIncreasedAttackSpeed15","UniqueLightRadius17","UniqueAlwaysHits1"],
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueDexterityRequirements1","UniqueStrengthRequirements1","UniqueLocalIncreasedPhysicalDamagePercent5","UniqueLocalIncreasedAttackSpeed15","UniqueLightRadius17","UniqueAlwaysHits1"]
   }
 }

@@ -1,68 +1,68 @@
 {
-  "Skysliver":{
-    "grantSkill":" Spear Throw",
-    "stats":["Skysliver","Winged Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
-    "baseType":"Winged Spear",
-    "affixes":["UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
   "Spire of Ire":{
-    "grantSkill":" Level (1-20) Chaotic Infusion",
-    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","UniqueLocalIncreasedAttackSpeed21","{variant:1}UniqueLifeLeechLocal3[6,10]","{variant:2}UniqueLifeLeechLocal3","{variant:1}UniqueLocalChaosDamage2[106,146][181,221]","{variant:2}UniqueLocalChaosDamage2","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1"],
-    "league":" Dawn of the Hunt",
     "baseType":"Helix Spear",
-    "affixes":["UniqueLocalIncreasedAttackSpeed21","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1","UniqueLifeLeechLocal3","UniqueLocalChaosDamage2"],
+    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 2","Grants Skill: Spear Throw","Grants Skill: Level (1-20) Chaotic Infusion","UniqueLocalIncreasedAttackSpeed21","{variant:1}UniqueLifeLeechLocal3[6,10]","{variant:2}UniqueLifeLeechLocal3","{variant:1}UniqueLocalChaosDamage2[106,146][181,221]","{variant:2}UniqueLocalChaosDamage2","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1"],
     "implicitCount":2,
-    "variants":["Pre 0.2.1","Current"]
-  },
-  "Chainsting":{
-    "grantSkill":" Spear Throw",
-    "stats":["Chainsting","Hunting Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
-    "baseType":"Hunting Spear",
-    "affixes":["SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
-    "implicitCount":2,
-    "league":" Dawn of the Hunt"
+    "variants":["Pre 0.2.1","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedAttackSpeed21","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1","UniqueLocalChaosDamage2","UniqueLifeLeechLocal3"],
+    "grantSkill":" Level (1-20) Chaotic Infusion"
   },
   "Saitha's Spear":{
-    "grantSkill":" Spear Throw",
-    "stats":["Saitha's Spear","Barbed Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
     "baseType":"Barbed Spear",
-    "affixes":["UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
+    "stats":["Saitha's Spear","Barbed Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
+    "grantSkill":" Spear Throw"
+  },
+  "Chainsting":{
+    "baseType":"Hunting Spear",
+    "stats":["Chainsting","Hunting Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
+    "implicitCount":2,
+    "league":" Dawn of the Hunt",
+    "affixes":["SpearImplicitLocalChanceToMaim1","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed1","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
+    "grantSkill":" Spear Throw"
   },
   "Splinter of Loratta":{
-    "grantSkill":" Spear Throw",
-    "stats":["Splinter of Loratta","Hardwood Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
     "baseType":"Hardwood Spear",
-    "affixes":["UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
+    "stats":["Splinter of Loratta","Hardwood Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
+    "grantSkill":" Spear Throw"
   },
   "Daevata's Wind":{
-    "grantSkill":" Spear Throw",
-    "stats":["Daevata's Wind","War Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
     "baseType":"War Spear",
-    "affixes":["SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
+    "stats":["Daevata's Wind","War Spear","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Spear Throw","SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
     "implicitCount":2,
-    "league":" Dawn of the Hunt"
-  },
-  "Tangletongue":{
-    "grantSkill":" Spear Throw",
-    "stats":["Tangletongue","Forked Spear","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage21","{variant:1}UniqueLocalCriticalStrikeChance8[1000,2000]","{variant:2}UniqueLocalCriticalStrikeChance8","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2"],
     "league":" Dawn of the Hunt",
-    "baseType":"Forked Spear",
-    "affixes":["UniqueLocalAddedPhysicalDamage21","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2","UniqueLocalCriticalStrikeChance8"],
-    "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
+    "affixes":["SpearImplicitLocalProjectileSpeed1","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
+    "grantSkill":" Spear Throw"
   },
   "Tyranny's Grip":{
-    "grantSkill":" Spear Throw",
-    "stats":["Tyranny's Grip","Ironhead Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
     "baseType":"Ironhead Spear",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
+    "stats":["Tyranny's Grip","Ironhead Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
+    "grantSkill":" Spear Throw"
+  },
+  "Skysliver":{
+    "baseType":"Winged Spear",
+    "stats":["Skysliver","Winged Spear","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalNoWeaponPhysicalDamage1","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
+    "grantSkill":" Spear Throw"
+  },
+  "Tangletongue":{
+    "baseType":"Forked Spear",
+    "stats":["Tangletongue","Forked Spear","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Spear Throw","UniqueLocalAddedPhysicalDamage21","{variant:1}UniqueLocalCriticalStrikeChance8[1000,2000]","{variant:2}UniqueLocalCriticalStrikeChance8","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2"],
+    "implicitCount":1,
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage21","UniqueIntelligence34","UniqueRollCriticalChanceTwice1","UniqueLifeCost2","UniqueLocalCriticalStrikeChance8"],
+    "grantSkill":" Spear Throw"
   }
 }

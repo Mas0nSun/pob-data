@@ -19,55 +19,7 @@ end
 -- 如果没有，请安装：luarocks install dkjson
 local dkjson = require("dkjson")
 
--- 为 bit 库创建兼容层
-bit = bit or {}
-if not bit.band then
-    bit.band = function(a, b, ...)
-        local result = a & b
-        for i=1, select("#", ...) do
-            result = result & select(i, ...)
-        end
-        return result
-    end
-end
-if not bit.bor then
-    bit.bor = function(a, b, ...)
-        local result = a | b
-        for i=1, select("#", ...) do
-            result = result | select(i, ...)
-        end
-        return result
-    end
-end
-if not bit.bxor then
-    bit.bxor = function(a, b, ...)
-        local result = a ~ b
-        for i=1, select("#", ...) do
-            result = result ~ select(i, ...)
-        end
-        return result
-    end
-end
-if not bit.bnot then
-    bit.bnot = function(a)
-        return ~a
-    end
-end
-if not bit.lshift then
-    bit.lshift = function(a, b)
-        return a << b
-    end
-end
-if not bit.rshift then
-    bit.rshift = function(a, b)
-        return a >> b
-    end
-end
-if not bit.tobit then
-    bit.tobit = function(a)
-        return a & 0xFFFFFFFF
-    end
-end
+-- LuaJIT 已经内置了 bit 库，不需要额外的兼容层
 
 -- 处理不兼容JSON的数据类型
 function sanitizeForJSON(data)

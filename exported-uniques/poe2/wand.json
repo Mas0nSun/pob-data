@@ -1,48 +1,48 @@
 {
-  "The Wicked Quill":{
-    "grantSkill":" Level (1-20) Chaos Bolt",
-    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Chaos Bolt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
-    "baseType":"Withered Wand",
-    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+  "Enezun's Charge":{
+    "baseType":"Volatile Wand",
+    "stats":["Enezun's Charge","Volatile Wand","Implicits: 1","Grants Skill: Level (1-20) Volatile Dead","UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
+    "grantSkill":" Level (1-20) Volatile Dead"
   },
   "Adonia's Ego":{
-    "grantSkill":" Level 20 Pinnacle of Power",
-    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
     "baseType":"Siphoning Wand",
-    "affixes":["UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Power Siphon","Grants Skill: Level 20 Pinnacle of Power","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
     "implicitCount":2,
-    "league":" Dawn of the Hunt"
-  },
-  "Enezun's Charge":{
-    "grantSkill":" Level (1-20) Volatile Dead",
-    "stats":["Enezun's Charge","Volatile Wand","Implicits: 1","Grants Skill: Level (1-20) Volatile Dead","UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
-    "baseType":"Volatile Wand",
-    "affixes":["UniqueSpellDamageOnWeapon2","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
-    "implicitCount":1
-  },
-  "Cursecarver":{
-    "grantSkill":" Level (1-20) Decompose",
-    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","Implicits: 1","Grants Skill: Level (1-20) Decompose","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"],
     "league":" Dawn of the Hunt",
-    "baseType":"Acrid Wand",
-    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueTemporalChainsGemLevel1","UniqueDespairGemLevel1","UniqueElementalWeaknessGemLevel1","UniqueVulnerabilityGemLevel1","UniqueEnfeebleGemLevel1"],
-    "implicitCount":1,
-    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"]
-  },
-  "Lifesprig":{
-    "grantSkill":" Level (1-20) Mana Drain",
-    "stats":["Lifesprig","Attuned Wand","Implicits: 1","Grants Skill: Level (1-20) Mana Drain","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
-    "baseType":"Attuned Wand",
-    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
-    "implicitCount":1
+    "affixes":["UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "grantSkill":" Level 20 Pinnacle of Power"
   },
   "Sanguine Diviner":{
-    "grantSkill":" Level (1-20) Bone Blast",
-    "stats":["Sanguine Diviner","Bone Wand","Implicits: 1","Grants Skill: Level (1-20) Bone Blast","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
     "baseType":"Bone Wand",
+    "stats":["Sanguine Diviner","Bone Wand","Implicits: 1","Grants Skill: Level (1-20) Bone Blast","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
+    "implicitCount":1,
     "affixes":["UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
-    "implicitCount":1
+    "grantSkill":" Level (1-20) Bone Blast"
+  },
+  "Lifesprig":{
+    "baseType":"Attuned Wand",
+    "stats":["Lifesprig","Attuned Wand","Implicits: 1","Grants Skill: Level (1-20) Mana Drain","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
+    "implicitCount":1,
+    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
+    "grantSkill":" Level (1-20) Mana Drain"
+  },
+  "Cursecarver":{
+    "baseType":"Acrid Wand",
+    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","Implicits: 1","Grants Skill: Level (1-20) Decompose","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"],
+    "implicitCount":1,
+    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueElementalWeaknessGemLevel1","UniqueVulnerabilityGemLevel1","UniqueDespairGemLevel1","UniqueEnfeebleGemLevel1","UniqueTemporalChainsGemLevel1"],
+    "grantSkill":" Level (1-20) Decompose"
+  },
+  "The Wicked Quill":{
+    "baseType":"Withered Wand",
+    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Chaos Bolt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana12","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "grantSkill":" Level (1-20) Chaos Bolt"
   }
 }

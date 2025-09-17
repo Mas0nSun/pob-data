@@ -1,30 +1,30 @@
 {
-  "Double Vision":{
-    "grantSkill":" Level (1-20) Gemini Surge",
-    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Gemini Surge","CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
-    "baseType":"Dyad Crossbow",
-    "affixes":["CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
-    "implicitCount":2,
-    "league":" Rise of the Abyssal"
-  },
   "The Last Lament":{
-    "grantSkill":" Level (1-20) Compose Requiem",
-    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
     "baseType":"Desolate Crossbow",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Level (1-20) Compose Requiem","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "grantSkill":" Level (1-20) Compose Requiem"
   },
-  "Mist Whisper":{
-    "baseType":"Makeshift Crossbow",
-    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueAdditionalAttackChain1","UniqueChillDuration1","UniqueLocalAddedColdDamage4"],
-    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"],
-    "variants":["Pre 0.1.1","Current"]
+  "Double Vision":{
+    "baseType":"Dyad Crossbow",
+    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Gemini Surge","CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
+    "implicitCount":2,
+    "league":" Rise of the Abyssal",
+    "affixes":["CrossbowImplicitAdditionalAmmo1","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
+    "grantSkill":" Level (1-20) Gemini Surge"
   },
   "Rampart Raptor":{
     "baseType":"Tense Crossbow",
-    "affixes":["CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
     "stats":["Rampart Raptor","Tense Crossbow","Implicits: 1","CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
-    "implicitCount":1
+    "implicitCount":1,
+    "affixes":["CrossbowImplicitBoltSpeed1","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"]
+  },
+  "Mist Whisper":{
+    "baseType":"Makeshift Crossbow",
+    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"],
+    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueAdditionalAttackChain1","UniqueLocalAddedColdDamage4","UniqueChillDuration1"],
+    "variants":["Pre 0.1.1","Current"]
   }
 }

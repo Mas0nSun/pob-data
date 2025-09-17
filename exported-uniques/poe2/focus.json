@@ -1,48 +1,48 @@
 {
-  "Carrion Call":{
-    "baseType":"Engraved Focus",
-    "affixes":["UniqueIncreasedEnergyShield3","UniqueMinionLife1","UniqueManaRegeneration6","UniqueMinionResistanceEqualYours1","UniqueMinionDamage1"],
-    "stats":["Carrion Call","Engraved Focus","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedEnergyShield3","UniqueMinionLife1","UniqueManaRegeneration6","{variant:2}UniqueMinionDamage1","UniqueMinionResistanceEqualYours1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
   "Effigy of Cruelty":{
-    "stats":["Effigy of Cruelty","Antler Focus","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShield14","UniqueSpellDamageOnWeapon5","UniqueIntelligence41","UniqueChaosResist16","{variant:1}UniqueCriticalWeaknessOnSpellCrit1[3,5]","{variant:2}UniqueCriticalWeaknessOnSpellCrit1"],
     "baseType":"Antler Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShield14","UniqueSpellDamageOnWeapon5","UniqueIntelligence41","UniqueChaosResist16","UniqueCriticalWeaknessOnSpellCrit1"],
+    "stats":["Effigy of Cruelty","Antler Focus","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShield14","UniqueSpellDamageOnWeapon5","UniqueIntelligence41","UniqueChaosResist16","{variant:1}UniqueCriticalWeaknessOnSpellCrit1[3,5]","{variant:2}UniqueCriticalWeaknessOnSpellCrit1"],
     "variants":["Pre 0.3.0","Current"],
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShield14","UniqueSpellDamageOnWeapon5","UniqueIntelligence41","UniqueChaosResist16","UniqueCriticalWeaknessOnSpellCrit1"]
   },
-  "Rathpith Globe":{
-    "baseType":"Sacred Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent21","UniqueIncreasedLife50","UniqueNonChannellingSpellLifeCost1","UniqueNonChannellingSpellCriticalChance1","UniqueNonChannellingSpellDamage1"],
-    "stats":["Rathpith Globe","Sacred Focus","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent21","UniqueIncreasedLife50","UniqueNonChannellingSpellLifeCost1","UniqueNonChannellingSpellCriticalChance1","UniqueNonChannellingSpellDamage1"],
-    "league":" Dawn of the Hunt"
+  "Deathrattle":{
+    "baseType":"Twig Focus",
+    "stats":["Deathrattle","Twig Focus","UniqueLocalIncreasedEnergyShield1","UniqueSpellDamageOnWeapon1","UniqueIntelligence3","UniqueEnergyShieldRechargeOnKill1"],
+    "affixes":["UniqueLocalIncreasedEnergyShield1","UniqueSpellDamageOnWeapon1","UniqueIntelligence3","UniqueEnergyShieldRechargeOnKill1"]
   },
   "The Eternal Spark":{
     "baseType":"Crystal Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent3","UniqueMaximumLightningResist2","RingImplicitLightningResistance1","UniqueManaRegeneration28","UniqueManaRegenerationWhileStationary1"],
     "stats":["The Eternal Spark","Crystal Focus","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent3","UniqueMaximumLightningResist2","RingImplicitLightningResistance1","{variant:2}UniqueManaRegeneration28","{variant:1}UniqueManaRegenerationWhileStationary1[50,50]","{variant:2}UniqueManaRegenerationWhileStationary1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent3","UniqueMaximumLightningResist2","RingImplicitLightningResistance1","UniqueManaRegeneration28","UniqueManaRegenerationWhileStationary1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Carrion Call":{
+    "baseType":"Engraved Focus",
+    "stats":["Carrion Call","Engraved Focus","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedEnergyShield3","UniqueMinionLife1","UniqueManaRegeneration6","{variant:2}UniqueMinionDamage1","UniqueMinionResistanceEqualYours1"],
+    "affixes":["UniqueIncreasedEnergyShield3","UniqueMinionLife1","UniqueManaRegeneration6","UniqueMinionResistanceEqualYours1","UniqueMinionDamage1"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Apep's Supremacy":{
     "baseType":"Voodoo Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent13","UniqueEnergyShieldRechargeRate7","UniqueEnergyShieldDelay5","UniqueElementalDamageTakenAsChaos1","UniqueChanceToBePoisoned1"],
     "stats":["Apep's Supremacy","Voodoo Focus","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent13","UniqueEnergyShieldRechargeRate7","UniqueEnergyShieldDelay5","UniqueElementalDamageTakenAsChaos1","UniqueChanceToBePoisoned1"],
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent13","UniqueEnergyShieldRechargeRate7","UniqueEnergyShieldDelay5","UniqueElementalDamageTakenAsChaos1","UniqueChanceToBePoisoned1"]
   },
-  "Threaded Light":{
-    "baseType":"Woven Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent3","UniqueManaRegeneration7","UniqueLightRadius12","UniqueSpellDamagePerSpirit1"],
-    "stats":["Threaded Light","Woven Focus","UniqueLocalIncreasedEnergyShieldPercent3","UniqueManaRegeneration7","UniqueLightRadius12","UniqueSpellDamagePerSpirit1"]
-  },
-  "Deathrattle":{
-    "baseType":"Twig Focus",
-    "affixes":["UniqueLocalIncreasedEnergyShield1","UniqueSpellDamageOnWeapon1","UniqueIntelligence3","UniqueEnergyShieldRechargeOnKill1"],
-    "stats":["Deathrattle","Twig Focus","UniqueLocalIncreasedEnergyShield1","UniqueSpellDamageOnWeapon1","UniqueIntelligence3","UniqueEnergyShieldRechargeOnKill1"]
+  "Rathpith Globe":{
+    "baseType":"Sacred Focus",
+    "stats":["Rathpith Globe","Sacred Focus","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent21","UniqueIncreasedLife50","UniqueNonChannellingSpellLifeCost1","UniqueNonChannellingSpellCriticalChance1","UniqueNonChannellingSpellDamage1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent21","UniqueIncreasedLife50","UniqueNonChannellingSpellLifeCost1","UniqueNonChannellingSpellCriticalChance1","UniqueNonChannellingSpellDamage1"]
   },
   "Serpent's Lesson":{
     "baseType":"Tonal Focus",
-    "affixes":["UniqueIncreasedLife22","UniqueIncreasedMana12","UniqueLowLifeOnManaThreshold1","UniqueLowManaOnLifeThreshold1"],
-    "stats":["Serpent's Lesson","Tonal Focus","UniqueIncreasedLife22","UniqueIncreasedMana12","UniqueLowLifeOnManaThreshold1","UniqueLowManaOnLifeThreshold1"]
+    "stats":["Serpent's Lesson","Tonal Focus","UniqueIncreasedLife22","UniqueIncreasedMana12","UniqueLowLifeOnManaThreshold1","UniqueLowManaOnLifeThreshold1"],
+    "affixes":["UniqueIncreasedLife22","UniqueIncreasedMana12","UniqueLowLifeOnManaThreshold1","UniqueLowManaOnLifeThreshold1"]
+  },
+  "Threaded Light":{
+    "baseType":"Woven Focus",
+    "stats":["Threaded Light","Woven Focus","UniqueLocalIncreasedEnergyShieldPercent3","UniqueManaRegeneration7","UniqueLightRadius12","UniqueSpellDamagePerSpirit1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent3","UniqueManaRegeneration7","UniqueLightRadius12","UniqueSpellDamagePerSpirit1"]
   }
 }

@@ -1,34 +1,34 @@
 {
-  "Controlled Metamorphosis":{
-    "stats":["Controlled Metamorphosis","Diamond","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Variant: Very Small Ring","Variant: Small Ring","Variant: Medium-Small Ring","Variant: Medium Ring","Variant: Medium-Large Ring","Variant: Large Ring","Variant: Very Large Ring","Variant: Massive Ring","Limited to: 1","Radius: Variable","{variant:1}Only affects Passives in Very Small Ring","{variant:2}Only affects Passives in Small Ring","{variant:3}Only affects Passives in Medium-Small Ring","{variant:4}Only affects Passives in Medium Ring","{variant:5}Only affects Passives in Medium-Large Ring","{variant:6}Only affects Passives in Large Ring","{variant:7}Only affects Passives in Very Large Ring","{variant:8}Only affects Passives in Massive Ring","JewelUniqueAllocateDisconnectedPassives","UniqueAllResistances12","UniqueChaosResist18"],
-    "baseType":"Diamond",
-    "affixes":["Limited to: 1","Radius: Variable","JewelUniqueAllocateDisconnectedPassives","UniqueAllResistances12","UniqueChaosResist18","Only affects Passives in Very Small Ring","Only affects Passives in Medium-Large Ring","Only affects Passives in Very Large Ring","Only affects Passives in Medium-Small Ring","Only affects Passives in Small Ring","Only affects Passives in Medium Ring","Only affects Passives in Massive Ring","Only affects Passives in Large Ring"],
-    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "variants":["Very Small Ring","Small Ring","Medium-Small Ring","Medium Ring","Medium-Large Ring","Large Ring","Very Large Ring","Massive Ring"]
-  },
-  "Grand Spectrum":{
-    "baseType":"Sapphire",
-    "affixes":["Limited to: 3","UniqueAllResistancePerStackableJewel1"],
-    "stats":["Grand Spectrum","Sapphire","Limited to: 3","UniqueAllResistancePerStackableJewel1"]
+  "Heroic Tragedy":{
+    "baseType":"Timeless Jewel",
+    "stats":["Heroic Tragedy","Timeless Jewel","Source: Drops from unique{Olroth, Origin of the Fall}","Limited to: 1 Historic","Variant: Vorana","Variant: Medved","Variant: Olroth","Radius: Very Large","{variant:1}Remembrancing (100-8000) songworthy deeds by the line of Vorana","{variant:2}Remembrancing (100-8000) songworthy deeds by the line of Medved","{variant:3}Remembrancing (100-8000) songworthy deeds by the line of Olroth","Passives in radius are Conquered by the Kalguur","Historic"],
+    "variants":["Vorana","Medved","Olroth"],
+    "source":"Drops from unique{Olroth, Origin of the Fall}",
+    "affixes":["Limited to: 1 Historic","Radius: Very Large","Passives in radius are Conquered by the Kalguur","Historic","Remembrancing (100-8000) songworthy deeds by the line of Vorana","Remembrancing (100-8000) songworthy deeds by the line of Medved","Remembrancing (100-8000) songworthy deeds by the line of Olroth"]
   },
   "The Adorned":{
     "baseType":"Diamond",
-    "affixes":["Limited to: 1","CorruptedMagicJewelModEffectUnique__1"],
     "stats":["The Adorned","Diamond","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Limited to: 1","CorruptedMagicJewelModEffectUnique__1"],
-    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}"
+    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
+    "affixes":["Limited to: 1","CorruptedMagicJewelModEffectUnique__1"]
   },
   "Undying Hate":{
+    "baseType":"Timeless Jewel",
     "stats":["Undying Hate","Timeless Jewel","Source: Drops from unique{Vessel of Kulemak}","Limited to: 1 Historic","Variant: Amanamu","Variant: Kulemak","Variant: Kurgal","Variant: Tecrod","Variant: Ulaman","Radius: Very Large","{variant:1}Glorifying the defilement of (100-8000) souls in tribute to Amanamu","{variant:2}Glorifying the defilement of (100-8000) souls in tribute to Kulemak","{variant:3}Glorifying the defilement of (100-8000) souls in tribute to Kurgal","{variant:4}Glorifying the defilement of (100-8000) souls in tribute to Tecrod","{variant:5}Glorifying the defilement of (100-8000) souls in tribute to Ulaman","Passives in radius are Conquered by the Abyssals","Historic"],
-    "baseType":"Timeless Jewel",
-    "affixes":["Limited to: 1 Historic","Radius: Very Large","Passives in radius are Conquered by the Abyssals","Historic","Glorifying the defilement of (100-8000) souls in tribute to Tecrod","Glorifying the defilement of (100-8000) souls in tribute to Amanamu","Glorifying the defilement of (100-8000) souls in tribute to Kulemak","Glorifying the defilement of (100-8000) souls in tribute to Kurgal","Glorifying the defilement of (100-8000) souls in tribute to Ulaman"],
+    "variants":["Amanamu","Kulemak","Kurgal","Tecrod","Ulaman"],
     "source":"Drops from unique{Vessel of Kulemak}",
-    "variants":["Amanamu","Kulemak","Kurgal","Tecrod","Ulaman"]
+    "affixes":["Limited to: 1 Historic","Radius: Very Large","Passives in radius are Conquered by the Abyssals","Historic","Glorifying the defilement of (100-8000) souls in tribute to Kurgal","Glorifying the defilement of (100-8000) souls in tribute to Tecrod","Glorifying the defilement of (100-8000) souls in tribute to Ulaman","Glorifying the defilement of (100-8000) souls in tribute to Amanamu","Glorifying the defilement of (100-8000) souls in tribute to Kulemak"]
   },
-  "Heroic Tragedy":{
-    "stats":["Heroic Tragedy","Timeless Jewel","Source: Drops from unique{Olroth, Origin of the Fall}","Limited to: 1 Historic","Variant: Vorana","Variant: Medved","Variant: Olroth","Radius: Very Large","{variant:1}Remembrancing (100-8000) songworthy deeds by the line of Vorana","{variant:2}Remembrancing (100-8000) songworthy deeds by the line of Medved","{variant:3}Remembrancing (100-8000) songworthy deeds by the line of Olroth","Passives in radius are Conquered by the Kalguur","Historic"],
-    "baseType":"Timeless Jewel",
-    "affixes":["Limited to: 1 Historic","Radius: Very Large","Passives in radius are Conquered by the Kalguur","Historic","Remembrancing (100-8000) songworthy deeds by the line of Medved","Remembrancing (100-8000) songworthy deeds by the line of Olroth","Remembrancing (100-8000) songworthy deeds by the line of Vorana"],
-    "source":"Drops from unique{Olroth, Origin of the Fall}",
-    "variants":["Vorana","Medved","Olroth"]
+  "Controlled Metamorphosis":{
+    "baseType":"Diamond",
+    "stats":["Controlled Metamorphosis","Diamond","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Variant: Very Small Ring","Variant: Small Ring","Variant: Medium-Small Ring","Variant: Medium Ring","Variant: Medium-Large Ring","Variant: Large Ring","Variant: Very Large Ring","Variant: Massive Ring","Limited to: 1","Radius: Variable","{variant:1}Only affects Passives in Very Small Ring","{variant:2}Only affects Passives in Small Ring","{variant:3}Only affects Passives in Medium-Small Ring","{variant:4}Only affects Passives in Medium Ring","{variant:5}Only affects Passives in Medium-Large Ring","{variant:6}Only affects Passives in Large Ring","{variant:7}Only affects Passives in Very Large Ring","{variant:8}Only affects Passives in Massive Ring","JewelUniqueAllocateDisconnectedPassives","UniqueAllResistances12","UniqueChaosResist18"],
+    "variants":["Very Small Ring","Small Ring","Medium-Small Ring","Medium Ring","Medium-Large Ring","Large Ring","Very Large Ring","Massive Ring"],
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
+    "affixes":["Limited to: 1","Radius: Variable","JewelUniqueAllocateDisconnectedPassives","UniqueAllResistances12","UniqueChaosResist18","Only affects Passives in Massive Ring","Only affects Passives in Medium-Small Ring","Only affects Passives in Large Ring","Only affects Passives in Very Large Ring","Only affects Passives in Medium Ring","Only affects Passives in Very Small Ring","Only affects Passives in Small Ring","Only affects Passives in Medium-Large Ring"]
+  },
+  "Grand Spectrum":{
+    "baseType":"Sapphire",
+    "stats":["Grand Spectrum","Sapphire","Limited to: 3","UniqueAllResistancePerStackableJewel1"],
+    "affixes":["Limited to: 3","UniqueAllResistancePerStackableJewel1"]
   }
 }

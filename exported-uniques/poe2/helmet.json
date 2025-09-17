@@ -1,298 +1,298 @@
 {
-  "The Black Insignia":{
-    "baseType":"Corsair Cap",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent24","UniqueItemFoundRarityIncrease14","UniqueLightningResist24","UniqueTailwindOnCriticalStrike1","UniqueLoseTailwindOnHit1"],
-    "stats":["The Black Insignia","Corsair Cap","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent24","UniqueItemFoundRarityIncrease14","UniqueLightningResist24","UniqueTailwindOnCriticalStrike1","UniqueLoseTailwindOnHit1"],
-    "league":" Dawn of the Hunt"
+  "Mask of the Stitched Demon":{
+    "baseType":"Feathered Tiara",
+    "stats":["Mask of the Stitched Demon","Feathered Tiara","UniqueLocalIncreasedEnergyShieldPercent18","UniqueChaosResist1","UniqueCannotGainEnergyShield1","UniqueLifeRegenPerEnergyShield1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent18","UniqueChaosResist1","UniqueCannotGainEnergyShield1","UniqueLifeRegenPerEnergyShield1"]
   },
-  "Corona of the Red Sun":{
-    "baseType":"Warrior Greathelm",
-    "affixes":["UniqueIncreasedAccuracy5","UniqueIncreasedLife14","UniqueLightRadius9","UniqueLifeLeechToAllies1","UniqueFireResist28"],
-    "stats":["Corona of the Red Sun","Warrior Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedAccuracy5","UniqueIncreasedLife14","{variant:2}UniqueFireResist28","UniqueLightRadius9","UniqueLifeLeechToAllies1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Cornathaum":{
-    "baseType":"Heavy Crown",
-    "affixes":["UniqueItemFoundRarityIncrease10","UniqueIntelligence16","UniqueLightRadius7","UniqueExperienceIncrease1"],
-    "stats":["Cornathaum","Heavy Crown","UniqueItemFoundRarityIncrease10","UniqueIntelligence16","UniqueLightRadius7","UniqueExperienceIncrease1"]
-  },
-  "Ezomyte Peak":{
-    "baseType":"Soldier Greathelm",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","UniqueAreaOfEffect1","UniqueUnwaveringStance1","UniqueLifeRegeneration13","UniqueIncreasedLife11"],
-    "stats":["Ezomyte Peak","Soldier Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","{variant:1}UniqueIncreasedLife11[30,50]","{variant:2}UniqueIncreasedLife11","{variant:2}UniqueLifeRegeneration13","UniqueAreaOfEffect1","UniqueUnwaveringStance1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Erian's Cobble":{
-    "baseType":"Guarded Helm",
-    "affixes":["UniqueStrength14","UniqueIncreasedAccuracy3","UniqueFireResist11","UniqueIntelligence17","UniqueLightningResist9","UniqueLifeRegeneration5","UniqueCriticalStrikeChance4","UniqueLocalIncreasedPhysicalDamageReductionRating1","UniqueLocalIncreasedEvasionRating3","UniqueIncreasedLife21","UniqueDexterity14","UniqueColdResist13","UniqueIncreasedMana11","UniqueItemFoundRarityIncrease11","UniqueLocalIncreasedEnergyShield5"],
-    "stats":["Erian's Cobble","Guarded Helm","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRating1[0,20]","{variant:1}UniqueLocalIncreasedEvasionRating3[0,15]","{variant:1}UniqueLocalIncreasedEnergyShield5[0,10]","{variant:1}UniqueIncreasedAccuracy3[0,30]","{variant:1}UniqueIncreasedLife21[0,15]","{variant:1}UniqueIncreasedMana11[0,10]","{variant:1}UniqueItemFoundRarityIncrease11[0,10]","{variant:1}UniqueCriticalStrikeChance4[0,15]","{variant:1}UniqueStrength14[0,5]","{variant:1}UniqueDexterity14[0,5]","{variant:1}UniqueIntelligence17[0,5]","{variant:1}UniqueFireResist11[0,5]","{variant:1}UniqueColdResist13[0,5]","{variant:1}UniqueLightningResist9[0,5]","{variant:1}UniqueLifeRegeneration5[0,3]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating1","{variant:2}UniqueLocalIncreasedEvasionRating3","{variant:2}UniqueLocalIncreasedEnergyShield5","{variant:2}UniqueIncreasedAccuracy3","{variant:2}UniqueIncreasedLife21","{variant:2}UniqueIncreasedMana11","{variant:2}UniqueItemFoundRarityIncrease11","{variant:2}UniqueCriticalStrikeChance4","{variant:2}UniqueStrength14","{variant:2}UniqueDexterity14","{variant:2}UniqueIntelligence17","{variant:2}UniqueFireResist11","{variant:2}UniqueColdResist13","{variant:2}UniqueLightningResist9","{variant:2}UniqueLifeRegeneration5"],
+  "Elevore":{
+    "baseType":"Hunter Hood",
+    "stats":["Elevore","Hunter Hood","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent2","{variant:1}UniqueDexterity26[10,20]","{variant:2}UniqueDexterity26","UniqueCharmChargeGeneration1","{variant:2}UniqueGlobalAdditionalCharm1"],
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent2","UniqueCharmChargeGeneration1","UniqueGlobalAdditionalCharm1","UniqueDexterity26"],
     "variants":["Pre 0.1.1","Current"]
   },
   "The Vile Knight":{
     "baseType":"Shielded Helm",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion2","UniqueIncreasedAccuracy7","UniqueLifeRegeneration3","UniqueBuildDamageAgainstRareAndUnique1"],
-    "stats":["The Vile Knight","Shielded Helm","UniqueLocalIncreasedArmourAndEvasion2","UniqueIncreasedAccuracy7","UniqueLifeRegeneration3","UniqueBuildDamageAgainstRareAndUnique1"]
+    "stats":["The Vile Knight","Shielded Helm","UniqueLocalIncreasedArmourAndEvasion2","UniqueIncreasedAccuracy7","UniqueLifeRegeneration3","UniqueBuildDamageAgainstRareAndUnique1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion2","UniqueIncreasedAccuracy7","UniqueLifeRegeneration3","UniqueBuildDamageAgainstRareAndUnique1"]
   },
-  "The Bringer of Rain":{
-    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion27","UniqueIncreasedAccuracy11","UniqueLifeRegeneration16","UniqueDisableChestSlot1","UniqueUseTwoHandedWeaponOneHand1","{variant:2}UniqueCriticalStrikeChance15"],
-    "baseType":"Decorated Helm",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion27","UniqueIncreasedAccuracy11","UniqueLifeRegeneration16","UniqueDisableChestSlot1","UniqueUseTwoHandedWeaponOneHand1","UniqueCriticalStrikeChance15"],
-    "variants":["Pre 0.2.1","Current"],
-    "league":" Dawn of the Hunt"
+  "Glimpse of Chaos":{
+    "baseType":"Tribal Mask",
+    "stats":["Glimpse of Chaos","Tribal Mask","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","UniqueModifyableWhileCorrupted1","UniqueIncreasedLife37","UniqueIncreasedMana33","UniqueFireResist22","UniqueColdResist19","UniqueLightningResist17","UniqueChaosResistanceIsZero2"],
+    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
+    "affixes":["UniqueModifyableWhileCorrupted1","UniqueIncreasedLife37","UniqueIncreasedMana33","UniqueFireResist22","UniqueColdResist19","UniqueLightningResist17","UniqueChaosResistanceIsZero2"]
   },
-  "Myris Uxor":{
-    "baseType":"Covert Hood",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy5","UniqueIncreasedMana7","UniqueCullingStrikeThreshold1"],
-    "stats":["Myris Uxor","Covert Hood","UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy5","UniqueIncreasedMana7","UniqueCullingStrikeThreshold1"]
+  "Sandstorm Visage":{
+    "baseType":"Chain Tiara",
+    "stats":["Sandstorm Visage","Chain Tiara","Source: Drops from unique{Zarokh, the Temporal}","Variant: Pre 0.2.0","Variant: Current","UniqueLocalIncreasedEnergyShield8","UniqueDexterity3","UniqueEnemiesInPresenceBlinded1","{variant:1}UniqueEnemiesInPresenceGainCritWeakness1[1,1]","{variant:2}UniqueEnemiesInPresenceGainCritWeakness1"],
+    "variants":["Pre 0.2.0","Current"],
+    "source":"Drops from unique{Zarokh, the Temporal}",
+    "affixes":["UniqueLocalIncreasedEnergyShield8","UniqueDexterity3","UniqueEnemiesInPresenceBlinded1","UniqueEnemiesInPresenceGainCritWeakness1"]
   },
-  "Atsak's Sight":{
-    "baseType":"Veiled Mask",
-    "affixes":["UniqueDexterity2","UniqueIntelligence6","UniquePoisonOnCrit1","UniqueCriticalStrikeChance3","UniqueLocalIncreasedEvasionAndEnergyShield14"],
-    "stats":["Atsak's Sight","Veiled Mask","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEvasionAndEnergyShield14","{variant:1}UniqueCriticalStrikeChance3[20,40]","{variant:2}UniqueCriticalStrikeChance3","UniqueDexterity2","UniqueIntelligence6","UniquePoisonOnCrit1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Assailum":{
-    "baseType":"Closed Helm",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion6","UniqueIncreasedAccuracy10","UniqueCriticalStrikeChance11","UniquePerfectTimingWindow1"],
-    "stats":["Assailum","Closed Helm","Source: Drops from unique{Kosis, The Revelation}","UniqueLocalIncreasedArmourAndEvasion6","UniqueIncreasedAccuracy10","UniqueCriticalStrikeChance11","UniquePerfectTimingWindow1"],
-    "source":"Drops from unique{Kosis, The Revelation}"
-  },
-  "Black Sun Crest":{
-    "baseType":"Wrapped Greathelm",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueLightRadius2","UniquePercentageStrength1","UniquePercentageDexterity1","UniquePercentageIntelligence1"],
-    "stats":["Black Sun Crest","Wrapped Greathelm","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueLightRadius2","UniquePercentageStrength1","UniquePercentageDexterity1","UniquePercentageIntelligence1"]
-  },
-  "Alpha's Howl":{
-    "baseType":"Armoured Cap",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent1","UniqueIncreasedSpirit1","UniqueColdResist16","UniqueDoublePresenceRadius1"],
-    "stats":["Alpha's Howl","Armoured Cap","UniqueLocalIncreasedEvasionRatingPercent1","UniqueIncreasedSpirit1","UniqueColdResist16","UniqueDoublePresenceRadius1"]
-  },
-  "Keeper of the Arc":{
-    "baseType":"Spiritbone Crown",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield7","UniqueLifeRegeneration10","UniqueManaRegeneration26","UniqueAlternatingDamageTaken1"],
-    "stats":["Keeper of the Arc","Spiritbone Crown","Source: Drops from unique{Olroth, Origin of the Fall}","UniqueLocalIncreasedArmourAndEnergyShield7","UniqueLifeRegeneration10","UniqueManaRegeneration26","UniqueAlternatingDamageTaken1"],
-    "source":"Drops from unique{Olroth, Origin of the Fall}"
-  },
-  "Deidbell":{
-    "baseType":"Elite Greathelm",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueWarcrySpeed1","UniqueWarcryCorpseExplosion1","UniqueWarcryAreaOfEffect1","UniqueStrength31"],
-    "stats":["Deidbell","Elite Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","{variant:2}UniqueStrength31","UniqueWarcrySpeed1","UniqueWarcryCorpseExplosion1","UniqueWarcryAreaOfEffect1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Starkonja's Head":{
-    "baseType":"Leatherbound Hood",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent26","UniqueCriticalStrikeChance13","UniqueDexterity38","EvasionRatingPercentOnLowLifeUniqueHelmetDex4","UniqueDamageRemovedFromCompanion1"],
-    "stats":["Starkonja's Head","Leatherbound Hood","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent26","UniqueCriticalStrikeChance13","UniqueDexterity38","EvasionRatingPercentOnLowLifeUniqueHelmetDex4","UniqueDamageRemovedFromCompanion1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Mask of the Stitched Demon":{
-    "baseType":"Feathered Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent18","UniqueChaosResist1","UniqueCannotGainEnergyShield1","UniqueLifeRegenPerEnergyShield1"],
-    "stats":["Mask of the Stitched Demon","Feathered Tiara","UniqueLocalIncreasedEnergyShieldPercent18","UniqueChaosResist1","UniqueCannotGainEnergyShield1","UniqueLifeRegenPerEnergyShield1"]
-  },
-  "Goldrim":{
-    "baseType":"Felt Cap",
-    "affixes":["UniqueLocalIncreasedEvasionRating1","UniqueItemFoundRarityIncrease3","UniqueAllResistances1"],
-    "stats":["Goldrim","Felt Cap","UniqueLocalIncreasedEvasionRating1","UniqueItemFoundRarityIncrease3","UniqueAllResistances1"]
-  },
-  "Solus Ipse":{
-    "baseType":"Grand Visage",
-    "affixes":["UniqueIncreasedMana12","UniqueLightRadius9","UniqueLocalArmourAndEvasionAndEnergyShield2","UniqueGlobalItemAttributeRequirements2","UniqueSupportGemLimit1"],
-    "stats":["Solus Ipse","Grand Visage","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","UniqueIncreasedMana12","UniqueLightRadius9","UniqueLocalArmourAndEvasionAndEnergyShield2","UniqueGlobalItemAttributeRequirements2","UniqueSupportGemLimit1"],
-    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}"
-  },
-  "Atziri's Disdain":{
-    "baseType":"Gold Circlet",
-    "affixes":["UniqueIncreasedMana12","UniqueDamageBypassEnergyShieldPercent1","UniqueEnergyShieldAsPercentOfLife1","UniqueItemFoundRarityIncrease2"],
-    "stats":["Atziri's Disdain","Gold Circlet","Variant: 0.2.0","Variant: Current","{variant:1}UniqueIncreasedMana12[40,60]","{variant:2}UniqueIncreasedMana12","{variant:1}UniqueItemFoundRarityIncrease2[10,20]","{variant:2}UniqueItemFoundRarityIncrease2","{variant:1}UniqueDamageBypassEnergyShieldPercent1[20,25]","{variant:2}UniqueDamageBypassEnergyShieldPercent1","{variant:1}UniqueEnergyShieldAsPercentOfLife1[25,30]","{variant:2}UniqueEnergyShieldAsPercentOfLife1"],
-    "variants":["0.2.0","Current"]
-  },
-  "Crown of Thorns":{
-    "baseType":"Twig Circlet",
-    "affixes":["UniqueLocalIncreasedEnergyShield2","UniqueLoseLifeOnSkillUse1","UniqueAttackerTakesDamage2","UniquePainAttunement1"],
-    "stats":["Crown of Thorns","Twig Circlet","UniqueLocalIncreasedEnergyShield2","UniqueLoseLifeOnSkillUse1","UniqueAttackerTakesDamage2","UniquePainAttunement1"]
+  "Crown of Eyes":{
+    "baseType":"Vermeil Circlet",
+    "stats":["Crown of Eyes","Vermeil Circlet","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent23","UniqueIncreasedAccuracy9","UniqueAllAttributes7","UniqueFireResist9","UniqueSpellDamageModifiersApplyToAttackDamage1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent23","UniqueIncreasedAccuracy9","UniqueAllAttributes7","UniqueFireResist9","UniqueSpellDamageModifiersApplyToAttackDamage1"]
   },
   "Horns of Bynden":{
     "baseType":"Rusted Greathelm",
-    "affixes":["UniqueItemFoundRarityIncrease4","UniqueStrength10","UniqueRageOnHit1","UniqueIncreasedArmourPerRage1","UniqueLocalIncreasedPhysicalDamageReductionRating5"],
     "stats":["Horns of Bynden","Rusted Greathelm","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating5","UniqueItemFoundRarityIncrease4","UniqueStrength10","UniqueRageOnHit1","UniqueIncreasedArmourPerRage1"],
+    "affixes":["UniqueItemFoundRarityIncrease4","UniqueStrength10","UniqueRageOnHit1","UniqueIncreasedArmourPerRage1","UniqueLocalIncreasedPhysicalDamageReductionRating5"],
     "variants":["Pre 0.1.1","Current"]
   },
-  "Visage of Ayah":{
-    "baseType":"Beaded Circlet",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent2","UniqueItemFoundRarityIncrease8","UniqueCriticalStrikeChance1","UniqueEldritchBattery1","UniqueLightningResist22"],
-    "stats":["Visage of Ayah","Beaded Circlet","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent2","UniqueItemFoundRarityIncrease8","UniqueCriticalStrikeChance1","{variant:2}UniqueLightningResist22","UniqueEldritchBattery1"],
+  "Bronzebeard":{
+    "baseType":"Horned Crown",
+    "stats":["Bronzebeard","Horned Crown","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity6","UniqueLocalIncreasedArmourAndEnergyShield5","{variant:1}UniqueIncreasedLife12[40,60]","{variant:2}UniqueIncreasedLife12","UniqueReducedChillEffectOnSelf1","UniqueReducedIgniteEffectOnSelf1","UniqueReducedShockEffectOnSelf1"],
+    "affixes":["UniqueMovementVelocity6","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueReducedChillEffectOnSelf1","UniqueReducedIgniteEffectOnSelf1","UniqueReducedShockEffectOnSelf1","UniqueIncreasedLife12"],
     "variants":["Pre 0.1.1","Current"]
   },
-  "Elevore":{
-    "baseType":"Hunter Hood",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent2","UniqueCharmChargeGeneration1","UniqueDexterity26","UniqueGlobalAdditionalCharm1"],
-    "stats":["Elevore","Hunter Hood","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent2","{variant:1}UniqueDexterity26[10,20]","{variant:2}UniqueDexterity26","UniqueCharmChargeGeneration1","{variant:2}UniqueGlobalAdditionalCharm1"],
-    "variants":["Pre 0.1.1","Current"]
+  "Black Sun Crest":{
+    "baseType":"Wrapped Greathelm",
+    "stats":["Black Sun Crest","Wrapped Greathelm","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueLightRadius2","UniquePercentageStrength1","UniquePercentageDexterity1","UniquePercentageIntelligence1"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueLightRadius2","UniquePercentageStrength1","UniquePercentageDexterity1","UniquePercentageIntelligence1"]
   },
-  "The Devouring Diadem":{
-    "baseType":"Wicker Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence6","UniqueChaosResist3","UniqueConsumeCorpseRecoverLife1","UniqueIncreasedLife42"],
-    "stats":["The Devouring Diadem","Wicker Tiara","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","{variant:2}UniqueIncreasedLife42","UniqueIntelligence6","UniqueChaosResist3","UniqueConsumeCorpseRecoverLife1"],
-    "variants":["Pre 0.1.1","Current"]
+  "Crown of Thorns":{
+    "baseType":"Twig Circlet",
+    "stats":["Crown of Thorns","Twig Circlet","UniqueLocalIncreasedEnergyShield2","UniqueLoseLifeOnSkillUse1","UniqueAttackerTakesDamage2","UniquePainAttunement1"],
+    "affixes":["UniqueLocalIncreasedEnergyShield2","UniqueLoseLifeOnSkillUse1","UniqueAttackerTakesDamage2","UniquePainAttunement1"]
   },
-  "Wings of Caelyn":{
-    "baseType":"Rusted Greathelm",
-    "affixes":["UniqueItemFoundRarityIncrease4","UniqueDexterity3","UniqueRageOnHit1","UniqueIncreasedStunThresholdPerRage1","UniqueLocalIncreasedPhysicalDamageReductionRating5"],
-    "stats":["Wings of Caelyn","Rusted Greathelm","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating5","UniqueItemFoundRarityIncrease4","UniqueDexterity3","UniqueRageOnHit1","UniqueIncreasedStunThresholdPerRage1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Mind of the Council":{
-    "baseType":"Death Mask",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield16","UniqueIncreasedMana42","UniqueLightningResist20","UniqueAttackManaCost1","UniqueAttackMaxLightningDamage1"],
-    "stats":["Mind of the Council","Death Mask","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionAndEnergyShield16","UniqueIncreasedMana42","UniqueLightningResist20","UniqueAttackManaCost1","UniqueAttackMaxLightningDamage1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Blood Price":{
-    "baseType":"Fierce Greathelm",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent29","UniqueEnemiesInPresenceReservesLife1","UniqueLifeRegeneration18","UniqueStunThreshold18","UniquePresenceRadius3"],
-    "stats":["Blood Price","Fierce Greathelm","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent29","UniqueEnemiesInPresenceReservesLife1","UniqueLifeRegeneration18","UniqueStunThreshold18","UniquePresenceRadius3"],
-    "league":" Dawn of the Hunt"
-  },
-  "The Three Dragons":{
-    "baseType":"Solid Mask",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield8","UniqueAllResistances6","UniqueFireShocks1","UniqueColdIgnites1","UniqueLightningFreezes1"],
-    "stats":["The Three Dragons","Solid Mask","UniqueLocalIncreasedEvasionAndEnergyShield8","UniqueAllResistances6","UniqueFireShocks1","UniqueColdIgnites1","UniqueLightningFreezes1"]
-  },
-  "Radiant Grief":{
-    "baseType":"Lace Hood",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent1","UniqueFireResist6","UniqueLightRadius7","UniqueIgniteEnemiesInPresence1"],
-    "stats":["Radiant Grief","Lace Hood","UniqueLocalIncreasedEvasionRatingPercent1","UniqueFireResist6","UniqueLightRadius7","UniqueIgniteEnemiesInPresence1"]
-  },
-  "Innsmouth":{
-    "baseType":"Shabby Hood",
-    "affixes":["UniqueMaximumManaIncrease2","UniqueColdResist3","UniqueChaosResist3","UniqueManaRegeneration4","UniqueLocalIncreasedEvasionRating5"],
-    "stats":["Innsmouth","Shabby Hood","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEvasionRating5","UniqueMaximumManaIncrease2","UniqueColdResist3","UniqueChaosResist3","UniqueManaRegeneration4"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Vertex":{
-    "baseType":"Tribal Mask",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueCriticalStrikeChance1","UniqueChaosResist2","UniqueGlobalItemAttributeRequirements1"],
-    "stats":["The Vertex","Tribal Mask","UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueCriticalStrikeChance1","UniqueChaosResist2","UniqueGlobalItemAttributeRequirements1"]
-  },
-  "Heatshiver":{
-    "baseType":"Velvet Cap",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent31","UniqueIncreasedMana45","UniqueFireResist33","UniqueColdResist28","UniqueColdAddedAsFireChilledEnemy1"],
-    "stats":["Heatshiver","Velvet Cap","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent31","UniqueIncreasedMana45","UniqueFireResist33","UniqueColdResist28","UniqueColdAddedAsFireChilledEnemy1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Ironride":{
-    "baseType":"Visored Helm",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion11","UniqueIncreasedMana5","UniqueLightningResist14","UniqueAccuracyUnaffectedDistance1","UniqueIncreasedLife44"],
-    "stats":["Ironride","Visored Helm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion11","{variant:2}UniqueIncreasedLife44","UniqueIncreasedMana5","UniqueLightningResist14","UniqueAccuracyUnaffectedDistance1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Crown of the Pale King":{
-    "baseType":"Cultist Crown",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedLife13","UniqueItemFoundRarityIncrease3","UniqueThornsOnAnyHit1","UniqueAttackerTakesDamage5"],
-    "stats":["Crown of the Pale King","Cultist Crown","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedLife13","UniqueItemFoundRarityIncrease3","{variant:2}UniqueAttackerTakesDamage5","UniqueThornsOnAnyHit1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Constricting Command":{
-    "stats":["Constricting Command","Viper Cap","League: Dawn of the Hunt","Variant: Pre 0.3.0","Variant: Current","UniqueIncreasedLife49","UniqueAllAttributes14","UniqueLifeRegeneration20","{variant:1}UniquePinAlmostPinnedEnemies1","{variant:2}UniqueLessEnemiesToBeSurrounded1"],
-    "baseType":"Viper Cap",
-    "affixes":["UniqueIncreasedLife49","UniqueAllAttributes14","UniqueLifeRegeneration20","UniquePinAlmostPinnedEnemies1","UniqueLessEnemiesToBeSurrounded1"],
-    "variants":["Pre 0.3.0","Current"],
-    "league":" Dawn of the Hunt"
-  },
-  "The Smiling Knight":{
-    "baseType":"Cowled Helm",
-    "affixes":["UniqueIncreasedAccuracy2","UniqueCriticalStrikeChance6","UniqueAggravateBleedOnCrit1","UniqueLocalIncreasedArmourAndEvasion5"],
-    "stats":["The Smiling Knight","Cowled Helm","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedArmourAndEvasion5[30,50]","{variant:2}UniqueLocalIncreasedArmourAndEvasion5","UniqueIncreasedAccuracy2","UniqueCriticalStrikeChance6","UniqueAggravateBleedOnCrit1"],
+  "The Hollow Mask":{
+    "baseType":"Hewn Mask",
+    "stats":["The Hollow Mask","Hewn Mask","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedLife14","UniqueAdditionalPhysicalDamageReduction1","UniqueAllResistances4","{variant:2}UniqueChaosResist23"],
+    "affixes":["UniqueIncreasedLife14","UniqueAdditionalPhysicalDamageReduction1","UniqueAllResistances4","UniqueChaosResist23"],
     "variants":["Pre 0.1.1","Current"]
   },
   "Scold's Bridle":{
     "baseType":"Jade Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShield17","UniqueSpellDamage3","UniqueIncreasedMana28","UniqueIncreasedCastSpeed12","UniquePhysicalDamageOnSkillUse1"],
     "stats":["Scold's Bridle","Jade Tiara","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShield17","UniqueSpellDamage3","UniqueIncreasedMana28","UniqueIncreasedCastSpeed12","UniquePhysicalDamageOnSkillUse1"],
-    "league":" Dawn of the Hunt"
-  },
-  "The Deepest Tower":{
     "league":" Dawn of the Hunt",
-    "baseType":"Spiritbone Crown",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield18","UniqueIncreasedLife46","UniqueChaosResist14","UniquePresenceRadius2","UniqueLightRadius19","UniqueEnemiesInPresenceLowLife1"],
-    "source":"No longer obtainable",
-    "stats":["The Deepest Tower","Spiritbone Crown","Source: No longer obtainable","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield18","UniqueIncreasedLife46","UniqueChaosResist14","UniquePresenceRadius2","UniqueLightRadius19","UniqueEnemiesInPresenceLowLife1"]
+    "affixes":["UniqueLocalIncreasedEnergyShield17","UniqueSpellDamage3","UniqueIncreasedMana28","UniqueIncreasedCastSpeed12","UniquePhysicalDamageOnSkillUse1"]
   },
-  "Bronzebeard":{
-    "baseType":"Horned Crown",
-    "affixes":["UniqueMovementVelocity6","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueReducedChillEffectOnSelf1","UniqueReducedIgniteEffectOnSelf1","UniqueReducedShockEffectOnSelf1","UniqueIncreasedLife12"],
-    "stats":["Bronzebeard","Horned Crown","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity6","UniqueLocalIncreasedArmourAndEnergyShield5","{variant:1}UniqueIncreasedLife12[40,60]","{variant:2}UniqueIncreasedLife12","UniqueReducedChillEffectOnSelf1","UniqueReducedIgniteEffectOnSelf1","UniqueReducedShockEffectOnSelf1"],
+  "The Devouring Diadem":{
+    "baseType":"Wicker Tiara",
+    "stats":["The Devouring Diadem","Wicker Tiara","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","{variant:2}UniqueIncreasedLife42","UniqueIntelligence6","UniqueChaosResist3","UniqueConsumeCorpseRecoverLife1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueIntelligence6","UniqueChaosResist3","UniqueConsumeCorpseRecoverLife1","UniqueIncreasedLife42"],
     "variants":["Pre 0.1.1","Current"]
-  },
-  "Glimpse of Chaos":{
-    "baseType":"Tribal Mask",
-    "affixes":["UniqueModifyableWhileCorrupted1","UniqueIncreasedLife37","UniqueIncreasedMana33","UniqueFireResist22","UniqueColdResist19","UniqueLightningResist17","UniqueChaosResistanceIsZero2"],
-    "stats":["Glimpse of Chaos","Tribal Mask","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","UniqueModifyableWhileCorrupted1","UniqueIncreasedLife37","UniqueIncreasedMana33","UniqueFireResist22","UniqueColdResist19","UniqueLightningResist17","UniqueChaosResistanceIsZero2"],
-    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}"
-  },
-  "Indigon":{
-    "baseType":"Magus Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent20","UniqueIncreasedMana49","UniqueSpellDamagePerManaSpent1","UniqueManaCostPerManaSpent1","UniqueCannotRecoverManaExceptRegen1"],
-    "stats":["Indigon","Magus Tiara","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent20","UniqueIncreasedMana49","UniqueSpellDamagePerManaSpent1","UniqueManaCostPerManaSpent1","UniqueCannotRecoverManaExceptRegen1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Forbidden Gaze":{
-    "stats":["Forbidden Gaze","Chain Tiara","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","UniqueMaximumColdResist1","{variant:1}UniqueColdResist8[25,35]","{variant:2}UniqueColdResist8","UniqueLightRadius1"],
-    "baseType":"Chain Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueMaximumColdResist1","UniqueLightRadius1","UniqueColdResist8"],
-    "source":"No longer obtainable",
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Thrillsteel":{
-    "baseType":"Spired Greathelm",
-    "affixes":["UniqueHasOnslaught1"],
-    "stats":["Thrillsteel","Spired Greathelm","UniqueHasOnslaught1"]
-  },
-  "The Hollow Mask":{
-    "baseType":"Hewn Mask",
-    "affixes":["UniqueIncreasedLife14","UniqueAdditionalPhysicalDamageReduction1","UniqueAllResistances4","UniqueChaosResist23"],
-    "stats":["The Hollow Mask","Hewn Mask","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedLife14","UniqueAdditionalPhysicalDamageReduction1","UniqueAllResistances4","{variant:2}UniqueChaosResist23"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Crown of Eyes":{
-    "baseType":"Vermeil Circlet",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent23","UniqueIncreasedAccuracy9","UniqueAllAttributes7","UniqueFireResist9","UniqueSpellDamageModifiersApplyToAttackDamage1"],
-    "stats":["Crown of Eyes","Vermeil Circlet","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent23","UniqueIncreasedAccuracy9","UniqueAllAttributes7","UniqueFireResist9","UniqueSpellDamageModifiersApplyToAttackDamage1"],
-    "league":" Dawn of the Hunt"
-  },
-  "Sandstorm Visage":{
-    "stats":["Sandstorm Visage","Chain Tiara","Source: Drops from unique{Zarokh, the Temporal}","Variant: Pre 0.2.0","Variant: Current","UniqueLocalIncreasedEnergyShield8","UniqueDexterity3","UniqueEnemiesInPresenceBlinded1","{variant:1}UniqueEnemiesInPresenceGainCritWeakness1[1,1]","{variant:2}UniqueEnemiesInPresenceGainCritWeakness1"],
-    "baseType":"Chain Tiara",
-    "affixes":["UniqueLocalIncreasedEnergyShield8","UniqueDexterity3","UniqueEnemiesInPresenceBlinded1","UniqueEnemiesInPresenceGainCritWeakness1"],
-    "source":"Drops from unique{Zarokh, the Temporal}",
-    "variants":["Pre 0.2.0","Current"]
   },
   "Leer Cast":{
     "baseType":"Hooded Mask",
-    "affixes":["UniqueIncreasedLife32","UniqueIncreasedMana5","UniqueNearbyAlliesAllDamage1","UniqueAllDamage1","UniqueDexterity32"],
     "stats":["Leer Cast","Hooded Mask","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedLife32","UniqueIncreasedMana5","UniqueNearbyAlliesAllDamage1","{variant:2}UniqueDexterity32","UniqueAllDamage1"],
+    "affixes":["UniqueIncreasedLife32","UniqueIncreasedMana5","UniqueNearbyAlliesAllDamage1","UniqueAllDamage1","UniqueDexterity32"],
     "variants":["Pre 0.1.1","Current"]
   },
-  "Crown of the Victor":{
-    "baseType":"Iron Crown",
-    "affixes":["UniqueLifeGainedFromEnemyDeath2","UniqueManaGainedFromEnemyDeath3","UniqueGlobalSkillGemLevel1","UniqueItemFoundRarityIncrease2"],
-    "stats":["Crown of the Victor","Iron Crown","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueItemFoundRarityIncrease2[10,20]","{variant:2}UniqueItemFoundRarityIncrease2","UniqueLifeGainedFromEnemyDeath2","UniqueManaGainedFromEnemyDeath3","UniqueGlobalSkillGemLevel1"],
-    "variants":["Pre 0.2.0","Current"]
+  "Assailum":{
+    "baseType":"Closed Helm",
+    "stats":["Assailum","Closed Helm","Source: Drops from unique{Kosis, The Revelation}","UniqueLocalIncreasedArmourAndEvasion6","UniqueIncreasedAccuracy10","UniqueCriticalStrikeChance11","UniquePerfectTimingWindow1"],
+    "source":"Drops from unique{Kosis, The Revelation}",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion6","UniqueIncreasedAccuracy10","UniqueCriticalStrikeChance11","UniquePerfectTimingWindow1"]
+  },
+  "Innsmouth":{
+    "baseType":"Shabby Hood",
+    "stats":["Innsmouth","Shabby Hood","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEvasionRating5","UniqueMaximumManaIncrease2","UniqueColdResist3","UniqueChaosResist3","UniqueManaRegeneration4"],
+    "affixes":["UniqueMaximumManaIncrease2","UniqueColdResist3","UniqueChaosResist3","UniqueManaRegeneration4","UniqueLocalIncreasedEvasionRating5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Crown of the Pale King":{
+    "baseType":"Cultist Crown",
+    "stats":["Crown of the Pale King","Cultist Crown","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedLife13","UniqueItemFoundRarityIncrease3","{variant:2}UniqueAttackerTakesDamage5","UniqueThornsOnAnyHit1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield5","UniqueIncreasedLife13","UniqueItemFoundRarityIncrease3","UniqueThornsOnAnyHit1","UniqueAttackerTakesDamage5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "The Smiling Knight":{
+    "baseType":"Cowled Helm",
+    "stats":["The Smiling Knight","Cowled Helm","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedArmourAndEvasion5[30,50]","{variant:2}UniqueLocalIncreasedArmourAndEvasion5","UniqueIncreasedAccuracy2","UniqueCriticalStrikeChance6","UniqueAggravateBleedOnCrit1"],
+    "affixes":["UniqueIncreasedAccuracy2","UniqueCriticalStrikeChance6","UniqueAggravateBleedOnCrit1","UniqueLocalIncreasedArmourAndEvasion5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Forbidden Gaze":{
+    "baseType":"Chain Tiara",
+    "stats":["Forbidden Gaze","Chain Tiara","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent1","UniqueMaximumColdResist1","{variant:1}UniqueColdResist8[25,35]","{variant:2}UniqueColdResist8","UniqueLightRadius1"],
+    "variants":["Pre 0.1.1","Current"],
+    "source":"No longer obtainable",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueMaximumColdResist1","UniqueLightRadius1","UniqueColdResist8"]
   },
   "Mask of the Sanguimancer":{
     "baseType":"Face Mask",
-    "affixes":["UniqueLocalBaseEvasionRatingAndEnergyShield2","UniqueSpellCriticalStrikeChance1","UniqueStrength8","UniqueIntelligence10","UniqueBloodMagic1"],
-    "stats":["Mask of the Sanguimancer","Face Mask","UniqueLocalBaseEvasionRatingAndEnergyShield2","UniqueSpellCriticalStrikeChance1","UniqueStrength8","UniqueIntelligence10","UniqueBloodMagic1"]
+    "stats":["Mask of the Sanguimancer","Face Mask","UniqueLocalBaseEvasionRatingAndEnergyShield2","UniqueSpellCriticalStrikeChance1","UniqueStrength8","UniqueIntelligence10","UniqueBloodMagic1"],
+    "affixes":["UniqueLocalBaseEvasionRatingAndEnergyShield2","UniqueSpellCriticalStrikeChance1","UniqueStrength8","UniqueIntelligence10","UniqueBloodMagic1"]
   },
-  "Veil of the Night":{
-    "baseType":"Martyr Crown",
-    "affixes":["UniqueMaximumLifeIncrease2","UniqueAllAttributes1","UniqueLightRadius5","UniqueSetElementalResistances1"],
-    "stats":["Veil of the Night","Martyr Crown","UniqueMaximumLifeIncrease2","UniqueAllAttributes1","UniqueLightRadius5","UniqueSetElementalResistances1"]
+  "Visage of Ayah":{
+    "baseType":"Beaded Circlet",
+    "stats":["Visage of Ayah","Beaded Circlet","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent2","UniqueItemFoundRarityIncrease8","UniqueCriticalStrikeChance1","{variant:2}UniqueLightningResist22","UniqueEldritchBattery1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent2","UniqueItemFoundRarityIncrease8","UniqueCriticalStrikeChance1","UniqueEldritchBattery1","UniqueLightningResist22"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Heatshiver":{
+    "baseType":"Velvet Cap",
+    "stats":["Heatshiver","Velvet Cap","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent31","UniqueIncreasedMana45","UniqueFireResist33","UniqueColdResist28","UniqueColdAddedAsFireChilledEnemy1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent31","UniqueIncreasedMana45","UniqueFireResist33","UniqueColdResist28","UniqueColdAddedAsFireChilledEnemy1"]
+  },
+  "Crown of the Victor":{
+    "baseType":"Iron Crown",
+    "stats":["Crown of the Victor","Iron Crown","Variant: Pre 0.2.0","Variant: Current","{variant:1}UniqueItemFoundRarityIncrease2[10,20]","{variant:2}UniqueItemFoundRarityIncrease2","UniqueLifeGainedFromEnemyDeath2","UniqueManaGainedFromEnemyDeath3","UniqueGlobalSkillGemLevel1"],
+    "affixes":["UniqueLifeGainedFromEnemyDeath2","UniqueManaGainedFromEnemyDeath3","UniqueGlobalSkillGemLevel1","UniqueItemFoundRarityIncrease2"],
+    "variants":["Pre 0.2.0","Current"]
+  },
+  "Thrillsteel":{
+    "baseType":"Spired Greathelm",
+    "stats":["Thrillsteel","Spired Greathelm","UniqueHasOnslaught1"],
+    "affixes":["UniqueHasOnslaught1"]
+  },
+  "Corona of the Red Sun":{
+    "baseType":"Warrior Greathelm",
+    "stats":["Corona of the Red Sun","Warrior Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedAccuracy5","UniqueIncreasedLife14","{variant:2}UniqueFireResist28","UniqueLightRadius9","UniqueLifeLeechToAllies1"],
+    "affixes":["UniqueIncreasedAccuracy5","UniqueIncreasedLife14","UniqueLightRadius9","UniqueLifeLeechToAllies1","UniqueFireResist28"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "Greymake":{
     "baseType":"Brimmed Helm",
-    "affixes":["UniqueStrength1","UniqueDexterity1","UniqueIntelligence1","UniqueAllAttributesPerLevel1"],
-    "stats":["Greymake","Brimmed Helm","UniqueStrength1","UniqueDexterity1","UniqueIntelligence1","UniqueAllAttributesPerLevel1"]
+    "stats":["Greymake","Brimmed Helm","UniqueStrength1","UniqueDexterity1","UniqueIntelligence1","UniqueAllAttributesPerLevel1"],
+    "affixes":["UniqueStrength1","UniqueDexterity1","UniqueIntelligence1","UniqueAllAttributesPerLevel1"]
+  },
+  "Mind of the Council":{
+    "baseType":"Death Mask",
+    "stats":["Mind of the Council","Death Mask","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionAndEnergyShield16","UniqueIncreasedMana42","UniqueLightningResist20","UniqueAttackManaCost1","UniqueAttackMaxLightningDamage1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield16","UniqueIncreasedMana42","UniqueLightningResist20","UniqueAttackManaCost1","UniqueAttackMaxLightningDamage1"]
+  },
+  "The Deepest Tower":{
+    "baseType":"Spiritbone Crown",
+    "stats":["The Deepest Tower","Spiritbone Crown","Source: No longer obtainable","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield18","UniqueIncreasedLife46","UniqueChaosResist14","UniquePresenceRadius2","UniqueLightRadius19","UniqueEnemiesInPresenceLowLife1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield18","UniqueIncreasedLife46","UniqueChaosResist14","UniquePresenceRadius2","UniqueLightRadius19","UniqueEnemiesInPresenceLowLife1"],
+    "source":"No longer obtainable"
+  },
+  "Wings of Caelyn":{
+    "baseType":"Rusted Greathelm",
+    "stats":["Wings of Caelyn","Rusted Greathelm","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating5","UniqueItemFoundRarityIncrease4","UniqueDexterity3","UniqueRageOnHit1","UniqueIncreasedStunThresholdPerRage1"],
+    "affixes":["UniqueItemFoundRarityIncrease4","UniqueDexterity3","UniqueRageOnHit1","UniqueIncreasedStunThresholdPerRage1","UniqueLocalIncreasedPhysicalDamageReductionRating5"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Goldrim":{
+    "baseType":"Felt Cap",
+    "stats":["Goldrim","Felt Cap","UniqueLocalIncreasedEvasionRating1","UniqueItemFoundRarityIncrease3","UniqueAllResistances1"],
+    "affixes":["UniqueLocalIncreasedEvasionRating1","UniqueItemFoundRarityIncrease3","UniqueAllResistances1"]
+  },
+  "Radiant Grief":{
+    "baseType":"Lace Hood",
+    "stats":["Radiant Grief","Lace Hood","UniqueLocalIncreasedEvasionRatingPercent1","UniqueFireResist6","UniqueLightRadius7","UniqueIgniteEnemiesInPresence1"],
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent1","UniqueFireResist6","UniqueLightRadius7","UniqueIgniteEnemiesInPresence1"]
+  },
+  "Alpha's Howl":{
+    "baseType":"Armoured Cap",
+    "stats":["Alpha's Howl","Armoured Cap","UniqueLocalIncreasedEvasionRatingPercent1","UniqueIncreasedSpirit1","UniqueColdResist16","UniqueDoublePresenceRadius1"],
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent1","UniqueIncreasedSpirit1","UniqueColdResist16","UniqueDoublePresenceRadius1"]
+  },
+  "The Bringer of Rain":{
+    "baseType":"Decorated Helm",
+    "stats":["The Bringer of Rain","Decorated Helm","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion27","UniqueIncreasedAccuracy11","UniqueLifeRegeneration16","UniqueDisableChestSlot1","UniqueUseTwoHandedWeaponOneHand1","{variant:2}UniqueCriticalStrikeChance15"],
+    "variants":["Pre 0.2.1","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion27","UniqueIncreasedAccuracy11","UniqueLifeRegeneration16","UniqueDisableChestSlot1","UniqueUseTwoHandedWeaponOneHand1","UniqueCriticalStrikeChance15"]
+  },
+  "The Three Dragons":{
+    "baseType":"Solid Mask",
+    "stats":["The Three Dragons","Solid Mask","UniqueLocalIncreasedEvasionAndEnergyShield8","UniqueAllResistances6","UniqueFireShocks1","UniqueColdIgnites1","UniqueLightningFreezes1"],
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield8","UniqueAllResistances6","UniqueFireShocks1","UniqueColdIgnites1","UniqueLightningFreezes1"]
+  },
+  "Erian's Cobble":{
+    "baseType":"Guarded Helm",
+    "stats":["Erian's Cobble","Guarded Helm","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRating1[0,20]","{variant:1}UniqueLocalIncreasedEvasionRating3[0,15]","{variant:1}UniqueLocalIncreasedEnergyShield5[0,10]","{variant:1}UniqueIncreasedAccuracy3[0,30]","{variant:1}UniqueIncreasedLife21[0,15]","{variant:1}UniqueIncreasedMana11[0,10]","{variant:1}UniqueItemFoundRarityIncrease11[0,10]","{variant:1}UniqueCriticalStrikeChance4[0,15]","{variant:1}UniqueStrength14[0,5]","{variant:1}UniqueDexterity14[0,5]","{variant:1}UniqueIntelligence17[0,5]","{variant:1}UniqueFireResist11[0,5]","{variant:1}UniqueColdResist13[0,5]","{variant:1}UniqueLightningResist9[0,5]","{variant:1}UniqueLifeRegeneration5[0,3]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating1","{variant:2}UniqueLocalIncreasedEvasionRating3","{variant:2}UniqueLocalIncreasedEnergyShield5","{variant:2}UniqueIncreasedAccuracy3","{variant:2}UniqueIncreasedLife21","{variant:2}UniqueIncreasedMana11","{variant:2}UniqueItemFoundRarityIncrease11","{variant:2}UniqueCriticalStrikeChance4","{variant:2}UniqueStrength14","{variant:2}UniqueDexterity14","{variant:2}UniqueIntelligence17","{variant:2}UniqueFireResist11","{variant:2}UniqueColdResist13","{variant:2}UniqueLightningResist9","{variant:2}UniqueLifeRegeneration5"],
+    "affixes":["UniqueIncreasedLife21","UniqueLifeRegeneration5","UniqueIncreasedMana11","UniqueLightningResist9","UniqueItemFoundRarityIncrease11","UniqueColdResist13","UniqueCriticalStrikeChance4","UniqueFireResist11","UniqueLocalIncreasedPhysicalDamageReductionRating1","UniqueIntelligence17","UniqueLocalIncreasedEvasionRating3","UniqueDexterity14","UniqueLocalIncreasedEnergyShield5","UniqueStrength14","UniqueIncreasedAccuracy3"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Keeper of the Arc":{
+    "baseType":"Spiritbone Crown",
+    "stats":["Keeper of the Arc","Spiritbone Crown","Source: Drops from unique{Olroth, Origin of the Fall}","UniqueLocalIncreasedArmourAndEnergyShield7","UniqueLifeRegeneration10","UniqueManaRegeneration26","UniqueAlternatingDamageTaken1"],
+    "source":"Drops from unique{Olroth, Origin of the Fall}",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield7","UniqueLifeRegeneration10","UniqueManaRegeneration26","UniqueAlternatingDamageTaken1"]
+  },
+  "Starkonja's Head":{
+    "baseType":"Leatherbound Hood",
+    "stats":["Starkonja's Head","Leatherbound Hood","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent26","UniqueCriticalStrikeChance13","UniqueDexterity38","EvasionRatingPercentOnLowLifeUniqueHelmetDex4","UniqueDamageRemovedFromCompanion1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent26","UniqueCriticalStrikeChance13","UniqueDexterity38","EvasionRatingPercentOnLowLifeUniqueHelmetDex4","UniqueDamageRemovedFromCompanion1"]
+  },
+  "Myris Uxor":{
+    "baseType":"Covert Hood",
+    "stats":["Myris Uxor","Covert Hood","UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy5","UniqueIncreasedMana7","UniqueCullingStrikeThreshold1"],
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy5","UniqueIncreasedMana7","UniqueCullingStrikeThreshold1"]
+  },
+  "The Black Insignia":{
+    "baseType":"Corsair Cap",
+    "stats":["The Black Insignia","Corsair Cap","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionRatingPercent24","UniqueItemFoundRarityIncrease14","UniqueLightningResist24","UniqueTailwindOnCriticalStrike1","UniqueLoseTailwindOnHit1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent24","UniqueItemFoundRarityIncrease14","UniqueLightningResist24","UniqueTailwindOnCriticalStrike1","UniqueLoseTailwindOnHit1"]
+  },
+  "Deidbell":{
+    "baseType":"Elite Greathelm",
+    "stats":["Deidbell","Elite Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","{variant:2}UniqueStrength31","UniqueWarcrySpeed1","UniqueWarcryCorpseExplosion1","UniqueWarcryAreaOfEffect1"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueWarcrySpeed1","UniqueWarcryCorpseExplosion1","UniqueWarcryAreaOfEffect1","UniqueStrength31"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "The Vertex":{
+    "baseType":"Tribal Mask",
+    "stats":["The Vertex","Tribal Mask","UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueCriticalStrikeChance1","UniqueChaosResist2","UniqueGlobalItemAttributeRequirements1"],
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueCriticalStrikeChance1","UniqueChaosResist2","UniqueGlobalItemAttributeRequirements1"]
+  },
+  "Ironride":{
+    "baseType":"Visored Helm",
+    "stats":["Ironride","Visored Helm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion11","{variant:2}UniqueIncreasedLife44","UniqueIncreasedMana5","UniqueLightningResist14","UniqueAccuracyUnaffectedDistance1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion11","UniqueIncreasedMana5","UniqueLightningResist14","UniqueAccuracyUnaffectedDistance1","UniqueIncreasedLife44"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Atziri's Disdain":{
+    "baseType":"Gold Circlet",
+    "stats":["Atziri's Disdain","Gold Circlet","Variant: 0.2.0","Variant: Current","{variant:1}UniqueIncreasedMana12[40,60]","{variant:2}UniqueIncreasedMana12","{variant:1}UniqueItemFoundRarityIncrease2[10,20]","{variant:2}UniqueItemFoundRarityIncrease2","{variant:1}UniqueDamageBypassEnergyShieldPercent1[20,25]","{variant:2}UniqueDamageBypassEnergyShieldPercent1","{variant:1}UniqueEnergyShieldAsPercentOfLife1[25,30]","{variant:2}UniqueEnergyShieldAsPercentOfLife1"],
+    "affixes":["UniqueIncreasedMana12","UniqueEnergyShieldAsPercentOfLife1","UniqueItemFoundRarityIncrease2","UniqueDamageBypassEnergyShieldPercent1"],
+    "variants":["0.2.0","Current"]
+  },
+  "Veil of the Night":{
+    "baseType":"Martyr Crown",
+    "stats":["Veil of the Night","Martyr Crown","UniqueMaximumLifeIncrease2","UniqueAllAttributes1","UniqueLightRadius5","UniqueSetElementalResistances1"],
+    "affixes":["UniqueMaximumLifeIncrease2","UniqueAllAttributes1","UniqueLightRadius5","UniqueSetElementalResistances1"]
+  },
+  "Solus Ipse":{
+    "baseType":"Grand Visage",
+    "stats":["Solus Ipse","Grand Visage","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","UniqueIncreasedMana12","UniqueLightRadius9","UniqueLocalArmourAndEvasionAndEnergyShield2","UniqueGlobalItemAttributeRequirements2","UniqueSupportGemLimit1"],
+    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
+    "affixes":["UniqueIncreasedMana12","UniqueLightRadius9","UniqueLocalArmourAndEvasionAndEnergyShield2","UniqueGlobalItemAttributeRequirements2","UniqueSupportGemLimit1"]
+  },
+  "Constricting Command":{
+    "baseType":"Viper Cap",
+    "stats":["Constricting Command","Viper Cap","League: Dawn of the Hunt","Variant: Pre 0.3.0","Variant: Current","UniqueIncreasedLife49","UniqueAllAttributes14","UniqueLifeRegeneration20","{variant:1}UniquePinAlmostPinnedEnemies1","{variant:2}UniqueLessEnemiesToBeSurrounded1"],
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueIncreasedLife49","UniqueAllAttributes14","UniqueLifeRegeneration20","UniqueLessEnemiesToBeSurrounded1","UniquePinAlmostPinnedEnemies1"]
+  },
+  "Cornathaum":{
+    "baseType":"Heavy Crown",
+    "stats":["Cornathaum","Heavy Crown","UniqueItemFoundRarityIncrease10","UniqueIntelligence16","UniqueLightRadius7","UniqueExperienceIncrease1"],
+    "affixes":["UniqueItemFoundRarityIncrease10","UniqueIntelligence16","UniqueLightRadius7","UniqueExperienceIncrease1"]
+  },
+  "Blood Price":{
+    "baseType":"Fierce Greathelm",
+    "stats":["Blood Price","Fierce Greathelm","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent29","UniqueEnemiesInPresenceReservesLife1","UniqueLifeRegeneration18","UniqueStunThreshold18","UniquePresenceRadius3"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent29","UniqueEnemiesInPresenceReservesLife1","UniqueLifeRegeneration18","UniqueStunThreshold18","UniquePresenceRadius3"]
+  },
+  "Indigon":{
+    "baseType":"Magus Tiara",
+    "stats":["Indigon","Magus Tiara","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent20","UniqueIncreasedMana49","UniqueSpellDamagePerManaSpent1","UniqueManaCostPerManaSpent1","UniqueCannotRecoverManaExceptRegen1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent20","UniqueIncreasedMana49","UniqueSpellDamagePerManaSpent1","UniqueManaCostPerManaSpent1","UniqueCannotRecoverManaExceptRegen1"]
+  },
+  "Atsak's Sight":{
+    "baseType":"Veiled Mask",
+    "stats":["Atsak's Sight","Veiled Mask","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEvasionAndEnergyShield14","{variant:1}UniqueCriticalStrikeChance3[20,40]","{variant:2}UniqueCriticalStrikeChance3","UniqueDexterity2","UniqueIntelligence6","UniquePoisonOnCrit1"],
+    "affixes":["UniqueDexterity2","UniqueIntelligence6","UniquePoisonOnCrit1","UniqueCriticalStrikeChance3","UniqueLocalIncreasedEvasionAndEnergyShield14"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Ezomyte Peak":{
+    "baseType":"Soldier Greathelm",
+    "stats":["Ezomyte Peak","Soldier Greathelm","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","{variant:1}UniqueIncreasedLife11[30,50]","{variant:2}UniqueIncreasedLife11","{variant:2}UniqueLifeRegeneration13","UniqueAreaOfEffect1","UniqueUnwaveringStance1"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent7","UniqueAreaOfEffect1","UniqueUnwaveringStance1","UniqueIncreasedLife11","UniqueLifeRegeneration13"],
+    "variants":["Pre 0.1.1","Current"]
   }
 }

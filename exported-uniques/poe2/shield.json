@@ -1,228 +1,228 @@
 {
-  "Wulfsbane":{
-    "grantSkill":" Raise Shield",
-    "stats":["Wulfsbane","Painted Tower Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueIncreasedLife3","UniqueStrength3","UniqueStunThreshold7","UniqueEnemiesBlockedAreIntimidated1"],
-    "baseType":"Painted Tower Shield",
-    "affixes":["UniqueIncreasedLife3","UniqueStrength3","UniqueStunThreshold7","UniqueEnemiesBlockedAreIntimidated1"],
-    "implicitCount":1
-  },
-  "Nocturne":{
-    "grantSkill":" Parry",
-    "stats":["Nocturne","Wooden Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueIncreasedMana44","UniqueAllResistances25","UniqueIncreasedAccuracyPercent1","UniqueParriedCausesSpellDamageTaken1","UniqueParriedDebuffDuration2"],
-    "baseType":"Wooden Buckler",
-    "affixes":["UniqueIncreasedMana44","UniqueAllResistances25","UniqueIncreasedAccuracyPercent1","UniqueParriedCausesSpellDamageTaken1","UniqueParriedDebuffDuration2"],
+  "Dunkelhalt":{
+    "baseType":"Leather Buckler",
+    "stats":["Dunkelhalt","Leather Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}UniqueLocalBlockChance10[30,50]","{variant:2}UniqueLocalBlockChance10","UniqueLocalIncreasedEvasionRating6","UniqueBaseBlockDamageTaken2","UniqueParriedDebuffMagnitude1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Dionadair":{
-    "grantSkill":" Raise Shield",
-    "stats":["Dionadair","Splintered Tower Shield","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent17","UniqueStrength3","{variant:2}UniqueLifeRegeneration15","{variant:1}UniqueIncreasedStunThreshold1[30,30]","{variant:2}UniqueIncreasedStunThreshold1","UniqueDoubleStunThresholdWhileActiveBlock1"],
-    "baseType":"Splintered Tower Shield",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent17","UniqueStrength3","UniqueDoubleStunThresholdWhileActiveBlock1","UniqueLifeRegeneration15","UniqueIncreasedStunThreshold1"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Merit of Service":{
-    "grantSkill":" Raise Shield",
-    "stats":["Merit of Service","Pelage Targe","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance4[30,50]","{variant:2}UniqueLocalBlockChance4","UniqueLocalIncreasedArmourAndEvasion11","UniqueStunThreshold7","UniqueBlockChanceToAllies1"],
-    "baseType":"Pelage Targe",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion11","UniqueStunThreshold7","UniqueBlockChanceToAllies1","UniqueLocalBlockChance4"],
-    "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
-  },
-  "Sunsplinter":{
-    "grantSkill":" Parry",
-    "stats":["Sunsplinter","Array Buckler","League: Dawn of the Hunt","Has Alt Variant: true","Selected Variant: 1","Selected Alt Variant: 7","Variant: Max Res: 1 Fire, 2 Cold, 3 Lightning","Variant: Max Res: 1 Fire, 3 Cold, 2 Lightning","Variant: Max Res: 2 Fire, 1 Cold, 3 Lightning","Variant: Max Res: 2 Fire, 3 Cold, 1 Lightning","Variant: Max Res: 3 Fire, 1 Cold, 2 Lightning","Variant: Max Res: 3 Fire, 2 Cold, 1 Lightning","Variant: Level: 2 Cold, 1 Fire, 3 Lightning","Variant: Level: 3 Cold, 1 Fire, 2 Lightning","Variant: Level: 1 Cold, 2 Fire, 3 Lightning","Variant: Level: 3 Cold, 2 Fire, 1 Lightning","Variant: Level: 1 Cold, 3 Fire, 2 Lightning","Variant: Level: 2 Cold, 3 Fire, 1 Lightning","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent25","{variant:1}UniqueMaximumElementalResistances1","{variant:2}UniqueMaximumElementalResistances2","{variant:3}UniqueMaximumElementalResistances3","{variant:4}UniqueMaximumElementalResistances4","{variant:5}UniqueMaximumElementalResistances5","{variant:6}UniqueMaximumElementalResistances6","{variant:7}UniqueAdditionalElementalGemLevels1","{variant:8}UniqueAdditionalElementalGemLevels2","{variant:9}UniqueAdditionalElementalGemLevels3","{variant:10}UniqueAdditionalElementalGemLevels4","{variant:11}UniqueAdditionalElementalGemLevels5","{variant:12}UniqueAdditionalElementalGemLevels6"],
+    "variants":["Pre 0.3.0","Current"],
     "league":" Dawn of the Hunt",
-    "baseType":"Array Buckler",
-    "affixes":["Has Alt Variant: true","Selected Variant: 1","Selected Alt Variant: 7","UniqueLocalIncreasedEvasionRatingPercent25","UniqueAdditionalElementalGemLevels3","UniqueAdditionalElementalGemLevels2","UniqueMaximumElementalResistances1","UniqueMaximumElementalResistances6","UniqueMaximumElementalResistances3","UniqueAdditionalElementalGemLevels6","UniqueMaximumElementalResistances4","UniqueAdditionalElementalGemLevels1","UniqueAdditionalElementalGemLevels5","UniqueMaximumElementalResistances2","UniqueAdditionalElementalGemLevels4","UniqueMaximumElementalResistances5"],
-    "implicitCount":1,
-    "variants":["Max Res: 1 Fire, 2 Cold, 3 Lightning","Max Res: 1 Fire, 3 Cold, 2 Lightning","Max Res: 2 Fire, 1 Cold, 3 Lightning","Max Res: 2 Fire, 3 Cold, 1 Lightning","Max Res: 3 Fire, 1 Cold, 2 Lightning","Max Res: 3 Fire, 2 Cold, 1 Lightning","Level: 2 Cold, 1 Fire, 3 Lightning","Level: 3 Cold, 1 Fire, 2 Lightning","Level: 1 Cold, 2 Fire, 3 Lightning","Level: 3 Cold, 2 Fire, 1 Lightning","Level: 1 Cold, 3 Fire, 2 Lightning","Level: 2 Cold, 3 Fire, 1 Lightning"]
-  },
-  "Kaltenhalt":{
-    "grantSkill":" Parry",
-    "stats":["Kaltenhalt","Ridged Buckler","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent15","MaximumColdResistUniqueShieldDex1","UniqueColdResist15","UniqueParryStunModifiersApplyToFreeze1","UniqueParryConvertToCold1","UniqueAttackerTakesColdDamage1"],
-    "baseType":"Ridged Buckler",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent15","MaximumColdResistUniqueShieldDex1","UniqueColdResist15","UniqueParryStunModifiersApplyToFreeze1","UniqueParryConvertToCold1","UniqueAttackerTakesColdDamage1"],
-    "implicitCount":1,
-    "league":" Rise of the Abyssal"
-  },
-  "Calgyra's Arc":{
-    "grantSkill":" Parry",
-    "stats":["Calgyra's Arc","Ornate Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent28","UniqueIncreasedMana12","UniqueIntelligence6","UniqueProjectileParryInfiniteDistance1","UniqueParriedDebuffDuration1"],
-    "baseType":"Ornate Buckler",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent28","UniqueIncreasedMana12","UniqueIntelligence6","UniqueProjectileParryInfiniteDistance1","UniqueParriedDebuffDuration1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Silverthorne":{
-    "grantSkill":" Parry",
-    "stats":["Silverthorne","Spiked Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent29","UniqueAllResistances19","UniqueCriticalWeaknessOnParry1","UniqueParryDamage1"],
-    "baseType":"Spiked Buckler",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent29","UniqueAllResistances19","UniqueCriticalWeaknessOnParry1","UniqueParryDamage1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Arvil's Wheel":{
-    "grantSkill":" Raise Shield",
-    "stats":["Arvil's Wheel","Hardwood Targe","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance8","UniqueLocalIncreasedArmourAndEvasion2","{variant:2}UniqueIncreasedLife43","{variant:2}UniqueIncreasedMana36","UniqueMaximumLifeOnKillPercent2","UniqueMaximumManaOnKillPercent1","UniqueSkillEffectDuration1"],
-    "baseType":"Hardwood Targe",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion2","UniqueMaximumLifeOnKillPercent2","UniqueMaximumManaOnKillPercent1","UniqueSkillEffectDuration1","UniqueLocalBlockChance8","UniqueIncreasedLife43","UniqueIncreasedMana36"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Rise of the Phoenix":{
-    "grantSkill":" Raise Shield",
-    "stats":["Rise of the Phoenix","Omen Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueMaximumFireResist2","UniqueFireResist16","UniqueFireResistOnLowLife1","LifeRegenerationRatePercentageUniqueShieldStrInt3","UniqueLifeRegenerationPercentOnLowLife1"],
-    "baseType":"Omen Crest Shield",
-    "affixes":["UniqueMaximumFireResist2","UniqueFireResist16","UniqueFireResistOnLowLife1","LifeRegenerationRatePercentageUniqueShieldStrInt3","UniqueLifeRegenerationPercentOnLowLife1"],
-    "implicitCount":1
-  },
-  "Mahuxotl's Machination":{
-    "grantSkill":" Raise Shield",
-    "stats":["Mahuxotl's Machination","Omen Crest Shield","Variant: Pre 0.2.0","Variant: Current","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield16","{variant:1}UniqueLocalSoulCoreEffect1[333,666]","{variant:2}UniqueLocalSoulCoreEffect1","{variant:2}UniqueEverlastingSacrifice1"],
-    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
-    "baseType":"Omen Crest Shield",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield16","UniqueLocalSoulCoreEffect1","UniqueEverlastingSacrifice1"],
-    "implicitCount":1,
-    "variants":["Pre 0.2.0","Current"]
+    "affixes":["UniqueLocalIncreasedEvasionRating6","UniqueBaseBlockDamageTaken2","UniqueParriedDebuffMagnitude1","UniqueLocalBlockChance10"],
+    "grantSkill":" Parry"
   },
   "Svalinn":{
-    "grantSkill":" Cast on Block",
-    "stats":["Svalinn","Crucible Tower Shield","Variant: Pre 0.3.0","Variant: Current","Source: Drops from unique{Olroth, Origin of the Fall}","Implicits: 2","Grants Skill: Raise Shield","Grants Skill: Cast on Block","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24[100,150]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24","{variant:1}UniqueMaximumBlockChance2","{variant:2}UniqueBaseBlockDamageTaken3","UniqueLuckyBlockChance1"],
-    "source":"Drops from unique{Olroth, Origin of the Fall}",
     "baseType":"Crucible Tower Shield",
-    "affixes":["UniqueLuckyBlockChance1","UniqueMaximumBlockChance2","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24","UniqueBaseBlockDamageTaken3"],
+    "stats":["Svalinn","Crucible Tower Shield","Variant: Pre 0.3.0","Variant: Current","Source: Drops from unique{Olroth, Origin of the Fall}","Implicits: 2","Grants Skill: Raise Shield","Grants Skill: Cast on Block","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24[100,150]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24","{variant:1}UniqueMaximumBlockChance2","{variant:2}UniqueBaseBlockDamageTaken3","UniqueLuckyBlockChance1"],
     "implicitCount":2,
-    "variants":["Pre 0.3.0","Current"]
-  },
-  "Prism Guardian":{
-    "grantSkill":" Raise Shield",
-    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield22","UniqueDexterity37","UniqueAllResistances26","{variant:1}UniqueSpiritPerMaximumLife1[50,50]","{variant:2}UniqueSpiritPerMaximumLife1"],
-    "league":" Dawn of the Hunt",
-    "baseType":"Sectarian Crest Shield",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield22","UniqueDexterity37","UniqueAllResistances26","UniqueSpiritPerMaximumLife1"],
-    "implicitCount":1,
-    "variants":["Pre 0.2.1","Current"]
-  },
-  "Window to Paradise":{
-    "grantSkill":" Raise Shield",
-    "stats":["Window to Paradise","Barricade Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent25","UniqueIncreasedMana47","UniqueAllResistances24","UniqueRaiseShieldApplyExposure1"],
-    "baseType":"Barricade Tower Shield",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent25","UniqueIncreasedMana47","UniqueAllResistances24","UniqueRaiseShieldApplyExposure1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Oaksworn":{
-    "grantSkill":" Raise Shield",
-    "stats":["Oaksworn","Variant: Pre 0.2.0","Variant: Pre 0.3.0","Variant: Current","Sigil Crest Shield","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance5[40,60]","{variant:3}UniqueLocalBlockChance5","UniqueLocalIncreasedArmourAndEnergyShield10","{variant:1}UniqueIncreasedSpirit2","UniqueChaosResist1","{variant:2,3}UniqueLifeRegenerationRate1"],
-    "baseType":"Variant: Pre 0.2.0",
-    "affixes":["Sigil Crest Shield","{variant:1,2}UniqueLocalBlockChance5[40,60]","UniqueLocalIncreasedArmourAndEnergyShield10","UniqueChaosResist1","{variant:2,3}UniqueLifeRegenerationRate1","UniqueIncreasedSpirit2","UniqueLocalBlockChance5"],
-    "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
-  },
-  "Alkem Eira":{
-    "grantSkill":" Raise Shield",
-    "stats":["Alkem Eira","Blazon Crest Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance1[30,40]","{variant:3}UniqueLocalBlockChance1","UniqueLocalIncreasedArmourAndEnergyShield2","{variant:1}UniqueIncreasedMana4[15,30]","{variant:2,3}UniqueIncreasedMana4","UniqueDamageBlockedRecoupedAsMana1"],
-    "baseType":"Blazon Crest Shield",
-    "affixes":["{variant:1,2}UniqueLocalBlockChance1[30,40]","UniqueLocalIncreasedArmourAndEnergyShield2","{variant:2,3}UniqueIncreasedMana4","UniqueDamageBlockedRecoupedAsMana1","UniqueLocalBlockChance1","UniqueIncreasedMana4[15,30]"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
-  },
-  "The Surrender":{
-    "grantSkill":" Raise Shield",
-    "stats":["The Surrender","Stone Tower Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalBlockChance7","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent20","UniqueStunThreshold12","UniqueRecoverLifePercentOnBlock1"],
-    "baseType":"Stone Tower Shield",
-    "affixes":["UniqueLocalBlockChance7","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent20","UniqueStunThreshold12","UniqueRecoverLifePercentOnBlock1"],
-    "implicitCount":1
-  },
-  "Doomgate":{
-    "grantSkill":" Raise Shield",
-    "stats":["Doomgate","Braced Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance2[80,80]","{variant:3}UniqueLocalBlockChance2","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","{variant:2,3}UniqueChaosResist22","{variant:1,2}UniqueBaseBlockDamageTaken1[20,20]","{variant:3}UniqueBaseBlockDamageTaken1","UniqueCullingStrikeOnBlock1"],
-    "baseType":"Braced Tower Shield",
-    "affixes":["{variant:1,2}UniqueLocalBlockChance2[80,80]","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","{variant:2,3}UniqueChaosResist22","{variant:1,2}UniqueBaseBlockDamageTaken1[20,20]","UniqueCullingStrikeOnBlock1","UniqueLocalBlockChance2","UniqueBaseBlockDamageTaken1"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+    "variants":["Pre 0.3.0","Current"],
+    "source":"Drops from unique{Olroth, Origin of the Fall}",
+    "affixes":["UniqueLuckyBlockChance1","UniqueMaximumBlockChance2","UniqueBaseBlockDamageTaken3","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent24"],
+    "grantSkill":" Cast on Block"
   },
   "Chernobog's Pillar":{
-    "grantSkill":" Raise Shield",
-    "stats":["Chernobog's Pillar","Blacksteel Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent28","UniqueFireResist8","UniqueChaosResist32","UniqueStunThreshold19","UniqueDamageGainedAsFirePerBlock1"],
     "baseType":"Blacksteel Tower Shield",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent28","UniqueFireResist8","UniqueChaosResist32","UniqueStunThreshold19","UniqueDamageGainedAsFirePerBlock1"],
+    "stats":["Chernobog's Pillar","Blacksteel Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent28","UniqueFireResist8","UniqueChaosResist32","UniqueStunThreshold19","UniqueDamageGainedAsFirePerBlock1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
-  },
-  "Saffell's Frame":{
-    "grantSkill":" Raise Shield",
-    "stats":["Saffell's Frame","Emblem Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueFireResist6","UniqueColdResist5","UniqueLightningResist2","UniqueCannotBlock1","UniqueMaximumBlockToMaximumResistances1"],
-    "baseType":"Emblem Crest Shield",
-    "affixes":["UniqueFireResist6","UniqueColdResist5","UniqueLightningResist2","UniqueCannotBlock1","UniqueMaximumBlockToMaximumResistances1"],
-    "implicitCount":1
-  },
-  "Dunkelhalt":{
-    "grantSkill":" Parry",
-    "stats":["Dunkelhalt","Leather Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}UniqueLocalBlockChance10[30,50]","{variant:2}UniqueLocalBlockChance10","UniqueLocalIncreasedEvasionRating6","UniqueBaseBlockDamageTaken2","UniqueParriedDebuffMagnitude1"],
     "league":" Dawn of the Hunt",
-    "baseType":"Leather Buckler",
-    "affixes":["UniqueLocalIncreasedEvasionRating6","UniqueBaseBlockDamageTaken2","UniqueParriedDebuffMagnitude1","UniqueLocalBlockChance10"],
-    "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent28","UniqueFireResist8","UniqueChaosResist32","UniqueStunThreshold19","UniqueDamageGainedAsFirePerBlock1"],
+    "grantSkill":" Raise Shield"
   },
-  "Rondel de Ezo":{
-    "grantSkill":" Parry",
-    "stats":["Rondel de Ezo","Plated Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent27","UniqueDexterity2","UniqueLifeRegeneration24","UniqueBlockChanceProjectiles1","UniqueEnfeebleOnBlockChance1"],
-    "baseType":"Plated Buckler",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent27","UniqueDexterity2","UniqueLifeRegeneration24","UniqueBlockChanceProjectiles1","UniqueEnfeebleOnBlockChance1"],
+  "Silverthorne":{
+    "baseType":"Spiked Buckler",
+    "stats":["Silverthorne","Spiked Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent29","UniqueAllResistances19","UniqueCriticalWeaknessOnParry1","UniqueParryDamage1"],
     "implicitCount":1,
-    "league":" Dawn of the Hunt"
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent29","UniqueAllResistances19","UniqueCriticalWeaknessOnParry1","UniqueParryDamage1"],
+    "grantSkill":" Parry"
   },
   "Lycosidae":{
-    "grantSkill":" Raise Shield",
-    "stats":["Lycosidae","Rampart Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance1[30,40]","{variant:3}UniqueLocalBlockChance1","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueDoubleAccuracyRating1","{variant:1}UniquePoisonOnBlock1[100,100]","{variant:2,3}UniquePoisonOnBlock1"],
     "baseType":"Rampart Tower Shield",
-    "affixes":["{variant:1,2}UniqueLocalBlockChance1[30,40]","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueDoubleAccuracyRating1","{variant:2,3}UniquePoisonOnBlock1","UniqueLocalBlockChance1","UniquePoisonOnBlock1[100,100]"],
+    "stats":["Lycosidae","Rampart Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance1[30,40]","{variant:3}UniqueLocalBlockChance1","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueDoubleAccuracyRating1","{variant:1}UniquePoisonOnBlock1[100,100]","{variant:2,3}UniquePoisonOnBlock1"],
     "implicitCount":1,
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
+    "affixes":["{variant:1,2}UniqueLocalBlockChance1[30,40]","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent1","UniqueDoubleAccuracyRating1","{variant:2,3}UniquePoisonOnBlock1","UniqueLocalBlockChance1","UniquePoisonOnBlock1[100,100]"],
+    "grantSkill":" Raise Shield"
   },
-  "Crest of Ardura":{
-    "grantSkill":" Raise Shield",
-    "stats":["Crest of Ardura","Jingling Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield14","UniqueIntelligence6","UniqueManaRegeneration3","UniqueGlobalCooldownRecovery1"],
-    "baseType":"Jingling Crest Shield",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield14","UniqueIntelligence6","UniqueManaRegeneration3","UniqueGlobalCooldownRecovery1"],
-    "implicitCount":1
+  "Kaltenhalt":{
+    "baseType":"Ridged Buckler",
+    "stats":["Kaltenhalt","Ridged Buckler","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent15","MaximumColdResistUniqueShieldDex1","UniqueColdResist15","UniqueParryStunModifiersApplyToFreeze1","UniqueParryConvertToCold1","UniqueAttackerTakesColdDamage1"],
+    "implicitCount":1,
+    "league":" Rise of the Abyssal",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent15","MaximumColdResistUniqueShieldDex1","UniqueColdResist15","UniqueParryStunModifiersApplyToFreeze1","UniqueParryConvertToCold1","UniqueAttackerTakesColdDamage1"],
+    "grantSkill":" Parry"
+  },
+  "Sunsplinter":{
+    "baseType":"Array Buckler",
+    "stats":["Sunsplinter","Array Buckler","League: Dawn of the Hunt","Has Alt Variant: true","Selected Variant: 1","Selected Alt Variant: 7","Variant: Max Res: 1 Fire, 2 Cold, 3 Lightning","Variant: Max Res: 1 Fire, 3 Cold, 2 Lightning","Variant: Max Res: 2 Fire, 1 Cold, 3 Lightning","Variant: Max Res: 2 Fire, 3 Cold, 1 Lightning","Variant: Max Res: 3 Fire, 1 Cold, 2 Lightning","Variant: Max Res: 3 Fire, 2 Cold, 1 Lightning","Variant: Level: 2 Cold, 1 Fire, 3 Lightning","Variant: Level: 3 Cold, 1 Fire, 2 Lightning","Variant: Level: 1 Cold, 2 Fire, 3 Lightning","Variant: Level: 3 Cold, 2 Fire, 1 Lightning","Variant: Level: 1 Cold, 3 Fire, 2 Lightning","Variant: Level: 2 Cold, 3 Fire, 1 Lightning","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent25","{variant:1}UniqueMaximumElementalResistances1","{variant:2}UniqueMaximumElementalResistances2","{variant:3}UniqueMaximumElementalResistances3","{variant:4}UniqueMaximumElementalResistances4","{variant:5}UniqueMaximumElementalResistances5","{variant:6}UniqueMaximumElementalResistances6","{variant:7}UniqueAdditionalElementalGemLevels1","{variant:8}UniqueAdditionalElementalGemLevels2","{variant:9}UniqueAdditionalElementalGemLevels3","{variant:10}UniqueAdditionalElementalGemLevels4","{variant:11}UniqueAdditionalElementalGemLevels5","{variant:12}UniqueAdditionalElementalGemLevels6"],
+    "implicitCount":1,
+    "variants":["Max Res: 1 Fire, 2 Cold, 3 Lightning","Max Res: 1 Fire, 3 Cold, 2 Lightning","Max Res: 2 Fire, 1 Cold, 3 Lightning","Max Res: 2 Fire, 3 Cold, 1 Lightning","Max Res: 3 Fire, 1 Cold, 2 Lightning","Max Res: 3 Fire, 2 Cold, 1 Lightning","Level: 2 Cold, 1 Fire, 3 Lightning","Level: 3 Cold, 1 Fire, 2 Lightning","Level: 1 Cold, 2 Fire, 3 Lightning","Level: 3 Cold, 2 Fire, 1 Lightning","Level: 1 Cold, 3 Fire, 2 Lightning","Level: 2 Cold, 3 Fire, 1 Lightning"],
+    "league":" Dawn of the Hunt",
+    "affixes":["Has Alt Variant: true","Selected Variant: 1","Selected Alt Variant: 7","UniqueLocalIncreasedEvasionRatingPercent25","UniqueAdditionalElementalGemLevels2","UniqueAdditionalElementalGemLevels3","UniqueMaximumElementalResistances1","UniqueMaximumElementalResistances2","UniqueMaximumElementalResistances3","UniqueMaximumElementalResistances4","UniqueMaximumElementalResistances5","UniqueMaximumElementalResistances6","UniqueAdditionalElementalGemLevels6","UniqueAdditionalElementalGemLevels1","UniqueAdditionalElementalGemLevels5","UniqueAdditionalElementalGemLevels4"],
+    "grantSkill":" Parry"
+  },
+  "Prism Guardian":{
+    "baseType":"Sectarian Crest Shield",
+    "stats":["Prism Guardian","Sectarian Crest Shield","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield22","UniqueDexterity37","UniqueAllResistances26","{variant:1}UniqueSpiritPerMaximumLife1[50,50]","{variant:2}UniqueSpiritPerMaximumLife1"],
+    "implicitCount":1,
+    "variants":["Pre 0.2.1","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield22","UniqueDexterity37","UniqueAllResistances26","UniqueSpiritPerMaximumLife1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Merit of Service":{
+    "baseType":"Pelage Targe",
+    "stats":["Merit of Service","Pelage Targe","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance4[30,50]","{variant:2}UniqueLocalBlockChance4","UniqueLocalIncreasedArmourAndEvasion11","UniqueStunThreshold7","UniqueBlockChanceToAllies1"],
+    "implicitCount":1,
+    "variants":["Pre 0.3.0","Current"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion11","UniqueStunThreshold7","UniqueBlockChanceToAllies1","UniqueLocalBlockChance4"],
+    "grantSkill":" Raise Shield"
+  },
+  "Wulfsbane":{
+    "baseType":"Painted Tower Shield",
+    "stats":["Wulfsbane","Painted Tower Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueIncreasedLife3","UniqueStrength3","UniqueStunThreshold7","UniqueEnemiesBlockedAreIntimidated1"],
+    "implicitCount":1,
+    "affixes":["UniqueIncreasedLife3","UniqueStrength3","UniqueStunThreshold7","UniqueEnemiesBlockedAreIntimidated1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Doomgate":{
+    "baseType":"Braced Tower Shield",
+    "stats":["Doomgate","Braced Tower Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance2[80,80]","{variant:3}UniqueLocalBlockChance2","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","{variant:2,3}UniqueChaosResist22","{variant:1,2}UniqueBaseBlockDamageTaken1[20,20]","{variant:3}UniqueBaseBlockDamageTaken1","UniqueCullingStrikeOnBlock1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
+    "affixes":["{variant:1,2}UniqueLocalBlockChance2[80,80]","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","{variant:2,3}UniqueChaosResist22","{variant:1,2}UniqueBaseBlockDamageTaken1[20,20]","UniqueCullingStrikeOnBlock1","UniqueLocalBlockChance2","UniqueBaseBlockDamageTaken1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Oaksworn":{
+    "baseType":"Variant: Pre 0.2.0",
+    "stats":["Oaksworn","Variant: Pre 0.2.0","Variant: Pre 0.3.0","Variant: Current","Sigil Crest Shield","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance5[40,60]","{variant:3}UniqueLocalBlockChance5","UniqueLocalIncreasedArmourAndEnergyShield10","{variant:1}UniqueIncreasedSpirit2","UniqueChaosResist1","{variant:2,3}UniqueLifeRegenerationRate1"],
+    "implicitCount":1,
+    "variants":["Pre 0.3.0","Current"],
+    "affixes":["Sigil Crest Shield","{variant:1,2}UniqueLocalBlockChance5[40,60]","UniqueLocalIncreasedArmourAndEnergyShield10","UniqueChaosResist1","{variant:2,3}UniqueLifeRegenerationRate1","UniqueIncreasedSpirit2","UniqueLocalBlockChance5"],
+    "grantSkill":" Raise Shield"
   },
   "Bloodbarrier":{
-    "grantSkill":" Parry",
-    "stats":["Bloodbarrier","Iron Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}UniqueLocalBlockChance14[20,30]","{variant:2}UniqueLocalBlockChance14","UniqueChaosResist31","UniqueLifeRegeneration21","UniqueApplyCorruptedBloodOnBlock1"],
-    "league":" Dawn of the Hunt",
     "baseType":"Iron Buckler",
+    "stats":["Bloodbarrier","Iron Buckler","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","{variant:1}UniqueLocalBlockChance14[20,30]","{variant:2}UniqueLocalBlockChance14","UniqueChaosResist31","UniqueLifeRegeneration21","UniqueApplyCorruptedBloodOnBlock1"],
+    "implicitCount":1,
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
     "affixes":["UniqueChaosResist31","UniqueLifeRegeneration21","UniqueApplyCorruptedBloodOnBlock1","UniqueLocalBlockChance14"],
-    "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
-  },
-  "Feathered Fortress":{
-    "grantSkill":" Raise Shield",
-    "stats":["Feathered Fortress","Crescent Targe","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueStrength18[10,20]","{variant:2}UniqueStrength18","{variant:1}UniqueDexterity18[10,20]","{variant:2}UniqueDexterity18","{variant:1}UniqueFireResist14[10,20]","{variant:2}UniqueFireResist14","{variant:1}UniqueColdResist14[10,20]","{variant:2}UniqueColdResist14","UniqueNoMovementPenaltyRaisedShield1"],
-    "baseType":"Crescent Targe",
-    "affixes":["UniqueNoMovementPenaltyRaisedShield1","UniqueStrength18","UniqueDexterity18","UniqueColdResist14","UniqueFireResist14"],
-    "implicitCount":1,
-    "variants":["Pre 0.1.1","Current"]
+    "grantSkill":" Parry"
   },
   "Redblade Banner":{
-    "grantSkill":" Raise Shield",
-    "stats":["Redblade Banner","Heraldric Tower Shield","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance14[20,30]","{variant:2}UniqueLocalBlockChance14","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent27","UniqueStrength36","UniqueStunThreshold18","UniqueEnemiesInPresenceMonsterPower1"],
-    "league":" Dawn of the Hunt",
     "baseType":"Heraldric Tower Shield",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent27","UniqueStrength36","UniqueStunThreshold18","UniqueEnemiesInPresenceMonsterPower1","UniqueLocalBlockChance14"],
+    "stats":["Redblade Banner","Heraldric Tower Shield","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance14[20,30]","{variant:2}UniqueLocalBlockChance14","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent27","UniqueStrength36","UniqueStunThreshold18","UniqueEnemiesInPresenceMonsterPower1"],
     "implicitCount":1,
-    "variants":["Pre 0.3.0","Current"]
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent27","UniqueStrength36","UniqueStunThreshold18","UniqueEnemiesInPresenceMonsterPower1","UniqueLocalBlockChance14"],
+    "grantSkill":" Raise Shield"
   },
   "The Wailing Wall":{
-    "grantSkill":" Raise Shield",
-    "stats":["The Wailing Wall","Effigial Tower Shield","Source: No longer obtainable","Implicits: 1","Grants Skill: Raise Shield","UniqueMovementVelocity6","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueStunThreshold9","UniqueDisableShieldSkills1"],
     "baseType":"Effigial Tower Shield",
-    "affixes":["UniqueMovementVelocity6","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueStunThreshold9","UniqueDisableShieldSkills1"],
+    "stats":["The Wailing Wall","Effigial Tower Shield","Source: No longer obtainable","Implicits: 1","Grants Skill: Raise Shield","UniqueMovementVelocity6","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueStunThreshold9","UniqueDisableShieldSkills1"],
     "implicitCount":1,
-    "source":"No longer obtainable"
+    "source":"No longer obtainable",
+    "affixes":["UniqueMovementVelocity6","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent2","UniqueStunThreshold9","UniqueDisableShieldSkills1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Arvil's Wheel":{
+    "baseType":"Hardwood Targe",
+    "stats":["Arvil's Wheel","Hardwood Targe","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueLocalBlockChance8","UniqueLocalIncreasedArmourAndEvasion2","{variant:2}UniqueIncreasedLife43","{variant:2}UniqueIncreasedMana36","UniqueMaximumLifeOnKillPercent2","UniqueMaximumManaOnKillPercent1","UniqueSkillEffectDuration1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Current"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion2","UniqueMaximumLifeOnKillPercent2","UniqueMaximumManaOnKillPercent1","UniqueSkillEffectDuration1","UniqueIncreasedMana36","UniqueLocalBlockChance8","UniqueIncreasedLife43"],
+    "grantSkill":" Raise Shield"
+  },
+  "Alkem Eira":{
+    "baseType":"Blazon Crest Shield",
+    "stats":["Alkem Eira","Blazon Crest Shield","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1,2}UniqueLocalBlockChance1[30,40]","{variant:3}UniqueLocalBlockChance1","UniqueLocalIncreasedArmourAndEnergyShield2","{variant:1}UniqueIncreasedMana4[15,30]","{variant:2,3}UniqueIncreasedMana4","UniqueDamageBlockedRecoupedAsMana1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
+    "affixes":["{variant:1,2}UniqueLocalBlockChance1[30,40]","UniqueLocalIncreasedArmourAndEnergyShield2","{variant:2,3}UniqueIncreasedMana4","UniqueDamageBlockedRecoupedAsMana1","UniqueLocalBlockChance1","UniqueIncreasedMana4[15,30]"],
+    "grantSkill":" Raise Shield"
+  },
+  "Nocturne":{
+    "baseType":"Wooden Buckler",
+    "stats":["Nocturne","Wooden Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueIncreasedMana44","UniqueAllResistances25","UniqueIncreasedAccuracyPercent1","UniqueParriedCausesSpellDamageTaken1","UniqueParriedDebuffDuration2"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueIncreasedMana44","UniqueAllResistances25","UniqueIncreasedAccuracyPercent1","UniqueParriedCausesSpellDamageTaken1","UniqueParriedDebuffDuration2"],
+    "grantSkill":" Parry"
+  },
+  "Rise of the Phoenix":{
+    "baseType":"Omen Crest Shield",
+    "stats":["Rise of the Phoenix","Omen Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueMaximumFireResist2","UniqueFireResist16","UniqueFireResistOnLowLife1","LifeRegenerationRatePercentageUniqueShieldStrInt3","UniqueLifeRegenerationPercentOnLowLife1"],
+    "implicitCount":1,
+    "affixes":["UniqueMaximumFireResist2","UniqueFireResist16","UniqueFireResistOnLowLife1","LifeRegenerationRatePercentageUniqueShieldStrInt3","UniqueLifeRegenerationPercentOnLowLife1"],
+    "grantSkill":" Raise Shield"
+  },
+  "The Surrender":{
+    "baseType":"Stone Tower Shield",
+    "stats":["The Surrender","Stone Tower Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalBlockChance7","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent20","UniqueStunThreshold12","UniqueRecoverLifePercentOnBlock1"],
+    "implicitCount":1,
+    "affixes":["UniqueLocalBlockChance7","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent20","UniqueStunThreshold12","UniqueRecoverLifePercentOnBlock1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Dionadair":{
+    "baseType":"Splintered Tower Shield",
+    "stats":["Dionadair","Splintered Tower Shield","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent17","UniqueStrength3","{variant:2}UniqueLifeRegeneration15","{variant:1}UniqueIncreasedStunThreshold1[30,30]","{variant:2}UniqueIncreasedStunThreshold1","UniqueDoubleStunThresholdWhileActiveBlock1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Current"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent17","UniqueStrength3","UniqueDoubleStunThresholdWhileActiveBlock1","UniqueLifeRegeneration15","UniqueIncreasedStunThreshold1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Feathered Fortress":{
+    "baseType":"Crescent Targe",
+    "stats":["Feathered Fortress","Crescent Targe","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","Grants Skill: Raise Shield","{variant:1}UniqueStrength18[10,20]","{variant:2}UniqueStrength18","{variant:1}UniqueDexterity18[10,20]","{variant:2}UniqueDexterity18","{variant:1}UniqueFireResist14[10,20]","{variant:2}UniqueFireResist14","{variant:1}UniqueColdResist14[10,20]","{variant:2}UniqueColdResist14","UniqueNoMovementPenaltyRaisedShield1"],
+    "implicitCount":1,
+    "variants":["Pre 0.1.1","Current"],
+    "affixes":["UniqueNoMovementPenaltyRaisedShield1","UniqueColdResist14","UniqueStrength18","UniqueFireResist14","UniqueDexterity18"],
+    "grantSkill":" Raise Shield"
+  },
+  "Window to Paradise":{
+    "baseType":"Barricade Tower Shield",
+    "stats":["Window to Paradise","Barricade Tower Shield","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent25","UniqueIncreasedMana47","UniqueAllResistances24","UniqueRaiseShieldApplyExposure1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent25","UniqueIncreasedMana47","UniqueAllResistances24","UniqueRaiseShieldApplyExposure1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Calgyra's Arc":{
+    "baseType":"Ornate Buckler",
+    "stats":["Calgyra's Arc","Ornate Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent28","UniqueIncreasedMana12","UniqueIntelligence6","UniqueProjectileParryInfiniteDistance1","UniqueParriedDebuffDuration1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent28","UniqueIncreasedMana12","UniqueIntelligence6","UniqueProjectileParryInfiniteDistance1","UniqueParriedDebuffDuration1"],
+    "grantSkill":" Parry"
+  },
+  "Crest of Ardura":{
+    "baseType":"Jingling Crest Shield",
+    "stats":["Crest of Ardura","Jingling Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield14","UniqueIntelligence6","UniqueManaRegeneration3","UniqueGlobalCooldownRecovery1"],
+    "implicitCount":1,
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield14","UniqueIntelligence6","UniqueManaRegeneration3","UniqueGlobalCooldownRecovery1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Rondel de Ezo":{
+    "baseType":"Plated Buckler",
+    "stats":["Rondel de Ezo","Plated Buckler","League: Dawn of the Hunt","Implicits: 1","Grants Skill: Parry","UniqueLocalIncreasedEvasionRatingPercent27","UniqueDexterity2","UniqueLifeRegeneration24","UniqueBlockChanceProjectiles1","UniqueEnfeebleOnBlockChance1"],
+    "implicitCount":1,
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent27","UniqueDexterity2","UniqueLifeRegeneration24","UniqueBlockChanceProjectiles1","UniqueEnfeebleOnBlockChance1"],
+    "grantSkill":" Parry"
+  },
+  "Saffell's Frame":{
+    "baseType":"Emblem Crest Shield",
+    "stats":["Saffell's Frame","Emblem Crest Shield","Implicits: 1","Grants Skill: Raise Shield","UniqueFireResist6","UniqueColdResist5","UniqueLightningResist2","UniqueCannotBlock1","UniqueMaximumBlockToMaximumResistances1"],
+    "implicitCount":1,
+    "affixes":["UniqueFireResist6","UniqueColdResist5","UniqueLightningResist2","UniqueCannotBlock1","UniqueMaximumBlockToMaximumResistances1"],
+    "grantSkill":" Raise Shield"
+  },
+  "Mahuxotl's Machination":{
+    "baseType":"Omen Crest Shield",
+    "stats":["Mahuxotl's Machination","Omen Crest Shield","Variant: Pre 0.2.0","Variant: Current","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Implicits: 1","Grants Skill: Raise Shield","UniqueLocalIncreasedArmourAndEnergyShield16","{variant:1}UniqueLocalSoulCoreEffect1[333,666]","{variant:2}UniqueLocalSoulCoreEffect1","{variant:2}UniqueEverlastingSacrifice1"],
+    "implicitCount":1,
+    "variants":["Pre 0.2.0","Current"],
+    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield16","UniqueEverlastingSacrifice1","UniqueLocalSoulCoreEffect1"],
+    "grantSkill":" Raise Shield"
   }
 }
