@@ -12614,15 +12614,12 @@
         "keywordFlags":0,
         "name":"CostEfficiency",
         "type":"INC",
-        "value":15
-      }],"  of Attacks "],
-  "15% increased Cost Efficiency of Attacks 18% of Skill Mana Costs Converted to Life Costs":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"CostEfficiency",
-        "type":"INC",
-        "value":15
-      }],"  of Attacks 18% of Skill Mana Costs Converted to Life Costs "],
+        "value":15,
+        "1":{
+          "skillType":1,
+          "type":"SkillType"
+        }
+      }]],
   "15% increased Critical Damage Bonus":[[{
         "flags":0,
         "keywordFlags":0,
@@ -34640,10 +34637,11 @@
   "Attacks cost an additional 6% of your maximum Mana":[[{
         "flags":0,
         "keywordFlags":65536,
-        "name":"ManaCost",
+        "name":"ManaCostBase",
         "type":"BASE",
         "value":1,
         "1":{
+          "floor":true,
           "percent":6,
           "stat":"Mana",
           "type":"PercentStat"
@@ -36813,10 +36811,39 @@
         "type":"BASE",
         "value":999
       }]],
-  "Detonator skills have 40% increased Area of Effect":[null,"Detonator skills have 40% increased Area of Effect "],
-  "Detonator skills have 40% increased Area of Effect Detonator skills have 80% reduced damage":[null,"Detonator skills have 40% increased Area of Effect Detonator skills have 80% reduced damage "],
-  "Detonator skills have 8% increased Area of Effect":[null,"Detonator skills have 8% increased Area of Effect "],
-  "Detonator skills have 80% reduced damage":[null,"Detonator skills have 80% reduced damage "],
+  "Detonator skills have 40% increased Area of Effect":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"AreaOfEffect",
+        "type":"INC",
+        "value":40,
+        "1":{
+          "skillType":241,
+          "type":"SkillType"
+        }
+      }]],
+  "Detonator skills have 8% increased Area of Effect":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"AreaOfEffect",
+        "type":"INC",
+        "value":8,
+        "1":{
+          "skillType":241,
+          "type":"SkillType"
+        }
+      }]],
+  "Detonator skills have 80% reduced damage":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Damage",
+        "type":"INC",
+        "value":-80,
+        "1":{
+          "skillType":241,
+          "type":"SkillType"
+        }
+      }]],
   "Dodge Roll avoids all Hits":[null,"Dodge Roll avoids all Hits "],
   "Dodge Roll avoids all Hits 10% less Movement and Skill Speed per Dodge Roll in the past 20 seconds":[null,"Dodge Roll avoids all Hits 10% less Movement and Skill Speed per Dodge Roll in the past 20 seconds "],
   "Dodge Roll cannot Avoid Damage":[null,"Dodge Roll cannot Avoid Damage "],
@@ -43480,8 +43507,24 @@
         "type":"FLAG",
         "value":true
       }]],
-  "Non-Channelling Spells cost an additional 6% of your maximum Life":[null,"cost an additional 6% of your maximum Life "],
-  "Non-Channelling Spells cost an additional 6% of your maximum Life Non-Channelling Spells have 5% increased Critical Hit Chance per 100 maximum Life":[null,"cost an additional 6% of your maximum Life Non-Channelling Spells have 5% increased Critical Hit Chance per 100 maximum Life "],
+  "Non-Channelling Spells cost an additional 6% of your maximum Life":[[{
+        "flags":0,
+        "keywordFlags":131072,
+        "name":"LifeCostBase",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "floor":true,
+          "percent":6,
+          "stat":"Life",
+          "type":"PercentStat"
+        },
+        "2":{
+          "neg":true,
+          "skillType":48,
+          "type":"SkillType"
+        }
+      }]],
   "Non-Channelling Spells deal 10% increased Damage per 100 maximum Life":[[{
         "flags":2,
         "keywordFlags":0,
