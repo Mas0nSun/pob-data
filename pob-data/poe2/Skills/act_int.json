@@ -6111,6 +6111,36 @@
                 "effectType":"Buff",
                 "type":"GlobalEffect"
               }
+            },{
+              "flags":0,
+              "keywordFlags":4,
+              "name":"WarcrySpeed",
+              "type":"MORE",
+              "1":{
+                "stat":"FrenzyCharges",
+                "threshold":1,
+                "type":"StatThreshold"
+              },
+              "2":{
+                "effectName":"Charge Infusion",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
+            },{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"TotemPlacementSpeed",
+              "type":"MORE",
+              "1":{
+                "stat":"FrenzyCharges",
+                "threshold":1,
+                "type":"StatThreshold"
+              },
+              "2":{
+                "effectName":"Charge Infusion",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
             }]
         },
         "stats":["charge_mastery_skill_speed_+%_final_with_frenzy_charges","charge_mastery_crit_chance_+%_final_with_power_charges","charge_mastery_defences_+%_final_with_endurance_charges","consume_frenzy_power_and_endurance_charge_every_x_ms","base_deal_no_damage"]
@@ -9851,6 +9881,7 @@
     "castTime":0,
     "color":3,
     "description":"When you Hit with Unarmed Melee Attacks, calls down lightning bolts which deal Unarmed Attack damage to all surrounding enemies.",
+    "fromItem":true,
     "levels":[{
         "levelRequirement":0
       },{
@@ -17349,6 +17380,7 @@
     "castTime":1.3,
     "color":3,
     "description":"Consume Corpses near you to recover Life and Mana over a short time per Corpse Consumed.",
+    "fromItem":true,
     "levels":[{
         "cost":{
           "Mana":0
@@ -28760,6 +28792,7 @@
     "castTime":0,
     "color":3,
     "description":"While active, the first time any Skill Hits a Shocked enemy in your Presence, that Skill also Hits other Shocked enemies in your Presence, up to a maximum.",
+    "fromItem":true,
     "levels":[{
         "levelRequirement":0
       },{
@@ -43823,6 +43856,7 @@
     "castTime":0,
     "color":3,
     "description":"While active, gains Energy when you Block and triggers socketed Curses on reaching maximum Energy.",
+    "fromItem":true,
     "levels":[{
         "levelRequirement":0
       },{
@@ -62266,6 +62300,7 @@
   "SupportMetaCastCurseOnBlockPlayer":{
     "addSkillTypes":[37,90],
     "excludeSkillTypes":[133],
+    "fromItem":true,
     "hidden":true,
     "isTrigger":true,
     "levels":[{
@@ -66492,22 +66527,6 @@
         "statDescriptionScope":"skill_stat_descriptions",
         "statMap":{
           "quality_display_trinity_is_gem":[],
-          "trinity_attack_speed_+%_while_all_resonance_is_at_least_250_to_grant":[{
-              "flags":0,
-              "keywordFlags":0,
-              "name":"Speed",
-              "type":"INC",
-              "1":{
-                "threshold":250,
-                "type":"MultiplierThreshold",
-                "var":"ResonanceCount"
-              },
-              "2":{
-                "effectName":"Trinity",
-                "effectType":"Buff",
-                "type":"GlobalEffect"
-              }
-            }],
           "trinity_damage_+%_final_to_grant_per_50_resonance":[{
               "flags":0,
               "keywordFlags":0,
@@ -66524,7 +66543,53 @@
                 "type":"GlobalEffect"
               }
             }],
-          "trinity_loss_per_hit":[]
+          "trinity_loss_per_hit":[],
+          "trinity_skill_speed_+%_while_all_resonance_is_at_least_250_to_grant":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Speed",
+              "type":"INC",
+              "1":{
+                "threshold":250,
+                "type":"MultiplierThreshold",
+                "var":"ResonanceCount"
+              },
+              "2":{
+                "effectName":"Trinity",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
+            },{
+              "flags":0,
+              "keywordFlags":4,
+              "name":"WarcrySpeed",
+              "type":"INC",
+              "1":{
+                "threshold":250,
+                "type":"MultiplierThreshold",
+                "var":"ResonanceCount"
+              },
+              "2":{
+                "effectName":"Trinity",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
+            },{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"TotemPlacementSpeed",
+              "type":"INC",
+              "1":{
+                "threshold":250,
+                "type":"MultiplierThreshold",
+                "var":"ResonanceCount"
+              },
+              "2":{
+                "effectName":"Trinity",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
+            }]
         },
         "stats":["trinity_damage_+%_final_to_grant_per_50_resonance","trinity_resonance_to_grant","quality_display_trinity_is_gem"]
       }]

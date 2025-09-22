@@ -5255,35 +5255,6 @@
     },
     "variantId":"ElementalInvocation"
   },
-  "Metadata/Items/Gems/SkillGemElementalSiphon":{
-    "Tier":0,
-    "additionalStatSet1":"ElementalSiphonColdPlayer",
-    "additionalStatSet2":"ElementalSiphonFirePlayer",
-    "additionalStatSet3":"ElementalSiphonLightningPlayer",
-    "baseTypeName":"Elemental Siphon",
-    "gameId":"Metadata/Items/Gem/SkillGemElementalSiphon",
-    "gemType":"Attack",
-    "grantedEffectId":"ElementalSiphonPlayer",
-    "name":"Elemental Siphon",
-    "naturalMaxLevel":20,
-    "reqDex":100,
-    "reqInt":0,
-    "reqStr":0,
-    "tagString":"Melee, Strike, Lightning, Cold, Fire, Duration",
-    "tags":{
-      "attack":true,
-      "cold":true,
-      "dexterity":true,
-      "duration":true,
-      "fire":true,
-      "grants_active_skill":true,
-      "lightning":true,
-      "melee":true,
-      "strike":true
-    },
-    "variantId":"ElementalSiphon",
-    "weaponRequirements":"Spear"
-  },
   "Metadata/Items/Gems/SkillGemElementalSundering":{
     "Tier":11,
     "additionalStatSet1":"ElementalSunderingColdPlayer",

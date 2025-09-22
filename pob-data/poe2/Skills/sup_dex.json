@@ -2180,6 +2180,26 @@
                 "type":"MultiplierThreshold",
                 "var":"RemovableFrenzyCharge"
               }
+            },{
+              "flags":0,
+              "keywordFlags":4,
+              "name":"WarcrySpeed",
+              "type":"MORE",
+              "1":{
+                "threshold":1,
+                "type":"MultiplierThreshold",
+                "var":"RemovableFrenzyCharge"
+              }
+            },{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"TotemPlacementSpeed",
+              "type":"MORE",
+              "1":{
+                "threshold":1,
+                "type":"MultiplierThreshold",
+                "var":"RemovableFrenzyCharge"
+              }
             }]
         },
         "stats":["skill_cannot_generate_frenzy_charges"]
@@ -3098,6 +3118,16 @@
               "keywordFlags":0,
               "name":"Speed",
               "type":"MORE"
+            },{
+              "flags":0,
+              "keywordFlags":4,
+              "name":"WarcrySpeed",
+              "type":"MORE"
+            },{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"TotemPlacementSpeed",
+              "type":"MORE"
             }]
         },
         "stats":[]
@@ -3135,6 +3165,16 @@
               "flags":0,
               "keywordFlags":0,
               "name":"Speed",
+              "type":"MORE"
+            },{
+              "flags":0,
+              "keywordFlags":4,
+              "name":"WarcrySpeed",
+              "type":"MORE"
+            },{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"TotemPlacementSpeed",
               "type":"MORE"
             }]
         },

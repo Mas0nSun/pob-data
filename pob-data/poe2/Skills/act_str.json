@@ -4013,6 +4013,7 @@
   },
   "BlackPowderBlitzPlayer":{
     "castTime":0.7,
+    "fromItem":true,
     "hidden":true,
     "levels":[{
         "cooldown":4.5,
@@ -4449,6 +4450,7 @@
     "castTime":0,
     "color":1,
     "description":"Replaces your dodge roll with an explosive-assisted leap, firing off a round from your prosthetic cannon leg that Blinds and Ignites enemies in the area you escape from. The explosion will cause any Grenades in its area of effect to also explode.",
+    "fromItem":true,
     "levels":[{
         "levelRequirement":0
       },{
@@ -14222,6 +14224,7 @@
     "castTime":1,
     "color":1,
     "description":"Grants your weapon Surges. Non-Melee Projectile Attacks with that weapon Consume Surges to cause the Projectiles fired to explode at the end of their flight.",
+    "fromItem":true,
     "levels":[{
         "baseMultiplier":0.5,
         "levelRequirement":0
@@ -21669,6 +21672,19 @@
             "actorLevel":288.29998779297
           }],
         "statDescriptionScope":"igneous_shield",
+        "statMap":{
+          "skill_igneous_shield_grants_block_chance_+%":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"BlockChance",
+              "type":"INC",
+              "1":{
+                "effectName":"Magma Barrier",
+                "effectType":"Buff",
+                "type":"GlobalEffect"
+              }
+            }]
+        },
         "stats":["igneous_shield_gain_endurance_charge_on_block","base_deal_no_damage"]
       }]
   },
@@ -22231,6 +22247,7 @@
     "castTime":0,
     "color":1,
     "description":"While active, gains Energy when you Hit enemies with Melee Attacks and triggers socketed Lightning spells on reaching maximum Energy.",
+    "fromItem":true,
     "levels":[{
         "levelRequirement":0
       },{
@@ -38391,6 +38408,7 @@
   "SupportMetaCastLightningSpellOnHitPlayer":{
     "addSkillTypes":[37,90],
     "excludeSkillTypes":[133],
+    "fromItem":true,
     "hidden":true,
     "isTrigger":true,
     "levels":[{
@@ -40426,6 +40444,7 @@
     "castTime":0,
     "color":1,
     "description":"While active, taking Lightning damage builds up charge on you. Reaching full charge expends all charge to Trigger this skill, creating a Chaining lightning bolt that arcs to nearby enemies.",
+    "fromItem":true,
     "levels":[{
         "cooldown":1,
         "critChance":9,

@@ -2527,18 +2527,6 @@
         "type":"BASE",
         "value":29
       }]],
-  "+3 to Level of all Acidic Concoction Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"acidic concoction",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Alchemist's Boon Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2560,18 +2548,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"ancestral cry",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Ancestral Spirits Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"ancestral spirits",
           "value":3
         }
       }]],
@@ -2719,18 +2695,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Black Powder Blitz Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"black powder blitz",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Blasphemy Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2743,18 +2707,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Bleeding Concoction Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"bleeding concoction",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Blink Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2764,18 +2716,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"blink",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Blood Boil Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"blood boil",
           "value":3
         }
       }]],
@@ -2800,18 +2740,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"bloodhound's mark",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Bone Blast Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"bone blast",
           "value":3
         }
       }]],
@@ -2863,66 +2791,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Bow Shot Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"bow shot",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Bursting Fen Toad Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"bursting fen toad",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Called Shots Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"called shots",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Cast on Block Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"cast on block",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Cast on Charm Use Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"cast on charm use",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Cast on Critical Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2959,30 +2827,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Cast on Melee Kill Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"cast on melee kill",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Cast on Melee Stun Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"cast on melee stun",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Cast on Minion Death Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -2995,18 +2839,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Chaos Bolt Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"chaos bolt",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Charge Regulation Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3015,7 +2847,7 @@
         "value":{
           "key":"level",
           "keyOfScaledMod":"value",
-          "keywordList":["charge","regulation"],
+          "keyword":"charge regulation",
           "value":3
         }
       }]],
@@ -3091,8 +2923,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Companion:  Skills":[[]," Level of all Companion:  Skills "],
-  "+3 to Level of all Companion:  Skills +3 to Level of all Conductivity Skills":[[]," Level of all Companion:  Skills +3 to Level of allSkills "],
   "+3 to Level of all Conductivity Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3102,18 +2932,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"conductivity",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Consecrate Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"consecrate",
           "value":3
         }
       }]],
@@ -3141,30 +2959,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Crackling Palm Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"crackling palm",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Crossbow Shot Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"crossbow shot",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Cull The Weak Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3174,18 +2968,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"cull the weak",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Curse on Block Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"curse on block",
           "value":3
         }
       }]],
@@ -3201,18 +2983,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Decompose Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"decompose",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Defiance Banner Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3222,18 +2992,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"defiance banner",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Demon Form Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"demon form",
           "value":3
         }
       }]],
@@ -3261,18 +3019,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Detonate Minion Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keywordList":["detonate","minion"],
-          "value":3
-        }
-      }]],
   "+3 to Level of all Detonating Arrow Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3282,18 +3028,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"detonating arrow",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Discipline Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"discipline",
           "value":3
         }
       }]],
@@ -3369,18 +3103,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Elemental Expression Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"elemental expression",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Elemental Invocation Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3390,18 +3112,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"elemental invocation",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Elemental Siphon Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"elemental siphon",
           "value":3
         }
       }]],
@@ -3417,18 +3127,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Elemental Storm Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"elemental storm",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Elemental Sundering Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3438,18 +3136,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"elemental sundering",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Elemental Surge Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"elemental surge",
           "value":3
         }
       }]],
@@ -3489,18 +3175,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Encase in Jade Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"encase in jade",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Enfeeble Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3534,18 +3208,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"essence drain",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Explosive Concoction Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"explosive concoction",
           "value":3
         }
       }]],
@@ -3585,18 +3247,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Exsanguinate Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"exsanguinate",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Eye of Winter Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3633,18 +3283,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Feast of Flesh Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"feast of flesh",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Fire Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3657,18 +3295,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Fire Spell on Hit Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keywordList":["fire","spell","on","hit"],
-          "value":3
-        }
-      }]],
   "+3 to Level of all Fireball Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3678,18 +3304,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"fireball",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Firebolt Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"firebolt",
           "value":3
         }
       }]],
@@ -3825,18 +3439,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Freezing Shards Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"freezing shards",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Frost Bomb Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3897,54 +3499,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Fulminating Concoction Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"fulminating concoction",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Fulmination Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"fulmination",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Future-Past Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"future-past",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Galvanic Field Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"galvanic field",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Galvanic Shards Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -3990,18 +3544,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"gathering storm",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Gemini Surge Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"gemini surge",
           "value":3
         }
       }]],
@@ -4101,18 +3643,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Heart of Ice Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"heart of ice",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Herald of Ash Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4197,54 +3727,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all His Foul Emergence Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"his foul emergence",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all His Scattering Calamity Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"his scattering calamity",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all His Vile Intrusion Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"his vile intrusion",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all His Winnowing Flame Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"his winnowing flame",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Hypothermia Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4317,30 +3799,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Icestorm Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"icestorm",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Impurity Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"impurity",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Incendiary Shot Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4365,18 +3823,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Inevitable Agony Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"inevitable agony",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Infernal Cry Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4386,18 +3832,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"infernal cry",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Into the Breach Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"into the breach",
           "value":3
         }
       }]],
@@ -4437,18 +3871,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Life Remnants Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"life remnants",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Lightning Arrow Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4458,18 +3880,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"lightning arrow",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Lightning Bolt Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"lightning bolt",
           "value":3
         }
       }]],
@@ -4545,30 +3955,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Living Bomb Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"living bomb",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Mace Strike Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"mace strike",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Magma Barrier Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4590,30 +3976,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"magnetic salvo",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Malice Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"malice",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Mana Drain Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"mana drain",
           "value":3
         }
       }]],
@@ -4641,18 +4003,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Manifest Weapon Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"manifest weapon",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Mantra of Destruction Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4662,18 +4012,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"mantra of destruction",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Meditate Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"meditate",
           "value":3
         }
       }]],
@@ -4785,18 +4123,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Parry Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"parry",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Perfect Strike Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4818,30 +4144,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"permafrost bolts",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Phantasmal Arrow Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"phantasmal arrow",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Pinnacle of Power Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"pinnacle of power",
           "value":3
         }
       }]],
@@ -4881,18 +4183,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Power Siphon Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"power siphon",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Primal Strikes Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4917,54 +4207,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Purity of Fire Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"purity of fire",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Purity of Ice Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"purity of ice",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Purity of Lightning Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"purity of lightning",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Quarterstaff Strike Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"quarterstaff strike",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Raging Spirits Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -4986,18 +4228,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"rain of arrows",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Raise Shield Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"raise shield",
           "value":3
         }
       }]],
@@ -5061,18 +4291,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Reap Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"reap",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Reaper's Invocation Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5085,18 +4303,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Requiem Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"requiem",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Resonating Shield Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5106,30 +4312,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"resonating shield",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Rhoa Mount Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"rhoa mount",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Ritual Sacrifice Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"ritual sacrifice",
           "value":3
         }
       }]],
@@ -5190,18 +4372,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"shard scavenger",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Shattering Concoction Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"shattering concoction",
           "value":3
         }
       }]],
@@ -5298,18 +4468,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"siege cascade",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Sigil of Power Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"sigil of power",
           "value":3
         }
       }]],
@@ -5421,18 +4579,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Skeletal Warrior Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"skeletal warrior",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Snap Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5481,18 +4627,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Sorcery Ward Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"sorcery ward",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Soul Offering Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5505,18 +4639,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Soulrend Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"soulrend",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Spark Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5526,30 +4648,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"spark",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Spear Stab Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"spear stab",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Spear Throw Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"spear throw",
           "value":3
         }
       }]],
@@ -5577,8 +4675,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Spectre:  Skills":[[]," Level of all :  Skills "],
-  "+3 to Level of all Spectre:  Skills +3 to Level of all Spellslinger Skills":[[]," Level of all :  Skills +3 to Level of allSkills "],
   "+3 to Level of all Spell Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5588,18 +4684,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"spell",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Spellslinger Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"spellslinger",
           "value":3
         }
       }]],
@@ -5687,7 +4771,7 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Summon Infernal Hound Skills":[[{
+  "+3 to Level of all Summon Spectre Skills":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"GemProperty",
@@ -5695,7 +4779,7 @@
         "value":{
           "key":"level",
           "keyOfScaledMod":"value",
-          "keyword":"summon infernal hound",
+          "keyword":"summon spectre",
           "value":3
         }
       }]],
@@ -5723,18 +4807,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Supporting Fire Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"supporting fire",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Tame Beast Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5747,7 +4819,7 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Temper Weapon Skills":[[{
+  "+3 to Level of all Tamed Companion Skills":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"GemProperty",
@@ -5755,7 +4827,7 @@
         "value":{
           "key":"level",
           "keyOfScaledMod":"value",
-          "keyword":"temper weapon",
+          "keyword":"tamed companion",
           "value":3
         }
       }]],
@@ -5795,30 +4867,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Temporal Rift Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"temporal rift",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Thundergod's Wrath Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"thundergod's wrath",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Thunderous Leap Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5828,30 +4876,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"thunderous leap",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Time Freeze Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"time freeze",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Time Snap Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"time snap",
           "value":3
         }
       }]],
@@ -5939,18 +4963,6 @@
           "value":3
         }
       }]],
-  "+3 to Level of all Unbound Avatar Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"unbound avatar",
-          "value":3
-        }
-      }]],
   "+3 to Level of all Unearth Skills":[[{
         "flags":0,
         "keywordFlags":0,
@@ -5960,30 +4972,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"unearth",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Unleash Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"unleash",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Valako's Charge Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"valako's charge",
           "value":3
         }
       }]],
@@ -6008,30 +4996,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"vine arrow",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Void Illusion Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"void illusion",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Volatile Dead Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"volatile dead",
           "value":3
         }
       }]],
@@ -6176,18 +5140,6 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"wind serpent's fury",
-          "value":3
-        }
-      }]],
-  "+3 to Level of all Wither Skills":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"GemProperty",
-        "type":"LIST",
-        "value":{
-          "key":"level",
-          "keyOfScaledMod":"value",
-          "keyword":"wither",
           "value":3
         }
       }]],
@@ -8873,9 +7825,9 @@
         "type":"LIST",
         "value":{
           "amount":100,
-          "chance":0.1,
           "keyOfScaledMod":"chance",
-          "type":"Physical"
+          "type":"Physical",
+          "value":10
         }
       },{
         "flags":0,
@@ -10152,6 +9104,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":10
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":10
       }]],
   "10% increased Skill Speed if you've consumed a Frenzy Charge Recently":[[{
         "flags":0,
@@ -10168,6 +9126,17 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":10,
+        "1":{
+          "limit":1,
+          "type":"Multiplier",
+          "var":"RemovableFrenzyCharge"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":10,
         "1":{
@@ -10429,6 +9398,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"MORE",
+        "value":-10
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"MORE",
         "value":-10
       }]," Movement and  per Dodge Roll in the past 20 seconds "],
@@ -10694,6 +9669,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":-10
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":-10
       }]],
@@ -12130,6 +11111,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":13
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":13
       }]],
   "13% reduced Attack Speed":[[{
         "flags":1,
@@ -13301,6 +12288,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":15
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":15
       }]],
@@ -16819,6 +15812,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":23
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":23
       }]],
   "23% increased Strength":[[{
         "flags":0,
@@ -18110,6 +17109,16 @@
           "type":"Condition",
           "var":"OffHandIsEmpty"
         }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"MORE",
+        "value":25,
+        "1":{
+          "type":"Condition",
+          "var":"OffHandIsEmpty"
+        }
       }],"   and you have "],
   "25% more Skill Speed while Off Hand is empty and you have a One-Handed Martial Weapon equipped in your Main Hand":[[{
         "flags":0,
@@ -18129,6 +17138,20 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"MORE",
+        "value":25,
+        "1":{
+          "type":"Condition",
+          "var":"UsingOneHandedWeapon"
+        },
+        "2":{
+          "type":"Condition",
+          "var":"OffHandIsEmpty"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"MORE",
         "value":25,
         "1":{
@@ -18826,6 +17849,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":3
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":3
       }]],
@@ -20045,6 +19074,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":30
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":30
       }]],
   "30% increased Spell Damage":[[{
         "flags":2,
@@ -21238,6 +20273,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":4
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":4
       }]],
   "4% increased Spell Damage per 10 Intelligence":[[{
         "flags":2,
@@ -22168,6 +21209,16 @@
           "type":"Condition",
           "var":"OpenWeaknessEnemyPresence"
         }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":40,
+        "1":{
+          "type":"Condition",
+          "var":"OpenWeaknessEnemyPresence"
+        }
       }]],
   "40% increased Spell Damage":[[{
         "flags":2,
@@ -23019,6 +22070,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":5
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":5
       }]],
@@ -24751,6 +23808,12 @@
         "name":"WarcrySpeed",
         "type":"INC",
         "value":6
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
+        "type":"INC",
+        "value":6
       }]],
   "6% increased Spell Damage":[[{
         "flags":2,
@@ -26112,6 +25175,12 @@
         "flags":0,
         "keywordFlags":0,
         "name":"WarcrySpeed",
+        "type":"INC",
+        "value":8
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"TotemPlacementSpeed",
         "type":"INC",
         "value":8
       }]],
@@ -35536,9 +34605,9 @@
         "type":"LIST",
         "value":{
           "amount":10,
-          "chance":0.05,
           "keyOfScaledMod":"chance",
-          "type":"Fire"
+          "type":"Fire",
+          "value":5
         },
         "1":{
           "actor":"enemy",
@@ -35843,9 +34912,9 @@
         "type":"LIST",
         "value":{
           "amount":10,
-          "chance":1,
           "keyOfScaledMod":"chance",
-          "type":"Physical"
+          "type":"Physical",
+          "value":100
         }
       },{
         "flags":0,
@@ -36356,9 +35425,9 @@
         "type":"LIST",
         "value":{
           "amount":25,
-          "chance":0.33,
           "keyOfScaledMod":"chance",
-          "type":"Chaos"
+          "type":"Chaos",
+          "value":33
         },
         "1":{
           "actor":"enemy",
@@ -36379,9 +35448,9 @@
         "type":"LIST",
         "value":{
           "amount":25,
-          "chance":0.33,
           "keyOfScaledMod":"chance",
-          "type":"Physical"
+          "type":"Physical",
+          "value":33
         },
         "1":{
           "actor":"enemy",
@@ -37676,9 +36745,9 @@
         "type":"LIST",
         "value":{
           "amount":25,
-          "chance":0.1,
           "keyOfScaledMod":"chance",
-          "type":"Chaos"
+          "type":"Chaos",
+          "value":10
         }
       },{
         "flags":0,
@@ -37791,9 +36860,9 @@
         "type":"LIST",
         "value":{
           "amount":10,
-          "chance":0.1,
           "keyOfScaledMod":"chance",
-          "type":"Fire"
+          "type":"Fire",
+          "value":10
         }
       },{
         "flags":0,
@@ -39937,7 +39006,7 @@
         "type":"LIST",
         "value":{
           "level":11,
-          "skillId":"LightningBoltPlayer"
+          "skillId":"UniqueBreachLightningBoltPlayer"
         }
       }]],
   "Grants Skill: Level 11 Living Bomb":[[{
@@ -40373,7 +39442,7 @@
         "type":"LIST",
         "value":{
           "level":20,
-          "skillId":"LightningBoltPlayer"
+          "skillId":"UniqueBreachLightningBoltPlayer"
         }
       }]],
   "Grants Skill: Level 20 Living Bomb":[[{
@@ -45421,6 +44490,12 @@
         "name":"WarcrySpeed",
         "type":"MORE",
         "value":30
+      },{
+        "flags":0,
+        "keywordFlags":16384,
+        "name":"TotemPlacementSpeed",
+        "type":"MORE",
+        "value":30
       }]],
   "Slam Skills have 8% increased Area of Effect":[[{
         "flags":0,
@@ -45900,9 +44975,9 @@
         "type":"LIST",
         "value":{
           "amount":10,
-          "chance":1,
           "keyOfScaledMod":"chance",
-          "type":"Physical"
+          "type":"Physical",
+          "value":100
         }
       },{
         "flags":0,
@@ -45918,9 +44993,9 @@
         "type":"LIST",
         "value":{
           "amount":25,
-          "chance":1,
           "keyOfScaledMod":"chance",
-          "type":"Physical"
+          "type":"Physical",
+          "value":100
         }
       },{
         "flags":0,

@@ -5234,6 +5234,21 @@
         "type":"PerStat"
       }
     }],
+  "off_hand_maximum_added_fire_damage_per_15_shield_evasion":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"FireMax",
+      "type":"BASE",
+      "1":{
+        "type":"Condition",
+        "var":"OffHandAttack"
+      },
+      "2":{
+        "div":15,
+        "stat":"EvasionOnWeapon 2",
+        "type":"PerStat"
+      }
+    }],
   "off_hand_maximum_added_physical_damage_per_15_shield_armour":[{
       "flags":0,
       "keywordFlags":0,
@@ -5321,6 +5336,21 @@
       "2":{
         "div":15,
         "stat":"ArmourOnWeapon 2",
+        "type":"PerStat"
+      }
+    }],
+  "off_hand_minimum_added_fire_damage_per_15_shield_evasion":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"FireMin",
+      "type":"BASE",
+      "1":{
+        "type":"Condition",
+        "var":"OffHandAttack"
+      },
+      "2":{
+        "div":15,
+        "stat":"EvasionOnWeapon 2",
         "type":"PerStat"
       }
     }],
@@ -6195,8 +6225,13 @@
       "type":"INC"
     },{
       "flags":0,
-      "keywordFlags":0,
+      "keywordFlags":4,
       "name":"WarcrySpeed",
+      "type":"INC"
+    },{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"TotemPlacementSpeed",
       "type":"INC"
     }],
   "skill_triggered_by_snipe":[{
