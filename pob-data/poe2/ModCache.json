@@ -16244,6 +16244,13 @@
         "type":"INC",
         "value":25
       }]],
+  "25% increased Bolt Speed":[[{
+        "flags":67108864,
+        "keywordFlags":0,
+        "name":"ProjectileSpeed",
+        "type":"INC",
+        "value":25
+      }]],
   "25% increased Cast Speed":[[{
         "flags":16,
         "keywordFlags":0,
@@ -18249,28 +18256,13 @@
           "var":"Surrounded"
         }
       }]],
-  "30% increased Bolt Speed":[[]," Bolt Speed "],
-  "30% increased Bolt Speed 172% increased Physical Damage":[[{
-        "flags":0,
+  "30% increased Bolt Speed":[[{
+        "flags":67108864,
         "keywordFlags":0,
-        "name":"PhysicalDamage",
+        "name":"ProjectileSpeed",
         "type":"INC",
         "value":30
-      }]," Bolt Speed 172% increased  "],
-  "30% increased Bolt Speed 60% increased Physical Damage":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"PhysicalDamage",
-        "type":"INC",
-        "value":30
-      }]," Bolt Speed 60% increased  "],
-  "30% increased Bolt Speed Adds 85 to 131 Fire Damage":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"FireDamage",
-        "type":"INC",
-        "value":30
-      }]," Bolt Speed Adds 85 to 131  "],
+      }]],
   "30% increased Cast Speed":[[{
         "flags":16,
         "keywordFlags":0,
@@ -45143,15 +45135,81 @@
         }
       }]],
   "Withered you inflict has infinite Duration":[null,"Withered you inflict has infinite Duration "],
-  "You and Allies in your Presence have +23% to Chaos Resistance":[null,"+23% to Chaos Resistance "],
-  "You and Allies in your Presence have +23% to Chaos Resistance You and Allies in your Presence have 10% increased Cooldown Recovery Rate":[null,"+23% to Chaos Resistance You and Allies in your Presence have 10% increased Cooldown Recovery Rate "],
-  "You and Allies in your Presence have 10% increased Cooldown Recovery Rate":[null,"10% increased Cooldown Recovery Rate "],
-  "You and Allies in your Presence have 10% increased Cooldown Recovery Rate 30% increased Accuracy Rating against Enemies affected by Abyssal Wasting":[null,"10% increased Cooldown Recovery Rate 30% increased Accuracy Rating against Enemies affected by Abyssal Wasting "],
-  "You and Allies in your Presence have 12% increased Attack Speed":[null,"12% increased Attack Speed "],
-  "You and Allies in your Presence have 12% increased Cast Speed":[null,"12% increased Cast Speed "],
-  "You and Allies in your Presence have 12% increased Cast Speed 30% increased chance to inflict Ailments against Enemies affected by Abyssal Wasting":[null,"12% increased Cast Speed 30% increased chance to inflict Ailments against Enemies affected by Abyssal Wasting "],
-  "You and Allies in your Presence have 28% increased Accuracy Rating":[null,"28% increased Accuracy Rating "],
-  "You and Allies in your Presence have 28% increased Accuracy Rating You and Allies in your Presence have 12% increased Attack Speed":[null,"28% increased Accuracy Rating You and Allies in your Presence have 12% increased Attack Speed "],
+  "You and Allies in your Presence have +23% to Chaos Resistance":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"ChaosResist",
+            "type":"BASE",
+            "value":23
+          }
+        }
+      }]],
+  "You and Allies in your Presence have 10% increased Cooldown Recovery Rate":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"CooldownRecovery",
+            "type":"INC",
+            "value":10
+          }
+        }
+      }]],
+  "You and Allies in your Presence have 12% increased Attack Speed":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":1,
+            "keywordFlags":0,
+            "name":"Speed",
+            "type":"INC",
+            "value":12
+          }
+        }
+      }]],
+  "You and Allies in your Presence have 12% increased Cast Speed":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":16,
+            "keywordFlags":0,
+            "name":"Speed",
+            "type":"INC",
+            "value":12
+          }
+        }
+      }]],
+  "You and Allies in your Presence have 28% increased Accuracy Rating":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraAura",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"Accuracy",
+            "type":"INC",
+            "value":28
+          }
+        }
+      }]],
   "You are Blind":[[{
         "flags":0,
         "keywordFlags":0,
