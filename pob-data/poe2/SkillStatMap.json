@@ -2339,7 +2339,6 @@
       "name":"BlindEffect",
       "type":"INC",
       "1":{
-        "effectName":"Vaal Blade Flurry",
         "effectType":"Debuff",
         "type":"GlobalEffect"
       }

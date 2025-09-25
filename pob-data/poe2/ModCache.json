@@ -9247,8 +9247,14 @@
         "keywordFlags":0,
         "name":"StunThreshold",
         "type":"INC",
-        "value":10
-      }],"  for each time you've been Hit by an Enemy Recently, up to 100% "],
+        "value":10,
+        "1":{
+          "limit":100,
+          "limitTotal":true,
+          "type":"Multiplier",
+          "var":"BeenHitRecently"
+        }
+      }]],
   "10% increased Thorns damage":[[{
         "flags":0,
         "keywordFlags":0,

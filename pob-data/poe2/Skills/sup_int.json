@@ -2424,6 +2424,14 @@
             "actorLevel":1
           }],
         "statDescriptionScope":"gem_stat_descriptions",
+        "statMap":{
+          "support_focus_curse_curse_delay_+%_final":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"CurseDelay",
+              "type":"MORE"
+            }]
+        },
         "stats":[]
       }],
     "support":true
