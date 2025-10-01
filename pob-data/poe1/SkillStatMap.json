@@ -1484,6 +1484,15 @@
       "type":"BASE"
     }
   },
+  "base_number_of_projectiles_in_spiral_nova":{
+    "base":-1,
+    "1":{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"ProjectileCount",
+      "type":"BASE"
+    }
+  },
   "base_number_of_raging_spirits_allowed":[{
       "flags":0,
       "keywordFlags":0,
