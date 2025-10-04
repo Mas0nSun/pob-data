@@ -18,6 +18,8 @@
     "type":"Bow",
     "weapon":{
       "AttackRateBase":1.2,
+      "ChaosMax":59,
+      "ChaosMin":31,
       "CritChanceBase":5,
       "PhysicalMax":34,
       "PhysicalMin":21,
@@ -145,6 +147,8 @@
     "type":"Bow",
     "weapon":{
       "AttackRateBase":1.2,
+      "ChaosMax":37,
+      "ChaosMin":19,
       "CritChanceBase":5,
       "PhysicalMax":17,
       "PhysicalMin":10,
@@ -222,6 +226,8 @@
     "type":"Bow",
     "weapon":{
       "AttackRateBase":1.2,
+      "ChaosMax":71,
+      "ChaosMin":43,
       "CritChanceBase":5,
       "PhysicalMax":70,
       "PhysicalMin":42,

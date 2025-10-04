@@ -1806,6 +1806,15 @@
             "actorLevel":1
           }],
         "statDescriptionScope":"gem_stat_descriptions",
+        "statMap":{
+          "all_damage_gained_as_cold_instead":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"DamageGainIsOnlyCold",
+              "type":"FLAG",
+              "value":true
+            }]
+        },
         "stats":["all_damage_gained_as_cold_instead"]
       }],
     "support":true
@@ -3191,7 +3200,7 @@
           }],
         "statDescriptionScope":"gem_stat_descriptions",
         "statMap":{
-          "support_area_concentrate_area_damage_+%_final":[{
+          "support_increased_area_damage_+%_final":[{
               "flags":512,
               "keywordFlags":0,
               "name":"Damage",

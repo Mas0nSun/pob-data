@@ -199,7 +199,7 @@
     "monsterTags":["allows_additional_projectiles","allows_inc_aoe","beast","Beast_onhit_audio","insect","monster_applies_poison","monster_summons_adds","not_int","not_str","physical_affinity","ranged","very_slow_movement"],
     "name":"Bane Sapling",
     "skillList":["MMSBaneSapling","SSMBaneSaplingAntRing","GTBaneSaplingAntRing","GSBaneSaplingMortarImpact","GSBaneSaplingMortarImpactWall"],
-    "spawnLocation":["Glacial Tarn (Act 6)","Hive (Map)","Infested Barrens (Act 3)","Jungle Ruins (Act 3)"],
+    "spawnLocation":["Glacial Tarn (Act 6)","Infested Barrens (Act 3)","Jungle Ruins (Act 3)"],
     "spectreReservation":59
   },
   "Metadata/Monsters/Baron/BaronWerewolfSummon":{
@@ -380,7 +380,7 @@
         "value":2.633
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["allows_inc_aoe","Claw_onhit_audio","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood","slow_movement"],
+    "monsterTags":["allows_inc_aoe","human","humanoid","karui","melee","MonsterBlunt_onhit_audio","not_dex","not_int","physical_affinity","red_blood","slow_movement"],
     "name":"Blood-fevered Plaguespreader",
     "skillList":["MeleeAtAnimationSpeed","EASBloodFeverBloaterPustuleSpread","CGEBloodFeverBloaterPustules","GSBloodFeverPustuleExplosion","EASBloodFeverBloaterRightrousFlier","SOBloodfeverPustules","SOBloodfeverPustulesSpectre","EASBloodFeverBloaterPustuleSpreadSpectre"],
     "spawnLocation":["Heart of the Tribe (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -492,7 +492,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Humanoid",
-    "monsterTags":["1HSword_onhit_audio","human","humanoid","karui","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["2HBluntStone_onhit_audio","human","humanoid","karui","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
     "name":"Blood-fevered Hookman",
     "skillList":["MeleeAtAnimationSpeedComboTEMP","MeleeAtAnimationSpeedHookThrow"],
     "spawnLocation":["Heart of the Tribe (Act 4)","Ngakanu (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -521,7 +521,7 @@
         "value":2.275
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","fast_movement","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["fast_movement","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Blood-fevered Axeman",
     "skillList":["MeleeAtAnimationSpeed","MPSBloodfeverBloodPustule"],
     "spawnLocation":["Heart of the Tribe (Act 4)","Ngakanu (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -551,7 +551,7 @@
         "value":2.275
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HBluntWood_onhit_audio","fast_movement","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["fast_movement","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Blood-fevered Maceman",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Heart of the Tribe (Act 4)","Ngakanu (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -581,7 +581,7 @@
         "value":2.3
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood","very_slow_movement"],
+    "monsterTags":["human","humanoid","karui","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio","very_slow_movement"],
     "name":"Blood-fevered Warrior",
     "skillList":["MeleeAtAnimationSpeed","DTTKaruiBloodFever2HLeap","GABloodFeverLeapImpact","GABloodFeverAxeChop","CGEBloodfeverKaruiFast"],
     "spawnLocation":["Heart of the Tribe (Act 4)","Ngakanu (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -640,7 +640,7 @@
         "value":2.333
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["fast_movement","human","humanoid","karui","melee","not_int","not_str","physical_affinity","red_blood","Stab_onhit_audio"],
+    "monsterTags":["fast_movement","human","humanoid","karui","melee","MonsterStab_onhit_audio","not_int","not_str","physical_affinity","red_blood"],
     "name":"Blood-fevered Spearman",
     "skillList":["MeleeAtAnimationSpeedComboTEMP","MeleeAtAnimationSpeedComboTEMP2"],
     "spawnLocation":["Heart of the Tribe (Act 4)","The Jade Isles (Map)","Found in Maps"],
@@ -1448,7 +1448,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["allows_additional_projectiles","beast","Beast_onhit_audio","caster","cold_affinity","humanoid","medium_movement","melee","not_str","physical_affinity","red_blood"],
+    "monsterTags":["allows_additional_projectiles","beast","caster","cold_affinity","humanoid","medium_movement","melee","not_str","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Brine Maiden",
     "skillList":["MeleeAtAnimationSpeed","GTBrineMaidenScreech","GSBrineMaidenScreech","BrineMaidenIceBarage","MPSBrineMaidenIceProjectile","GSSirenArenaEmergeStalagmiteBreakInwardEG"],
     "spawnLocation":["Howling Caves (Act 6)","Rugosa (Map)","Singing Caverns (Act 4)","Found in Maps"],
@@ -1830,7 +1830,7 @@
         "value":2.9
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["allows_inc_aoe","beast","Claw_onhit_audio","fast_movement","melee","not_dex","not_int","physical_affinity","primate_beast","quest_null_monster_mods","red_blood"],
+    "monsterTags":["allows_inc_aoe","beast","fast_movement","melee","MonsterBlunt_onhit_audio","not_dex","not_int","physical_affinity","primate_beast","quest_null_monster_mods","red_blood"],
     "name":"Stoneclad Gorilla",
     "skillList":["MeleeAtAnimationSpeed","DTTChaosGodGorillaLeapSlam","GAChaosGodGorillaLeapSlamImpact","MASChaosGodGorillaExtraAttackDistance9","GAChaosGodGorillaSlam"],
     "spawnLocation":["Kriar Peaks (Act 6)"],
@@ -1859,7 +1859,7 @@
         "value":2.216
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","Claw_onhit_audio","feline_beast","medium_movement","melee","not_int","not_str","physical_affinity","quest_null_monster_mods","red_blood"],
+    "monsterTags":["beast","Beast_onhit_audio","feline_beast","medium_movement","melee","not_int","not_str","physical_affinity","quest_null_monster_mods","red_blood"],
     "name":"Scute Lizard",
     "skillList":["MeleeAtAnimationSpeed","MeleeAtAnimationSpeed2"],
     "spawnLocation":[],
@@ -1889,7 +1889,7 @@
         "value":2.467
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","Claw_onhit_audio","mammal_beast","melee","not_int","physical_affinity","quest_null_monster_mods","red_blood","very_slow_movement"],
+    "monsterTags":["beast","mammal_beast","melee","not_int","physical_affinity","quest_null_monster_mods","red_blood","Unarmed_onhit_audio","very_slow_movement"],
     "name":"Petulant Stonemaw",
     "skillList":["MeleeAtAnimationSpeed","TCChaosGodRangedFodder"],
     "spawnLocation":[],
@@ -1922,7 +1922,7 @@
         "value":3.1
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["allows_inc_aoe","beast","Claw_onhit_audio","mammal_beast","melee","not_str","physical_affinity","quest_null_monster_mods","ranged","red_blood","very_slow_movement"],
+    "monsterTags":["allows_inc_aoe","beast","mammal_beast","melee","not_str","physical_affinity","quest_null_monster_mods","ranged","red_blood","Unarmed_onhit_audio","very_slow_movement"],
     "name":"Cerberic Bat",
     "skillList":["MeleeAtAnimationSpeed","DTTChaosGodTriheadBatLeapSlam","EASChaosGodTriheadBatSonicBlast","GSChaosGodTriheadBatSonicBlastSingle","GAChaosGodTriheadBatLeapSlamImpact","EASChaosGodTriheadBatPoisonBlast","SOChaosGodTriheadBatSummonPoison","GSChaosGodTriheadBatExplosion","MPWTriHeadLizardPosionSpray","CGETriheadBatPoisonGround","GSChaosGodTriheadBatPoisonBlastSingle"],
     "spawnLocation":["Kriar Peaks (Act 6)"],
@@ -1951,7 +1951,7 @@
         "value":3.483
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["Claw_onhit_audio","demon","not_dex","not_str","quest_null_monster_mods","red_blood","very_slow_movement"],
+    "monsterTags":["demon","not_dex","not_str","quest_null_monster_mods","red_blood","Unarmed_onhit_audio","very_slow_movement"],
     "name":"Saurian Servant",
     "skillList":["MPSChaosGodTriHeadLizardBasicProjectile","EDSChaosLizardBreathe","GTChaosTriHeadLizardThing"],
     "spawnLocation":[],
@@ -2438,7 +2438,7 @@
         "value":2.866
       }],
     "monsterCategory":"Undead",
-    "monsterTags":["2HBluntWood_onhit_audio","allows_inc_aoe","fire_affinity","melee_mod","physical_affinity","undead","very_slow_movement","zombie"],
+    "monsterTags":["allows_inc_aoe","fire_affinity","melee_mod","physical_affinity","Unarmed_onhit_audio","undead","very_slow_movement","zombie"],
     "name":"Drowned Bearer",
     "skillList":["MASStatueWretchPush","GAFigureheadSlamGhostFlame"],
     "spawnLocation":["Castaway (Map)","Flotsam (Map)","Kedge Bay (Act 4)","Found in Maps"],
@@ -2826,7 +2826,7 @@
         "value":2.283
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["allows_additional_projectiles","allows_inc_aoe","human","humanoid","medium_movement","not_int","not_str","physical_affinity","ranged","red_blood","Stab_onhit_audio"],
+    "monsterTags":["allows_additional_projectiles","allows_inc_aoe","human","humanoid","medium_movement","not_int","not_str","physical_affinity","ranged","red_blood","Unarmed_onhit_audio"],
     "name":"Ancestral Archer",
     "skillList":["MeleeAtAnimationSpeed","SnipeFallenKaruiArcher","GAFallenKaruiArcherImpact","GAFallenKaruiArcherJadeRainSingle","GTFallenKaruiArcherJadeRain"],
     "spawnLocation":["Halls of the Dead (Act 4)","Sinkhole (Map)","Found in Maps"],
@@ -2856,7 +2856,7 @@
         "value":2.866
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HBluntWood_onhit_audio","human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Ancestral Headtaker",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Halls of the Dead (Act 4)","Sinkhole (Map)","Found in Maps"],
@@ -2898,7 +2898,7 @@
         "value":2.283
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","fast_movement","human","humanoid","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["fast_movement","human","humanoid","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Ancestral Guardian",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Halls of the Dead (Act 4)","Sinkhole (Map)","Found in Maps"],
@@ -2929,7 +2929,7 @@
         "value":2.283
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","allows_inc_aoe","human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["allows_inc_aoe","human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Ancestral Warrior",
     "skillList":["MeleeAtAnimationSpeed","EESFallenKaruiBuffSelf"],
     "spawnLocation":["Halls of the Dead (Act 4)","Sinkhole (Map)","Found in Maps"],
@@ -3620,7 +3620,7 @@
         "value":3.833
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","humanoid","medium_movement","melee","not_int","not_str","physical_affinity","red_blood","Unarmed_onhit_audio"],
+    "monsterTags":["beast","Beast_onhit_audio","humanoid","medium_movement","melee","not_int","not_str","physical_affinity","red_blood"],
     "name":"Manshrike",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Shrike Island (Act 4)","Found in Maps"],
@@ -4353,7 +4353,7 @@
         "value":2.25
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_inc_aoe","blackblood_faction","demon","medium_movement"],
+    "monsterTags":["abyssal","allows_inc_aoe","blackblood_faction","demon","medium_movement","Unarmed_onhit_audio"],
     "name":"Blackblooded Proboscite",
     "skillList":["MeleeAtAnimationSpeed","CGEAbyssLivingBloodGround","MASExtraAttackDistance20","GSAbyssCollectorExplodeOnDeath"],
     "spawnLocation":["Abyssal Depths (Act 2)","Dark Domain","Lightless Passage (Act 2)"],
@@ -4410,7 +4410,7 @@
         "value":2.5
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","blackblood_faction","cold_affinity","demon","medium_movement","not_dex","not_str"],
+    "monsterTags":["abyssal","blackblood_faction","cold_affinity","demon","medium_movement","not_dex","not_str","Unarmed_onhit_audio"],
     "name":"Blackblooded Elite",
     "skillList":["MPSAbyssPaleEliteSnowBall","GSAbyssPaleEliteBeam","TeleportHellscapePaleElite","GSAbyssPaleEliteBeamLong","EASAbyssPaleEliteBeamLong","GSAbyssPaleEliteSnowBallImpact"],
     "spawnLocation":["Abyssal Depths (Act 2)","Dark Domain","Lightless Passage (Act 2)"],
@@ -4438,7 +4438,7 @@
         "value":2.116
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_inc_aoe","blackblood_faction","demon","fast_movement"],
+    "monsterTags":["abyssal","allows_inc_aoe","blackblood_faction","demon","fast_movement","Unarmed_onhit_audio"],
     "name":"Blackblooded Blisterboil",
     "skillList":["MeleeAtAnimationSpeed","GSPaleCrawlerExplode5","EASPaleCrawlerExplode"],
     "spawnLocation":["Abyssal Depths (Act 2)","Dark Domain","Lightless Passage (Act 2)"],
@@ -4466,7 +4466,7 @@
         "value":3
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_inc_aoe","blackblood_faction","cold_affinity","demon","melee","very_slow_movement"],
+    "monsterTags":["abyssal","allows_inc_aoe","Beast_onhit_audio","blackblood_faction","cold_affinity","demon","melee","very_slow_movement"],
     "name":"Blackblooded Tarhulk",
     "skillList":["MeleeAtAnimationSpeed","MPSAbyssHulkIceShatter","GSAbyssHulkIceExplode","GTAbyssHulkIceExplode"],
     "spawnLocation":["Abyssal Depths (Act 2)","Dark Domain"],
@@ -4488,7 +4488,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","demon","insect","medium_movement","melee","Stab_onhit_audio"],
+    "monsterTags":["abyssal","demon","insect","medium_movement","melee","Unarmed_onhit_audio"],
     "name":"Gargantuan Larva",
     "skillList":["MeleeAtAnimationSpeed","HuhuGrubLarvaeMortar","HuhuGrubRangedStanceChange"],
     "spawnLocation":["Abyssal Depths (Act 2)","Dark Domain","Lightless Passage (Act 2)","Lightless Void"],
@@ -4600,7 +4600,7 @@
         "value":2.833
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","Beast_onhit_audio","demon","fast_movement","fire_affinity","lightless_faction"],
+    "monsterTags":["abyssal","demon","fast_movement","fire_affinity","lightless_faction","Unarmed_onhit_audio"],
     "name":"Lightless Vengewing",
     "skillList":["MeleeAtAnimationSpeed","TBAbyssCarrionWingBeam","GSAbyssCarrionWingBeamImpact","DTTCarrionWingDodgeLeft","DTTCarrionWingDodgeRight"],
     "spawnLocation":["Abyssal Depths (Act 2)","Lightless Passage (Act 2)","Lightless Void"],
@@ -4623,7 +4623,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","demon","fire_affinity","lightless_faction","medium_movement","not_dex","not_int"],
+    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","Beast_onhit_audio","demon","fire_affinity","lightless_faction","medium_movement","not_dex","not_int"],
     "name":"Lightless Abomination",
     "skillList":["MeleeAtAnimationSpeed","MPSAbyssCocoon3BallSpit","GSAbyssCocoon3BallSpitImpact","GSAbyssCocoon3BallSpitImpactWall","CGEAbyssCocoon3FlameGeyser","GTAbyssCocoon3FlameGeyser","MPSAbyssCocoon3BallSpitSmall","GSAbyssCocoon3BallSpitSmallImpact","GSAbyssCocoon3BallSpitSmallImpactWall","MMSAbyssCocoon3ChargedMortar","EASAbyssCocoon3ChargedMortar"],
     "spawnLocation":["Abyssal Depths (Act 2)","Lightless Void"],
@@ -4653,7 +4653,7 @@
         "value":4.066
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","Claw_onhit_audio","demon","fast_movement","fire_affinity","lightless_faction","not_dex","ranged"],
+    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","demon","fast_movement","fire_affinity","lightless_faction","not_dex","ranged","Unarmed_onhit_audio"],
     "name":"Lightless Moray",
     "skillList":["MeleeAtAnimationSpeed","EDSAbyssMorayClanFlamethrower","CTS2AbyssMorayClan","GSAbyssMorayClanShadeFormErupt","GAAbyssMorayClanTailSwipeDetonation","MPSAbyssPaleEliteFireball","GSAbyssPaleEliteFireball"],
     "spawnLocation":["Abyssal Depths (Act 2)","Lightless Passage (Act 2)","Lightless Void"],
@@ -4681,7 +4681,7 @@
         "value":4.067
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","demon","fast_movement","fire_affinity","lightless_faction"],
+    "monsterTags":["abyssal","allows_additional_projectiles","allows_inc_aoe","Claw_onhit_audio","demon","fast_movement","fire_affinity","lightless_faction"],
     "name":"Lightless Serpent",
     "skillList":["MeleeAtAnimationSpeed","CGEAbyssSerpentColdDOT","MAASAbyssSerpentEmerge","GSAbyssSerpentColdExplode"],
     "spawnLocation":["Abyssal Depths (Act 2)","Lightless Passage (Act 2)","Lightless Void"],
@@ -4710,7 +4710,7 @@
         "value":4.133
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","allows_additional_projectiles","demon","lightning_affinity","MonsterStab_onhit_audio","not_dex","not_int","pit_faction","ranged","very_fast_movement"],
+    "monsterTags":["abyssal","allows_additional_projectiles","demon","lightning_affinity","not_dex","not_int","pit_faction","ranged","SpearMetal_onhit_audio","very_fast_movement"],
     "name":"Strider of the Pit",
     "skillList":["MeleeAtAnimationSpeed","GAAbyssCorpseStrideSlams","EAAAbyssCorpseStrideSlams","GSAbyssCorpseStriderLighting","GTAbyssCorpseStriderLighting"],
     "spawnLocation":["Abyssal Depths (Act 2)","Lightless Passage (Act 2)"],
@@ -4767,7 +4767,7 @@
         "value":2.116
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","demon","melee","not_int","not_str","pit_faction","very_fast_movement"],
+    "monsterTags":["abyssal","demon","melee","not_int","not_str","pit_faction","Snap_onhit_audio","very_fast_movement"],
     "name":"Hound of the Pit",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Abyssal Depths (Act 2)"],
@@ -4796,7 +4796,7 @@
         "value":2.116
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","demon","medium_movement","melee","not_int","not_str","pit_faction"],
+    "monsterTags":["abyssal","demon","medium_movement","melee","not_int","not_str","pit_faction","Snap_onhit_audio"],
     "name":"Hound of the Pit",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Abyssal Depths (Act 2)"],
@@ -4819,7 +4819,7 @@
     "lightningResist":30,
     "modList":[],
     "monsterCategory":"Demon",
-    "monsterTags":["abyssal","Claw_onhit_audio","demon","medium_movement","melee","not_int","not_str","pit_faction"],
+    "monsterTags":["abyssal","demon","medium_movement","melee","not_int","not_str","pit_faction","Unarmed_onhit_audio"],
     "name":"Primordium of the Pit",
     "skillList":["MeleeAtAnimationSpeed","GSAbyssPrimordialMonsterScreech","DTTPrimordialBeast3LeapAttack","GAPrimordialMonster3Leap"],
     "spawnLocation":["Abyssal Depths (Act 2)"],
@@ -5070,7 +5070,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Undead",
-    "monsterTags":["allows_additional_projectiles","bone_armour","bones","cold_affinity","fire_affinity","humanoid","is_unarmed","not_dex","not_int","puncturing_weapon","ranged","skeleton","Stab_onhit_audio","undead","very_slow_movement"],
+    "monsterTags":["allows_additional_projectiles","bone_armour","bones","cold_affinity","fire_affinity","humanoid","is_unarmed","not_dex","not_int","puncturing_weapon","ranged","skeleton","Unarmed_onhit_audio","undead","very_slow_movement"],
     "name":"Black Scythe Arbalist",
     "skillList":["MPWExpeditionArbalestProjectile","MPWExpeditionArbalestSnipe","SpawnObjectExpeditionArbalestSnipeObject","GSExpeditionArbalestObjectExplosion","GTExpeditionArbalestRainOfArrows","ExpeditionArbalestRainOfArrows","EDSExpeditionArbalestROAMarker","SSMArbalestGroundSpawn"],
     "spawnLocation":[],
@@ -5148,7 +5148,7 @@
         "value":3.333
       }],
     "monsterCategory":"Undead",
-    "monsterTags":["1HSword_onhit_audio","bone_armour","bones","caster","cold_affinity","is_unarmed","not_dex","not_int","skeleton","slashing_weapon","slow_movement","undead","ward_armour"],
+    "monsterTags":["Beast_onhit_audio","bone_armour","bones","caster","cold_affinity","is_unarmed","not_dex","not_int","skeleton","slashing_weapon","slow_movement","undead","ward_armour"],
     "name":"Priest of the Chalice",
     "skillList":["EDSGolemancerReapLeft","EDSGolemancerReapRight","SSMExpeditionVolatileZombie"],
     "spawnLocation":[],
@@ -5239,7 +5239,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Undead",
-    "monsterTags":["animal_claw_weapon","beast","bone_armour","Claw_onhit_audio","fast_movement","is_unarmed","melee","physical_affinity","rodent_beast","undead"],
+    "monsterTags":["animal_claw_weapon","beast","bone_armour","fast_movement","is_unarmed","melee","physical_affinity","rodent_beast","Snap_onhit_audio","undead"],
     "name":"Druidic Familiar",
     "skillList":["MeleeAtAnimationSpeedComboTEMP"],
     "spawnLocation":[],
@@ -5379,7 +5379,7 @@
         "value":2.3
       }],
     "monsterCategory":"Undead",
-    "monsterTags":["1HSword_onhit_audio","bones","is_unarmed","melee","metal_armour","not_dex","not_int","physical_affinity","skeleton","slashing_weapon","undead","very_slow_movement","ward_armour"],
+    "monsterTags":["2HSharpMetal_onhit_audio","bones","is_unarmed","melee","metal_armour","not_dex","not_int","physical_affinity","skeleton","slashing_weapon","undead","very_slow_movement","ward_armour"],
     "name":"Order Ostiary",
     "skillList":["MeleeAtAnimationSpeed","ExpeditionMegaSkeletonHeavyMelee","ExpeditionMegaSkeletonCleave"],
     "spawnLocation":[],
@@ -5437,7 +5437,7 @@
         "value":2.233
       }],
     "monsterCategory":"Undead",
-    "monsterTags":["caster","fast_movement","fire_affinity","has_staff","has_two_handed_melee","humanoid","lightning_affinity","metal_armour","not_dex","not_int","puncturing_weapon","ranged","Stab_onhit_audio","undead","ward_armour"],
+    "monsterTags":["caster","fast_movement","fire_affinity","has_staff","has_two_handed_melee","humanoid","lightning_affinity","metal_armour","not_dex","not_int","puncturing_weapon","ranged","Unarmed_onhit_audio","undead","ward_armour"],
     "name":"Runed Knight",
     "skillList":["MPSArmourCasterBasic","ExpeditionGroundLaser","EASArmourCasterSpawnVolatiles","SOArmourCasterSpawnVolatiles","GTArmourCasterSpawnVolatiles","EGArmourCasterActivateVolatiles","GSArmourCasterVolatileExplode"],
     "spawnLocation":[],
@@ -7367,7 +7367,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","Beast_onhit_audio","medium_movement","not_int","not_str","red_blood"],
+    "monsterTags":["beast","medium_movement","MonsterStab_onhit_audio","not_int","not_str","red_blood"],
     "name":"Infested Anglerfish",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Isle of Decay (Act 4)"],
@@ -7391,7 +7391,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","medium_movement","not_int","red_blood","Stab_onhit_audio"],
+    "monsterTags":["beast","medium_movement","not_int","red_blood","Unarmed_onhit_audio"],
     "name":"Infested Manta",
     "skillList":["MeleeAtAnimationSpeed","GTMantarayShotgun","GSMantarayBeam"],
     "spawnLocation":["Isle of Decay (Act 4)"],
@@ -7413,7 +7413,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","Claw_onhit_audio","medium_movement","red_blood"],
+    "monsterTags":["beast","Beast_onhit_audio","medium_movement","red_blood"],
     "name":"Infested Octopus",
     "skillList":["MeleeAtAnimationSpeed","MPAOctopusTongueProj","EDSOctopusParasiteInkSpray"],
     "spawnLocation":["Isle of Decay (Act 4)"],
@@ -7436,7 +7436,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["beast","Claw_onhit_audio","medium_movement","not_dex","not_int","red_blood"],
+    "monsterTags":["beast","medium_movement","MonsterStab_onhit_audio","not_dex","not_int","red_blood"],
     "name":"Infested Turtle",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Isle of Decay (Act 4)"],
@@ -7794,7 +7794,7 @@
     "monsterTags":["allows_additional_projectiles","allows_inc_aoe","beast","caster","insect","melee","MonsterStab_onhit_audio","not_int","not_str","physical_affinity","ranged","red_blood","slow_movement"],
     "name":"Plague Nymph",
     "skillList":["MeleeAtAnimationSpeed"],
-    "spawnLocation":["Howling Caves (Act 6)","Mawdun Mine (Act 2)","Pools of Khatal (Act 6)","The Dreadnought's Wake (Act 2)","Found in Maps"],
+    "spawnLocation":["Hive (Map)","Howling Caves (Act 6)","Mawdun Mine (Act 2)","Pools of Khatal (Act 6)","The Dreadnought's Wake (Act 2)","Found in Maps"],
     "spectreReservation":59
   },
   "Metadata/Monsters/PlagueSwarm/BloodDrone":{
@@ -8187,7 +8187,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Beast",
-    "monsterTags":["amphibian_beast","beast","Beast_onhit_audio","medium_movement","melee","not_int","not_str","physical_affinity","red_blood"],
+    "monsterTags":["amphibian_beast","beast","medium_movement","melee","not_int","not_str","physical_affinity","red_blood","Unarmed_onhit_audio"],
     "name":"Amphibious Prowler",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Singing Caverns (Act 4)","Found in Maps"],
@@ -8852,7 +8852,7 @@
         "value":1.533
       }],
     "monsterCategory":"Demon",
-    "monsterTags":["demon","MonsterStab_onhit_audio","mud_blood","not_int","not_str","very_slow_movement"],
+    "monsterTags":["Claw_onhit_audio","demon","mud_blood","not_int","not_str","very_slow_movement"],
     "name":"Fettered Hook",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":[],
@@ -9307,7 +9307,7 @@
         "value":2.4
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["allows_additional_projectiles","allows_inc_aoe","beast","crustacean_beast","fire","fire_affinity","melee","MonsterStab_onhit_audio","not_dex","not_int","ranged","slow_movement"],
+    "monsterTags":["allows_additional_projectiles","allows_inc_aoe","beast","crustacean_beast","fire","fire_affinity","melee","not_dex","not_int","ranged","slow_movement","Snap_onhit_audio"],
     "name":"Brimstone Crab",
     "skillList":["MeleeAtAnimationSpeedComboTEMP","ShellMonsterFirehose","ShellMonsterDeathMortar","EDSShellMonsterFlamethrower","ShellMonsterSprayMortar"],
     "spawnLocation":["Crimson Shores (Map)","Found in Maps","Trial of the Sekhemas (Floor 1)","Trial of the Sekhemas (Floor 3)","Vastiri Outskirts (Act 2)"],
@@ -9336,7 +9336,7 @@
         "value":2.4
       }],
     "monsterCategory":"Beast",
-    "monsterTags":["allows_additional_projectiles","beast","crustacean_beast","MonsterStab_onhit_audio","not_dex","not_int","physical_affinity","ranged","slow_movement"],
+    "monsterTags":["allows_additional_projectiles","beast","crustacean_beast","not_dex","not_int","physical_affinity","ranged","slow_movement","Snap_onhit_audio"],
     "name":"Caustic Crab",
     "skillList":["MeleeAtAnimationSpeedComboTEMP","ShellMonsterDeathMortarPoison","EDSShellMonsterPoisonSpray","ShellMonsterSprayMortarPoison"],
     "spawnLocation":["Shoreline Hideout (Act 4)","Found in Maps","Untainted Paradise (Map)","Whakapanu Island (Act 4)"],
@@ -10268,28 +10268,6 @@
     "spawnLocation":["Buried Shrines (Act 2)","Channel (Map)","Qimah Reservoir (Act 6)","The Lost City (Act 2)","Found in Maps","Trial of the Sekhemas (Floor 2)","Trial of the Sekhemas (Floor 3)","Trial of the Sekhemas (Floor 4)"],
     "spectreReservation":53
   },
-  "Metadata/Monsters/SwarmHost/SwarmHost":{
-    "accuracy":1,
-    "attackRange":20,
-    "attackTime":1.5,
-    "baseDamageIgnoresAttackSpeed":true,
-    "baseMovementSpeed":11,
-    "chaosResist":0,
-    "coldResist":0,
-    "companionReservation":47.4,
-    "damage":2,
-    "damageSpread":0.2,
-    "fireResist":-30,
-    "life":2.5,
-    "lightningResist":0,
-    "modList":[],
-    "monsterCategory":"Beast",
-    "monsterTags":["allows_inc_aoe","beast","Beast_onhit_audio","insect","melee","monster_applies_poison","monster_has_on_death_mechanic","monster_summons_adds","physical_affinity","very_slow_movement"],
-    "name":"Bloodthief Queen",
-    "skillList":["MeleeAtAnimationSpeed","EASSwarmHostDroneSpawn","EDSSwarmHostGasSpray","TranslateRotateSwarmHostRight90","TranslateRotateSwarmHostLeft90","TranslateRotateSwarmHostRight180","TranslateRotateSwarmHostLeft180","TranslateRotateSwarmHostForward","EASSwarmHostViolentLeftTurn","EASSwarmHostViolentRightTurn","GSSwarmHostDeathExplode"],
-    "spawnLocation":["Qimah (Act 6)","Sandswept Marsh (Act 3)","Found in Maps"],
-    "spectreReservation":99
-  },
   "Metadata/Monsters/Taniwha/RiverTaniwhaNoJank":{
     "accuracy":1,
     "attackRange":9,
@@ -10298,12 +10276,12 @@
     "baseMovementSpeed":28,
     "chaosResist":0,
     "coldResist":30,
-    "companionReservation":35.4,
-    "damage":1.4,
+    "companionReservation":33.6,
+    "damage":1.25,
     "damageSpread":0.2,
     "evasion":0.2,
     "fireResist":0,
-    "life":1.4,
+    "life":1.25,
     "lightningResist":0,
     "modList":[{
         "flags":0,
@@ -10317,7 +10295,7 @@
     "name":"River Drake",
     "skillList":["MeleeAtAnimationSpeedComboTEMP","EDSRiverTaniwhaCloudSpray","CGERiverTaniwhaPoisonGround","EASFishJump"],
     "spawnLocation":["Chimeral Wetlands (Act 3)","Creek (Map)","The Drowned City (Act 3)","The Matlan Waterways (Act 3)","Found in Maps"],
-    "spectreReservation":64
+    "spectreReservation":59
   },
   "Metadata/Monsters/TarHulk/PaleHulk_":{
     "accuracy":1,
@@ -10453,7 +10431,7 @@
     "monsterTags":["Claw_onhit_audio","demon","humanoid","melee","physical_affinity","red_blood","very_slow_movement"],
     "name":"Iron Enforcer",
     "skillList":["MeleeAtAnimationSpeed","MAASCountEnforcerPullBite","EGCountsEnforcerPull","EASCountEnforcerPullFail","GACountsGuardBloaterTentacleHit"],
-    "spawnLocation":["Holten Estate (Act 6)","Ogham Manor (Act 1)","Found in Maps"],
+    "spawnLocation":["Holten Estate (Act 6)","Ogham Manor (Act 1)"],
     "spectreReservation":71
   },
   "Metadata/Monsters/TheCountsEliteGuardCorrupted/Ranged/CorruptedEliteRanger_":{
@@ -10701,7 +10679,7 @@
         "value":2.45
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["1HSword_onhit_audio","allows_inc_aoe","fast_movement","humanoid","lightning_affinity","melee","physical_affinity","red_blood"],
+    "monsterTags":["1HBluntStone_onhit_audio","allows_inc_aoe","fast_movement","humanoid","lightning_affinity","melee","physical_affinity","red_blood"],
     "name":"Zealous Guard",
     "skillList":["MeleeAtAnimationSpeed","MASExtraAttackDistance6"],
     "spawnLocation":["Digsite (Map)","The Excavation (Act 4)","Found in Maps"],
@@ -10807,7 +10785,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HBluntMetal_onhit_audio","allows_inc_aoe","humanoid","lightning_affinity","melee","physical_affinity","red_blood","very_slow_movement"],
+    "monsterTags":["1HBluntMetal_onhit_audio","allows_inc_aoe","humanoid","lightning_affinity","melee","physical_affinity","red_blood","very_slow_movement"],
     "name":"Zealous Shockwarden",
     "skillList":["TBExcavatorSceptreErraticBeam","GTExcavatorSceptreErraticBeam"],
     "spawnLocation":["Digsite (Map)","The Excavation (Act 4)","Found in Maps"],
@@ -10895,7 +10873,7 @@
         "value":3.333
       }],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","allows_inc_aoe","cold_affinity","human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
+    "monsterTags":["1HSword_onhit_audio","allows_inc_aoe","cold_affinity","human","humanoid","medium_movement","melee","not_dex","not_int","physical_affinity","red_blood"],
     "name":"Twilight Order Soldier",
     "skillList":["MeleeAtAnimationSpeed","GATwilightSoldierStab","GATwilightSoldierPierceTrigger","TCTwilghtOrderSoldierCharge","GATwilightOrderSoldierChargeImpact"],
     "spawnLocation":["Arastas (Act 4)","Cliffside (Map)","The Excavation (Act 4)","Found in Maps"],
@@ -10945,7 +10923,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","allows_additional_projectiles","human","humanoid","karui","medium_movement","not_int","physical_affinity","ranged","red_blood"],
+    "monsterTags":["allows_additional_projectiles","human","humanoid","karui","medium_movement","not_int","physical_affinity","ranged","red_blood","Unarmed_onhit_audio"],
     "name":"Faithful Archer",
     "skillList":["MeleeAtAnimationSpeed"],
     "spawnLocation":["Arastas (Act 4)","Cliffside (Map)","The Excavation (Act 4)","Found in Maps"],
@@ -10993,7 +10971,7 @@
     "lightningResist":0,
     "modList":[],
     "monsterCategory":"Humanoid",
-    "monsterTags":["2HSharpMetal_onhit_audio","allows_inc_aoe","fast_movement","human","humanoid","karui","melee","not_int","physical_affinity","red_blood"],
+    "monsterTags":["2HBluntMetal_onhit_audio","allows_inc_aoe","fast_movement","human","humanoid","karui","melee","not_int","physical_affinity","red_blood"],
     "name":"Faithful Warrior",
     "skillList":["MeleeAtAnimationSpeed","MASExtraAttackDistance4","GATwilightKaruiEarthquakeImpact","GATwilightKaruiEarthquakeAftershock","SOTwilightKaruiEarthquake"],
     "spawnLocation":["Arastas (Act 4)","Cliffside (Map)","The Excavation (Act 4)","Found in Maps"],
@@ -12884,7 +12862,7 @@
     "monsterTags":["allows_additional_projectiles","allows_inc_aoe","avian_beast","beast","flying","melee","physical_affinity","ranged","red_blood","slow_movement","Snap_onhit_audio"],
     "name":"Regurgitating Vulture",
     "skillList":["MeleeAtAnimationSpeed","VultureRegurgitatorMortar","GAVultureRegurgitateImpact","MDDVultureRegurgDecompose","CGEVultureRegurgGasCloud"],
-    "spawnLocation":["Confluence (Map)","Deshar (Act 2)","The Khari Crossing (Act 6)","Found in Maps"],
+    "spawnLocation":["Deshar (Act 2)","The Khari Crossing (Act 6)"],
     "spectreReservation":62
   },
   "Metadata/Monsters/VultureZombie/VultureDemon":{

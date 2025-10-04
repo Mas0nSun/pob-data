@@ -4558,6 +4558,48 @@
             "actorLevel":1
           }],
         "statDescriptionScope":"gem_stat_descriptions",
+        "statMap":{
+          "support_rigwald_attack_speed_+%_final_in_weapon_set_one":[{
+              "flags":1,
+              "keywordFlags":0,
+              "name":"Speed",
+              "type":"MORE",
+              "1":{
+                "type":"Condition",
+                "var":"WeaponSet1"
+              }
+            }],
+          "support_rigwald_attack_speed_+%_final_in_weapon_set_two":[{
+              "flags":1,
+              "keywordFlags":0,
+              "name":"Speed",
+              "type":"MORE",
+              "1":{
+                "type":"Condition",
+                "var":"WeaponSet2"
+              }
+            }],
+          "support_rigwald_damage_+%_final_in_weapon_set_one":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "type":"Condition",
+                "var":"WeaponSet1"
+              }
+            }],
+          "support_rigwald_damage_+%_final_in_weapon_set_two":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "type":"Condition",
+                "var":"WeaponSet2"
+              }
+            }]
+        },
         "stats":[]
       }],
     "support":true

@@ -21362,10 +21362,10 @@
   "40% reduced Duration of Bleeding on You":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"Duration",
+        "name":"SelfBleedDuration",
         "type":"INC",
         "value":-40
-      }],"  of Bleeding on You "],
+      }]],
   "40% reduced Duration of Ignite, Shock and Chill on Enemies":[[{
         "flags":0,
         "keywordFlags":0,
@@ -23360,10 +23360,10 @@
   "50% reduced Duration of Bleeding on You":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"Duration",
+        "name":"SelfBleedDuration",
         "type":"INC",
         "value":-50
-      }],"  of Bleeding on You "],
+      }]],
   "50% reduced Duration of Curses on you":[[{
         "flags":0,
         "keywordFlags":0,
@@ -24232,10 +24232,10 @@
   "60% reduced Duration of Bleeding on You":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"Duration",
+        "name":"SelfBleedDuration",
         "type":"INC",
         "value":-60
-      }],"  of Bleeding on You "],
+      }]],
   "60% reduced Ice Crystal Life":[[{
         "flags":0,
         "keywordFlags":0,
@@ -33655,8 +33655,13 @@
         "type":"BASE",
         "value":2
       }]],
-  "Attacks Chain an additional time":[null,"Attacks Chain an additional time "],
-  "Attacks Chain an additional time Attacks Chain 2 additional times":[null,"Attacks Chain an additional time Attacks Chain 2 additional times "],
+  "Attacks Chain an additional time":[[{
+        "flags":1,
+        "keywordFlags":0,
+        "name":"ChainCountMax",
+        "type":"BASE",
+        "value":1
+      }]],
   "Attacks Gain 10% of Damage as Extra Cold Damage":[[{
         "flags":1,
         "keywordFlags":0,
@@ -36616,8 +36621,313 @@
   "Enemies regain 10% of Concentration every second if they haven't lost Concentration in the past 5 seconds":[null,"Enemies regain 10% of Concentration every second if they haven't lost Concentration in the past 5 seconds "],
   "Enemies take 10% increased Damage for each Elemental Ailment type among":[null,"Enemies take 10% increased Damage for each Elemental Ailment type among "],
   "Enemies take 10% increased Damage for each Elemental Ailment type among Enemies take 20% increased Damage for each Elemental Ailment type among":[null,"Enemies take 10% increased Damage for each Elemental Ailment type among Enemies take 20% increased Damage for each Elemental Ailment type among "],
+  "Enemies take 18% increased Damage for each Elemental Ailment type among your Ailments on them":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Frozen"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Chilled"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Ignited"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Shocked"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Scorched"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Brittle"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Sapped"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":18
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Electrocuted"
+        }
+      }]],
   "Enemies take 20% increased Damage for each Elemental Ailment type among":[null,"Enemies take 20% increased Damage for each Elemental Ailment type among "],
-  "Enemies take 20% increased Damage for each Elemental Ailment type among your Ailments on them":[null,"Enemies take 20% increased Damage for each Elemental Ailment type among your Ailments on them "],
+  "Enemies take 20% increased Damage for each Elemental Ailment type among your Ailments on them":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Frozen"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Chilled"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Ignited"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Shocked"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Scorched"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Brittle"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Sapped"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"DamageTaken",
+            "type":"INC",
+            "value":20
+          }
+        },
+        "1":{
+          "actor":"enemy",
+          "type":"ActorCondition",
+          "var":"Electrocuted"
+        }
+      }]],
   "Enemies you Curse are Hindered, with 15% reduced Movement Speed":[[{
         "flags":0,
         "keywordFlags":0,
@@ -37160,8 +37470,14 @@
         "keywordFlags":0,
         "name":"ColdDamageGainAsFire",
         "type":"BASE",
-        "value":1
-      }],"   per 1% Chill Magnitude on enemy "],
+        "value":1,
+        "1":{
+          "actor":"enemy",
+          "div":1,
+          "type":"Multiplier",
+          "var":"ChillEffect"
+        }
+      }]],
   "Gain 1% of damage as Fire damage per 1% Chance to Block":[[{
         "flags":0,
         "keywordFlags":0,
@@ -41181,53 +41497,53 @@
   "Minions Revive 10% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-10
+        "value":10
       }]],
   "Minions Revive 13% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-13
+        "value":13
       }]],
   "Minions Revive 15% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-15
+        "value":15
       }]],
   "Minions Revive 15% faster if all your Minions are Companions":[null,"Revive 15% faster if all your Minions are Companions "],
   "Minions Revive 25% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-25
+        "value":25
       }]],
   "Minions Revive 3% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-3
+        "value":3
       }]],
   "Minions Revive 35% faster if all your Minions are Companions":[null,"Revive 35% faster if all your Minions are Companions "],
   "Minions Revive 5% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-5
+        "value":5
       }]],
   "Minions Revive 50% faster":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"MinionRevivalTime",
+        "name":"MinionRevivalSpeed",
         "type":"INC",
-        "value":-50
+        "value":50
       }]],
   "Minions cannot Die while affected by a Life Flask":[null,"cannot Die while affected by a Life Flask "],
   "Minions cannot Die while affected by a Life Flask 30% increased Flask Charges gained":[null,"cannot Die while affected by a Life Flask 30% increased Flask Charges gained "],
@@ -42692,7 +43008,7 @@
         "keywordFlags":0,
         "name":"ChillBase",
         "type":"BASE",
-        "value":10,
+        "value":30,
         "1":{
           "actor":"enemy",
           "type":"ActorCondition",
@@ -45278,7 +45594,13 @@
         "type":"FLAG",
         "value":true
       }]],
-  "You cannot Sprint":[null,"You cannot Sprint "],
+  "You cannot Sprint":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Condition:CannotSprint",
+        "type":"FLAG",
+        "value":true
+      }]],
   "You cannot be Chilled for 6 seconds after being Chilled":[null,"You cannot be Chilled for 6 seconds after being Chilled "],
   "You cannot be Chilled for 6 seconds after being Chilled You cannot be Frozen for 6 seconds after being Frozen":[null,"You cannot be Chilled for 6 seconds after being Chilled You cannot be Frozen for 6 seconds after being Frozen "],
   "You cannot be Chilled or Frozen":[[{
@@ -45619,6 +45941,5 @@
   "until you take no Damage to Life for 5 seconds":[null,"until you take no Damage to Life for 5 seconds "],
   "your Ailments on them":[null,"your Ailments on them "],
   "your Ailments on them 30% reduced Duration of Ignite, Shock and Chill on Enemies":[null,"your Ailments on them 30% reduced Duration of Ignite, Shock and Chill on Enemies "],
-  "your Ailments on them your Ailments on them":[null,"your Ailments on them your Ailments on them "],
   "your maximum Life as Physical damage per second":[null,"your maximum Life as Physical damage per second "]
 }

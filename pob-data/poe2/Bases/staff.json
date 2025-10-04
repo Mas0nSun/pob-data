@@ -73,6 +73,8 @@
     "weapon":{
       "AttackRateBase":1.4,
       "CritChanceBase":10,
+      "LightningMax":75,
+      "LightningMin":1,
       "PhysicalMax":55,
       "PhysicalMin":14,
       "Range":13
@@ -196,6 +198,8 @@
     "weapon":{
       "AttackRateBase":1.4,
       "CritChanceBase":10,
+      "LightningMax":100,
+      "LightningMin":1,
       "PhysicalMax":97,
       "PhysicalMin":24,
       "Range":13
@@ -236,6 +240,8 @@
     "weapon":{
       "AttackRateBase":1.4,
       "CritChanceBase":10,
+      "LightningMax":35,
+      "LightningMin":1,
       "PhysicalMax":22,
       "PhysicalMin":5,
       "Range":13

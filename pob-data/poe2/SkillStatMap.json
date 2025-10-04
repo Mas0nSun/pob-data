@@ -312,6 +312,12 @@
       "name":"EnemyChillMagnitude",
       "type":"MORE"
     }],
+  "active_skill_cold_damage_+%_final":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"ColdDamage",
+      "type":"MORE"
+    }],
   "active_skill_damage_+%_final":[{
       "flags":0,
       "keywordFlags":0,
@@ -379,6 +385,12 @@
         "key":"doubleHitsWhenDualWielding",
         "value":true
       }
+    }],
+  "active_skill_fire_damage_+%_final":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"FireDamage",
+      "type":"MORE"
     }],
   "active_skill_freeze_duration_+%_final":[{
       "flags":0,
@@ -569,6 +581,12 @@
       "name":"CannotIgnite",
       "type":"FLAG",
       "value":true
+    }],
+  "active_skill_physical_damage_+%_final":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"PhysicalDamage",
+      "type":"MORE"
     }],
   "active_skill_poison_duration_+%_final":[{
       "flags":0,
@@ -3946,6 +3964,13 @@
       "flags":0,
       "keywordFlags":0,
       "name":"HiddenMonster",
+      "type":"FLAG",
+      "value":true
+    }],
+  "is_resummoning_minion":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"RevivingMinion",
       "type":"FLAG",
       "value":true
     }],

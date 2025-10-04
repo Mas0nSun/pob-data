@@ -4788,6 +4788,19 @@
             "baseMultiplier":63.34
           }],
         "statDescriptionScope":"extract_elements_statset_1",
+        "statMap":{
+          "elemental_sundering_damage_+%_final_if_created_from_unique":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "actor":"enemy",
+                "type":"ActorCondition",
+                "var":"Unique"
+              }
+            }]
+        },
         "stats":["base_skill_show_average_damage_instead_of_dps","quality_display_active_skill_base_area_of_effect_radius_is_gem","is_area_damage","active_skill_never_freeze_shock_ignite"]
       },{
         "baseFlags":{
@@ -23458,6 +23471,14 @@
             "actorLevel":288.29998779297
           }],
         "statDescriptionScope":"meta_gem_stat_descriptions",
+        "statMap":{
+          "support_lingering_mirage_damage_+%_final":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE"
+            }]
+        },
         "stats":["cannot_consume_power_frenzy_endurance_charges"]
       }],
     "support":true

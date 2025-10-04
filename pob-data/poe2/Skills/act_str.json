@@ -5150,6 +5150,19 @@
             "baseMultiplier":26.31
           }],
         "statDescriptionScope":"boneshatter",
+        "statMap":{
+          "boneshatter_damage_+%_final_if_created_from_unique":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "actor":"enemy",
+                "type":"ActorCondition",
+                "var":"Unique"
+              }
+            }]
+        },
         "stats":["active_skill_show_crush_range","precise_cursor_targeting_uses_contact_point_height_offset","is_area_damage","display_statset_hide_usage_stats"]
       }],
     "weaponTypes":{
@@ -13537,6 +13550,19 @@
             "baseMultiplier":63.34
           }],
         "statDescriptionScope":"burst_shot_piercing_statset_1",
+        "statMap":{
+          "frag_rounds_damage_+%_final_if_created_from_unique":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "actor":"enemy",
+                "type":"ActorCondition",
+                "var":"Unique"
+              }
+            }]
+        },
         "stats":["base_is_projectile","has_modular_projectiles_enabled","action_requires_aiming_stance","should_use_additive_aiming_animation","projectile_uses_contact_position","projectile_uses_contact_direction","check_for_targets_between_initiator_and_projectile_source","cannot_cancel_skill_before_contact_point","destroy_frost_wall_segment_on_hit","can_perform_skill_while_moving","base_skill_show_average_damage_instead_of_dps","never_freeze","precise_cursor_targeting_uses_contact_point_height_offset","is_area_damage","display_statset_hide_usage_stats","projectiles_are_not_fired"]
       }],
     "weaponTypes":{

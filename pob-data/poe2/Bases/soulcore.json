@@ -12,8 +12,19 @@
     },
     "type":"Rune"
   },
+  "Amanamu's Gaze":{
+    "implicit":"Helmet: Remove a Damaging Ailment when you use a Command Skill\nBody Armour: +2 to Armour per 1 Spirit\nBoots: 1% increased Movement Speed per 15 Spirit, up to a maximum of 40%\nOther Modifiers to Movement Speed do not apply",
+    "implicitModTypes":[],
+    "req":{
+      "level":65
+    },
+    "tags":{
+      "default":true
+    },
+    "type":"SoulCore"
+  },
   "Atmohua's Soul Core of Retreat":{
-    "implicit":"Body Armour: 30% faster start of Energy Shield Recharge",
+    "implicit":"Body Armour: 30% faster start of Energy Shield Recharge\nFocus: 30% faster start of Energy Shield Recharge",
     "implicitModTypes":[],
     "req":{
       "level":65
@@ -26,7 +37,7 @@
     "type":"SoulCore"
   },
   "Bear Talisman":{
-    "implicit":"Helmet: 8% increased Area of Effect",
+    "implicit":"Helmet: 8% increased Area of Effect\nSceptre: Allies in your Presence deal 12 to 18 added Attack Physical Damage",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -37,7 +48,7 @@
     "type":"Talisman"
   },
   "Boar Talisman":{
-    "implicit":"Gloves: Gain 1 Rage on Melee Hit",
+    "implicit":"Gloves: Gain 1 Rage on Melee Hit\nSceptre: Allies in your Presence Regenerate 8 Life per second",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -61,7 +72,7 @@
     "type":"Rune"
   },
   "Cat Talisman":{
-    "implicit":"Gloves: 15% increased Accuracy Rating",
+    "implicit":"Gloves: 15% increased Accuracy Rating\nSceptre: Allies in your Presence have 14% increased Critical Hit Chance",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -159,7 +170,7 @@
     "type":"Rune"
   },
   "Estazunti's Soul Core of Convalescence":{
-    "implicit":"Boots: 10% increased speed of Recoup Effects",
+    "implicit":"Boots: 10% increased speed of Recoup Effects\nHelmet: 6% of Damage taken Recouped as Life",
     "implicitModTypes":[],
     "req":{
       "level":65
@@ -244,7 +255,7 @@
     "type":"Rune"
   },
   "Fox Talisman":{
-    "implicit":"Body Armour: +2% to Quality of all Skills",
+    "implicit":"Body Armour: +2% to Quality of all Skills\nSceptre: 30% increased Presence Area of Effect",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -561,6 +572,17 @@
     },
     "type":"Rune"
   },
+  "Kurgal's Gaze":{
+    "implicit":"Helmet: Increases and Reductions to Life Regeneration Rate also apply to Mana Regeneration Rate\nGloves: 40% increased effect of Arcane Surge on you\nBoots: 15% increased Mana Cost Efficiency if you haven't Dodge Rolled Recently",
+    "implicitModTypes":[],
+    "req":{
+      "level":65
+    },
+    "tags":{
+      "default":true
+    },
+    "type":"SoulCore"
+  },
   "Lady Hestra's Rune of Winter":{
     "implicit":"Martial Weapons: Adds 19 to 28 Cold Damage",
     "implicitModTypes":[],
@@ -782,7 +804,7 @@
     "type":"SoulCore"
   },
   "Owl Talisman":{
-    "implicit":"Focus: 10% increased Cooldown Recovery Rate",
+    "implicit":"Focus: 10% increased Cooldown Recovery Rate\nSceptre: Allies in your Presence have 8% increased Cast Speed",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -793,7 +815,7 @@
     "type":"Talisman"
   },
   "Ox Talisman":{
-    "implicit":"Shield: 10% increased Block chance",
+    "implicit":"Shield: 10% increased Block chance\nSceptre: Allies in your Presence have +8% to all Elemental Resistances",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -804,7 +826,7 @@
     "type":"Talisman"
   },
   "Primate Talisman":{
-    "implicit":"Helmet: Minions have 12% increased maximum Life",
+    "implicit":"Helmet: Minions have 12% increased maximum Life\nSceptre: Allies in your Presence deal 30% increased Damage",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -828,7 +850,7 @@
     "type":"SoulCore"
   },
   "Rabbit Talisman":{
-    "implicit":"Body Armour: 8% increased Rarity of Items found",
+    "implicit":"Body Armour: 8% increased Rarity of Items found\nSceptre: 10% increased Spirit",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -914,7 +936,7 @@
     "type":"Rune"
   },
   "Serpent Talisman":{
-    "implicit":"Gloves: 5% increased Curse Magnitudes",
+    "implicit":"Gloves: 5% increased Curse Magnitudes\nSceptre: Allies in your Presence have 8% increased Attack Speed",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -1042,7 +1064,7 @@
     "type":"SoulCore"
   },
   "Soul Core of Ticaba":{
-    "implicit":"Martial Weapons: +5% to Critical Damage Bonus\nBody Armour: Hits against you have 20% reduced Critical Damage Bonus",
+    "implicit":"Martial Weapons: +5% to Critical Damage Bonus\nBody Armour: Hits against you have 20% reduced Critical Damage Bonus\nShield: Hits against you have 20% reduced Critical Damage Bonus",
     "implicitModTypes":[],
     "req":{
       "level":35
@@ -1120,7 +1142,7 @@
     "type":"SoulCore"
   },
   "Stag Talisman":{
-    "implicit":"Helmet: 50% increased Thorns Critical Hit Chance",
+    "implicit":"Helmet: 50% increased Thorns Critical Hit Chance\nSceptre: Allies in your Presence deal 1 to 40 added Attack Lightning Damage",
     "implicitModTypes":[],
     "req":[],
     "tags":{
@@ -1246,6 +1268,17 @@
     },
     "type":"Talisman"
   },
+  "Tecrod's Gaze":{
+    "implicit":"Body Armour: Regenerate 1.5% of maximum Life per second\nGloves: 25% increased Life Cost Efficiency\nBoots: 10% increased Movement Speed when on Low Life",
+    "implicitModTypes":[],
+    "req":{
+      "level":65
+    },
+    "tags":{
+      "default":true
+    },
+    "type":"SoulCore"
+  },
   "Tempered Rune":{
     "implicit":"Martial Weapons: Adds 6 to 9 Physical Damage\nArmour: 14 to 21 Physical Thorns damage",
     "implicitModTypes":[],
@@ -1357,6 +1390,17 @@
     },
     "type":"SoulCore"
   },
+  "Ulaman's Gaze":{
+    "implicit":"Helmet: +1 to Accuracy Rating per 1 Item Evasion Rating on Equipped Helmet\nGloves: Critical Hit chance is Lucky against Parried enemies\nBody Armour: Prevent +3% of Damage from Deflected Hits",
+    "implicitModTypes":[],
+    "req":{
+      "level":65
+    },
+    "tags":{
+      "default":true
+    },
+    "type":"SoulCore"
+  },
   "Uromoti's Soul Core of Attenuation":{
     "implicit":"Boots: 15% increased Curse Duration\n15% increased Poison Duration",
     "implicitModTypes":[],
@@ -1384,7 +1428,7 @@
     "type":"Rune"
   },
   "Wolf Talisman":{
-    "implicit":"Gloves: 10% increased Magnitude of Bleeding you inflict",
+    "implicit":"Gloves: 10% increased Magnitude of Bleeding you inflict\nSceptre: Allies in your Presence have 14% increased Critical Damage Bonus",
     "implicitModTypes":[],
     "req":[],
     "tags":{

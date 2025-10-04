@@ -50967,19 +50967,16 @@
           }],
         "statDescriptionScope":"harvester",
         "statMap":{
-          "harvester_minion_resummon_speed_+%_final":{
-            "mult":-1,
-            "1":{
+          "harvester_minion_resummon_speed_+%_final":[{
               "flags":0,
               "keywordFlags":0,
-              "name":"MinionRevivalTime",
+              "name":"MinionRevivalSpeed",
               "type":"MORE",
               "1":{
                 "effectType":"Buff",
                 "type":"GlobalEffect"
               }
-            }
-          }
+            }]
         },
         "stats":["harvester_minion_resummon_speed_+%_final","base_deal_no_damage"]
       }]
@@ -54454,6 +54451,19 @@
           }],
         "notMinionStat":["spell_minimum_base_cold_damage","spell_maximum_base_cold_damage"],
         "statDescriptionScope":"shatter",
+        "statMap":{
+          "snap_damage_+%_final_if_created_from_unique":[{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"Damage",
+              "type":"MORE",
+              "1":{
+                "actor":"enemy",
+                "type":"ActorCondition",
+                "var":"Unique"
+              }
+            }]
+        },
         "stats":["spell_minimum_base_cold_damage","spell_maximum_base_cold_damage","can_perform_skill_while_moving","is_area_damage","skill_is_infusion_skill","never_freeze","never_shock","never_ignite","base_skill_show_average_damage_instead_of_dps"]
       },{
         "baseEffectiveness":2.0299999713898,

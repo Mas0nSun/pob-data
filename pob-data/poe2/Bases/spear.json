@@ -1,5 +1,6 @@
 {
   "Akoyan Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -27,6 +28,7 @@
     }
   },
   "Barbed Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -53,6 +55,7 @@
     }
   },
   "Branched Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -78,6 +81,7 @@
     }
   },
   "Broad Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -104,7 +108,7 @@
     }
   },
   "Coursing Spear":{
-    "implicit":"(15-25)% chance to Maim on Hit",
+    "implicit":"Grants Skill: Spear Throw\n(15-25)% chance to Maim on Hit",
     "implicitModTypes":[["attack"]],
     "quality":20,
     "req":{
@@ -130,6 +134,7 @@
     }
   },
   "Crossblade Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -156,7 +161,7 @@
     }
   },
   "Flying Spear":{
-    "implicit":"(25-35)% increased Projectile Speed with this Weapon",
+    "implicit":"Grants Skill: Spear Throw\n(25-35)% increased Projectile Speed with this Weapon",
     "implicitModTypes":[[]],
     "quality":20,
     "req":{
@@ -182,6 +187,7 @@
     }
   },
   "Forked Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -208,6 +214,7 @@
     }
   },
   "Grand Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -233,6 +240,7 @@
     }
   },
   "Hardwood Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":[],
@@ -255,6 +263,7 @@
     }
   },
   "Helix Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -280,7 +289,7 @@
     }
   },
   "Hunting Spear":{
-    "implicit":"(15-25)% chance to Maim on Hit",
+    "implicit":"Grants Skill: Spear Throw\n(15-25)% chance to Maim on Hit",
     "implicitModTypes":[["attack"]],
     "quality":20,
     "req":{
@@ -307,6 +316,7 @@
     }
   },
   "Ironhead Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -332,6 +342,7 @@
     }
   },
   "Jagged Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -357,6 +368,7 @@
     }
   },
   "Massive Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -382,6 +394,7 @@
     }
   },
   "Orichalcum Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -407,6 +420,7 @@
     }
   },
   "Pronged Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -432,6 +446,7 @@
     }
   },
   "Seaglass Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -459,6 +474,7 @@
     }
   },
   "Spiked Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -484,7 +500,7 @@
     }
   },
   "Stalking Spear":{
-    "implicit":"(15-25)% chance to Maim on Hit",
+    "implicit":"Grants Skill: Spear Throw\n(15-25)% chance to Maim on Hit",
     "implicitModTypes":[["attack"]],
     "quality":20,
     "req":{
@@ -510,6 +526,7 @@
     }
   },
   "Steelhead Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -535,6 +552,7 @@
     }
   },
   "Striking Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -562,7 +580,7 @@
     }
   },
   "Swift Spear":{
-    "implicit":"(25-35)% increased Projectile Speed with this Weapon",
+    "implicit":"Grants Skill: Spear Throw\n(25-35)% increased Projectile Speed with this Weapon",
     "implicitModTypes":[[]],
     "quality":20,
     "req":{
@@ -588,6 +606,7 @@
     }
   },
   "Sword Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
@@ -613,7 +632,7 @@
     }
   },
   "War Spear":{
-    "implicit":"(25-35)% increased Projectile Speed with this Weapon",
+    "implicit":"Grants Skill: Spear Throw\n(25-35)% increased Projectile Speed with this Weapon",
     "implicitModTypes":[[]],
     "quality":20,
     "req":{
@@ -640,6 +659,7 @@
     }
   },
   "Winged Spear":{
+    "implicit":"Grants Skill: Spear Throw",
     "implicitModTypes":[],
     "quality":20,
     "req":{
