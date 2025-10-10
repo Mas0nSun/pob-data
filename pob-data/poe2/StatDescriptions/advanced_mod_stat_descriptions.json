@@ -111,19 +111,19 @@
         "text":"Remembrancing {1} songworthy deeds by the line of Olroth(Vorana-Olroth)\nPassives in radius are Conquered by the Kalguur"
       },{
         "limit":[[7,7],["#","#"],[1,1],["#","#"]],
-        "text":"Glorifying the defilement of {1} souls in tribute to Amanamu(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals"
+        "text":"Glorifying the defilement of {1} souls in tribute to Amanamu(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable"
       },{
         "limit":[[7,7],["#","#"],[2,2],["#","#"]],
-        "text":"Glorifying the defilement of {1} souls in tribute to Kulemak(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals"
+        "text":"Glorifying the defilement of {1} souls in tribute to Kulemak(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable"
       },{
         "limit":[[7,7],["#","#"],[3,3],["#","#"]],
-        "text":"Glorifying the defilement of {1} souls in tribute to Kurgal(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals"
+        "text":"Glorifying the defilement of {1} souls in tribute to Kurgal(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable"
       },{
         "limit":[[7,7],["#","#"],[4,4],["#","#"]],
-        "text":"Glorifying the defilement of {1} souls in tribute to Tecrod(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals"
+        "text":"Glorifying the defilement of {1} souls in tribute to Tecrod(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable"
       },{
         "limit":[[7,7],["#","#"],[5,5],["#","#"]],
-        "text":"Glorifying the defilement of {1} souls in tribute to Ulaman(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals"
+        "text":"Glorifying the defilement of {1} souls in tribute to Ulaman(Amanamu-Ulaman)\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable"
       }]
   },
   "2":{

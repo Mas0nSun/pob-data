@@ -1,27 +1,23 @@
 {
-  "active_skill_area_of_effect_radius":2,
-  "active_skill_base_area_of_effect_radius":3,
-  "active_skill_base_secondary_area_of_effect_radius":4,
-  "active_skill_secondary_area_of_effect_radius":5,
-  "base_skill_effect_duration":6,
-  "fire_storm_fireball_delay_ms":7,
-  "firestorm_bolt_frequency_+%_if_consumed_fire_infusion":8,
-  "firestorm_max_number_of_storms":12,
-  "firestorm_secondary_radius_+_if_consumed_fire_infusion":9,
-  "never_ignite":1,
+  "active_skill_area_of_effect_radius":1,
+  "active_skill_base_area_of_effect_radius":2,
+  "active_skill_base_secondary_area_of_effect_radius":3,
+  "active_skill_secondary_area_of_effect_radius":4,
+  "base_skill_effect_duration":5,
+  "fire_storm_fireball_delay_ms":6,
+  "firestorm_bolt_frequency_+%_if_consumed_fire_infusion":7,
+  "firestorm_max_number_of_storms":11,
+  "firestorm_secondary_radius_+_if_consumed_fire_infusion":8,
   "parent":"skill_stat_descriptions",
-  "quality_display_active_skill_base_area_of_effect_radius_is_gem":3,
-  "skill_effect_duration":10,
-  "vaal_firestorm_number_of_meteors":7,
-  "virtual_firestorm_max_number_of_storms":11,
+  "quality_display_active_skill_base_area_of_effect_radius_is_gem":2,
+  "skill_effect_duration":9,
+  "vaal_firestorm_number_of_meteors":6,
+  "virtual_firestorm_max_number_of_storms":10,
   "1":{
-    "stats":["never_ignite"]
-  },
-  "2":{
     "stats":["active_skill_area_of_effect_radius"],
     "1":[]
   },
-  "3":{
+  "2":{
     "stats":["active_skill_base_area_of_effect_radius","quality_display_active_skill_base_area_of_effect_radius_is_gem"],
     "1":[{
         "limit":[[10,10],[0,0]],
@@ -53,7 +49,7 @@
         }
       }]
   },
-  "4":{
+  "3":{
     "stats":["active_skill_base_secondary_area_of_effect_radius"],
     "1":[{
         "limit":[[10,10]],
@@ -71,11 +67,11 @@
         }
       }]
   },
-  "5":{
+  "4":{
     "stats":["active_skill_secondary_area_of_effect_radius"],
     "1":[]
   },
-  "6":{
+  "5":{
     "stats":["base_skill_effect_duration"],
     "1":[{
         "limit":[[1000,1000]],
@@ -93,7 +89,7 @@
         }
       }]
   },
-  "7":{
+  "6":{
     "stats":["fire_storm_fireball_delay_ms","vaal_firestorm_number_of_meteors"],
     "1":[{
         "limit":[[1,"#"],[0,0]],
@@ -107,7 +103,7 @@
         "text":"{1} Bolts"
       }]
   },
-  "8":{
+  "7":{
     "stats":["firestorm_bolt_frequency_+%_if_consumed_fire_infusion"],
     "1":[{
         "limit":[[1,"#"]],
@@ -121,7 +117,7 @@
         }
       }]
   },
-  "9":{
+  "8":{
     "stats":["firestorm_secondary_radius_+_if_consumed_fire_infusion"],
     "1":[{
         "limit":[[10,10]],
@@ -139,18 +135,18 @@
         }
       }]
   },
-  "10":{
+  "9":{
     "stats":["skill_effect_duration"],
     "1":[]
   },
-  "11":{
+  "10":{
     "stats":["virtual_firestorm_max_number_of_storms"],
     "1":[{
         "limit":[["#","#"]],
         "text":"Firestorm Limit@{0}"
       }]
   },
-  "12":{
+  "11":{
     "stats":["firestorm_max_number_of_storms"],
     "1":[{
         "limit":[[1,1]],

@@ -3467,7 +3467,7 @@
             "actorLevel":288.29998779297
           }],
         "statDescriptionScope":"skill_stat_descriptions",
-        "stats":["base_deal_no_damage"]
+        "stats":["base_deal_no_damage","display_skill_reserves_in_all_weapon_sets"]
       }]
   },
   "BoneBlastPlayer":{
@@ -9295,7 +9295,7 @@
             "actorLevel":288.29998779297
           }],
         "statDescriptionScope":"skill_stat_descriptions",
-        "stats":["base_deal_no_damage"]
+        "stats":["base_deal_no_damage","display_skill_reserves_in_all_weapon_sets"]
       }]
   },
   "CorpseCloudPlayer":{
@@ -19970,7 +19970,7 @@
           }],
         "notMinionStat":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage"],
         "statDescriptionScope":"fire_storm_statset_0",
-        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","never_ignite","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion"]
+        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion"]
       },{
         "baseEffectiveness":0.5799999833107,
         "baseFlags":{
@@ -20305,7 +20305,7 @@
           }],
         "notMinionStat":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_cold_damage","spell_maximum_base_cold_damage"],
         "statDescriptionScope":"fire_storm_statset_1",
-        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_cold_damage","spell_maximum_base_cold_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","never_ignite","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion","display_statset_hide_usage_stats"]
+        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_cold_damage","spell_maximum_base_cold_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion","display_statset_hide_usage_stats"]
       },{
         "baseEffectiveness":0.66000002622604,
         "baseFlags":{
@@ -20640,7 +20640,7 @@
           }],
         "notMinionStat":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_lightning_damage","spell_maximum_base_lightning_damage"],
         "statDescriptionScope":"fire_storm_statset_2",
-        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_lightning_damage","spell_maximum_base_lightning_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","never_ignite","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion","display_statset_hide_usage_stats"]
+        "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_lightning_damage","spell_maximum_base_lightning_damage","base_skill_show_average_damage_instead_of_dps","is_area_damage","can_perform_skill_while_moving","quality_display_active_skill_base_area_of_effect_radius_is_gem","active_skill_consumes_a_cold_infusion","active_skill_consumes_a_fire_infusion","active_skill_consumes_a_lightning_infusion","display_statset_hide_usage_stats"]
       }]
   },
   "FlameWallPlayer":{
@@ -40457,7 +40457,8 @@
       "183":true,
       "215":true,
       "228":true,
-      "234":true
+      "234":true,
+      "248":true
     },
     "statSets":[{
         "baseEffectiveness":4.0900001525879,
@@ -50978,7 +50979,7 @@
               }
             }]
         },
-        "stats":["harvester_minion_resummon_speed_+%_final","base_deal_no_damage"]
+        "stats":["harvester_minion_resummon_speed_+%_final","base_deal_no_damage","display_skill_reserves_in_all_weapon_sets"]
       }]
   },
   "ScatteringCalamityPlayer":{
@@ -53243,155 +53244,155 @@
           },{
             "actorLevel":6.7670001983643,
             "statInterpolation":[1],
-            "1":5
+            "1":4
           },{
             "actorLevel":10.307999610901,
             "statInterpolation":[1],
-            "1":7
+            "1":6
           },{
             "actorLevel":14.074999809265,
             "statInterpolation":[1],
-            "1":10
+            "1":8
           },{
             "actorLevel":18.068000793457,
             "statInterpolation":[1],
-            "1":12
+            "1":10
           },{
             "actorLevel":22.287000656128,
             "statInterpolation":[1],
-            "1":15
+            "1":12
           },{
             "actorLevel":26.732000350952,
             "statInterpolation":[1],
-            "1":17
+            "1":14
           },{
             "actorLevel":31.40299987793,
             "statInterpolation":[1],
-            "1":20
+            "1":16
           },{
             "actorLevel":36.299999237061,
             "statInterpolation":[1],
-            "1":22
+            "1":18
           },{
             "actorLevel":41.423000335693,
             "statInterpolation":[1],
-            "1":25
+            "1":20
           },{
             "actorLevel":46.771999359131,
             "statInterpolation":[1],
-            "1":27
+            "1":22
           },{
             "actorLevel":52.34700012207,
             "statInterpolation":[1],
-            "1":30
+            "1":24
           },{
             "actorLevel":58.147998809814,
             "statInterpolation":[1],
-            "1":32
+            "1":26
           },{
             "actorLevel":64.175003051758,
             "statInterpolation":[1],
-            "1":35
+            "1":28
           },{
             "actorLevel":70.428001403809,
             "statInterpolation":[1],
-            "1":37
+            "1":30
           },{
             "actorLevel":76.906997680664,
             "statInterpolation":[1],
-            "1":40
+            "1":32
           },{
             "actorLevel":83.611999511719,
             "statInterpolation":[1],
-            "1":42
+            "1":34
           },{
             "actorLevel":90.542999267578,
             "statInterpolation":[1],
-            "1":45
+            "1":36
           },{
             "actorLevel":97.699996948242,
             "statInterpolation":[1],
-            "1":47
+            "1":38
           },{
             "actorLevel":105.08300018311,
             "statInterpolation":[1],
-            "1":50
+            "1":40
           },{
             "actorLevel":112.69200134277,
             "statInterpolation":[1],
-            "1":52
+            "1":42
           },{
             "actorLevel":120.52700042725,
             "statInterpolation":[1],
-            "1":55
+            "1":44
           },{
             "actorLevel":128.58799743652,
             "statInterpolation":[1],
-            "1":57
+            "1":46
           },{
             "actorLevel":136.875,
             "statInterpolation":[1],
-            "1":60
+            "1":48
           },{
             "actorLevel":145.38800048828,
             "statInterpolation":[1],
-            "1":62
+            "1":50
           },{
             "actorLevel":154.12699890137,
             "statInterpolation":[1],
-            "1":65
+            "1":52
           },{
             "actorLevel":163.09199523926,
             "statInterpolation":[1],
-            "1":67
+            "1":54
           },{
             "actorLevel":172.28300476074,
             "statInterpolation":[1],
-            "1":70
+            "1":56
           },{
             "actorLevel":181.69999694824,
             "statInterpolation":[1],
-            "1":72
+            "1":58
           },{
             "actorLevel":191.34300231934,
             "statInterpolation":[1],
-            "1":75
+            "1":60
           },{
             "actorLevel":201.21200561523,
             "statInterpolation":[1],
-            "1":77
+            "1":62
           },{
             "actorLevel":211.30700683594,
             "statInterpolation":[1],
-            "1":80
+            "1":64
           },{
             "actorLevel":221.62800598145,
             "statInterpolation":[1],
-            "1":82
+            "1":66
           },{
             "actorLevel":232.17500305176,
             "statInterpolation":[1],
-            "1":85
+            "1":68
           },{
             "actorLevel":242.94799804688,
             "statInterpolation":[1],
-            "1":87
+            "1":70
           },{
             "actorLevel":253.94700622559,
             "statInterpolation":[1],
-            "1":90
+            "1":72
           },{
             "actorLevel":265.17199707031,
             "statInterpolation":[1],
-            "1":92
+            "1":74
           },{
             "actorLevel":276.62298583984,
             "statInterpolation":[1],
-            "1":95
+            "1":76
           },{
             "actorLevel":288.29998779297,
             "statInterpolation":[1],
-            "1":97
+            "1":78
           }],
         "statDescriptionScope":"skill_stat_descriptions",
         "stats":["remnant_pickup_range_+%","base_deal_no_damage"]

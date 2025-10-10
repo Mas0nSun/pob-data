@@ -133,21 +133,6 @@
   "# Mana per 4 Strength":[{
       "isScalable":true
     }],
-  "# Maps in Range are Irradiated":[{
-      "isScalable":true
-    }],
-  "# Maps in Range contain Breaches":[{
-      "isScalable":true
-    }],
-  "# Maps in Range contain Expedition Encounters":[{
-      "isScalable":true
-    }],
-  "# Maps in Range contain Mirrors of Delirium":[{
-      "isScalable":true
-    }],
-  "# Maps in Range contain Ritual Altars":[{
-      "isScalable":true
-    }],
   "# Maximum Energy Shield per Level":[{
       "isScalable":true
     }],
@@ -7291,6 +7276,12 @@
   "#% increased Evasion while Leeching":[{
       "isScalable":true
     }],
+  "#% increased Expedition Explosive Placement Range":[{
+      "isScalable":true
+    }],
+  "#% increased Expedition Explosive Radius":[{
+      "isScalable":true
+    }],
   "#% increased Experience Gain for Corrupted Gems":[{
       "isScalable":true
     }],
@@ -7368,12 +7359,6 @@
       "isScalable":true
     }],
   "#% increased Explosive Concoction Damage":[{
-      "isScalable":true
-    }],
-  "#% increased Explosive Placement Range":[{
-      "isScalable":true
-    }],
-  "#% increased Explosive Radius":[{
       "isScalable":true
     }],
   "#% increased Exposure Effect":[{
@@ -15795,6 +15780,9 @@
       "formats":["negate"],
       "isScalable":true
     }],
+  "#% reduced Expedition Explosive Placement Range":[{
+      "isScalable":true
+    }],
   "#% reduced Experience Gain for Corrupted Gems":[{
       "formats":["negate"],
       "isScalable":true
@@ -15896,9 +15884,6 @@
     }],
   "#% reduced Explosive Concoction Damage":[{
       "formats":["negate"],
-      "isScalable":true
-    }],
-  "#% reduced Explosive Placement Range":[{
       "isScalable":true
     }],
   "#% reduced Exposure Effect":[{
@@ -21040,13 +21025,43 @@
     }],
   "Adds Disciple of Kitava":[],
   "Adds Hollow Palm Technique":[],
+  "Adds Irradiated to a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Adds Irradiated to a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
   "Adds Kineticism":[],
   "Adds Knockback to Melee Attacks during Effect":[],
   "Adds Lone Messenger":[],
   "Adds Nature's Patience":[],
   "Adds Pitfighter":[],
+  "Adds Ritual Altars to a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Adds Ritual Altars to a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
   "Adds Secrets of Suffering":[],
   "Adds Veteran's Awareness":[],
+  "Adds a Kalguuran Expedition to a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Adds a Kalguuran Expedition to a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
+  "Adds a Mirror of Delirium to a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Adds a Mirror of Delirium to a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
+  "Adds an Otherworldy Breach to a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Adds an Otherworldy Breach to a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
   "Aggravate Bleeding on Enemies when they Enter your Presence":[],
   "Aggravate Bleeding on targets you Critically Hit with Attacks":[],
   "Aggravating any Bleeding with this Weapon also Aggravates all Ignites on the target":[],
@@ -21104,7 +21119,6 @@
   "All Elemental Damage from Hits Contributes to Flammability and Ignite Magnitudes":[],
   "All Elemental Damage from Hits Contributes to Freeze Buildup":[],
   "All Elemental Damage from Hits Contributes to Shock Chance":[],
-  "All Maps in Range can be accessed":[],
   "All Metamorph Monsters have Rewards":[],
   "All Monster Damage from Hits always Ignites":[],
   "All Towers in range of your Empowering Towers deal Double Damage":[],
@@ -21651,6 +21665,9 @@
   "Area contains # additional Strongboxes":[{
       "isScalable":true
     }],
+  "Area contains # additional Summoning Circles":[{
+      "isScalable":true
+    }],
   "Area contains # additional Synthesised Chest which contains Magic Monsters":[{
       "isScalable":true
     }],
@@ -21908,6 +21925,7 @@
   "Area contains an additional Shrine guarded by a Pantheon Monster":[],
   "Area contains an additional Smuggler's Cache":[],
   "Area contains an additional Strongbox":[],
+  "Area contains an additional Summoning Circle":[],
   "Area contains an additional Three Rat Talisman":[],
   "Area contains an additional Tormented Betrayer":[],
   "Area contains an additional Tormented Graverobber":[],
@@ -21986,6 +22004,9 @@
   "Area has #% increased chance to contain Strongboxes":[{
       "isScalable":true
     }],
+  "Area has #% increased chance to contain a Summoning Circle":[{
+      "isScalable":true
+    }],
   "Area has #% reduced chance to contain Azmeri Spirits":[{
       "formats":["negate"],
       "isScalable":true
@@ -22003,6 +22024,10 @@
       "isScalable":true
     }],
   "Area has #% reduced chance to contain Strongboxes":[{
+      "formats":["negate"],
+      "isScalable":true
+    }],
+  "Area has #% reduced chance to contain a Summoning Circle":[{
       "formats":["negate"],
       "isScalable":true
     }],
@@ -22139,22 +22164,22 @@
   "Areas which contain Breaches have #% chance to contain three additional Breaches":[{
       "isScalable":true
     }],
-  "Areas with Map Bosses contain # additional Azmeri Spirits":[{
+  "Areas with Map Powerful Map Bosses contain # additional Shrines":[{
       "isScalable":false
     }],
-  "Areas with Map Bosses contain # additional Essences":[{
+  "Areas with Map Powerful Map Bosses contain an additional Shrine":[],
+  "Areas with Powerful Map Bosses contain # additional Azmeri Spirits":[{
       "isScalable":false
     }],
-  "Areas with Map Bosses contain # additional Shrines":[{
+  "Areas with Powerful Map Bosses contain # additional Essences":[{
       "isScalable":false
     }],
-  "Areas with Map Bosses contain # additional Strongboxes":[{
+  "Areas with Powerful Map Bosses contain # additional Strongboxes":[{
       "isScalable":false
     }],
-  "Areas with Map Bosses contain an additional Azmeri Spirit":[],
-  "Areas with Map Bosses contain an additional Essence":[],
-  "Areas with Map Bosses contain an additional Shrine":[],
-  "Areas with Map Bosses contain an additional Strongbox":[],
+  "Areas with Powerful Map Bosses contain an additional Azmeri Spirit":[],
+  "Areas with Powerful Map Bosses contain an additional Essence":[],
+  "Areas with Powerful Map Bosses contain an additional Strongbox":[],
   "Armageddon Brand Damage Penetrates #% of Branded Enemy's Fire Resistance":[{
       "isScalable":true
     }],
@@ -23374,6 +23399,7 @@
   "Can instead consume #% of maximum Mana to trigger Charms with insufficient charges":[{
       "isScalable":true
     }],
+  "Can only be applied to Precursor Tower Maps\nCompleting the Tower makes all nearby Maps accessible":[],
   "Can only use a Normal Body Armour":[],
   "Can place multiple Banners":[],
   "Can roll Minion Modifiers":[],
@@ -23930,7 +23956,6 @@
   "Companions have #% to all Elemental Resistances":[{
       "isScalable":true
     }],
-  "Completing Irradiated Maps in Range removes Irradiation instead":[],
   "Completing a Heist generates # additional Reveals":[{
       "isScalable":true
     }],
@@ -25341,6 +25366,12 @@
   "Empowered Attacks have a #% chance to Knock Enemies Back on Hit":[{
       "isScalable":true
     }],
+  "Empowers the Map Boss of a Map \n# use remaining":[{
+      "isScalable":true
+    }],
+  "Empowers the Map Boss of a Map \n# uses remaining":[{
+      "isScalable":true
+    }],
   "Encounter duration is # seconds shorter":[{
       "isScalable":true
     }],
@@ -25652,7 +25683,6 @@
       "isScalable":true
     }],
   "Enemies in your Presence are Intimidated":[],
-  "Enemies in your Presence cannot be Revived":[],
   "Enemies in your Presence count as being on Low Life":[],
   "Enemies in your Presence count as having #% less Power":[{
       "formats":["negate"],
@@ -27585,19 +27615,19 @@
       "isScalable":true
     }],
   "Glancing Blows":[],
-  "Glorifying the defilement of # souls in tribute to Amanamu\nPassives in radius are Conquered by the Abyssals":[{
+  "Glorifying the defilement of # souls in tribute to Amanamu\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable":[{
       "isScalable":true
     }],
-  "Glorifying the defilement of # souls in tribute to Kulemak\nPassives in radius are Conquered by the Abyssals":[{
+  "Glorifying the defilement of # souls in tribute to Kulemak\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable":[{
       "isScalable":true
     }],
-  "Glorifying the defilement of # souls in tribute to Kurgal\nPassives in radius are Conquered by the Abyssals":[{
+  "Glorifying the defilement of # souls in tribute to Kurgal\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable":[{
       "isScalable":true
     }],
-  "Glorifying the defilement of # souls in tribute to Tecrod\nPassives in radius are Conquered by the Abyssals":[{
+  "Glorifying the defilement of # souls in tribute to Tecrod\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable":[{
       "isScalable":true
     }],
-  "Glorifying the defilement of # souls in tribute to Ulaman\nPassives in radius are Conquered by the Abyssals":[{
+  "Glorifying the defilement of # souls in tribute to Ulaman\nPassives in radius are Conquered by the Abyssals\nDesecration makes this item unstable":[{
       "isScalable":true
     }],
   "Glows while in an Area containing a Unique Fish":[],
@@ -28743,6 +28773,7 @@
       "formats":["negate"],
       "isScalable":true
     }],
+  "If Map was not previously Irradiated, completing Map adds Irradiation instead":[],
   "If Poisonous Concoction or Explosive Concoction consume Charges from a Sulphur Flask, Enemies Killed by their Hits have #% chance to Explode, dealing 10% of their Life as Physical Damage":[{
       "isScalable":true
     }],
@@ -38137,9 +38168,6 @@
       "isScalable":true
     }],
   "Unwithered enemies are Withered for # seconds when they enter your Presence":[{
-      "isScalable":true
-    }],
-  "Up to # Maps in Range contain Bosses":[{
       "isScalable":true
     }],
   "Upgrades Radius to Large":[],

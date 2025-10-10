@@ -28,14 +28,14 @@
     },
     "boots":{
       "rank":[60],
-      "statOrder":[8470,8470.1],
+      "statOrder":[8471,8471.1],
       "type":"Rune",
       "1":"1% increased Movement Speed per 15 Spirit, up to a maximum of 40%",
       "2":"Other Modifiers to Movement Speed do not apply"
     },
     "helmet":{
       "rank":[60],
-      "statOrder":[9016],
+      "statOrder":[9014],
       "type":"Rune",
       "1":"Remove a Damaging Ailment when you use a Command Skill"
     }
@@ -71,7 +71,7 @@
   "Boar Talisman":{
     "gloves":{
       "rank":[0],
-      "statOrder":[6339],
+      "statOrder":[6338],
       "type":"Rune",
       "1":"Gain 1 Rage on Melee Hit"
     },
@@ -187,7 +187,7 @@
   "Estazunti's Soul Core of Convalescence":{
     "boots":{
       "rank":[50],
-      "statOrder":[8941],
+      "statOrder":[8939],
       "type":"Rune",
       "1":"10% increased speed of Recoup Effects"
     },
@@ -201,7 +201,7 @@
   "Farrul's Rune of Grace":{
     "boots":{
       "rank":[50],
-      "statOrder":[8471],
+      "statOrder":[8472],
       "type":"Rune",
       "1":"6% reduced Movement Speed Penalty from using Skills while moving"
     }
@@ -239,7 +239,7 @@
   "Fenumus' Rune of Draining":{
     "gloves":{
       "rank":[50],
-      "statOrder":[9737],
+      "statOrder":[9735],
       "type":"Rune",
       "1":"20% increased Withered Magnitude"
     }
@@ -503,13 +503,13 @@
   "Greater Rune of Leadership":{
     "armour":{
       "rank":[0],
-      "statOrder":[8396],
+      "statOrder":[8397],
       "type":"Rune",
       "1":"Minions take 10% of Physical Damage as Lightning Damage"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[8395],
+      "statOrder":[8396],
       "type":"Rune",
       "1":"Minions gain 10% of their Physical Damage as Extra Lightning Damage"
     }
@@ -517,13 +517,13 @@
   "Greater Rune of Nobility":{
     "armour":{
       "rank":[0],
-      "statOrder":[9111],
+      "statOrder":[9109],
       "type":"Rune",
       "1":"10% reduced effect of Shock on you"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[7163],
+      "statOrder":[7162],
       "type":"Rune",
       "1":"Attacks with this Weapon have 10% chance to inflict Lightning Exposure"
     }
@@ -531,13 +531,13 @@
   "Greater Rune of Tithing":{
     "armour":{
       "rank":[0],
-      "statOrder":[9485],
+      "statOrder":[9483],
       "type":"Rune",
       "1":"1 to 100 Lightning Thorns damage"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[5919],
+      "statOrder":[5918],
       "type":"Rune",
       "1":"Meta Skills gain 10% increased Energy"
     }
@@ -551,7 +551,7 @@
     },
     "caster":{
       "rank":[30],
-      "statOrder":[9367],
+      "statOrder":[9365],
       "type":"Rune",
       "1":"Gain additional Stun Threshold equal to 14% of maximum Energy Shield"
     },
@@ -585,7 +585,7 @@
   "Greater Tempered Rune":{
     "armour":{
       "rank":[30],
-      "statOrder":[9486],
+      "statOrder":[9484],
       "type":"Rune",
       "1":"31 to 52 Physical Thorns damage"
     },
@@ -599,7 +599,7 @@
   "Greater Vision Rune":{
     "armour":{
       "rank":[30],
-      "statOrder":[6145],
+      "statOrder":[6144],
       "type":"Rune",
       "1":"12% increased Life and Mana Recovery from Flasks"
     },
@@ -689,7 +689,7 @@
   "Kurgal's Gaze":{
     "boots":{
       "rank":[60],
-      "statOrder":[7376],
+      "statOrder":[7375],
       "type":"Rune",
       "1":"15% increased Mana Cost Efficiency if you haven't Dodge Rolled Recently"
     },
@@ -923,7 +923,7 @@
     },
     "caster":{
       "rank":[0],
-      "statOrder":[9367],
+      "statOrder":[9365],
       "type":"Rune",
       "1":"Gain additional Stun Threshold equal to 10% of maximum Energy Shield"
     },
@@ -957,7 +957,7 @@
   "Lesser Tempered Rune":{
     "armour":{
       "rank":[0],
-      "statOrder":[9486],
+      "statOrder":[9484],
       "type":"Rune",
       "1":"6 to 9 Physical Thorns damage"
     },
@@ -971,7 +971,7 @@
   "Lesser Vision Rune":{
     "armour":{
       "rank":[0],
-      "statOrder":[6145],
+      "statOrder":[6144],
       "type":"Rune",
       "1":"8% increased Life and Mana Recovery from Flasks"
     },
@@ -1150,7 +1150,7 @@
   "Saqawal's Rune of Erosion":{
     "helmet":{
       "rank":[50],
-      "statOrder":[6032],
+      "statOrder":[6031],
       "type":"Rune",
       "1":"20% increased Exposure Effect"
     }
@@ -1166,13 +1166,13 @@
   "Saqawal's Rune of the Sky":{
     "caster":{
       "rank":[50],
-      "statOrder":[8556],
+      "statOrder":[8557],
       "type":"Rune",
       "1":"Gain 5% of Damage as Extra Damage of all Elements"
     },
     "weapon":{
       "rank":[50],
-      "statOrder":[8556],
+      "statOrder":[8557],
       "type":"Rune",
       "1":"Gain 5% of Damage as Extra Damage of all Elements"
     }
@@ -1194,13 +1194,13 @@
   "Soul Core of Atmohua":{
     "armour":{
       "rank":[0],
-      "statOrder":[7232],
+      "statOrder":[7231],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Strength"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[7232],
+      "statOrder":[7231],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Strength"
     }
@@ -1208,7 +1208,7 @@
   "Soul Core of Azcapa":{
     "gloves":{
       "rank":[0],
-      "statOrder":[6384],
+      "statOrder":[6383],
       "type":"Rune",
       "1":"10% increased Quantity of Gold Dropped by Slain Enemies"
     },
@@ -1222,13 +1222,13 @@
   "Soul Core of Cholotl":{
     "armour":{
       "rank":[0],
-      "statOrder":[7230],
+      "statOrder":[7229],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Dexterity"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[7230],
+      "statOrder":[7229],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Dexterity"
     }
@@ -1312,7 +1312,7 @@
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[7228],
+      "statOrder":[7227],
       "type":"Rune",
       "1":"15% chance to Poison on Hit with this weapon"
     }
@@ -1396,13 +1396,13 @@
   "Soul Core of Zantipi":{
     "armour":{
       "rank":[0],
-      "statOrder":[7231],
+      "statOrder":[7230],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Intelligence"
     },
     "weapon":{
       "rank":[0],
-      "statOrder":[7231],
+      "statOrder":[7230],
       "type":"Rune",
       "1":"Convert 20% of Requirements to Intelligence"
     }
@@ -1410,7 +1410,7 @@
   "Stag Talisman":{
     "helmet":{
       "rank":[0],
-      "statOrder":[9475],
+      "statOrder":[9473],
       "type":"Rune",
       "1":"50% increased Thorns Critical Hit Chance"
     },
@@ -1430,7 +1430,7 @@
     },
     "caster":{
       "rank":[15],
-      "statOrder":[9367],
+      "statOrder":[9365],
       "type":"Rune",
       "1":"Gain additional Stun Threshold equal to 12% of maximum Energy Shield"
     },
@@ -1488,7 +1488,7 @@
   "Talisman of Grold":{
     "gloves":{
       "rank":[50],
-      "statOrder":[9711],
+      "statOrder":[9709],
       "type":"Rune",
       "1":"15% increased total Power counted by Warcries"
     }
@@ -1496,7 +1496,7 @@
   "Talisman of Maxarius":{
     "body armour":{
       "rank":[50],
-      "statOrder":[8606],
+      "statOrder":[8604],
       "type":"Rune",
       "1":"+1 Charm Slot"
     }
@@ -1504,7 +1504,7 @@
   "Talisman of Ralakesh":{
     "helmet":{
       "rank":[50],
-      "statOrder":[8401],
+      "statOrder":[8402],
       "type":"Rune",
       "1":"6% increased Reservation Efficiency of Minion Skills"
     }
@@ -1520,7 +1520,7 @@
   "Talisman of Thruldana":{
     "weapon":{
       "rank":[50],
-      "statOrder":[2777,8616],
+      "statOrder":[2777,8614],
       "type":"Rune",
       "1":"25% reduced Poison Duration",
       "2":"Targets can be affected by +1 of your Poisons at the same time"
@@ -1549,7 +1549,7 @@
   "Tempered Rune":{
     "armour":{
       "rank":[15],
-      "statOrder":[9486],
+      "statOrder":[9484],
       "type":"Rune",
       "1":"14 to 21 Physical Thorns damage"
     },
@@ -1563,7 +1563,7 @@
   "Thane Girt's Rune of Wildness":{
     "caster":{
       "rank":[50],
-      "statOrder":[9270],
+      "statOrder":[9268],
       "type":"Rune",
       "1":"25% chance for Spell Skills to fire 2 additional Projectiles"
     }
@@ -1571,7 +1571,7 @@
   "Thane Grannell's Rune of Mastery":{
     "gloves":{
       "rank":[50],
-      "statOrder":[8536],
+      "statOrder":[8537],
       "type":"Rune",
       "1":"20% increased Magnitude of Non-Damaging Ailments you inflict"
     }
@@ -1619,7 +1619,7 @@
   "Tzamoto's Soul Core of Ferocity":{
     "helmet":{
       "rank":[50],
-      "statOrder":[8890],
+      "statOrder":[8888],
       "type":"Rune",
       "1":"+4 to Maximum Rage"
     }
@@ -1656,7 +1656,7 @@
   "Vision Rune":{
     "armour":{
       "rank":[15],
-      "statOrder":[6145],
+      "statOrder":[6144],
       "type":"Rune",
       "1":"10% increased Life and Mana Recovery from Flasks"
     },
@@ -1690,13 +1690,13 @@
   "Xipocado's Soul Core of Dominion":{
     "caster":{
       "rank":[50],
-      "statOrder":[8351],
+      "statOrder":[8352],
       "type":"Rune",
       "1":"Minions deal 40% increased Damage with Command Skills"
     },
     "sceptre":{
       "rank":[50],
-      "statOrder":[8351],
+      "statOrder":[8352],
       "type":"Rune",
       "1":"Minions deal 40% increased Damage with Command Skills"
     }

@@ -8530,7 +8530,7 @@
     "stats":["recoup_%_of_spell_cost_as_mana_on_cast"],
     "1":[{
         "limit":[[1,"#"]],
-        "text":"{0}% of Supported Skills costs are Recouped as Mana"
+        "text":"{0}% of Supported Skills' Mana cost is Recouped as Mana"
       }]
   },
   "668":{
@@ -8727,7 +8727,7 @@
     "stats":["restore_%_life_on_skill_use_per_1000_ms_cooldown"],
     "1":[{
         "limit":[[1,"#"]],
-        "text":"Restore {0}% of maximum Life on use per one second cooldown of Supported Skills"
+        "text":"When a Supported Skill consumes a cooldown use, recover {0}% of maximum Life per second of cooldown"
       }]
   },
   "688":{

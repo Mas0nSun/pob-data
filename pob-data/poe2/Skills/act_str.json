@@ -879,7 +879,7 @@
     "baseTypeName":"Ancestral Warrior Totem",
     "castTime":0.5,
     "color":1,
-    "description":"Consume 3 Endurance Charges to Raise a Totem that uses socketed Mace Skills. This Totem has no Limit. Cannot use Channelling Skills or Skills with Cooldowns.",
+    "description":"Consume 3 Endurance Charges to Raise a Totem that uses socketed Mace Skills. Cannot use Channelling Skills or Skills with Cooldowns.",
     "levels":[{
         "cost":{
           "Mana":13
@@ -1098,8 +1098,7 @@
       "173":true,
       "194":true,
       "222":true,
-      "228":true,
-      "243":true
+      "228":true
     },
     "statSets":[{
         "baseEffectiveness":1.8600000143051,
@@ -1107,7 +1106,7 @@
           "attack":true,
           "totem":true
         },
-        "constantStats":[["base_totem_duration",8000],["base_totem_range",60],["ancestral_spirit_base_lockout_time_ms",600],["active_skill_requires_X_endurance_charges",3]],
+        "constantStats":[["base_totem_duration",8000],["base_totem_range",60],["ancestral_spirit_base_lockout_time_ms",600],["active_skill_requires_X_endurance_charges",3],["non_modifiable_totem_limit",10]],
         "label":"Ancestral Warrior Totem",
         "levels":[{
             "actorLevel":1,
@@ -38323,8 +38322,8 @@
             "flags":0,
             "keywordFlags":0,
             "name":"ActiveTotemLimit",
-            "type":"BASE",
-            "value":1
+            "type":"OVERRIDE",
+            "value":10
           }],
         "constantStats":[["skill_disabled_unless_cloned",2],["support_ancestral_warrior_totem_attack_speed_+%_final",-25]],
         "incrementalEffectiveness":0.054999999701977,

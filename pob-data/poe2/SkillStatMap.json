@@ -2231,6 +2231,13 @@
         "value":true
       }
     }],
+  "base_skill_sources_hollow_palm_physical_damage":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"UseHollowPalmDamage",
+      "type":"FLAG",
+      "value":true
+    }],
   "base_spell_block_%":[{
       "flags":0,
       "keywordFlags":0,
@@ -5056,6 +5063,12 @@
       "keywordFlags":0,
       "name":"EnemyFreezeEffect",
       "type":"INC"
+    }],
+  "non_modifiable_totem_limit":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"ActiveTotemLimit",
+      "type":"OVERRIDE"
     }],
   "non_skill_base_all_damage_%_to_gain_as_chaos":[{
       "flags":0,

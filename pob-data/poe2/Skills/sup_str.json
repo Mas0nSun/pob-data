@@ -1169,6 +1169,19 @@
             "actorLevel":1
           }],
         "statDescriptionScope":"gem_stat_descriptions",
+        "statMap":{
+          "support_bloodlust_melee_physical_damage_+%_final_vs_bleeding_enemies":[{
+              "flags":256,
+              "keywordFlags":0,
+              "name":"PhysicalDamage",
+              "type":"MORE",
+              "1":{
+                "actor":"enemy",
+                "type":"ActorCondition",
+                "var":"Bleeding"
+              }
+            }]
+        },
         "stats":["cannot_cause_bleeding"]
       }],
     "support":true

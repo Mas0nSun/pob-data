@@ -2325,7 +2325,7 @@
     "requireSkillTypes":[183],
     "statSets":[{
         "baseFlags":[],
-        "constantStats":[["remnant_pickup_range_+%",100]],
+        "constantStats":[["remnant_pickup_range_+%",35]],
         "incrementalEffectiveness":0.054999999701977,
         "label":"Harmonic Remnants I",
         "levels":[{
@@ -2349,7 +2349,7 @@
     "requireSkillTypes":[183],
     "statSets":[{
         "baseFlags":[],
-        "constantStats":[["remnant_pickup_range_+%",100],["chance_%_to_create_additional_remnant",20]],
+        "constantStats":[["remnant_pickup_range_+%",35],["chance_%_to_create_additional_remnant",20]],
         "incrementalEffectiveness":0.054999999701977,
         "label":"Harmonic Remnants II",
         "levels":[{
@@ -3140,7 +3140,7 @@
     "requireSkillTypes":[183],
     "statSets":[{
         "baseFlags":[],
-        "constantStats":[["remnant_pickup_range_+%",100]],
+        "constantStats":[["remnant_pickup_range_+%",35]],
         "incrementalEffectiveness":0.054999999701977,
         "label":"Magnetic Remnants",
         "levels":[{
@@ -4836,7 +4836,7 @@
   "SupportZenithPlayerTwo":{
     "addSkillTypes":[],
     "color":3,
-    "description":"Supports Spell Skills. Supported Skills deal more damage while you are above 90% of your Maximum Mana, and Recoup a portion of Skill costs as Mana. Does not modify Skills used by Minions.",
+    "description":"Supports Spell Skills. Supported Skills deal more damage while you are above 90% of your Maximum Mana, and Recoup a portion of their Mana cost. Does not modify Skills used by Minions.",
     "excludeSkillTypes":[],
     "gemFamily":["Zenith"],
     "ignoreMinionTypes":true,
@@ -5503,6 +5503,7 @@
       "31":true,
       "37":true,
       "77":true,
+      "90":true,
       "115":true,
       "144":true,
       "214":true,
@@ -5570,6 +5571,7 @@
       "31":true,
       "37":true,
       "77":true,
+      "90":true,
       "115":true,
       "144":true,
       "214":true,

@@ -14378,13 +14378,13 @@
         "type":"INC",
         "value":20
       }]," Elemental Infusion  "],
-  "20% increased Elemental Infusion duration Remnants can be collected from 15% further away":[[{
+  "20% increased Elemental Infusion duration Remnants can be collected from 20% further away":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"Duration",
         "type":"INC",
         "value":20
-      }]," Elemental Infusion  Remnants can be collected from 15% further away "],
+      }]," Elemental Infusion  Remnants can be collected from 20% further away "],
   "20% increased Endurance Charge Duration":[[{
         "flags":0,
         "keywordFlags":0,
@@ -44537,9 +44537,8 @@
           }
         }
       }]],
-  "Remnants can be collected from 10% further away":[null,"Remnants can be collected from 10% further away "],
   "Remnants can be collected from 15% further away":[null,"Remnants can be collected from 15% further away "],
-  "Remnants can be collected from 30% further away":[null,"Remnants can be collected from 30% further away "],
+  "Remnants can be collected from 20% further away":[null,"Remnants can be collected from 20% further away "],
   "Remnants have 10% increased effect":[null,"Remnants have 10% increased effect "],
   "Remnants have 2% increased effect per 10 Tribute":[null,"Remnants have 2% increased effect per 10 Tribute "],
   "Remnants you create reappear once, 3 seconds after being collected":[null,"Remnants you create reappear once, 3 seconds after being collected "],
