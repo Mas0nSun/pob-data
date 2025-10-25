@@ -22149,7 +22149,7 @@
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "statMap":{
-      "additional_main_hand_hits_per_combo_average":[{
+      "glacial_hammer_third_hit_always_crits":[{
           "flags":0,
           "keywordFlags":0,
           "name":"Every3UseCrit",
