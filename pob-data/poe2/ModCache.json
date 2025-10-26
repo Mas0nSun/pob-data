@@ -37412,7 +37412,13 @@
   "Fork an additional time Chain an additional time Chain from Terrain an additional time Cannot collide with targets":[null,"Fork an additional time Chain an additional time Chain from Terrain an additional time Cannot collide with targets "],
   "Frenzy or Power Charge":[null,"Frenzy or Power Charge "],
   "Fully Armour Broken enemies you kill with Hits Shatter":[null,"Fully Armour Broken enemies you kill with Hits Shatter "],
-  "Fully Broken Armour effects also apply to Fire Damage Taken from Hits":[null,"Fully Broken Armour effects also apply to Fire Damage Taken from Hits "],
+  "Fully Broken Armour effects also apply to Fire Damage Taken from Hits":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ArmourBreakFireDamageTaken",
+        "type":"FLAG",
+        "value":true
+      }]],
   "Gain 0% to 40% increased Movement Speed at random when Hit, until Hit again":[[{
         "flags":0,
         "keywordFlags":0,
