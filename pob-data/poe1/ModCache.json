@@ -20484,6 +20484,27 @@
         "type":"FLAG",
         "value":true
       }]],
+  "1 to 18 Lightning Damage per Power Charge":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"LightningMin",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "type":"Multiplier",
+          "var":"PowerCharge"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"LightningMax",
+        "type":"BASE",
+        "value":18,
+        "1":{
+          "type":"Multiplier",
+          "var":"PowerCharge"
+        }
+      }]],
   "1 to 4 Added Physical Damage with Bow Attacks":[[{
         "flags":131076,
         "keywordFlags":0,
@@ -22362,23 +22383,7 @@
         }
       }]],
   "10% chance to gain a Frenzy Charge on Hit":[null,"a Frenzy Charge on Hit "],
-  "10% chance to gain a Frenzy Charge on Hit Gain Onslaught for 4 seconds on Hit while at maximum Frenzy Charges":[[{
-        "flags":4,
-        "keywordFlags":0,
-        "name":"Condition:Onslaught",
-        "type":"FLAG",
-        "value":true,
-        "1":{
-          "stat":"FrenzyCharges",
-          "thresholdStat":"FrenzyChargesMax",
-          "type":"StatThreshold"
-        },
-        "2":{
-          "includeTransfigured":true,
-          "skillName":"Frenzy",
-          "type":"SkillName"
-        }
-      }],"aCharge  Gain   on Hit  "],
+  "10% chance to gain a Frenzy Charge on Hit Gain a Flask Charge when you deal a Critical Strike while at maximum Frenzy Charges":[null,"a Frenzy Charge on Hit Gain a Flask Charge   "],
   "10% chance to gain a Frenzy Charge on Kill":[null,"a Frenzy Charge  "],
   "10% chance to gain a Frenzy Charge on Kill 10% chance to gain a Power Charge on Kill":[null,"a Frenzy Charge  10% chance to gain a Power Charge  "],
   "10% chance to gain a Frenzy Charge when you Hit your Marked Enemy":[null,"a Frenzy Charge when you Hit your Marked Enemy "],
@@ -29025,7 +29030,8 @@
         "value":15
       }]],
   "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped":[null,"a Frenzy Charge on Hit  "],
-  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped 10% of Physical Damage taken as Cold Damage if 4 Redeemer Items are Equipped":[null,"a Frenzy Charge on Hit  10% of Physical Damage taken as Cold Damage  "],
+  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped +1.5% to Spell Critical Strike Chance if 4 Shaper Items are Equipped":[null,"a Frenzy Charge on Hit  +1.5% to Spell Critical Strike Chance  "],
+  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped +2% to Spell Critical Strike Chance if 4 Shaper Items are Equipped":[null,"a Frenzy Charge on Hit  +2% to Spell Critical Strike Chance  "],
   "15% chance to gain a Frenzy Charge on Kill":[null,"a Frenzy Charge  "],
   "15% chance to gain a Frenzy Charge on Kill Each Rage also grants +1% to Damage over Time Multiplier for Bleeding while wielding an Axe":[null,"a Frenzy Charge  Each Rage also grants +1% to Damage over Time Multiplier for Bleeding  "],
   "15% chance to gain a Frenzy Charge when you Stun an Enemy":[null,"a Frenzy Charge when you Stun an Enemy "],
@@ -29048,7 +29054,7 @@
       }],"aCharge  30% chance to gain   when your  is triggered by an Enemy "],
   "15% chance to gain a Power Charge on Critical Strike":[null,"a Power Charge "],
   "15% chance to gain a Power Charge on Hit if 4 Crusader Items are Equipped":[null,"a Power Charge on Hit  "],
-  "15% chance to gain a Power Charge on Hit if 4 Crusader Items are Equipped Cannot take Reflected Physical Damage if 4 Elder Items are Equipped":[null,"a Power Charge on Hit  Cannot take Reflected Physical Damage  "],
+  "15% chance to gain a Power Charge on Hit if 4 Crusader Items are Equipped +3% to maximum Lightning Resistance if 4 Crusader Items are Equipped":[null,"a Power Charge on Hit  +3% to maximum Lightning Resistance  "],
   "15% chance to gain a Power Charge on Kill":[null,"a Power Charge  "],
   "15% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons":[null,"a Power Charge ing an Enemy affected by fewer than 5 Poisons "],
   "15% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons 10% increased Damage with Poison per Frenzy Charge":[null,"a Power Charge ing an Enemy affected by fewer than 5 Poisons 10% increased Damage with Poison  "],
@@ -34352,7 +34358,21 @@
   "20% chance to gain a Frenzy Charge on Killing a Frozen Enemy Skills Chain an additional time while at maximum Frenzy Charges":[null,"a Frenzy Charge ing a Frozen Enemy Skills Chain an additional time  "],
   "20% chance to gain a Frenzy Charge when you Block Attack Damage":[null,"a Frenzy Charge when you Block Attack Damage "],
   "20% chance to gain a Power Charge on Critical Strike":[null,"a Power Charge "],
-  "20% chance to gain a Power Charge on Critical Strike You have Mind over Matter while at maximum Power Charges":[null,"a Power Charge You have Mind over Matter  "],
+  "20% chance to gain a Power Charge on Critical Strike Gain Arcane Surge on Hit with Spells while at maximum Power Charges":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Condition:ArcaneSurge",
+        "type":"FLAG",
+        "value":true,
+        "1":{
+          "type":"Condition",
+          "var":"CriticalStrike"
+        },
+        "2":{
+          "type":"Condition",
+          "var":"HitSpellRecently"
+        }
+      }],"a Power Charge Gain   while at  "],
   "20% chance to gain a Power Charge on Hit":[null,"a Power Charge on Hit "],
   "20% chance to gain a Power Charge on Hit 6% increased Spell Damage per Power Charge":[null,"a Power Charge on Hit 6% increased Spell Damage  "],
   "20% chance to gain a Power Charge on Kill":[null,"a Power Charge  "],
@@ -38563,7 +38583,7 @@
         "value":{
           "level":1,
           "noSupports":true,
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "triggered":true
         }
       }]],
@@ -41452,17 +41472,6 @@
           "type":"PerStat"
         }
       }]],
-  "3% increased Energy Shield per Power Charge":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnergyShield",
-        "type":"INC",
-        "value":3,
-        "1":{
-          "type":"Multiplier",
-          "var":"PowerCharge"
-        }
-      }]],
   "3% increased Experience gain":[[]," Experience gain "],
   "3% increased Experience gain 2% increased Experience gain":[[]," Experience gain 2% increased Experience gain "],
   "3% increased Experience gain 20% increased Elemental Damage":[[{
@@ -42226,7 +42235,7 @@
   "30% chance to gain an Endurance Charge on Hitting an Enemy with no Armour":[null,"an Endurance Charge on Hitting an Enemy with no Armour "],
   "30% chance to gain an Endurance Charge on Hitting an Enemy with no Armour 30% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating":[null,"an Endurance Charge on Hitting an Enemy with no Armour 30% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating "],
   "30% chance to gain an Endurance Charge on Kill":[null,"an Endurance Charge  "],
-  "30% chance to gain an Endurance Charge on Kill 27 to 42 Fire Damage per Endurance Charge":[null,"an Endurance Charge  27 to 42 Fire Damage  "],
+  "30% chance to gain an Endurance Charge on Kill You have Iron Reflexes while at maximum Frenzy Charges":[null,"an Endurance Charge  You have Iron Reflexes  "],
   "30% chance to gain an Endurance Charge when you Stun an Enemy":[null,"an Endurance Charge when you Stun an Enemy "],
   "30% chance to gain an Endurance Charge when you Stun an Enemy Enemies in your Link Beams cannot apply Elemental Ailments":[null,"an Endurance Charge when you Stun an Enemy Enemies in your Link Beams cannot apply Elemental Ailments "],
   "30% chance to gain an Endurance Charge when you are Hit":[null,"an Endurance Charge when you are Hit "],
@@ -42235,7 +42244,7 @@
   "30% chance to gain an Endurance Charge when you are Hit 25% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges Gain 1 Endurance Charge every second if you've been Hit Recently +1 to Maximum Endurance Charges":[null,"an Endurance Charge when you are Hit 25% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges Gain 1 Endurance Charge every second  +1 to Maximum Endurance Charges "],
   "30% chance to gain an Endurance Charge when you are Hit 30% chance to gain an Endurance Charge when you Stun an Enemy":[null,"an Endurance Charge when you are Hit 30% chance to gain an Endurance Charge when you Stun an Enemy "],
   "30% chance to gain an Frenzy Charge on Kill":[null,"an Frenzy Charge  "],
-  "30% chance to gain an Frenzy Charge on Kill 15% increased Damage per Frenzy Charge":[null,"an Frenzy Charge  15% increased Damage  "],
+  "30% chance to gain an Frenzy Charge on Kill You have Mind over Matter while at maximum Power Charges":[null,"an Frenzy Charge  You have Mind over Matter  "],
   "30% chance to gain an Power Charge on Kill":[null,"an Power Charge  "],
   "30% chance to gain an Power Charge on Kill 15% increased Damage per Power Charge":[null,"an Power Charge  15% increased Damage  "],
   "30% chance to gain an additional Vaal Soul on Kill":[null,"an additional Vaal Soul  "],
@@ -48696,20 +48705,24 @@
         "value":439
       }]],
   "45% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges":[[]," that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges "],
-  "45% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 10% chance to gain a Frenzy Charge on Hit":[[]," that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 10% chance to gain aCharge  "],
+  "45% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 30% chance to gain an Endurance Charge on Kill":[[]," that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 30% chance to gain an Endurance Charge  "],
   "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges":[[]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges "],
-  "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges 120% increased Frenzy Charge Duration":[[{
+  "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges 15% increased Damage per Frenzy Charge":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"FrenzyChargesDuration",
+        "name":"Damage",
         "type":"BASE",
         "value":45,
         "1":{
+          "type":"Multiplier",
+          "var":"FrenzyCharge"
+        },
+        "2":{
           "includeTransfigured":true,
           "skillName":"Frenzy",
           "type":"SkillName"
         }
-      }]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges 120% increased  "],
+      }]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges 15% increased   "],
   "45% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges":[[]," that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges "],
   "45% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges 6 to 60 Lightning Damage per Power Charge":[[{
         "flags":0,
@@ -76644,7 +76657,7 @@
         "value":{
           "level":1,
           "noSupports":true,
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "triggered":true
         }
       }]],
@@ -76656,7 +76669,7 @@
         "value":{
           "level":1,
           "noSupports":true,
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "triggered":true
         }
       }]],
@@ -84854,7 +84867,7 @@
         }
       }]],
   "Gain an Endurance Charge every second if you've been Hit Recently":[null,"an Endurance Charge every second  "],
-  "Gain an Endurance Charge every second if you've been Hit Recently You cannot be Stunned while at maximum Endurance Charges":[null,"an Endurance Charge every second  You cannot be Stunned  "],
+  "Gain an Endurance Charge every second if you've been Hit Recently You have Vaal Pact while at maximum Endurance Charges":[null,"an Endurance Charge every second  You have Vaal Pact  "],
   "Gain an Endurance Charge if an Attack Freezes an Enemy":[null,"an Endurance Charge if an Attack Freezes an Enemy "],
   "Gain an Endurance Charge if an Attack Freezes an Enemy Culling Strike against Frozen Enemies":[null,"an Endurance Charge if an Attack Freezes an Enemy Culling Strike  "],
   "Gain an Endurance Charge when a Power Charge expires or is consumed":[null,"an Endurance Charge when a Power Charge expires or is consumed "],
@@ -86340,7 +86353,7 @@
         "type":"LIST",
         "value":{
           "level":21,
-          "skillId":"Vulnerability"
+          "skillId":"MonsterVulnerabilityOnHit1"
         },
         "1":{
           "type":"Condition",
@@ -88707,7 +88720,7 @@
         }
       }]],
   "Immune to Reflected Damage if you've cast Punishment in the past 10 seconds":[null,"Immune to Reflected Damage if you've cast Punishment in the past 10 seconds "],
-  "Immune to Reflected Damage if you've cast Punishment in the past 10 seconds +40% to Critical Strike Multiplier if you've cast Enfeeble in the past 10 seconds":[null,"Immune to Reflected Damage if you've cast Punishment in the past 10 seconds +40% to Critical Strike Multiplier if you've cast Enfeeble in the past 10 seconds "],
+  "Immune to Reflected Damage if you've cast Punishment in the past 10 seconds Intimidate Enemies on Hit if you've cast Punishment in the past 10 seconds":[null,"Immune to Reflected Damage if you've cast Punishment in the past 10 seconds Intimidate Enemies on Hit if you've cast Punishment in the past 10 seconds "],
   "Immune to Shock while affected by Purity of Lightning":[null,"Immune to Shock while affected by Purity of Lightning "],
   "Immune to Shock while affected by Purity of Lightning 10% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning":[null,"Immune to Shock while affected by Purity of Lightning 10% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning "],
   "Immunity to Freeze, Chill, Curses and Stuns during Effect":[[{
@@ -114266,7 +114279,7 @@
           "value":true
         },
         "1":{
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "type":"SkillId"
         }
       }]],
@@ -114280,7 +114293,7 @@
           "value":0
         },
         "1":{
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "type":"SkillId"
         },
         "2":{
@@ -114302,7 +114315,7 @@
           "value":0
         },
         "1":{
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "type":"SkillId"
         },
         "2":{
@@ -114324,7 +114337,7 @@
           "value":0
         },
         "1":{
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "type":"SkillId"
         },
         "2":{
@@ -114346,7 +114359,7 @@
           "value":0
         },
         "1":{
-          "skillId":"Vulnerability",
+          "skillId":"MonsterVulnerabilityOnHit1",
           "type":"SkillId"
         },
         "2":{
@@ -115782,7 +115795,7 @@
         "value":{
           "applyToPlayer":true,
           "level":1,
-          "skillId":"Vulnerability"
+          "skillId":"MonsterVulnerabilityOnHit1"
         }
       }]],
   "You are Hexproof if you have a Magic Ring in right slot":[[{
@@ -115905,7 +115918,7 @@
         "value":{
           "applyToPlayer":true,
           "level":1,
-          "skillId":"Vulnerability"
+          "skillId":"MonsterVulnerabilityOnHit1"
         }
       }]],
   "You can Cast 2 additional Brands":[[{
