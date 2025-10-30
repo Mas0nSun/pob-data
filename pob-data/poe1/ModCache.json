@@ -28069,18 +28069,6 @@
           "type":"Global"
         }
       }]],
-  "13% increased Intelligence if 2 Crusader Items are Equipped":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"Int",
-        "type":"INC",
-        "value":13,
-        "1":{
-          "threshold":2,
-          "type":"MultiplierThreshold",
-          "var":"CrusaderItem"
-        }
-      }]],
   "13% increased Life Recovery rate":[[{
         "flags":0,
         "keywordFlags":0,
@@ -29030,8 +29018,7 @@
         "value":15
       }]],
   "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped":[null,"a Frenzy Charge on Hit  "],
-  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped +1.5% to Spell Critical Strike Chance if 4 Shaper Items are Equipped":[null,"a Frenzy Charge on Hit  +1.5% to Spell Critical Strike Chance  "],
-  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped +2% to Spell Critical Strike Chance if 4 Shaper Items are Equipped":[null,"a Frenzy Charge on Hit  +2% to Spell Critical Strike Chance  "],
+  "15% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped +3% to maximum Cold Resistance if 4 Redeemer Items are Equipped":[null,"a Frenzy Charge on Hit  +3% to maximum Cold Resistance  "],
   "15% chance to gain a Frenzy Charge on Kill":[null,"a Frenzy Charge  "],
   "15% chance to gain a Frenzy Charge on Kill Each Rage also grants +1% to Damage over Time Multiplier for Bleeding while wielding an Axe":[null,"a Frenzy Charge  Each Rage also grants +1% to Damage over Time Multiplier for Bleeding  "],
   "15% chance to gain a Frenzy Charge when you Stun an Enemy":[null,"a Frenzy Charge when you Stun an Enemy "],
@@ -38005,6 +37992,17 @@
         "type":"INC",
         "value":23
       }]],
+  "23% increased Cooldown Recovery Rate if you've cast Temporal Chains in the past 10 seconds":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"CooldownRecovery",
+        "type":"INC",
+        "value":23,
+        "1":{
+          "type":"Condition",
+          "var":"SelfCastTemporalChains"
+        }
+      }]],
   "23% increased Critical Strike Chance":[[{
         "flags":0,
         "keywordFlags":0,
@@ -42235,7 +42233,7 @@
   "30% chance to gain an Endurance Charge on Hitting an Enemy with no Armour":[null,"an Endurance Charge on Hitting an Enemy with no Armour "],
   "30% chance to gain an Endurance Charge on Hitting an Enemy with no Armour 30% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating":[null,"an Endurance Charge on Hitting an Enemy with no Armour 30% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating "],
   "30% chance to gain an Endurance Charge on Kill":[null,"an Endurance Charge  "],
-  "30% chance to gain an Endurance Charge on Kill You have Iron Reflexes while at maximum Frenzy Charges":[null,"an Endurance Charge  You have Iron Reflexes  "],
+  "30% chance to gain an Endurance Charge on Kill 15% increased Damage per Endurance Charge":[null,"an Endurance Charge  15% increased Damage  "],
   "30% chance to gain an Endurance Charge when you Stun an Enemy":[null,"an Endurance Charge when you Stun an Enemy "],
   "30% chance to gain an Endurance Charge when you Stun an Enemy Enemies in your Link Beams cannot apply Elemental Ailments":[null,"an Endurance Charge when you Stun an Enemy Enemies in your Link Beams cannot apply Elemental Ailments "],
   "30% chance to gain an Endurance Charge when you are Hit":[null,"an Endurance Charge when you are Hit "],
@@ -42244,9 +42242,9 @@
   "30% chance to gain an Endurance Charge when you are Hit 25% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges Gain 1 Endurance Charge every second if you've been Hit Recently +1 to Maximum Endurance Charges":[null,"an Endurance Charge when you are Hit 25% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges Gain 1 Endurance Charge every second  +1 to Maximum Endurance Charges "],
   "30% chance to gain an Endurance Charge when you are Hit 30% chance to gain an Endurance Charge when you Stun an Enemy":[null,"an Endurance Charge when you are Hit 30% chance to gain an Endurance Charge when you Stun an Enemy "],
   "30% chance to gain an Frenzy Charge on Kill":[null,"an Frenzy Charge  "],
-  "30% chance to gain an Frenzy Charge on Kill You have Mind over Matter while at maximum Power Charges":[null,"an Frenzy Charge  You have Mind over Matter  "],
+  "30% chance to gain an Frenzy Charge on Kill 24 to 39 Cold Damage per Frenzy Charge":[null,"an Frenzy Charge  24 to 39 Cold Damage  "],
   "30% chance to gain an Power Charge on Kill":[null,"an Power Charge  "],
-  "30% chance to gain an Power Charge on Kill 15% increased Damage per Power Charge":[null,"an Power Charge  15% increased Damage  "],
+  "30% chance to gain an Power Charge on Kill 120% increased Power Charge Duration":[null,"an Power Charge  120% increased Power Charge Duration "],
   "30% chance to gain an additional Vaal Soul on Kill":[null,"an additional Vaal Soul  "],
   "30% chance to gain an additional Vaal Soul on Kill Corrupted":[null,"an additional Vaal Soul  Corrupted "],
   "30% chance to inflict Corrosion on Hit with Attacks":[[{
@@ -45890,10 +45888,10 @@
         "value":39
       }]],
   "4 Warlord Items are Equipped":[[]," Warlord Items are Equipped "],
-  "4 Warlord Items are Equipped +3% to maximum Fire Resistance if 4 Warlord Items are Equipped":[[{
+  "4 Warlord Items are Equipped 10% of Physical Damage taken as Fire Damage if 4 Warlord Items are Equipped":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"FireResistMax",
+        "name":"PhysicalDamageTakenAsFire",
         "type":"BASE",
         "value":4,
         "1":{
@@ -45901,7 +45899,7 @@
           "type":"MultiplierThreshold",
           "var":"WarlordItem"
         }
-      }]," Warlord Items are Equipped +3% to   "],
+      }]," Warlord Items are Equipped 10% of    "],
   "4 additional Arrows":[[{
         "flags":1,
         "keywordFlags":0,
@@ -48707,34 +48705,19 @@
   "45% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges":[[]," that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges "],
   "45% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 30% chance to gain an Endurance Charge on Kill":[[]," that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges 30% chance to gain an Endurance Charge  "],
   "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges":[[]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges "],
-  "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges 15% increased Damage per Frenzy Charge":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"Damage",
-        "type":"BASE",
-        "value":45,
-        "1":{
-          "type":"Multiplier",
-          "var":"FrenzyCharge"
-        },
-        "2":{
-          "includeTransfigured":true,
-          "skillName":"Frenzy",
-          "type":"SkillName"
-        }
-      }]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges 15% increased   "],
+  "45% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges 30% chance to gain an Frenzy Charge on Kill":[[]," that if you would gainCharges, you instead gain up to your maximum number of Frenzy Charges 30% chance to gain an Frenzy Charge  "],
   "45% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges":[[]," that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges "],
-  "45% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges 6 to 60 Lightning Damage per Power Charge":[[{
+  "45% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges 9% increased Energy Shield per Power Charge":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"LightningDamage",
+        "name":"EnergyShield",
         "type":"BASE",
         "value":45,
         "1":{
           "type":"Multiplier",
           "var":"PowerCharge"
         }
-      }]," that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges 6 to 60   "],
+      }]," that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges 9% increased   "],
   "45% chance to avoid Bleeding":[[{
         "flags":0,
         "keywordFlags":0,
@@ -56353,18 +56336,6 @@
         "name":"PhysicalDamageFromHitsTakenAsFire",
         "type":"BASE",
         "value":8
-      }]],
-  "8% of Physical Damage taken as Lightning Damage if 4 Crusader Items are Equipped":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"PhysicalDamageTakenAsLightning",
-        "type":"BASE",
-        "value":8,
-        "1":{
-          "threshold":4,
-          "type":"MultiplierThreshold",
-          "var":"CrusaderItem"
-        }
       }]],
   "8% reduced Enemy Stun Threshold":[[{
         "flags":0,
@@ -84867,7 +84838,7 @@
         }
       }]],
   "Gain an Endurance Charge every second if you've been Hit Recently":[null,"an Endurance Charge every second  "],
-  "Gain an Endurance Charge every second if you've been Hit Recently You have Vaal Pact while at maximum Endurance Charges":[null,"an Endurance Charge every second  You have Vaal Pact  "],
+  "Gain an Endurance Charge every second if you've been Hit Recently +1 to Maximum Endurance Charges":[null,"an Endurance Charge every second  +1 to Maximum Endurance Charges "],
   "Gain an Endurance Charge if an Attack Freezes an Enemy":[null,"an Endurance Charge if an Attack Freezes an Enemy "],
   "Gain an Endurance Charge if an Attack Freezes an Enemy Culling Strike against Frozen Enemies":[null,"an Endurance Charge if an Attack Freezes an Enemy Culling Strike  "],
   "Gain an Endurance Charge when a Power Charge expires or is consumed":[null,"an Endurance Charge when a Power Charge expires or is consumed "],
@@ -91210,6 +91181,7 @@
   "Melee Hits Fortify -3 to maximum Fortification":[null,"Melee Hits Fortify -3 to maximum Fortification "],
   "Melee Hits Fortify Limited to 1 Attribute Notable Tattoo":[null,"Melee Hits Fortify Limited to 1 Attribute Notable Tattoo "],
   "Melee Hits Fortify if 6 Warlord Items are Equipped":[null,"Melee Hits Fortify if 6 Warlord Items are Equipped "],
+  "Melee Hits Fortify if 6 Warlord Items are Equipped +1 to Level of all Fire Skill Gems if 6 Warlord Items are Equipped":[null,"Melee Hits Fortify if 6 Warlord Items are Equipped +1 to Level of all Fire Skill Gems if 6 Warlord Items are Equipped "],
   "Melee Hits count as Rampage Kills":[null,"Melee Hits count as Rampage Kills "],
   "Melee Hits count as Rampage Kills Rampage":[null,"Melee Hits count as Rampage Kills Rampage "],
   "Melee Hits from Strike Skills Fortify":[null,"Melee Hits from Strike Skills Fortify "],
@@ -112929,7 +112901,7 @@
         "type":"LIST",
         "value":{
           "level":1,
-          "skillId":"IntimidatingCry",
+          "skillId":"CatsStealthTriggeredIntimidatingCry",
           "triggered":true
         }
       }]],
@@ -113150,7 +113122,7 @@
         "type":"LIST",
         "value":{
           "level":20,
-          "skillId":"IntimidatingCry",
+          "skillId":"CatsStealthTriggeredIntimidatingCry",
           "triggered":true
         }
       }]],
