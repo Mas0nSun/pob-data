@@ -12697,7 +12697,7 @@
             "type":"GlobalEffect"
           },
           "2":{
-            "limit":3,
+            "limit":4,
             "type":"Multiplier",
             "var":"RuptureStack"
           }
@@ -12713,7 +12713,7 @@
             "type":"GlobalEffect"
           },
           "2":{
-            "limit":3,
+            "limit":4,
             "type":"Multiplier",
             "var":"RuptureStack"
           }

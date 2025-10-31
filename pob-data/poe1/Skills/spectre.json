@@ -4984,9 +4984,9 @@
     "skillTypes":{
       "2":true,
       "5":true,
+      "10":true,
       "11":true,
-      "12":true,
-      "101":true
+      "82":true
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "statMap":{
@@ -5447,6 +5447,69 @@
     },
     "stats":["spell_minimum_base_cold_damage","spell_maximum_base_cold_damage","is_area_damage","base_skill_is_trapped","is_trap","ignores_trap_and_mine_cooldown_limit"]
   },
+  "CrucibleVendigoFlickerStrike":{
+    "baseFlags":{
+      "attack":true,
+      "melee":true,
+      "movement":true
+    },
+    "castTime":1,
+    "color":4,
+    "constantStats":[["skill_physical_damage_%_to_convert_to_lightning",50]],
+    "description":"Teleports the character to a nearby monster and attacks with a melee weapon. If no specific monster is targeted, one is picked at random. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Frenzy Charge.",
+    "hidden":true,
+    "levels":[{
+        "cooldown":3,
+        "levelRequirement":1,
+        "statInterpolation":[2],
+        "storedUses":1,
+        "1":-30
+      },{
+        "cooldown":3,
+        "levelRequirement":19,
+        "statInterpolation":[2],
+        "storedUses":1,
+        "1":0
+      },{
+        "cooldown":3,
+        "levelRequirement":20,
+        "statInterpolation":[2],
+        "storedUses":1,
+        "1":1
+      },{
+        "cooldown":3,
+        "levelRequirement":84,
+        "statInterpolation":[2],
+        "storedUses":1,
+        "1":30
+      }],
+    "name":"Flicker Strike",
+    "notMinionStat":["active_skill_damage_+%_final"],
+    "skillTypes":{
+      "1":true,
+      "12":true,
+      "24":true,
+      "25":true,
+      "28":true,
+      "37":true,
+      "101":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["active_skill_damage_+%_final","ignores_proximity_shield"],
+    "weaponTypes":{
+      "Claw":true,
+      "Dagger":true,
+      "One Handed Axe":true,
+      "One Handed Mace":true,
+      "One Handed Sword":true,
+      "Sceptre":true,
+      "Staff":true,
+      "Thrusting One Handed Sword":true,
+      "Two Handed Axe":true,
+      "Two Handed Mace":true,
+      "Two Handed Sword":true
+    }
+  },
   "DTTHellscapeStabWeb":{
     "baseFlags":{
       "hit":true,
@@ -5834,6 +5897,70 @@
     "statDescriptionScope":"skill_stat_descriptions",
     "stats":["spell_minimum_base_physical_damage","spell_maximum_base_physical_damage","is_area_damage"]
   },
+  "DelveMelee":{
+    "baseEffectiveness":2,
+    "baseFlags":{
+      "attack":true,
+      "melee":true
+    },
+    "castTime":1,
+    "color":4,
+    "constantStats":[["apply_azurite_debuff_on_hit_ms",2500]],
+    "description":"Strike your foes down with a powerful blow.",
+    "hidden":true,
+    "incrementalEffectiveness":0.03999999910593,
+    "levels":[{
+        "levelRequirement":1,
+        "statInterpolation":[3],
+        "1":25.000000558794
+      }],
+    "name":"Default Attack (Cold DoT)",
+    "skillTypes":{
+      "1":true,
+      "3":true,
+      "24":true,
+      "25":true,
+      "28":true,
+      "47":true,
+      "67":true,
+      "68":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["base_cold_damage_to_deal_per_minute","action_attack_or_cast_time_uses_animation_length"]
+  },
+  "DelveMeleeCold":{
+    "baseEffectiveness":0,
+    "baseFlags":{
+      "attack":true,
+      "melee":true
+    },
+    "castTime":1,
+    "color":4,
+    "description":"Strike your foes down with a powerful blow.",
+    "hidden":true,
+    "levels":[{
+        "levelRequirement":1,
+        "statInterpolation":[2],
+        "1":10
+      },{
+        "levelRequirement":83,
+        "statInterpolation":[2],
+        "1":100
+      }],
+    "name":"Default Attack (Cold Hit)",
+    "skillTypes":{
+      "1":true,
+      "3":true,
+      "24":true,
+      "25":true,
+      "28":true,
+      "47":true,
+      "67":true,
+      "68":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["physical_damage_%_to_add_as_cold","action_attack_or_cast_time_uses_animation_length","skill_can_fire_arrows","skill_can_fire_wand_projectiles"]
+  },
   "DelveMonsterEnfeebleOnHit":{
     "baseEffectiveness":0,
     "baseFlags":{
@@ -5959,6 +6086,51 @@
     "skillTypes":[true],
     "statDescriptionScope":"skill_stat_descriptions",
     "stats":["is_area_damage"]
+  },
+  "DelveSpiderFlickerStrike":{
+    "baseEffectiveness":0,
+    "baseFlags":{
+      "attack":true,
+      "melee":true,
+      "movement":true
+    },
+    "castTime":1,
+    "color":4,
+    "constantStats":[["skill_physical_damage_%_to_convert_to_cold",40]],
+    "description":"Teleports the character to a nearby monster and attacks with a melee weapon. If no specific monster is targeted, one is picked at random. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Frenzy Charge.",
+    "hidden":true,
+    "levels":[{
+        "attackSpeedMultiplier":20,
+        "baseMultiplier":0.5,
+        "cooldown":4,
+        "levelRequirement":1,
+        "storedUses":1
+      }],
+    "name":"Flicker Strike (Cold Hit)",
+    "skillTypes":{
+      "1":true,
+      "12":true,
+      "24":true,
+      "25":true,
+      "28":true,
+      "37":true,
+      "101":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["ignores_proximity_shield","melee_defer_damage_prediction"],
+    "weaponTypes":{
+      "Claw":true,
+      "Dagger":true,
+      "One Handed Axe":true,
+      "One Handed Mace":true,
+      "One Handed Sword":true,
+      "Sceptre":true,
+      "Staff":true,
+      "Thrusting One Handed Sword":true,
+      "Two Handed Axe":true,
+      "Two Handed Mace":true,
+      "Two Handed Sword":true
+    }
   },
   "DelveWraithScreechChaos":{
     "baseEffectiveness":1.7999999523163,
@@ -6374,6 +6546,65 @@
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "stats":["active_skill_damage_+%_final","skill_can_fire_arrows","skill_can_fire_wand_projectiles","action_attack_or_cast_time_uses_animation_length","projectile_uses_contact_position","use_scaled_contact_offset","is_area_damage"]
+  },
+  "EmpoweringHowlSpectre":{
+    "baseFlags":{
+      "area":true,
+      "buff":true,
+      "cooldown":true,
+      "duration":true,
+      "warcry":true
+    },
+    "baseMods":[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"SkillData",
+        "type":"LIST",
+        "value":{
+          "key":"buffAllies",
+          "value":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"SkillData",
+        "type":"LIST",
+        "value":{
+          "key":"buffMinions",
+          "value":true
+        }
+      }],
+    "castTime":1,
+    "color":4,
+    "constantStats":[["empowering_cry_physical_damage_added_as_fire_damage_%",20],["base_skill_effect_duration",7500]],
+    "hidden":true,
+    "levels":[{
+        "cooldown":12,
+        "levelRequirement":1,
+        "storedUses":1
+      }],
+    "name":"Empowering Howl",
+    "skillTypes":{
+      "5":true,
+      "11":true,
+      "12":true,
+      "73":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "statMap":{
+      "empowering_cry_physical_damage_added_as_fire_damage_%":[{
+          "flags":0,
+          "keywordFlags":0,
+          "name":"PhysicalDamageGainAsFire",
+          "type":"BASE",
+          "1":{
+            "effectName":"Empowering Howl",
+            "effectType":"Buff",
+            "type":"GlobalEffect"
+          }
+        }]
+    },
+    "stats":["base_deal_no_damage"]
   },
   "EmptyActionAttackAzmeriGolemVSlam":{
     "baseFlags":{
@@ -10038,6 +10269,32 @@
       "Two Handed Sword":true
     }
   },
+  "LegionMonsterProximityShield":{
+    "baseFlags":{
+      "area":true,
+      "duration":true,
+      "spell":true
+    },
+    "castTime":2,
+    "color":4,
+    "constantStats":[["base_skill_effect_duration",8000]],
+    "hidden":true,
+    "levels":[{
+        "cooldown":18,
+        "levelRequirement":0,
+        "storedUses":1
+      }],
+    "name":"Proximity Shield",
+    "skillTypes":{
+      "2":true,
+      "11":true,
+      "12":true,
+      "35":true,
+      "82":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":[]
+  },
   "LegionTemplarJudgeBallLightning":{
     "baseEffectiveness":0.51560002565384,
     "baseFlags":{
@@ -10848,8 +11105,7 @@
     "baseEffectiveness":0,
     "baseFlags":{
       "attack":true,
-      "melee":true,
-      "projectile":true
+      "melee":true
     },
     "castTime":1,
     "color":4,
@@ -12548,6 +12804,7 @@
   },
   "MonsterProximityShield":{
     "baseFlags":{
+      "area":true,
       "duration":true,
       "spell":true
     },
