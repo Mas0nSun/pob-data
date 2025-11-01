@@ -11221,7 +11221,7 @@
     "type":"Suffix",
     "weightKey":["amulet_shaper","default"],
     "weightVal":[0,0],
-    "1":"(8-10)% Chance to Block Spell Damage"
+    "1":"(7-10)% Chance to Block Spell Damage"
   },
   "BlockAppliesToSpellsUber2":{
     "affix":"of Shaping",
@@ -11232,7 +11232,7 @@
     "type":"Suffix",
     "weightKey":["amulet_shaper","default"],
     "weightVal":[0,0],
-    "1":"(11-12)% Chance to Block Spell Damage"
+    "1":"(10-12)% Chance to Block Spell Damage"
   },
   "BlockChanceCorrupted":{
     "affix":"",
@@ -14598,7 +14598,7 @@
     "type":"Suffix",
     "weightKey":["default"],
     "weightVal":[0],
-    "1":"+(8-9)% chance to Suppress Spell Damage"
+    "1":"+(7-9)% chance to Suppress Spell Damage"
   },
   "ChanceToDodge3":{
     "affix":"of Fog",
@@ -14620,7 +14620,7 @@
     "type":"Suffix",
     "weightKey":["boots_eyrie","default"],
     "weightVal":[0,0],
-    "1":"+(4-8)% chance to Suppress Spell Damage"
+    "1":"+(4-7)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeAttacksInfluence2":{
     "affix":"of Redemption",
@@ -14642,7 +14642,7 @@
     "type":"Suffix",
     "weightKey":["boots_eyrie","default"],
     "weightVal":[0,0],
-    "1":"+(14-15)% chance to Suppress Spell Damage"
+    "1":"+(13-15)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeAttacksInfluenceMaven__":{
     "affix":"of Elevated Redemption",
@@ -14686,7 +14686,7 @@
     "type":"Suffix",
     "weightKey":["default"],
     "weightVal":[0],
-    "1":"+(8-9)% chance to Suppress Spell Damage"
+    "1":"+(7-9)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeEssence6":{
     "affix":"of the Essence",
@@ -14708,7 +14708,7 @@
     "type":"Suffix",
     "weightKey":["default"],
     "weightVal":[0],
-    "1":"+(14-15)% chance to Suppress Spell Damage"
+    "1":"+(13-15)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeIfBlockedRecentlyUber1":{
     "affix":"of Shaping",
@@ -14719,7 +14719,7 @@
     "type":"Suffix",
     "weightKey":["shield_shaper","default"],
     "weightVal":[0,0],
-    "1":"+(4-8)% chance to Suppress Spell Damage"
+    "1":"+(4-7)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpells1":{
     "affix":"of Prayers",
@@ -14774,7 +14774,7 @@
     "type":"Suffix",
     "weightKey":["default"],
     "weightVal":[0],
-    "1":"+(8-9)% chance to Suppress Spell Damage"
+    "1":"+(7-9)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpellsEssence7":{
     "affix":"of the Essence",
@@ -14796,7 +14796,7 @@
     "type":"Suffix",
     "weightKey":["boots_eyrie","default"],
     "weightVal":[0,0],
-    "1":"+(4-8)% chance to Suppress Spell Damage"
+    "1":"+(4-7)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpellsInfluence2___":{
     "affix":"of Redemption",
@@ -14818,7 +14818,7 @@
     "type":"Suffix",
     "weightKey":["boots_eyrie","default"],
     "weightVal":[0,0],
-    "1":"+(14-15)% chance to Suppress Spell Damage"
+    "1":"+(13-15)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpellsInfluenceMaven":{
     "affix":"of Elevated Redemption",
@@ -14840,7 +14840,7 @@
     "type":"Suffix",
     "weightKey":["boots_elder","default"],
     "weightVal":[0,0],
-    "1":"+(4-8)% chance to Suppress Spell Damage"
+    "1":"+(4-7)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpellsUber2":{
     "affix":"of the Elder",
@@ -14862,7 +14862,7 @@
     "type":"Suffix",
     "weightKey":["boots_elder","default"],
     "weightVal":[0,0],
-    "1":"+(14-15)% chance to Suppress Spell Damage"
+    "1":"+(13-15)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeSpellsUberMaven_":{
     "affix":"of the Elevated Elder",
@@ -14884,7 +14884,7 @@
     "type":"Suffix",
     "weightKey":["boots_shaper","default"],
     "weightVal":[0,0],
-    "1":"+(4-8)% chance to Suppress Spell Damage"
+    "1":"+(4-7)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeUber2":{
     "affix":"of Shaping",
@@ -14906,7 +14906,7 @@
     "type":"Suffix",
     "weightKey":["boots_shaper","default"],
     "weightVal":[0,0],
-    "1":"+(14-15)% chance to Suppress Spell Damage"
+    "1":"+(13-15)% chance to Suppress Spell Damage"
   },
   "ChanceToDodgeUberMaven":{
     "affix":"of Elevated Shaping",
@@ -108502,7 +108502,7 @@
     "type":"Synthesis",
     "weightKey":[],
     "weightVal":[],
-    "1":"+(6-8)% chance to Suppress Spell Damage"
+    "1":"+(6-7)% chance to Suppress Spell Damage"
   },
   "SynthesisImplicitAttackDodgeMinor1":{
     "affix":"",
@@ -108513,7 +108513,7 @@
     "type":"Synthesis",
     "weightKey":[],
     "weightVal":[],
-    "1":"+2% chance to Suppress Spell Damage"
+    "1":"+1% chance to Suppress Spell Damage"
   },
   "SynthesisImplicitAttackDodgeMinor2":{
     "affix":"",
@@ -120140,7 +120140,7 @@
     "type":"Synthesis",
     "weightKey":[],
     "weightVal":[],
-    "1":"+(6-8)% chance to Suppress Spell Damage"
+    "1":"+(6-7)% chance to Suppress Spell Damage"
   },
   "SynthesisImplicitSpellsDoubleDamageChance1__":{
     "affix":"",
@@ -125548,7 +125548,7 @@
     "type":"Corrupted",
     "weightKey":["shield","amulet","default"],
     "weightVal":[0,0,0],
-    "1":"(6-8)% Chance to Block Spell Damage"
+    "1":"(6-7)% Chance to Block Spell Damage"
   },
   "V2PhysicalDamageAddedAsColdCorrupted":{
     "affix":"",
