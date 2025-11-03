@@ -3579,6 +3579,7 @@
     "statDescriptionScope":"gem_stat_descriptions",
     "statMap":{
       "apply_linked_curses_on_hit_%":[],
+      "hextouch_support_curse_duration_+%_final":[],
       "support_hextouch_curse_effect_+%_final":[]
     },
     "stats":[],
@@ -7366,119 +7367,119 @@
     "levels":[{
         "levelRequirement":38,
         "statInterpolation":[1],
-        "1":-50
+        "1":-35
       },{
         "levelRequirement":40,
         "statInterpolation":[1],
-        "1":-49
+        "1":-35
       },{
         "levelRequirement":42,
         "statInterpolation":[1],
-        "1":-48
+        "1":-34
       },{
         "levelRequirement":44,
         "statInterpolation":[1],
-        "1":-47
+        "1":-34
       },{
         "levelRequirement":46,
         "statInterpolation":[1],
-        "1":-46
+        "1":-33
       },{
         "levelRequirement":48,
         "statInterpolation":[1],
-        "1":-45
+        "1":-33
       },{
         "levelRequirement":50,
         "statInterpolation":[1],
-        "1":-44
+        "1":-32
       },{
         "levelRequirement":52,
         "statInterpolation":[1],
-        "1":-43
+        "1":-32
       },{
         "levelRequirement":54,
         "statInterpolation":[1],
-        "1":-42
+        "1":-31
       },{
         "levelRequirement":56,
         "statInterpolation":[1],
-        "1":-41
+        "1":-31
       },{
         "levelRequirement":58,
         "statInterpolation":[1],
-        "1":-40
+        "1":-30
       },{
         "levelRequirement":60,
         "statInterpolation":[1],
-        "1":-39
+        "1":-30
       },{
         "levelRequirement":62,
         "statInterpolation":[1],
-        "1":-38
+        "1":-29
       },{
         "levelRequirement":64,
         "statInterpolation":[1],
-        "1":-37
+        "1":-29
       },{
         "levelRequirement":65,
         "statInterpolation":[1],
-        "1":-36
+        "1":-28
       },{
         "levelRequirement":66,
         "statInterpolation":[1],
-        "1":-35
+        "1":-28
       },{
         "levelRequirement":67,
         "statInterpolation":[1],
-        "1":-34
+        "1":-27
       },{
         "levelRequirement":68,
         "statInterpolation":[1],
-        "1":-33
+        "1":-27
       },{
         "levelRequirement":69,
         "statInterpolation":[1],
-        "1":-32
+        "1":-26
       },{
         "levelRequirement":70,
         "statInterpolation":[1],
-        "1":-31
+        "1":-26
       },{
         "levelRequirement":72,
         "statInterpolation":[1],
-        "1":-30
+        "1":-25
       },{
         "levelRequirement":74,
         "statInterpolation":[1],
-        "1":-29
+        "1":-25
       },{
         "levelRequirement":76,
         "statInterpolation":[1],
-        "1":-28
+        "1":-24
       },{
         "levelRequirement":78,
         "statInterpolation":[1],
-        "1":-27
+        "1":-24
       },{
         "levelRequirement":80,
         "statInterpolation":[1],
-        "1":-26
+        "1":-23
       },{
         "levelRequirement":82,
         "statInterpolation":[1],
-        "1":-25
+        "1":-23
       },{
         "levelRequirement":84,
         "statInterpolation":[1],
-        "1":-24
+        "1":-22
       },{
         "levelRequirement":86,
         "statInterpolation":[1],
-        "1":-23
+        "1":-22
       },{
         "levelRequirement":88,
         "statInterpolation":[1],
-        "1":-22
+        "1":-21
       },{
         "levelRequirement":90,
         "statInterpolation":[1],
@@ -7498,31 +7499,31 @@
       },{
         "levelRequirement":94,
         "statInterpolation":[1],
-        "1":-19
+        "1":-20
       },{
         "levelRequirement":95,
         "statInterpolation":[1],
-        "1":-19
+        "1":-20
       },{
         "levelRequirement":96,
         "statInterpolation":[1],
-        "1":-18
+        "1":-19
       },{
         "levelRequirement":97,
         "statInterpolation":[1],
-        "1":-18
+        "1":-19
       },{
         "levelRequirement":98,
         "statInterpolation":[1],
-        "1":-17
+        "1":-19
       },{
         "levelRequirement":99,
         "statInterpolation":[1],
-        "1":-17
+        "1":-19
       },{
         "levelRequirement":100,
         "statInterpolation":[1],
-        "1":-16
+        "1":-18
       }],
     "name":"Hextouch",
     "qualityStats":{
@@ -7547,6 +7548,12 @@
           "type":"FLAG",
           "value":true
         }],
+      "hextouch_support_curse_duration_+%_final":[{
+          "flags":0,
+          "keywordFlags":2,
+          "name":"Duration",
+          "type":"MORE"
+        }],
       "support_hextouch_curse_effect_+%_final":[{
           "flags":0,
           "keywordFlags":0,
@@ -7554,7 +7561,7 @@
           "type":"MORE"
         }]
     },
-    "stats":["base_curse_duration_+%","cannot_cast_curses","curse_triggered_by_hextouch"],
+    "stats":["hextouch_support_curse_duration_+%_final","cannot_cast_curses","curse_triggered_by_hextouch"],
     "support":true
   },
   "SupportCurseOnHitCursePlus":{
@@ -7568,121 +7575,121 @@
     "levels":[{
         "levelRequirement":72,
         "statInterpolation":[1,1,1],
-        "1":-30,
+        "1":-25,
         "2":10,
         "3":0
       },{
         "levelRequirement":74,
         "statInterpolation":[1,1,1],
-        "1":-29,
+        "1":-25,
         "2":12,
         "3":0
       },{
         "levelRequirement":76,
         "statInterpolation":[1,1,1],
-        "1":-28,
+        "1":-24,
         "2":14,
         "3":0
       },{
         "levelRequirement":78,
         "statInterpolation":[1,1,1],
-        "1":-27,
+        "1":-24,
         "2":16,
         "3":0
       },{
         "levelRequirement":80,
         "statInterpolation":[1,1,1],
-        "1":-26,
+        "1":-23,
         "2":18,
         "3":1
       },{
         "levelRequirement":82,
         "statInterpolation":[1,1,1],
-        "1":-25,
+        "1":-23,
         "2":20,
         "3":1
       },{
         "levelRequirement":84,
         "statInterpolation":[1,1,1],
-        "1":-24,
+        "1":-22,
         "2":21,
         "3":1
       },{
         "levelRequirement":86,
         "statInterpolation":[1,1,1],
-        "1":-23,
+        "1":-22,
         "2":22,
         "3":1
       },{
         "levelRequirement":88,
         "statInterpolation":[1,1,1],
-        "1":-22,
+        "1":-21,
         "2":23,
         "3":1
       },{
         "levelRequirement":90,
         "statInterpolation":[1,1,1],
-        "1":-22,
+        "1":-21,
         "2":24,
         "3":1
       },{
         "levelRequirement":91,
         "statInterpolation":[1,1,1],
-        "1":-21,
+        "1":-20,
         "2":25,
         "3":1
       },{
         "levelRequirement":92,
         "statInterpolation":[1,1,1],
-        "1":-21,
+        "1":-20,
         "2":26,
         "3":1
       },{
         "levelRequirement":93,
         "statInterpolation":[1,1,1],
-        "1":-20,
+        "1":-19,
         "2":27,
         "3":1
       },{
         "levelRequirement":94,
         "statInterpolation":[1,1,1],
-        "1":-20,
+        "1":-19,
         "2":28,
         "3":1
       },{
         "levelRequirement":95,
         "statInterpolation":[1,1,1],
-        "1":-19,
+        "1":-18,
         "2":29,
         "3":1
       },{
         "levelRequirement":96,
         "statInterpolation":[1,1,1],
-        "1":-19,
+        "1":-18,
         "2":30,
         "3":1
       },{
         "levelRequirement":97,
         "statInterpolation":[1,1,1],
-        "1":-18,
+        "1":-17,
         "2":31,
         "3":1
       },{
         "levelRequirement":98,
         "statInterpolation":[1,1,1],
-        "1":-18,
+        "1":-17,
         "2":32,
         "3":1
       },{
         "levelRequirement":99,
         "statInterpolation":[1,1,1],
-        "1":-17,
+        "1":-16,
         "2":33,
         "3":1
       },{
         "levelRequirement":100,
         "statInterpolation":[1,1,1],
-        "1":-17,
+        "1":-16,
         "2":34,
         "3":1
       }],
@@ -7710,6 +7717,12 @@
           "type":"FLAG",
           "value":true
         }],
+      "hextouch_support_curse_duration_+%_final":[{
+          "flags":0,
+          "keywordFlags":2,
+          "name":"Duration",
+          "type":"MORE"
+        }],
       "support_hextouch_curse_effect_+%_final":[{
           "flags":0,
           "keywordFlags":0,
@@ -7717,7 +7730,7 @@
           "type":"MORE"
         }]
     },
-    "stats":["base_curse_duration_+%","chance_to_ignore_hexproof_%","supported_curse_skill_gem_level_+","cannot_cast_curses","curse_triggered_by_hextouch"],
+    "stats":["hextouch_support_curse_duration_+%_final","chance_to_ignore_hexproof_%","supported_curse_skill_gem_level_+","cannot_cast_curses","curse_triggered_by_hextouch"],
     "support":true
   },
   "SupportCursedGround":{
@@ -9491,287 +9504,247 @@
     "levels":[{
         "levelRequirement":31,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":150,
-        "2":10,
-        "3":15
+        "2":15
       },{
         "levelRequirement":34,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":150,
-        "2":10,
-        "3":15
+        "2":15
       },{
         "levelRequirement":36,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":150,
-        "2":10,
-        "3":16
+        "2":16
       },{
         "levelRequirement":38,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":160,
-        "2":10,
-        "3":16
+        "2":16
       },{
         "levelRequirement":40,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":160,
-        "2":11,
-        "3":17
+        "2":17
       },{
         "levelRequirement":42,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":160,
-        "2":11,
-        "3":17
+        "2":17
       },{
         "levelRequirement":44,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":160,
-        "2":11,
-        "3":18
+        "2":18
       },{
         "levelRequirement":46,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":160,
-        "2":11,
-        "3":18
+        "2":18
       },{
         "levelRequirement":48,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":170,
-        "2":12,
-        "3":19
+        "2":19
       },{
         "levelRequirement":50,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":170,
-        "2":12,
-        "3":19
+        "2":19
       },{
         "levelRequirement":52,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":170,
-        "2":12,
-        "3":20
+        "2":20
       },{
         "levelRequirement":54,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":170,
-        "2":12,
-        "3":20
+        "2":20
       },{
         "levelRequirement":56,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":170,
-        "2":13,
-        "3":21
+        "2":21
       },{
         "levelRequirement":58,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":180,
-        "2":13,
-        "3":21
+        "2":21
       },{
         "levelRequirement":60,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":180,
-        "2":13,
-        "3":22
+        "2":22
       },{
         "levelRequirement":62,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":180,
-        "2":13,
-        "3":22
+        "2":22
       },{
         "levelRequirement":64,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":180,
-        "2":14,
-        "3":23
+        "2":23
       },{
         "levelRequirement":66,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":180,
-        "2":14,
-        "3":23
+        "2":23
       },{
         "levelRequirement":68,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":190,
-        "2":14,
-        "3":24
+        "2":24
       },{
         "levelRequirement":70,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":190,
-        "2":14,
-        "3":24
+        "2":24
       },{
         "levelRequirement":72,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":190,
-        "2":15,
-        "3":25
+        "2":25
       },{
         "levelRequirement":74,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":190,
-        "2":15,
-        "3":25
+        "2":25
       },{
         "levelRequirement":76,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":190,
-        "2":15,
-        "3":26
+        "2":26
       },{
         "levelRequirement":78,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":200,
-        "2":15,
-        "3":26
+        "2":26
       },{
         "levelRequirement":80,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":200,
-        "2":16,
-        "3":27
+        "2":27
       },{
         "levelRequirement":82,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":200,
-        "2":16,
-        "3":27
+        "2":27
       },{
         "levelRequirement":84,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":200,
-        "2":16,
-        "3":28
+        "2":28
       },{
         "levelRequirement":86,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":200,
-        "2":16,
-        "3":28
+        "2":28
       },{
         "levelRequirement":88,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":29
+        "2":29
       },{
         "levelRequirement":90,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":29
+        "2":29
       },{
         "levelRequirement":91,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":29
+        "2":29
       },{
         "levelRequirement":92,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":30
+        "2":30
       },{
         "levelRequirement":93,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":30
+        "2":30
       },{
         "levelRequirement":94,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":30
+        "2":30
       },{
         "levelRequirement":95,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":17,
-        "3":30
+        "2":30
       },{
         "levelRequirement":96,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":210,
-        "2":18,
-        "3":31
+        "2":31
       },{
         "levelRequirement":97,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":220,
-        "2":18,
-        "3":31
+        "2":31
       },{
         "levelRequirement":98,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":220,
-        "2":18,
-        "3":31
+        "2":31
       },{
         "levelRequirement":99,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":220,
-        "2":18,
-        "3":31
+        "2":31
       },{
         "levelRequirement":100,
         "manaMultiplier":30,
-        "statInterpolation":[1,1,1],
+        "statInterpolation":[1,1],
         "1":220,
-        "2":18,
-        "3":32
+        "2":32
       }],
     "name":"Energy Leech",
     "qualityStats":{
-      "Default":[["damage_+%_while_es_leeching",0.5]]
+      "Default":[["damage_+%_while_es_leeching",1]]
     },
     "requireSkillTypes":[10,1],
     "statDescriptionScope":"gem_stat_descriptions",
@@ -9785,19 +9758,9 @@
             "type":"Condition",
             "var":"FullEnergyShield"
           }
-        }],
-      "support_energy_shield_leech_damage_+%_while_leeching_energy_shield_final":[{
-          "flags":0,
-          "keywordFlags":0,
-          "name":"Damage",
-          "type":"MORE",
-          "1":{
-            "type":"Condition",
-            "var":"LeechingEnergyShield"
-          }
         }]
     },
-    "stats":["energy_shield_leech_from_any_damage_permyriad","support_energy_shield_leech_damage_+%_on_full_energy_shield_final","support_energy_shield_leech_damage_+%_while_leeching_energy_shield_final"],
+    "stats":["energy_shield_leech_from_any_damage_permyriad","support_energy_shield_leech_damage_+%_on_full_energy_shield_final"],
     "support":true
   },
   "SupportEnlighten":{
@@ -10346,7 +10309,7 @@
     "levels":[{
         "levelRequirement":31,
         "statInterpolation":[1],
-        "1":15
+        "1":9
       },{
         "levelRequirement":34,
         "statInterpolation":[1],
@@ -11438,6 +11401,7 @@
     "statDescriptionScope":"gem_stat_descriptions",
     "statMap":{
       "apply_linked_curses_on_hit_%":[],
+      "hextouch_support_curse_duration_+%_final":[],
       "support_hextouch_curse_effect_+%_final":[]
     },
     "stats":[],
@@ -14363,6 +14327,146 @@
     "stats":["base_killed_monster_dropped_item_rarity_+%"],
     "support":true
   },
+  "SupportKineticInstability":{
+    "addSkillTypes":[],
+    "color":3,
+    "constantStats":[["support_kinetic_instability_chance_to_create_instability_on_kill_%",100]],
+    "description":"Supports Wand Attacks, granting them a chance to trigger Kinetic Flux on kill. Cannot support triggered skills or skills used by things other than you. Cannot modify the skills of minions.",
+    "excludeSkillTypes":[36,40,30,134,9],
+    "ignoreMinionTypes":true,
+    "levels":[{
+        "levelRequirement":18,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":22,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":26,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":29,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":32,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":35,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":38,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":41,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":44,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":47,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":50,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":53,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":56,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":58,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":60,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":62,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":64,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":66,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":68,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":70,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":72,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":74,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":76,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":78,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":80,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":82,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":84,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":86,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":88,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":90,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":91,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":92,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":93,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":94,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":95,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":96,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":97,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":98,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":99,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":100,
+        "manaMultiplier":20
+      }],
+    "name":"Kinetic Instability",
+    "qualityStats":{
+      "Default":[["attack_damage_+%",0.5]]
+    },
+    "requireSkillTypes":[47],
+    "statDescriptionScope":"gem_stat_descriptions",
+    "stats":[],
+    "support":true,
+    "weaponTypes":{
+      "Wand":true
+    }
+  },
   "SupportLightningPenetration":{
     "addSkillTypes":[],
     "color":3,
@@ -14576,6 +14680,139 @@
     "requireSkillTypes":[10,1],
     "statDescriptionScope":"gem_stat_descriptions",
     "stats":["base_reduce_enemy_lightning_resistance_%"],
+    "support":true
+  },
+  "SupportLivingLightning":{
+    "addSkillTypes":[88,21],
+    "color":3,
+    "description":"Supports Skills which cause Damaging Hits, causing them to trigger Summon Living Lightning when dealing lightning damage. Cannot support skills used by totems, traps, or mines. Cannot modify the skills of Minions.",
+    "excludeSkillTypes":[36,40,30,134],
+    "ignoreMinionTypes":true,
+    "levels":[{
+        "levelRequirement":18,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":22,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":26,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":29,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":32,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":35,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":38,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":41,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":44,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":47,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":50,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":53,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":56,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":58,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":60,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":62,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":64,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":66,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":68,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":70,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":72,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":74,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":76,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":78,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":80,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":82,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":84,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":86,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":88,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":90,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":91,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":92,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":93,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":94,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":95,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":96,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":97,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":98,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":99,
+        "manaMultiplier":20
+      },{
+        "levelRequirement":100,
+        "manaMultiplier":20
+      }],
+    "name":"Living Lightning",
+    "requireSkillTypes":[1,10],
+    "statDescriptionScope":"gem_stat_descriptions",
+    "stats":["summon_living_lightning_on_lightning_hit"],
     "support":true
   },
   "SupportMeatShield":{
@@ -20089,5 +20326,501 @@
     },
     "stats":["support_anticipation_charge_gain_interval_ms","support_spell_rapid_fire_repeat_use_damage_+%_final"],
     "support":true
+  },
+  "TriggeredSupportKineticInstability":{
+    "baseFlags":{
+      "area":true,
+      "attack":true,
+      "duration":true
+    },
+    "baseMods":[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"SkillData",
+        "type":"LIST",
+        "value":{
+          "key":"showAverage",
+          "value":true
+        }
+      }],
+    "baseTypeName":"Kinetic Flux",
+    "castTime":1,
+    "color":3,
+    "constantStats":[["active_skill_base_area_of_effect_radius",12],["base_skill_effect_duration",6000],["kinetic_instability_maximum_number_of_instability_orbs_allowed",20],["active_skill_additive_spell_damage_modifiers_apply_to_attack_damage_at_%_value",150]],
+    "description":"Gathers kinetic energy into an anomaly at the targeted location, which will explode when enemies are near it, dealing your wand's damage in an area. The anomaly will dissipate after a duration.",
+    "levels":[{
+        "baseMultiplier":1.32,
+        "damageEffectiveness":1.32,
+        "levelRequirement":18
+      },{
+        "baseMultiplier":1.329,
+        "damageEffectiveness":1.329,
+        "levelRequirement":22
+      },{
+        "baseMultiplier":1.339,
+        "damageEffectiveness":1.339,
+        "levelRequirement":26
+      },{
+        "baseMultiplier":1.348,
+        "damageEffectiveness":1.348,
+        "levelRequirement":29
+      },{
+        "baseMultiplier":1.358,
+        "damageEffectiveness":1.358,
+        "levelRequirement":32
+      },{
+        "baseMultiplier":1.367,
+        "damageEffectiveness":1.367,
+        "levelRequirement":35
+      },{
+        "baseMultiplier":1.377,
+        "damageEffectiveness":1.377,
+        "levelRequirement":38
+      },{
+        "baseMultiplier":1.386,
+        "damageEffectiveness":1.386,
+        "levelRequirement":41
+      },{
+        "baseMultiplier":1.396,
+        "damageEffectiveness":1.396,
+        "levelRequirement":44
+      },{
+        "baseMultiplier":1.405,
+        "damageEffectiveness":1.405,
+        "levelRequirement":47
+      },{
+        "baseMultiplier":1.415,
+        "damageEffectiveness":1.415,
+        "levelRequirement":50
+      },{
+        "baseMultiplier":1.424,
+        "damageEffectiveness":1.424,
+        "levelRequirement":53
+      },{
+        "baseMultiplier":1.434,
+        "damageEffectiveness":1.434,
+        "levelRequirement":56
+      },{
+        "baseMultiplier":1.443,
+        "damageEffectiveness":1.443,
+        "levelRequirement":58
+      },{
+        "baseMultiplier":1.453,
+        "damageEffectiveness":1.453,
+        "levelRequirement":60
+      },{
+        "baseMultiplier":1.462,
+        "damageEffectiveness":1.462,
+        "levelRequirement":62
+      },{
+        "baseMultiplier":1.472,
+        "damageEffectiveness":1.472,
+        "levelRequirement":64
+      },{
+        "baseMultiplier":1.481,
+        "damageEffectiveness":1.481,
+        "levelRequirement":66
+      },{
+        "baseMultiplier":1.491,
+        "damageEffectiveness":1.491,
+        "levelRequirement":68
+      },{
+        "baseMultiplier":1.5,
+        "damageEffectiveness":1.5,
+        "levelRequirement":70
+      },{
+        "baseMultiplier":1.509,
+        "damageEffectiveness":1.509,
+        "levelRequirement":72
+      },{
+        "baseMultiplier":1.519,
+        "damageEffectiveness":1.519,
+        "levelRequirement":74
+      },{
+        "baseMultiplier":1.528,
+        "damageEffectiveness":1.528,
+        "levelRequirement":76
+      },{
+        "baseMultiplier":1.538,
+        "damageEffectiveness":1.538,
+        "levelRequirement":78
+      },{
+        "baseMultiplier":1.547,
+        "damageEffectiveness":1.547,
+        "levelRequirement":80
+      },{
+        "baseMultiplier":1.557,
+        "damageEffectiveness":1.557,
+        "levelRequirement":82
+      },{
+        "baseMultiplier":1.566,
+        "damageEffectiveness":1.566,
+        "levelRequirement":84
+      },{
+        "baseMultiplier":1.576,
+        "damageEffectiveness":1.576,
+        "levelRequirement":86
+      },{
+        "baseMultiplier":1.585,
+        "damageEffectiveness":1.585,
+        "levelRequirement":88
+      },{
+        "baseMultiplier":1.595,
+        "damageEffectiveness":1.595,
+        "levelRequirement":90
+      },{
+        "baseMultiplier":1.599,
+        "damageEffectiveness":1.599,
+        "levelRequirement":91
+      },{
+        "baseMultiplier":1.604,
+        "damageEffectiveness":1.604,
+        "levelRequirement":92
+      },{
+        "baseMultiplier":1.609,
+        "damageEffectiveness":1.609,
+        "levelRequirement":93
+      },{
+        "baseMultiplier":1.614,
+        "damageEffectiveness":1.614,
+        "levelRequirement":94
+      },{
+        "baseMultiplier":1.618,
+        "damageEffectiveness":1.618,
+        "levelRequirement":95
+      },{
+        "baseMultiplier":1.623,
+        "damageEffectiveness":1.623,
+        "levelRequirement":96
+      },{
+        "baseMultiplier":1.628,
+        "damageEffectiveness":1.628,
+        "levelRequirement":97
+      },{
+        "baseMultiplier":1.633,
+        "damageEffectiveness":1.633,
+        "levelRequirement":98
+      },{
+        "baseMultiplier":1.637,
+        "damageEffectiveness":1.637,
+        "levelRequirement":99
+      },{
+        "baseMultiplier":1.642,
+        "damageEffectiveness":1.642,
+        "levelRequirement":100
+      }],
+    "name":"Kinetic Flux",
+    "skillTypes":{
+      "1":true,
+      "11":true,
+      "12":true,
+      "35":true,
+      "41":true,
+      "47":true,
+      "60":true,
+      "126":true,
+      "138":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["is_area_damage","triggered_by_kinetic_instability_support","quality_display_spell_damage_to_attack_damage_is_gem"],
+    "weaponTypes":{
+      "Wand":true
+    }
+  },
+  "TriggeredSupportLivingLightning":{
+    "addMinionList":["LivingLightningMinion"],
+    "baseFlags":{
+      "minion":true,
+      "spell":true
+    },
+    "baseTypeName":"Summon Living Lightning",
+    "castTime":1,
+    "color":3,
+    "constantStats":[["base_skill_effect_duration",5000],["living_lightning_beam_attack_time_ms",140],["living_lightning_number_of_attacks",3],["number_of_chains",3],["living_lightning_number_of_minions_to_spawn",1],["minion_base_physical_damage_%_to_convert_to_lightning",100]],
+    "description":"Summons Living Lightning Minions, which target nearby enemies with a number of Melee Chaining Attacks before dissipating. Enemies will not directly engage these Minions, and can pass through them.",
+    "levels":[{
+        "cooldown":0.2,
+        "levelRequirement":18,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":5
+      },{
+        "cooldown":0.2,
+        "levelRequirement":22,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":5
+      },{
+        "cooldown":0.2,
+        "levelRequirement":26,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":5
+      },{
+        "cooldown":0.2,
+        "levelRequirement":29,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":5
+      },{
+        "cooldown":0.2,
+        "levelRequirement":32,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":35,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":38,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":41,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":44,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":47,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":6
+      },{
+        "cooldown":0.2,
+        "levelRequirement":50,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":53,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":56,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":58,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":60,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":62,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":64,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":7
+      },{
+        "cooldown":0.2,
+        "levelRequirement":66,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":68,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":70,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":72,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":74,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":76,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":78,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":8
+      },{
+        "cooldown":0.2,
+        "levelRequirement":80,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":82,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":84,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":86,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":88,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":90,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":9
+      },{
+        "cooldown":0.2,
+        "levelRequirement":91,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":92,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":93,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":94,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":95,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":96,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":97,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":10
+      },{
+        "cooldown":0.2,
+        "levelRequirement":98,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":11
+      },{
+        "cooldown":0.2,
+        "levelRequirement":99,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":11
+      },{
+        "cooldown":0.2,
+        "levelRequirement":100,
+        "statInterpolation":[1],
+        "storedUses":5,
+        "1":11
+      }],
+    "minionSkillTypes":{
+      "1":true,
+      "23":true,
+      "24":true,
+      "25":true,
+      "28":true,
+      "34":true,
+      "101":true
+    },
+    "name":"Summon Living Lightning",
+    "qualityStats":{
+      "Default":[["living_lightning_number_of_attacks",0.1]]
+    },
+    "skillTypes":{
+      "2":true,
+      "9":true,
+      "12":true,
+      "35":true,
+      "41":true,
+      "60":true,
+      "88":true,
+      "101":true,
+      "126":true,
+      "128":true
+    },
+    "statDescriptionScope":"minion_spell_skill_stat_descriptions",
+    "statMap":{
+      "number_of_chains":[{
+          "flags":0,
+          "keywordFlags":0,
+          "name":"MinionModifier",
+          "type":"LIST",
+          "value":{
+            "mod":{
+              "flags":0,
+              "keywordFlags":0,
+              "name":"ChainCountMax",
+              "type":"BASE"
+            }
+          }
+        }]
+    },
+    "stats":["base_number_of_living_lightning_allowed","living_lightning_triggered_on_lightning_hit","quality_display_living_lightning_is_gem"]
   }
 }

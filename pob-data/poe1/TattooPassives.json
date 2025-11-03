@@ -27,7 +27,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10324
+          "statOrder":10653
         }
       },
       "targetType":"Keystone",
@@ -52,7 +52,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10318
+          "statOrder":10647
         }
       },
       "targetType":"Keystone",
@@ -101,7 +101,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10329
+          "statOrder":10658
         }
       },
       "targetType":"Keystone",
@@ -126,7 +126,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10316
+          "statOrder":10645
         }
       },
       "targetType":"Keystone",
@@ -151,7 +151,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10330
+          "statOrder":10659
         }
       },
       "targetType":"Keystone",
@@ -176,7 +176,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10372
+          "statOrder":10701
         }
       },
       "targetType":"Keystone",
@@ -201,7 +201,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10333
+          "statOrder":10662
         }
       },
       "targetType":"Keystone",
@@ -226,7 +226,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10328
+          "statOrder":10657
         }
       },
       "targetType":"Keystone",
@@ -251,7 +251,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10361
+          "statOrder":10690
         }
       },
       "targetType":"Keystone",
@@ -276,7 +276,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10376
+          "statOrder":10705
         }
       },
       "targetType":"Keystone",
@@ -301,7 +301,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10317
+          "statOrder":10646
         }
       },
       "targetType":"Keystone",
@@ -326,7 +326,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10332
+          "statOrder":10661
         }
       },
       "targetType":"Keystone",
@@ -351,7 +351,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10377
+          "statOrder":10706
         }
       },
       "targetType":"Keystone",
@@ -376,7 +376,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10379
+          "statOrder":10708
         }
       },
       "targetType":"Keystone",
@@ -401,7 +401,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10381
+          "statOrder":10710
         }
       },
       "targetType":"Keystone",
@@ -426,7 +426,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10382
+          "statOrder":10711
         }
       },
       "targetType":"Keystone",
@@ -451,7 +451,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10383
+          "statOrder":10712
         }
       },
       "targetType":"Keystone",
@@ -476,7 +476,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10385
+          "statOrder":10714
         }
       },
       "targetType":"Keystone",
@@ -949,7 +949,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10400
+          "statOrder":10729
         }
       },
       "targetType":"Keystone",
@@ -974,7 +974,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10326
+          "statOrder":10655
         }
       },
       "targetType":"Keystone",
@@ -999,7 +999,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10315
+          "statOrder":10644
         }
       },
       "targetType":"Keystone",
@@ -1024,7 +1024,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10416
+          "statOrder":10745
         }
       },
       "targetType":"Keystone",
@@ -1121,7 +1121,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10387
+          "statOrder":10716
         }
       },
       "targetType":"Keystone",
@@ -1426,7 +1426,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10388
+          "statOrder":10717
         }
       },
       "targetType":"Keystone",
@@ -1451,7 +1451,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10340
+          "statOrder":10669
         }
       },
       "targetType":"Keystone",
@@ -1476,7 +1476,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10331
+          "statOrder":10660
         }
       },
       "targetType":"Keystone",
@@ -1501,7 +1501,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":2069
+          "statOrder":2101
         }
       },
       "targetType":"Keystone",
@@ -1526,7 +1526,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10325
+          "statOrder":10654
         }
       },
       "targetType":"Keystone",
@@ -1551,7 +1551,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10369
+          "statOrder":10698
         }
       },
       "targetType":"Keystone",
@@ -1576,7 +1576,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10327
+          "statOrder":10656
         }
       },
       "targetType":"Keystone",
@@ -1601,7 +1601,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10394
+          "statOrder":10723
         }
       },
       "targetType":"Keystone",
@@ -1626,7 +1626,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10341
+          "statOrder":10670
         }
       },
       "targetType":"Keystone",
@@ -1651,7 +1651,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10399
+          "statOrder":10728
         }
       },
       "targetType":"Keystone",
@@ -1787,11 +1787,11 @@
       "targetType":"Mastery",
       "targetValue":""
     },
-    "Runegraft of Recompense":{
+    "Runegraft of Refraction":{
       "MaximumConnected":100,
       "MinimumConnected":0,
       "activeEffectImage":"Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png",
-      "dn":"Runegraft of Recompense",
+      "dn":"Runegraft of Refraction",
       "icon":"Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon7.png",
       "id":"runegraft_21",
       "isTattoo":true,
@@ -1801,12 +1801,22 @@
       "name":"Runegraft Mastery",
       "not":false,
       "overrideType":"AlternateMastery",
-      "sd":["Recover 10% of Skill Mana Cost per unspent Chain when Projectiles end, up to 50%","Limited to 1 Runegraft of Recompense"],
+      "sd":["Fire at most 1 Projectile","Skills Chain +1 times","Projectiles Fork","Limited to 1 Runegraft of Refraction"],
       "stats":{
-        "recover_%_of_skill_mana_cost_per_unspent_chain_up_to_50%":{
+        "maximum_number_of_projectiles_to_fire_is_1":{
           "fmt":"d",
-          "max":10,
-          "min":10
+          "max":1,
+          "min":1
+        },
+        "number_of_chains":{
+          "fmt":"d",
+          "max":1,
+          "min":1
+        },
+        "projectiles_fork":{
+          "fmt":"d",
+          "max":1,
+          "min":1
         }
       },
       "targetType":"Mastery",
@@ -2221,7 +2231,7 @@
       "name":"Runegraft Mastery",
       "not":false,
       "overrideType":"AlternateMastery",
-      "sd":["Spells deal added Chaos Damage equal to 2% of your maximum Life","Spells have an additional Life cost equal to 8% of your Maximum Life","Limited to 1 Runegraft of the Witchmark"],
+      "sd":["Spells deal added Chaos Damage equal to 2% of your maximum Life","Spells Cost +8% of Life","Limited to 1 Runegraft of the Witchmark"],
       "stats":{
         "additional_chaos_damage_to_spells_equal_to_%_maximum_life":{
           "fmt":"d",
@@ -2256,7 +2266,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10404
+          "statOrder":10733
         }
       },
       "targetType":"Keystone",
@@ -2281,7 +2291,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10407
+          "statOrder":10736
         }
       },
       "targetType":"Keystone",
@@ -3754,14 +3764,14 @@
       "m":false,
       "not":false,
       "overrideType":"KeystoneTattoo",
-      "sd":["Maximum Energy Shield is 0","While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life","Limited to 1 Keystone Tattoo"],
+      "sd":["Removes all Energy Shield","While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life","Limited to 1 Keystone Tattoo"],
       "stats":{
         "keystone_miracle_of_thaumaturgy":{
           "fmt":"d",
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10391
+          "statOrder":10720
         }
       },
       "targetType":"Keystone",
@@ -3786,7 +3796,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10386
+          "statOrder":10715
         }
       },
       "targetType":"Keystone",
@@ -3811,7 +3821,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10342
+          "statOrder":10671
         }
       },
       "targetType":"Keystone",
@@ -3836,7 +3846,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10334
+          "statOrder":10663
         }
       },
       "targetType":"Keystone",
@@ -3861,7 +3871,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10412
+          "statOrder":10741
         }
       },
       "targetType":"Keystone",
@@ -3886,7 +3896,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10414
+          "statOrder":10743
         }
       },
       "targetType":"Keystone",
@@ -3911,7 +3921,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10415
+          "statOrder":10744
         }
       },
       "targetType":"Keystone",
@@ -3936,7 +3946,7 @@
           "index":1,
           "max":1,
           "min":1,
-          "statOrder":10335
+          "statOrder":10664
         }
       },
       "targetType":"Keystone",

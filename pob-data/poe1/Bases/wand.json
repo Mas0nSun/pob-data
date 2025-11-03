@@ -25,12 +25,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":9,
+      "CritChanceBase":8.5,
       "PhysicalMax":50,
       "PhysicalMin":27,
       "Range":120
@@ -62,14 +63,50 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":9,
+      "CritChanceBase":8.5,
       "PhysicalMax":28,
       "PhysicalMin":15,
+      "Range":120
+    }
+  },
+  "Blasting Wand":{
+    "implicit":"Cannot roll Caster Modifiers",
+    "implicitModTypes":[[]],
+    "influenceTags":{
+      "adjudicator":"wand_adjudicator",
+      "basilisk":"wand_basilisk",
+      "cleansing":"wand_cleansing",
+      "crusader":"wand_crusader",
+      "elder":"wand_elder",
+      "eyrie":"wand_eyrie",
+      "shaper":"wand_shaper",
+      "tangle":"wand_tangle"
+    },
+    "req":{
+      "int":131,
+      "level":40
+    },
+    "socketLimit":3,
+    "tags":{
+      "default":true,
+      "one_hand_weapon":true,
+      "onehand":true,
+      "ranged":true,
+      "wand":true,
+      "weapon":true
+    },
+    "type":"Wand",
+    "weapon":{
+      "AttackRateBase":1.6,
+      "CritChanceBase":8.5,
+      "PhysicalMax":39,
+      "PhysicalMin":21,
       "Range":120
     }
   },
@@ -97,13 +134,14 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true,
       "weapon_can_roll_minion_modifiers":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8,
       "PhysicalMax":23,
       "PhysicalMin":13,
       "Range":120
@@ -133,6 +171,7 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
@@ -168,12 +207,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":55,
       "PhysicalMin":18,
       "Range":120
@@ -205,12 +245,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":9,
+      "CritChanceBase":8.5,
       "PhysicalMax":43,
       "PhysicalMin":23,
       "Range":120
@@ -240,13 +281,14 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true,
       "weapon_can_roll_minion_modifiers":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8,
       "PhysicalMax":47,
       "PhysicalMin":25,
       "Range":120
@@ -278,6 +320,7 @@
       "ranged":true,
       "top_tier_base_item_type":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "wandatlas1":true,
       "weapon":true,
       "weapon_can_roll_minion_modifiers":true
@@ -285,7 +328,7 @@
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8,
       "PhysicalMax":52,
       "PhysicalMin":28,
       "Range":120
@@ -315,12 +358,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":45,
       "PhysicalMin":24,
       "Range":120
@@ -350,12 +394,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":9.5,
+      "CritChanceBase":8,
       "PhysicalMax":57,
       "PhysicalMin":31,
       "Range":120
@@ -384,6 +429,7 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
@@ -419,6 +465,7 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
@@ -454,12 +501,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8.5,
+      "CritChanceBase":8,
       "PhysicalMax":38,
       "PhysicalMin":21,
       "Range":120
@@ -489,12 +537,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":13,
       "PhysicalMin":7,
       "Range":120
@@ -526,6 +575,7 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
@@ -561,6 +611,7 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
@@ -569,6 +620,42 @@
       "CritChanceBase":8,
       "PhysicalMax":50,
       "PhysicalMin":27,
+      "Range":120
+    }
+  },
+  "Kinetic Wand":{
+    "implicit":"Cannot roll Caster Modifiers",
+    "implicitModTypes":[[]],
+    "influenceTags":{
+      "adjudicator":"wand_adjudicator",
+      "basilisk":"wand_basilisk",
+      "cleansing":"wand_cleansing",
+      "crusader":"wand_crusader",
+      "elder":"wand_elder",
+      "eyrie":"wand_eyrie",
+      "shaper":"wand_shaper",
+      "tangle":"wand_tangle"
+    },
+    "req":{
+      "int":188,
+      "level":59
+    },
+    "socketLimit":3,
+    "tags":{
+      "default":true,
+      "one_hand_weapon":true,
+      "onehand":true,
+      "ranged":true,
+      "top_tier_base_item_type":true,
+      "wand":true,
+      "weapon":true
+    },
+    "type":"Wand",
+    "weapon":{
+      "AttackRateBase":1.6,
+      "CritChanceBase":8.5,
+      "PhysicalMax":54,
+      "PhysicalMin":29,
       "Range":120
     }
   },
@@ -596,14 +683,15 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
-      "AttackRateBase":1.4,
-      "CritChanceBase":10,
-      "PhysicalMax":49,
-      "PhysicalMin":26,
+      "AttackRateBase":1.5,
+      "CritChanceBase":8.7,
+      "PhysicalMax":45,
+      "PhysicalMin":24,
       "Range":120
     }
   },
@@ -632,12 +720,13 @@
       "ranged":true,
       "top_tier_base_item_type":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":56,
       "PhysicalMin":30,
       "Range":120
@@ -669,12 +758,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8.5,
+      "CritChanceBase":8,
       "PhysicalMax":37,
       "PhysicalMin":20,
       "Range":120
@@ -706,12 +796,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8.5,
+      "CritChanceBase":8,
       "PhysicalMax":56,
       "PhysicalMin":30,
       "Range":120
@@ -742,14 +833,15 @@
       "ranged":true,
       "top_tier_base_item_type":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
-      "AttackRateBase":1.4,
-      "CritChanceBase":10,
-      "PhysicalMax":52,
-      "PhysicalMin":28,
+      "AttackRateBase":1.5,
+      "CritChanceBase":8.7,
+      "PhysicalMax":48,
+      "PhysicalMin":26,
       "Range":120
     }
   },
@@ -777,12 +869,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":23,
       "PhysicalMin":12,
       "Range":120
@@ -812,14 +905,50 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
-      "AttackRateBase":1.4,
-      "CritChanceBase":10,
-      "PhysicalMax":34,
-      "PhysicalMin":18,
+      "AttackRateBase":1.5,
+      "CritChanceBase":8.7,
+      "PhysicalMax":32,
+      "PhysicalMin":17,
+      "Range":120
+    }
+  },
+  "Somatic Wand":{
+    "implicit":"Cannot roll Caster Modifiers",
+    "implicitModTypes":[[]],
+    "influenceTags":{
+      "adjudicator":"wand_adjudicator",
+      "basilisk":"wand_basilisk",
+      "cleansing":"wand_cleansing",
+      "crusader":"wand_crusader",
+      "elder":"wand_elder",
+      "eyrie":"wand_eyrie",
+      "shaper":"wand_shaper",
+      "tangle":"wand_tangle"
+    },
+    "req":{
+      "int":47,
+      "level":12
+    },
+    "socketLimit":3,
+    "tags":{
+      "default":true,
+      "one_hand_weapon":true,
+      "onehand":true,
+      "ranged":true,
+      "wand":true,
+      "weapon":true
+    },
+    "type":"Wand",
+    "weapon":{
+      "AttackRateBase":1.6,
+      "CritChanceBase":8.5,
+      "PhysicalMax":18,
+      "PhysicalMin":9,
       "Range":120
     }
   },
@@ -847,12 +976,13 @@
       "onehand":true,
       "ranged":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":32,
       "PhysicalMin":11,
       "Range":120
@@ -883,12 +1013,13 @@
       "ranged":true,
       "top_tier_base_item_type":true,
       "wand":true,
+      "wand_can_roll_caster_modifiers":true,
       "weapon":true
     },
     "type":"Wand",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":9,
+      "CritChanceBase":8,
       "PhysicalMax":65,
       "PhysicalMin":22,
       "Range":120

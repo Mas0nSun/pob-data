@@ -189,8 +189,7 @@
     "description":"Performs a melee attack, and causes lightning to strike a nearby enemy, dealing damage in an area. Each target can only be hit once by this skill. Hitting an enemy grants an aura for a duration. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.",
     "hidden":true,
     "levels":[{
-        "baseMultiplier":3.25,
-        "damageEffectiveness":3.25,
+        "baseMultiplier":2.0313,
         "levelRequirement":1
       }],
     "name":"Smite",
@@ -679,7 +678,7 @@
     "stats":[]
   },
   "ElderTentacleMinionProjectileDeepcaller":{
-    "baseEffectiveness":5.5,
+    "baseEffectiveness":5,
     "baseFlags":{
       "projectile":true,
       "spell":true
@@ -688,7 +687,7 @@
     "color":4,
     "constantStats":[["monster_projectile_variation",44],["skill_visual_scale_+%",50],["base_chance_to_shock_%",60]],
     "hidden":true,
-    "incrementalEffectiveness":0.029999999329448,
+    "incrementalEffectiveness":0.041000001132488,
     "levels":[{
         "critChance":5,
         "levelRequirement":1,
@@ -719,8 +718,8 @@
     "description":"Each attack with this skill will choose an element at random, and will only be able to deal damage of that element. If the attack hits an enemy, it will deal damage in an area around them, with the radius being larger if that enemy is suffering from an ailment of the chosen element. It will avoid choosing the same element twice in a row.",
     "hidden":true,
     "levels":[{
-        "baseMultiplier":6.8,
-        "damageEffectiveness":6.8,
+        "baseMultiplier":5.4,
+        "damageEffectiveness":5.4,
         "levelRequirement":0
       }],
     "name":"Elemental Hit",
@@ -2035,8 +2034,6 @@
     "description":"Fires multiple arrows into the air, to land in sequence after a delay, starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.",
     "hidden":true,
     "levels":[{
-        "baseMultiplier":1.5,
-        "damageEffectiveness":1.5,
         "levelRequirement":0
       }],
     "name":"Rain of Arrow",
@@ -3035,6 +3032,32 @@
     "statDescriptionScope":"skill_stat_descriptions",
     "stats":["spell_minimum_base_physical_damage","spell_maximum_base_physical_damage","base_is_projectile","always_pierce"]
   },
+  "SummonedLivingLightningZap":{
+    "baseFlags":{
+      "attack":true,
+      "melee":true
+    },
+    "castTime":1,
+    "color":4,
+    "constantStats":[["additional_base_critical_strike_chance",800]],
+    "description":"Jolt through an enemy, causing chaining Lightning Damage.",
+    "hidden":true,
+    "levels":[{
+        "cooldown":0.25,
+        "levelRequirement":0,
+        "storedUses":1
+      }],
+    "name":"Living Lightning Zap",
+    "skillTypes":{
+      "1":true,
+      "23":true,
+      "24":true,
+      "25":true,
+      "34":true
+    },
+    "statDescriptionScope":"skill_stat_descriptions",
+    "stats":["supress_weapon_surges"]
+  },
   "SummonedReaperMelee":{
     "baseEffectiveness":0,
     "baseFlags":{
@@ -3383,6 +3406,6 @@
       "35":true
     },
     "statDescriptionScope":"skill_stat_descriptions",
-    "stats":["is_area_damage","global_always_hit"]
+    "stats":["is_area_damage"]
   }
 }

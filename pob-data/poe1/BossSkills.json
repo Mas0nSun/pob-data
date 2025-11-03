@@ -142,7 +142,7 @@
   },
   "Sirus Meteor":{
     "DamageMultipliers":{
-      "Physical":[45.087560245599,0.22541711316695]
+      "Physical":[28.179207951973,0.14090638379039]
     },
     "DamageType":"Spell",
     "UberDamageMultiplier":1.52,

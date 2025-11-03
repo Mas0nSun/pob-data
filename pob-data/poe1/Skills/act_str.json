@@ -5759,7 +5759,7 @@
         "1":0.60000002384186,
         "2":1.1200000047684,
         "3":1.6799999475479,
-        "4":2
+        "4":3
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.366,
@@ -5772,7 +5772,7 @@
         "1":0.60000002384186,
         "2":1.1039999723434,
         "3":1.6560000181198,
-        "4":2
+        "4":3
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.423,
@@ -5785,7 +5785,7 @@
         "1":0.60000002384186,
         "2":1.0880000591278,
         "3":1.6319999694824,
-        "4":2
+        "4":3
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.481,
@@ -5798,7 +5798,7 @@
         "1":0.60000002384186,
         "2":1.0720000267029,
         "3":1.6080000400543,
-        "4":2
+        "4":3
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.539,
@@ -5811,7 +5811,7 @@
         "1":0.60000002384186,
         "2":1.055999994278,
         "3":1.5839999914169,
-        "4":2
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.594,
@@ -5824,7 +5824,7 @@
         "1":0.60000002384186,
         "2":1.039999961853,
         "3":1.5599999427795,
-        "4":2
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.648,
@@ -5837,7 +5837,7 @@
         "1":0.60000002384186,
         "2":1.0240000486374,
         "3":1.5360000133514,
-        "4":2
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.703,
@@ -5850,7 +5850,7 @@
         "1":0.80000001192093,
         "2":1.0080000162125,
         "3":1.5119999647141,
-        "4":3
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.758,
@@ -5863,7 +5863,7 @@
         "1":0.80000001192093,
         "2":0.99199998378754,
         "3":1.4880000352859,
-        "4":3
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.813,
@@ -5876,7 +5876,7 @@
         "1":0.80000001192093,
         "2":0.97600001096725,
         "3":1.4639999866486,
-        "4":3
+        "4":4
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.868,
@@ -5889,7 +5889,7 @@
         "1":0.80000001192093,
         "2":0.95999997854233,
         "3":1.4400000572205,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.924,
@@ -5902,7 +5902,7 @@
         "1":0.80000001192093,
         "2":0.94400000572205,
         "3":1.4160000085831,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":2.98,
@@ -5915,7 +5915,7 @@
         "1":0.80000001192093,
         "2":0.92799997329712,
         "3":1.3919999599457,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.037,
@@ -5928,7 +5928,7 @@
         "1":0.80000001192093,
         "2":0.91200000047684,
         "3":1.3680000305176,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.093,
@@ -5941,7 +5941,7 @@
         "1":0.80000001192093,
         "2":0.89600002765656,
         "3":1.3439999818802,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.152,
@@ -5954,7 +5954,7 @@
         "1":0.80000001192093,
         "2":0.87999999523163,
         "3":1.3200000524521,
-        "4":3
+        "4":5
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.209,
@@ -5967,7 +5967,7 @@
         "1":0.80000001192093,
         "2":0.86400002241135,
         "3":1.2960000038147,
-        "4":3
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.267,
@@ -5980,7 +5980,7 @@
         "1":0.80000001192093,
         "2":0.84799998998642,
         "3":1.2719999551773,
-        "4":3
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.325,
@@ -5993,7 +5993,7 @@
         "1":0.80000001192093,
         "2":0.83200001716614,
         "3":1.2480000257492,
-        "4":3
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.383,
@@ -6006,7 +6006,7 @@
         "1":1,
         "2":0.81599998474121,
         "3":1.2239999771118,
-        "4":4
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.442,
@@ -6019,7 +6019,7 @@
         "1":1,
         "2":0.80000001192093,
         "3":1.2000000476837,
-        "4":4
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.5,
@@ -6032,7 +6032,7 @@
         "1":1,
         "2":0.783999979496,
         "3":1.1759999990463,
-        "4":4
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.56,
@@ -6045,7 +6045,7 @@
         "1":1,
         "2":0.76800000667572,
         "3":1.1519999504089,
-        "4":4
+        "4":6
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.619,
@@ -6058,7 +6058,7 @@
         "1":1,
         "2":0.75199997425079,
         "3":1.1280000209808,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.68,
@@ -6071,7 +6071,7 @@
         "1":1,
         "2":0.73600000143051,
         "3":1.1039999723434,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.74,
@@ -6084,7 +6084,7 @@
         "1":1,
         "2":0.72000002861023,
         "3":1.0800000429153,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.801,
@@ -6097,7 +6097,7 @@
         "1":1,
         "2":0.7039999961853,
         "3":1.055999994278,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.862,
@@ -6110,7 +6110,7 @@
         "1":1,
         "2":0.68800002336502,
         "3":1.0319999456406,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.923,
@@ -6123,7 +6123,7 @@
         "1":1,
         "2":0.67199999094009,
         "3":1.0080000162125,
-        "4":4
+        "4":7
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":3.984,
@@ -6136,7 +6136,7 @@
         "1":1,
         "2":0.65600001811981,
         "3":0.98400002717972,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.015,
@@ -6149,7 +6149,7 @@
         "1":1,
         "2":0.64800000190735,
         "3":0.97200000286102,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.046,
@@ -6162,7 +6162,7 @@
         "1":1,
         "2":0.63999998569489,
         "3":0.95999997854233,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.077,
@@ -6175,7 +6175,7 @@
         "1":1,
         "2":0.63200002908707,
         "3":0.94800001382828,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.108,
@@ -6188,7 +6188,7 @@
         "1":1,
         "2":0.6240000128746,
         "3":0.93599998950958,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.139,
@@ -6201,7 +6201,7 @@
         "1":1,
         "2":0.61599999666214,
         "3":0.92400002479553,
-        "4":4
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.17,
@@ -6214,7 +6214,7 @@
         "1":1.2000000476837,
         "2":0.60799998044968,
         "3":0.91200000047684,
-        "4":5
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.202,
@@ -6227,7 +6227,7 @@
         "1":1.2000000476837,
         "2":0.60000002384186,
         "3":0.89999997615814,
-        "4":5
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.233,
@@ -6240,7 +6240,7 @@
         "1":1.2000000476837,
         "2":0.59200000762939,
         "3":0.88800001144409,
-        "4":5
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.266,
@@ -6253,7 +6253,7 @@
         "1":1.2000000476837,
         "2":0.58399999141693,
         "3":0.8759999871254,
-        "4":5
+        "4":8
       },{
         "attackSpeedMultiplier":-15,
         "baseMultiplier":4.297,
@@ -6266,7 +6266,7 @@
         "1":1.2000000476837,
         "2":0.57599997520447,
         "3":0.86400002241135,
-        "4":5
+        "4":8
       }],
     "name":"Boneshatter",
     "notMinionStat":["trauma_strike_self_damage_per_trauma"],
@@ -7377,7 +7377,7 @@
         "name":"Pulse"
       }],
     "qualityStats":{
-      "Default":[["damage_+%_final_vs_stunned_enemies",1]]
+      "Default":[["active_skill_damage_+%_final_vs_stunned_enemies",1]]
     },
     "skillTypes":{
       "1":true,
@@ -7815,327 +7815,327 @@
     "baseTypeName":"Chain Hook of Trarthus",
     "castTime":1,
     "color":1,
-    "constantStats":[["chain_strike_cone_radius_+_per_x_rage",5],["chain_hook_attaches_to_X_targets",6],["chain_hook_attachment_range",60],["chain_hook_attachment_rage_to_gain_per_hit",1],["chain_hook_max_attached_targets",12]],
+    "constantStats":[["chain_strike_cone_radius_+_per_x_rage",5],["chain_hook_attaches_to_X_targets",8],["chain_hook_attachment_range",60],["chain_hook_attachment_rage_to_gain_per_hit",1],["chain_hook_max_attached_targets",16]],
     "description":"Throws chains ahead of you, attaching them to targets hit. Enemies chained to you will grant rage when hit. When chains are broken, they snap and deal attack damage in an area around the target they were attached to. Requires a One Handed Mace, Sceptre, Sword or Axe.",
     "levels":[{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":1.711,
+        "baseMultiplier":2.138,
         "cost":{
           "Mana":5
         },
-        "damageEffectiveness":1.711,
+        "damageEffectiveness":2.138,
         "levelRequirement":12
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":1.788,
+        "baseMultiplier":2.284,
         "cost":{
           "Mana":5
         },
-        "damageEffectiveness":1.788,
+        "damageEffectiveness":2.284,
         "levelRequirement":15
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":1.871,
+        "baseMultiplier":2.43,
         "cost":{
           "Mana":6
         },
-        "damageEffectiveness":1.871,
+        "damageEffectiveness":2.43,
         "levelRequirement":19
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":1.959,
+        "baseMultiplier":2.576,
         "cost":{
           "Mana":6
         },
-        "damageEffectiveness":1.959,
+        "damageEffectiveness":2.576,
         "levelRequirement":23
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.05,
+        "baseMultiplier":2.722,
         "cost":{
           "Mana":6
         },
-        "damageEffectiveness":2.05,
+        "damageEffectiveness":2.722,
         "levelRequirement":27
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.146,
+        "baseMultiplier":2.868,
         "cost":{
           "Mana":6
         },
-        "damageEffectiveness":2.146,
+        "damageEffectiveness":2.868,
         "levelRequirement":31
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.246,
+        "baseMultiplier":3.014,
         "cost":{
           "Mana":6
         },
-        "damageEffectiveness":2.246,
+        "damageEffectiveness":3.014,
         "levelRequirement":35
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.346,
+        "baseMultiplier":3.16,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.346,
+        "damageEffectiveness":3.16,
         "levelRequirement":38
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.451,
+        "baseMultiplier":3.306,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.451,
+        "damageEffectiveness":3.306,
         "levelRequirement":41
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.561,
+        "baseMultiplier":3.452,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.561,
+        "damageEffectiveness":3.452,
         "levelRequirement":44
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.675,
+        "baseMultiplier":3.598,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.675,
+        "damageEffectiveness":3.598,
         "levelRequirement":47
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.794,
+        "baseMultiplier":3.744,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.794,
+        "damageEffectiveness":3.744,
         "levelRequirement":50
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":2.918,
+        "baseMultiplier":3.89,
         "cost":{
           "Mana":7
         },
-        "damageEffectiveness":2.918,
+        "damageEffectiveness":3.89,
         "levelRequirement":53
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.049,
+        "baseMultiplier":4.036,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.049,
+        "damageEffectiveness":4.036,
         "levelRequirement":56
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.185,
+        "baseMultiplier":4.182,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.185,
+        "damageEffectiveness":4.182,
         "levelRequirement":59
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.325,
+        "baseMultiplier":4.328,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.325,
+        "damageEffectiveness":4.328,
         "levelRequirement":62
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.468,
+        "baseMultiplier":4.474,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.468,
+        "damageEffectiveness":4.474,
         "levelRequirement":64
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.616,
+        "baseMultiplier":4.62,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.616,
+        "damageEffectiveness":4.62,
         "levelRequirement":66
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.771,
+        "baseMultiplier":4.766,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.771,
+        "damageEffectiveness":4.766,
         "levelRequirement":68
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":3.931,
+        "baseMultiplier":4.913,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":3.931,
+        "damageEffectiveness":4.913,
         "levelRequirement":70
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":4.099,
+        "baseMultiplier":5.059,
         "cost":{
           "Mana":8
         },
-        "damageEffectiveness":4.099,
+        "damageEffectiveness":5.059,
         "levelRequirement":72
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":4.273,
+        "baseMultiplier":5.205,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":4.273,
+        "damageEffectiveness":5.205,
         "levelRequirement":74
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":4.456,
+        "baseMultiplier":5.351,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":4.456,
+        "damageEffectiveness":5.351,
         "levelRequirement":76
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":4.646,
+        "baseMultiplier":5.497,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":4.646,
+        "damageEffectiveness":5.497,
         "levelRequirement":78
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":4.845,
+        "baseMultiplier":5.643,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":4.845,
+        "damageEffectiveness":5.643,
         "levelRequirement":80
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":5.051,
+        "baseMultiplier":5.789,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":5.051,
+        "damageEffectiveness":5.789,
         "levelRequirement":82
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":5.266,
+        "baseMultiplier":5.935,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":5.266,
+        "damageEffectiveness":5.935,
         "levelRequirement":84
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":5.49,
+        "baseMultiplier":6.081,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":5.49,
+        "damageEffectiveness":6.081,
         "levelRequirement":86
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":5.725,
+        "baseMultiplier":6.227,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":5.725,
+        "damageEffectiveness":6.227,
         "levelRequirement":88
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":5.968,
+        "baseMultiplier":6.373,
         "cost":{
           "Mana":9
         },
-        "damageEffectiveness":5.968,
+        "damageEffectiveness":6.373,
         "levelRequirement":90
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":6.334,
+        "baseMultiplier":6.446,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":6.334,
+        "damageEffectiveness":6.446,
         "levelRequirement":91
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":6.469,
+        "baseMultiplier":6.519,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":6.469,
+        "damageEffectiveness":6.519,
         "levelRequirement":92
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":6.607,
+        "baseMultiplier":6.592,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":6.607,
+        "damageEffectiveness":6.592,
         "levelRequirement":93
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":6.746,
+        "baseMultiplier":6.665,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":6.746,
+        "damageEffectiveness":6.665,
         "levelRequirement":94
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":6.89,
+        "baseMultiplier":6.738,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":6.89,
+        "damageEffectiveness":6.738,
         "levelRequirement":95
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":7.037,
+        "baseMultiplier":6.811,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":7.037,
+        "damageEffectiveness":6.811,
         "levelRequirement":96
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":7.186,
+        "baseMultiplier":6.884,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":7.186,
+        "damageEffectiveness":6.884,
         "levelRequirement":97
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":7.339,
+        "baseMultiplier":6.957,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":7.339,
+        "damageEffectiveness":6.957,
         "levelRequirement":98
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":7.494,
+        "baseMultiplier":7.03,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":7.494,
+        "damageEffectiveness":7.03,
         "levelRequirement":99
       },{
         "attackSpeedMultiplier":20,
-        "baseMultiplier":7.654,
+        "baseMultiplier":7.103,
         "cost":{
           "Mana":10
         },
-        "damageEffectiveness":7.654,
+        "damageEffectiveness":7.103,
         "levelRequirement":100
       }],
     "name":"Chain Hook of Trarthus",
@@ -17585,7 +17585,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":67.163333804583,
+        "3":77.238338925305,
         "4":7
       },{
         "cost":{
@@ -17597,7 +17597,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":66.453335181077,
+        "3":76.421667853482,
         "4":7
       },{
         "cost":{
@@ -17609,7 +17609,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":65.293333400389,
+        "3":75.086666831821,
         "4":7
       },{
         "cost":{
@@ -17621,7 +17621,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":64.146667165856,
+        "3":73.768331269212,
         "4":7
       },{
         "cost":{
@@ -17633,7 +17633,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":63.015001433926,
+        "3":72.466669112941,
         "4":7
       },{
         "cost":{
@@ -17645,7 +17645,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":61.900001161049,
+        "3":71.185002328617,
         "4":7
       },{
         "cost":{
@@ -17657,7 +17657,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":60.796667504236,
+        "3":69.916671090449,
         "4":7
       },{
         "cost":{
@@ -17669,7 +17669,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":60.118334842386,
+        "3":69.136668796912,
         "4":8
       },{
         "cost":{
@@ -17681,7 +17681,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":59.443336067076,
+        "3":68.360004363557,
         "4":8
       },{
         "cost":{
@@ -17693,7 +17693,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":58.771667204661,
+        "3":67.586669843098,
         "4":8
       },{
         "cost":{
@@ -17705,7 +17705,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":58.101667272337,
+        "3":66.816665235534,
         "4":8
       },{
         "cost":{
@@ -17717,7 +17717,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":57.435001226552,
+        "3":66.050002461796,
         "4":8
       },{
         "cost":{
@@ -17729,7 +17729,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":56.771669067306,
+        "3":65.286669600954,
         "4":8
       },{
         "cost":{
@@ -17741,7 +17741,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":56.110001864508,
+        "3":64.526666653007,
         "4":8
       },{
         "cost":{
@@ -17753,7 +17753,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":55.453333504697,
+        "3":63.771666521691,
         "4":9
       },{
         "cost":{
@@ -17765,7 +17765,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.800003005068,
+        "3":63.020000276913,
         "4":9
       },{
         "cost":{
@@ -17777,7 +17777,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.52166917596,
+        "3":62.700002800177,
         "4":9
       },{
         "cost":{
@@ -17789,7 +17789,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.243335346853,
+        "3":62.380001349797,
         "4":9
       },{
         "cost":{
@@ -17801,7 +17801,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.960002674758,
+        "3":62.053336099982,
         "4":9
       },{
         "cost":{
@@ -17813,7 +17813,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.675001072573,
+        "3":61.726666876525,
         "4":9
       },{
         "cost":{
@@ -17825,7 +17825,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.38833451394,
+        "3":61.396667740171,
         "4":9
       },{
         "cost":{
@@ -17837,7 +17837,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.098334068768,
+        "3":61.063334717279,
         "4":10
       },{
         "cost":{
@@ -17849,7 +17849,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.808333623596,
+        "3":60.730001694386,
         "4":10
       },{
         "cost":{
@@ -17861,7 +17861,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.514999291884,
+        "3":60.391669828507,
         "4":10
       },{
         "cost":{
@@ -17873,7 +17873,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.220000003725,
+        "3":60.053333988984,
         "4":10
       },{
         "cost":{
@@ -17885,7 +17885,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.923335759118,
+        "3":59.711668236566,
         "4":10
       },{
         "cost":{
@@ -17897,7 +17897,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.626667540868,
+        "3":59.370002484148,
         "4":10
       },{
         "cost":{
@@ -17909,7 +17909,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.325000479631,
+        "3":59.0233339151,
         "4":10
       },{
         "cost":{
@@ -17921,7 +17921,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.025002348485,
+        "3":58.678334276142,
         "4":11
       },{
         "cost":{
@@ -17933,7 +17933,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.723335287248,
+        "3":58.331669680737,
         "4":11
       },{
         "cost":{
@@ -17945,7 +17945,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.76500290852,
+        "3":58.380001101444,
         "4":11
       },{
         "cost":{
@@ -17957,7 +17957,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.80666655615,
+        "3":58.428336495794,
         "4":11
       },{
         "cost":{
@@ -17969,7 +17969,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.845000290883,
+        "3":58.471669073515,
         "4":11
       },{
         "cost":{
@@ -17981,7 +17981,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.87833518263,
+        "3":58.510002808248,
         "4":11
       },{
         "cost":{
@@ -17993,7 +17993,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.911666100733,
+        "3":58.548336542981,
         "4":11
       },{
         "cost":{
@@ -18005,7 +18005,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.940002149493,
+        "3":58.581667461085,
         "4":11
       },{
         "cost":{
@@ -18017,7 +18017,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.966669268161,
+        "3":58.611668466292,
         "4":11
       },{
         "cost":{
@@ -18029,7 +18029,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.9883335702,
+        "3":58.63666665487,
         "4":11
       },{
         "cost":{
@@ -18041,7 +18041,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.010001845881,
+        "3":58.661668817091,
         "4":11
       },{
         "cost":{
@@ -18053,7 +18053,7 @@
         "statInterpolation":[3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.030001191472,
+        "3":58.68500204922,
         "4":11
       }],
     "name":"Exsanguinate",
@@ -18178,7 +18178,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":67.163333804583,
+        "3":77.238338925305,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":6
@@ -18192,7 +18192,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":66.453335181077,
+        "3":76.421667853482,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":6
@@ -18206,7 +18206,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":65.293333400389,
+        "3":75.086666831821,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":6
@@ -18220,7 +18220,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":64.146667165856,
+        "3":73.768331269212,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":7
@@ -18234,7 +18234,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":63.015001433926,
+        "3":72.466669112941,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":7
@@ -18248,7 +18248,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":61.900001161049,
+        "3":71.185002328617,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":7
@@ -18262,7 +18262,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":60.796667504236,
+        "3":69.916671090449,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":7
@@ -18276,7 +18276,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":60.118334842386,
+        "3":69.136668796912,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":7
@@ -18290,7 +18290,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":59.443336067076,
+        "3":68.360004363557,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":8
@@ -18304,7 +18304,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":58.771667204661,
+        "3":67.586669843098,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":8
@@ -18318,7 +18318,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":58.101667272337,
+        "3":66.816665235534,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":8
@@ -18332,7 +18332,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":57.435001226552,
+        "3":66.050002461796,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":8
@@ -18346,7 +18346,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":56.771669067306,
+        "3":65.286669600954,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":9
@@ -18360,7 +18360,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":56.110001864508,
+        "3":64.526666653007,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":9
@@ -18374,7 +18374,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":55.453333504697,
+        "3":63.771666521691,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":9
@@ -18388,7 +18388,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.800003005068,
+        "3":63.020000276913,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":9
@@ -18402,7 +18402,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.52166917596,
+        "3":62.700002800177,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":9
@@ -18416,7 +18416,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":54.243335346853,
+        "3":62.380001349797,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":10
@@ -18430,7 +18430,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.960002674758,
+        "3":62.053336099982,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":10
@@ -18444,7 +18444,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.675001072573,
+        "3":61.726666876525,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":10
@@ -18458,7 +18458,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.38833451394,
+        "3":61.396667740171,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":10
@@ -18472,7 +18472,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":53.098334068768,
+        "3":61.063334717279,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":10
@@ -18486,7 +18486,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.808333623596,
+        "3":60.730001694386,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":11
@@ -18500,7 +18500,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.514999291884,
+        "3":60.391669828507,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":11
@@ -18514,7 +18514,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":52.220000003725,
+        "3":60.053333988984,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":11
@@ -18528,7 +18528,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.923335759118,
+        "3":59.711668236566,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":11
@@ -18542,7 +18542,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.626667540868,
+        "3":59.370002484148,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":11
@@ -18556,7 +18556,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.325000479631,
+        "3":59.0233339151,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18570,7 +18570,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.025002348485,
+        "3":58.678334276142,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18584,7 +18584,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.723335287248,
+        "3":58.331669680737,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18598,7 +18598,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.76500290852,
+        "3":58.380001101444,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18612,7 +18612,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.80666655615,
+        "3":58.428336495794,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18626,7 +18626,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.845000290883,
+        "3":58.471669073515,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":12
@@ -18640,7 +18640,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.87833518263,
+        "3":58.510002808248,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18654,7 +18654,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.911666100733,
+        "3":58.548336542981,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18668,7 +18668,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.940002149493,
+        "3":58.581667461085,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18682,7 +18682,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.966669268161,
+        "3":58.611668466292,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18696,7 +18696,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":50.9883335702,
+        "3":58.63666665487,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18710,7 +18710,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.010001845881,
+        "3":58.661668817091,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -18724,7 +18724,7 @@
         "statInterpolation":[3,3,3,3,3,1],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":51.030001191472,
+        "3":58.68500204922,
         "4":-0.63999998569489,
         "5":-0.95999997854233,
         "6":13
@@ -25688,7 +25688,7 @@
     "name":"Holy Flame Totem of Ire",
     "notMinionStat":["spell_minimum_base_physical_damage","spell_maximum_base_physical_damage"],
     "qualityStats":{
-      "Default":[["consecrated_ground_area_+%",2]]
+      "Default":[["holy_flame_totem_consecrated_ground_area_+%",2]]
     },
     "skillTotemId":17,
     "skillTypes":{
@@ -36284,7 +36284,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":100.66666828096
+        "3":115.76667090729
       },{
         "cost":{
           "Life":26
@@ -36295,7 +36295,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":99.485002198232
+        "3":114.4083366535
       },{
         "cost":{
           "Life":28
@@ -36306,7 +36306,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":98.429999962126
+        "3":113.19500063547
       },{
         "cost":{
           "Life":30
@@ -36317,7 +36317,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":97.163337654049
+        "3":111.73833461018
       },{
         "cost":{
           "Life":31
@@ -36328,7 +36328,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":96.02666910549
+        "3":110.43000468083
       },{
         "cost":{
           "Life":32
@@ -36339,7 +36339,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":95.549998829638
+        "3":109.88333470859
       },{
         "cost":{
           "Life":33
@@ -36350,7 +36350,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":95.04666540876
+        "3":109.30333381824
       },{
         "cost":{
           "Life":34
@@ -36361,7 +36361,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":94.516668842857
+        "3":108.69500085278
       },{
         "cost":{
           "Life":35
@@ -36372,7 +36372,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":94.139999268601
+        "3":108.26166712829
       },{
         "cost":{
           "Life":36
@@ -36383,7 +36383,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":93.558337395452
+        "3":107.59167116961
       },{
         "cost":{
           "Life":37
@@ -36394,7 +36394,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":93.133332426846
+        "3":107.10333427769
       },{
         "cost":{
           "Life":38
@@ -36405,7 +36405,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":92.685002173396
+        "3":106.58833424075
       },{
         "cost":{
           "Life":39
@@ -36416,7 +36416,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":92.213338687817
+        "3":106.04500212869
       },{
         "cost":{
           "Life":40
@@ -36427,7 +36427,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":91.718334022822
+        "3":105.47666785441
       },{
         "cost":{
           "Life":41
@@ -36438,7 +36438,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":91.200004072984
+        "3":104.88000150502
       },{
         "cost":{
           "Life":42
@@ -36449,7 +36449,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":90.65833294373
+        "3":104.2566720106
       },{
         "cost":{
           "Life":43
@@ -36460,7 +36460,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":89.900002899518
+        "3":103.38500571863
       },{
         "cost":{
           "Life":44
@@ -36471,7 +36471,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":89.115001762994
+        "3":102.48166949137
       },{
         "cost":{
           "Life":45
@@ -36482,7 +36482,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":89.089999600773
+        "3":102.45333741625
       },{
         "cost":{
           "Life":46
@@ -36493,7 +36493,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":88.655004893479
+        "3":101.95333390827
       },{
         "cost":{
           "Life":47
@@ -36504,7 +36504,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":88.199998919666
+        "3":101.43000511544
       },{
         "cost":{
           "Life":48
@@ -36515,7 +36515,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":87.523335187907
+        "3":100.651671752
       },{
         "cost":{
           "Life":49
@@ -36526,7 +36526,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":87.026669540107
+        "3":100.07999961754
       },{
         "cost":{
           "Life":50
@@ -36537,7 +36537,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":86.510000573074
+        "3":99.486671128323
       },{
         "cost":{
           "Life":51
@@ -36548,7 +36548,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":85.973336234093
+        "3":98.870001459693
       },{
         "cost":{
           "Life":52
@@ -36559,7 +36559,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":85.416668575878
+        "3":98.229998558934
       },{
         "cost":{
           "Life":53
@@ -36570,7 +36570,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":84.840005545716
+        "3":97.566670373331
       },{
         "cost":{
           "Life":54
@@ -36581,7 +36581,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":84.454999268291
+        "3":97.123338962868
       },{
         "cost":{
           "Life":55
@@ -36592,7 +36592,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.839998529752
+        "3":96.416666278616
       },{
         "cost":{
           "Life":56
@@ -36603,7 +36603,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.205002419266
+        "3":95.684999379429
       },{
         "cost":{
           "Life":57
@@ -36614,7 +36614,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.200003576279
+        "3":95.680000536442
       },{
         "cost":{
           "Life":58
@@ -36625,7 +36625,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.403334892367
+        "3":95.913332857738
       },{
         "cost":{
           "Life":58
@@ -36636,7 +36636,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.380001660238
+        "3":95.886669712712
       },{
         "cost":{
           "Life":58
@@ -36647,7 +36647,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.346670742134
+        "3":95.848332004336
       },{
         "cost":{
           "Life":60
@@ -36658,7 +36658,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.526668826093
+        "3":96.055001180607
       },{
         "cost":{
           "Life":60
@@ -36669,7 +36669,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.475003518847
+        "3":95.996668100283
       },{
         "cost":{
           "Life":60
@@ -36680,7 +36680,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.413332578341
+        "3":95.924999473803
       },{
         "cost":{
           "Life":60
@@ -36691,7 +36691,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.570005377457
+        "3":96.105005505048
       },{
         "cost":{
           "Life":61
@@ -36702,7 +36702,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.490000047808
+        "3":96.013333559334
       },{
         "cost":{
           "Life":61
@@ -36713,7 +36713,7 @@
         "statInterpolation":[3,3,3],
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":83.400004979471
+        "3":95.910002944842
       }],
     "name":"Reap",
     "notMinionStat":["spell_minimum_base_physical_damage","spell_maximum_base_physical_damage"],
@@ -39254,7 +39254,7 @@
     "levels":[{
         "attackTime":900,
         "cost":{
-          "Mana":8
+          "Mana":7
         },
         "critChance":5,
         "levelRequirement":1,
@@ -39267,7 +39267,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":8
+          "Mana":7
         },
         "critChance":5,
         "levelRequirement":2,
@@ -39280,7 +39280,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":8
+          "Mana":7
         },
         "critChance":5,
         "levelRequirement":4,
@@ -39293,7 +39293,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":8
+          "Mana":7
         },
         "critChance":5,
         "levelRequirement":7,
@@ -39306,7 +39306,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":9
+          "Mana":8
         },
         "critChance":5,
         "levelRequirement":11,
@@ -39319,7 +39319,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":9
+          "Mana":8
         },
         "critChance":5,
         "levelRequirement":16,
@@ -39332,7 +39332,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":9
+          "Mana":8
         },
         "critChance":5,
         "levelRequirement":20,
@@ -39345,7 +39345,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":10
+          "Mana":9
         },
         "critChance":5,
         "levelRequirement":24,
@@ -39358,7 +39358,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":10
+          "Mana":9
         },
         "critChance":5,
         "levelRequirement":28,
@@ -39371,7 +39371,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":11
+          "Mana":9
         },
         "critChance":5,
         "levelRequirement":32,
@@ -39384,7 +39384,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":11
+          "Mana":9
         },
         "critChance":5,
         "levelRequirement":36,
@@ -39397,7 +39397,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":11
+          "Mana":9
         },
         "critChance":5,
         "levelRequirement":40,
@@ -39410,7 +39410,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":12
+          "Mana":10
         },
         "critChance":5,
         "levelRequirement":44,
@@ -39423,7 +39423,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":12
+          "Mana":10
         },
         "critChance":5,
         "levelRequirement":48,
@@ -39436,7 +39436,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":13
+          "Mana":11
         },
         "critChance":5,
         "levelRequirement":52,
@@ -39449,7 +39449,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":13
+          "Mana":11
         },
         "critChance":5,
         "levelRequirement":56,
@@ -39462,7 +39462,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":13
+          "Mana":11
         },
         "critChance":5,
         "levelRequirement":60,
@@ -39475,7 +39475,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":64,
@@ -39488,7 +39488,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":67,
@@ -39501,7 +39501,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":70,
@@ -39514,7 +39514,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":72,
@@ -39527,7 +39527,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":74,
@@ -39540,7 +39540,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":76,
@@ -39553,7 +39553,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":78,
@@ -39566,7 +39566,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":14
+          "Mana":12
         },
         "critChance":5,
         "levelRequirement":80,
@@ -39579,7 +39579,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":15
+          "Mana":13
         },
         "critChance":5,
         "levelRequirement":82,
@@ -39592,7 +39592,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":15
+          "Mana":13
         },
         "critChance":5,
         "levelRequirement":84,
@@ -39605,7 +39605,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":15
+          "Mana":13
         },
         "critChance":5,
         "levelRequirement":86,
@@ -39618,7 +39618,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":15
+          "Mana":13
         },
         "critChance":5,
         "levelRequirement":88,
@@ -39631,7 +39631,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":15
+          "Mana":13
         },
         "critChance":5,
         "levelRequirement":90,
@@ -39644,7 +39644,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":91,
@@ -39657,7 +39657,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":92,
@@ -39670,7 +39670,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":93,
@@ -39683,7 +39683,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":94,
@@ -39696,7 +39696,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":95,
@@ -39709,7 +39709,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":96,
@@ -39722,7 +39722,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":97,
@@ -39735,7 +39735,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":98,
@@ -39748,7 +39748,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":99,
@@ -39761,7 +39761,7 @@
       },{
         "attackTime":900,
         "cost":{
-          "Mana":16
+          "Mana":14
         },
         "critChance":5,
         "levelRequirement":100,
@@ -45908,7 +45908,7 @@
     "baseTypeName":"Sunder of Trarthus",
     "castTime":1,
     "color":1,
-    "constantStats":[["shockwave_slam_explosion_damage_+%_final",-40],["base_sunder_wave_delay_ms",300],["sunder_wave_radius_+_per_step",1],["sunder_wave_max_steps",4],["sunder_wave_min_steps",2],["sunder_shockwave_limit_per_cascade",5],["sunder_number_of_fake_chains",2]],
+    "constantStats":[["shockwave_slam_explosion_damage_+%_final",-40],["base_sunder_wave_delay_ms",300],["sunder_wave_radius_+_per_step",1],["sunder_wave_max_steps",4],["sunder_wave_min_steps",2],["sunder_shockwave_limit_per_cascade",5],["sunder_number_of_fake_chains",3]],
     "description":"Slams the ground, creating a slow wave of churning terrain that damages enemies in a sequence of areas in front of you. A number of enemies hit by the wave will release a shockwave, damaging other enemies around them. Using the skill again will stop the previous wave. When the wave reaches a target or terrain, it can restart aiming towards an enemy, if one is in range. Requires a Mace, Sceptre, Axe, Staff or Unarmed.",
     "levels":[{
         "attackSpeedMultiplier":-25,
@@ -53696,7 +53696,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53709,7 +53709,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53722,7 +53722,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53735,7 +53735,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53748,7 +53748,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53761,7 +53761,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53774,7 +53774,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53787,7 +53787,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53800,7 +53800,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53813,7 +53813,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53826,7 +53826,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53839,7 +53839,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53852,7 +53852,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53865,7 +53865,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53878,7 +53878,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53891,7 +53891,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53904,7 +53904,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53917,7 +53917,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53930,7 +53930,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53943,7 +53943,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53956,7 +53956,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53969,7 +53969,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53982,7 +53982,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -53995,7 +53995,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54008,7 +54008,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54021,7 +54021,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54034,7 +54034,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54047,7 +54047,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54060,7 +54060,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54073,7 +54073,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54086,7 +54086,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54099,7 +54099,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54112,7 +54112,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54125,7 +54125,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54138,7 +54138,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54151,7 +54151,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54164,7 +54164,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54177,7 +54177,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54190,7 +54190,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       },{
         "cost":{
           "Soul":25
@@ -54203,7 +54203,7 @@
         "vaalStoredUses":1,
         "1":0.80000001192093,
         "2":1.2000000476837,
-        "3":75.000001676381
+        "3":86.250005106752
       }],
     "name":"Vaal Reap",
     "notMinionStat":["spell_minimum_base_physical_damage","spell_maximum_base_physical_damage"],
@@ -57811,7 +57811,7 @@
     "baseTypeName":"Volcanic Fissure of Snaking",
     "castTime":1,
     "color":1,
-    "constantStats":[["skill_physical_damage_%_to_convert_to_fire",60],["vaal_volcanic_fissure_crack_repeat_count",2],["active_skill_area_of_effect_+%_final",50]],
+    "constantStats":[["skill_physical_damage_%_to_convert_to_fire",60],["vaal_volcanic_fissure_crack_repeat_count",2]],
     "description":"Slam the ground, creating a winding fissure that deals area damage while travelling outwards. When it reaches the target location it erupts dealing damage in an area. After erupting, the fissure continues moving towards enemies to cause further eruptions. Requires an Axe, Mace, Sceptre, Staff or Unarmed.",
     "levels":[{
         "attackSpeedMultiplier":-30,

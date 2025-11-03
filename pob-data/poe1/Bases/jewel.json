@@ -13,7 +13,6 @@
     "type":"Jewel"
   },
   "Corvine Charm":{
-    "hidden":true,
     "implicitModTypes":[],
     "req":[],
     "subType":"Charm",
@@ -74,7 +73,6 @@
     "type":"Jewel"
   },
   "Lupine Charm":{
-    "hidden":true,
     "implicitModTypes":[],
     "req":[],
     "subType":"Charm",
@@ -161,7 +159,6 @@
     "type":"Jewel"
   },
   "Ursine Charm":{
-    "hidden":true,
     "implicitModTypes":[],
     "req":[],
     "subType":"Charm",

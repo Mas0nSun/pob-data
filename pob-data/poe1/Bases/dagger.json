@@ -29,7 +29,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":7.8,
+      "CritChanceBase":8.3,
       "PhysicalMax":74,
       "PhysicalMin":19,
       "Range":10
@@ -65,7 +65,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":59,
       "PhysicalMin":15,
       "Range":10
@@ -101,7 +101,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":34,
       "PhysicalMin":8,
       "Range":10
@@ -137,7 +137,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":62,
       "PhysicalMin":7,
       "Range":10
@@ -173,7 +173,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":26,
       "PhysicalMin":3,
       "Range":10
@@ -209,7 +209,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.3,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":41,
       "PhysicalMin":10,
       "Range":10
@@ -246,14 +246,13 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.2,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":97,
       "PhysicalMin":24,
       "Range":10
     }
   },
   "Ethereal Blade":{
-    "hidden":true,
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"dagger_adjudicator",
@@ -282,7 +281,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":7.5,
+      "CritChanceBase":8,
       "PhysicalMax":8,
       "PhysicalMin":4,
       "Range":10
@@ -319,7 +318,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":79,
       "PhysicalMin":20,
       "Range":10
@@ -355,7 +354,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.2,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":87,
       "PhysicalMin":22,
       "Range":10
@@ -393,7 +392,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":73,
       "PhysicalMin":18,
       "Range":10
@@ -429,7 +428,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":7.5,
+      "CritChanceBase":8,
       "PhysicalMax":45,
       "PhysicalMin":11,
       "Range":10
@@ -467,7 +466,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":47,
       "PhysicalMin":12,
       "Range":10
@@ -502,7 +501,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":7.5,
+      "CritChanceBase":8,
       "PhysicalMax":10,
       "PhysicalMin":6,
       "Range":10
@@ -538,7 +537,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.2,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":75,
       "PhysicalMin":19,
       "Range":10
@@ -574,7 +573,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":76,
       "PhysicalMin":19,
       "Range":10
@@ -612,7 +611,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8.8,
       "PhysicalMax":46,
       "PhysicalMin":12,
       "Range":10
@@ -648,7 +647,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.2,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":59,
       "PhysicalMin":15,
       "Range":10
@@ -685,7 +684,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":73,
       "PhysicalMin":18,
       "Range":10
@@ -723,7 +722,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":85,
       "PhysicalMin":21,
       "Range":10
@@ -760,7 +759,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.2,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":95,
       "PhysicalMin":24,
       "Range":10
@@ -798,7 +797,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8.8,
       "PhysicalMax":79,
       "PhysicalMin":20,
       "Range":10
@@ -834,7 +833,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":7.8,
+      "CritChanceBase":8.3,
       "PhysicalMax":52,
       "PhysicalMin":13,
       "Range":10
@@ -872,7 +871,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8.3,
+      "CritChanceBase":8.8,
       "PhysicalMax":71,
       "PhysicalMin":18,
       "Range":10
@@ -910,7 +909,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.35,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":54,
       "PhysicalMin":14,
       "Range":10
@@ -946,7 +945,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":64,
       "PhysicalMin":16,
       "Range":10
@@ -984,7 +983,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.35,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":88,
       "PhysicalMin":22,
       "Range":10
@@ -1020,7 +1019,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":43,
       "PhysicalMin":11,
       "Range":10
@@ -1056,7 +1055,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.45,
-      "CritChanceBase":7.5,
+      "CritChanceBase":8,
       "PhysicalMax":17,
       "PhysicalMin":4,
       "Range":10
@@ -1092,7 +1091,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.4,
-      "CritChanceBase":8,
+      "CritChanceBase":8.5,
       "PhysicalMax":86,
       "PhysicalMin":10,
       "Range":10
@@ -1128,7 +1127,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.5,
-      "CritChanceBase":7.8,
+      "CritChanceBase":8.3,
       "PhysicalMax":27,
       "PhysicalMin":7,
       "Range":10
@@ -1166,7 +1165,7 @@
     "type":"Dagger",
     "weapon":{
       "AttackRateBase":1.35,
-      "CritChanceBase":8.5,
+      "CritChanceBase":9,
       "PhysicalMax":74,
       "PhysicalMin":19,
       "Range":10

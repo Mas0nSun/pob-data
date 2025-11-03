@@ -158,6 +158,29 @@
     },
     "type":"Ring"
   },
+  "Cryonic Ring":{
+    "implicit":"+2% to maximum Cold Resistance\nCannot roll Modifiers of Non-Cold Damage Types",
+    "implicitModTypes":[["elemental","cold","resistance"],["elemental","cold","resistance"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":32
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
+    },
+    "type":"Ring"
+  },
   "Diamond Ring":{
     "implicit":"(20-30)% increased Global Critical Strike Chance",
     "implicitModTypes":[["critical"]],
@@ -195,6 +218,75 @@
     },
     "req":{
       "level":24
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
+    },
+    "type":"Ring"
+  },
+  "Enthalpic Ring":{
+    "implicit":"+2% to maximum Fire Resistance\nCannot roll Modifiers of Non-Fire Damage Types",
+    "implicitModTypes":[["elemental","fire","resistance"],["elemental","fire","resistance"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":32
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
+    },
+    "type":"Ring"
+  },
+  "Formless Ring":{
+    "implicit":"(5-7)% increased Global Defences",
+    "implicitModTypes":[["defences"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":42
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
+    },
+    "type":"Ring"
+  },
+  "Fugitive Ring":{
+    "implicit":"+2% to maximum Chaos Resistance\nCannot roll Modifiers of Non-Chaos Damage Types",
+    "implicitModTypes":[["chaos","resistance"],["chaos","resistance"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":32
     },
     "tags":{
       "default":true,
@@ -367,7 +459,6 @@
     "type":"Ring"
   },
   "Jet Ring":{
-    "hidden":true,
     "implicit":"(5-10)% increased Global Defences",
     "implicitModTypes":[["defences"]],
     "influenceTags":{
@@ -480,6 +571,29 @@
       "not_for_sale":true,
       "ring":true,
       "ringatlas2":true
+    },
+    "type":"Ring"
+  },
+  "Organic Ring":{
+    "implicit":"3% additional Physical Damage Reduction\nCannot roll Modifiers of Non-Physical Damage Types",
+    "implicitModTypes":[["physical"],["physical"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":32
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
     },
     "type":"Ring"
   },
@@ -684,6 +798,29 @@
     },
     "type":"Ring"
   },
+  "Synaptic Ring":{
+    "implicit":"+2% to maximum Lightning Resistance\nCannot roll Modifiers of Non-Lightning Damage Types",
+    "implicitModTypes":[["elemental","lightning","resistance"],["elemental","lightning","resistance"]],
+    "influenceTags":{
+      "adjudicator":"ring_adjudicator",
+      "basilisk":"ring_basilisk",
+      "cleansing":"ring_cleansing",
+      "crusader":"ring_crusader",
+      "elder":"ring_elder",
+      "eyrie":"ring_eyrie",
+      "shaper":"ring_shaper",
+      "tangle":"ring_tangle"
+    },
+    "req":{
+      "level":32
+    },
+    "tags":{
+      "default":true,
+      "not_for_sale":true,
+      "ring":true
+    },
+    "type":"Ring"
+  },
   "Tenebrous Ring":{
     "implicit":"Left ring slot: 30% reduced Duration of Ailments on You\nRight ring slot: 30% increased Duration of Ailments on You",
     "implicitModTypes":[["ailment"],["ailment"]],
@@ -730,7 +867,6 @@
     "type":"Ring"
   },
   "Two-Stone Ring":{
-    "hidden":true,
     "implicit":"+(12-16)% to Fire and Cold Resistances",
     "implicitModTypes":[["elemental","fire","cold","resistance"]],
     "influenceTags":{

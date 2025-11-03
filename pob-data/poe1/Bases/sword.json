@@ -1784,7 +1784,6 @@
     }
   },
   "Keyblade":{
-    "hidden":true,
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"2h_sword_adjudicator",
@@ -2106,7 +2105,6 @@
     }
   },
   "Random One Hand Sword":{
-    "hidden":true,
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"sword_adjudicator",
@@ -2126,7 +2124,6 @@
     "type":"One Handed Sword"
   },
   "Random Two Hand Sword":{
-    "hidden":true,
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"2h_sword_adjudicator",

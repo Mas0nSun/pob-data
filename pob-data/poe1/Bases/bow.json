@@ -309,7 +309,6 @@
     }
   },
   "Ethereal Bow":{
-    "hidden":true,
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"bow_adjudicator",

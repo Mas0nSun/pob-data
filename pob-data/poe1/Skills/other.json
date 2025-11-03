@@ -625,7 +625,7 @@
       }],
     "castTime":0.8,
     "color":3,
-    "constantStats":[["base_chance_to_ignite_%",50],["base_reduce_enemy_fire_resistance_%",25],["base_skill_effect_duration",2000]],
+    "constantStats":[["base_chance_to_ignite_%",100],["base_reduce_enemy_fire_resistance_%",50],["base_skill_effect_duration",2000]],
     "description":"Creates markers at your location and a targeted location, which grow over time based on cast speed, then explode, dealing fire damage. Cannot be supported by Spell Cascade.",
     "fromItem":true,
     "hidden":true,
@@ -677,7 +677,7 @@
       }],
     "castTime":0.8,
     "color":3,
-    "constantStats":[["base_chance_to_shock_%",50],["atziri_unique_staff_storm_call_number_of_markers_to_place",12],["shock_effect_+%",50],["base_reduce_enemy_lightning_resistance_%",25],["base_skill_effect_duration",2000]],
+    "constantStats":[["base_chance_to_shock_%",100],["atziri_unique_staff_storm_call_number_of_markers_to_place",12],["shock_effect_+%",50],["base_reduce_enemy_lightning_resistance_%",50],["base_skill_effect_duration",2000]],
     "description":"Creates a number of markers around the targeted location, which will explode after a duration, dealing lightning damage. Cannot be supported by Spell Cascade.",
     "fromItem":true,
     "hidden":true,
@@ -725,7 +725,6 @@
       "20":{
         "cooldown":10,
         "levelRequirement":70,
-        "manaReservationPercent":10,
         "statInterpolation":[1,1],
         "storedUses":1,
         "1":-30,
@@ -734,7 +733,6 @@
       "30":{
         "cooldown":10,
         "levelRequirement":90,
-        "manaReservationPercent":10,
         "statInterpolation":[1,1],
         "storedUses":1,
         "1":-60,
@@ -749,7 +747,8 @@
       "74":true,
       "96":true,
       "97":true,
-      "101":true
+      "101":true,
+      "120":true
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "statMap":{
@@ -1323,6 +1322,137 @@
         }]
     },
     "stats":["cast_on_gain_skill","spell_uncastable_if_triggerable","no_cost"]
+  },
+  "Convocation":{
+    "baseFlags":{
+      "duration":true,
+      "spell":true
+    },
+    "baseMods":[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"SkillData",
+        "type":"LIST",
+        "value":{
+          "key":"buffMinions",
+          "value":true
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"SkillData",
+        "type":"LIST",
+        "value":{
+          "key":"buffNotPlayer",
+          "value":true
+        }
+      }],
+    "baseTypeName":"Convocation",
+    "castTime":0,
+    "color":4,
+    "constantStats":[["base_skill_effect_duration",2000],["life_regeneration_rate_per_minute_%",120]],
+    "description":"Recalls all minions that are following you to your location, and grants them a temporary life regeneration effect.",
+    "levels":[{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      },{
+        "cooldown":3,
+        "cost":{
+          "Mana":6
+        },
+        "levelRequirement":31,
+        "storedUses":1
+      }],
+    "name":"Convocation",
+    "qualityStats":{
+      "Default":[["skill_effect_duration_+%",1],["base_cooldown_speed_+%",1]]
+    },
+    "skillTypes":{
+      "2":true,
+      "5":true,
+      "9":true,
+      "12":true,
+      "35":true,
+      "74":true,
+      "101":true
+    },
+    "statDescriptionScope":"buff_skill_stat_descriptions",
+    "statMap":{
+      "base_life_regeneration_rate_per_minute":{
+        "div":60,
+        "1":{
+          "flags":0,
+          "keywordFlags":0,
+          "name":"LifeRegen",
+          "type":"BASE",
+          "1":{
+            "effectType":"Buff",
+            "type":"GlobalEffect"
+          }
+        }
+      }
+    },
+    "stats":["base_deal_no_damage"]
   },
   "CorpseWalk":{
     "baseFlags":{
@@ -2108,7 +2238,7 @@
     "cannotBeSupported":true,
     "castTime":0,
     "color":4,
-    "constantStats":[["embrace_madness_amount_of_cooldown_to_gain_ms",8000],["glorious_madness_timer_ms",1000]],
+    "constantStats":[["embrace_madness_amount_of_cooldown_to_gain_ms",8000],["glorious_madness_timer_ms",2000]],
     "description":"Grants Glorious Madness. Using this skill again will remove Glorious Madness and the Touched Debuffs it inflicts, but you will be unable to Embrace Madness again until the cooldown expires.",
     "fromItem":true,
     "hidden":true,
@@ -4969,7 +5099,7 @@
     "castTime":1,
     "color":3,
     "constantStats":[["base_number_of_beast_minions_allowed",1],["minion_maximum_life_+%",30],["display_minion_monster_type",12],["base_display_minion_actor_level",70]],
-    "description":"Summons a Bestial Rhoa. In addition to its melee attack, the Bestial Rhoa uses a charge and has an aura that intimidates enemies. This minion's hits cannot be evaded. Enemies will not engage this minion directly, and they are immune to damage.",
+    "description":"Summons a Bestial Rhoa. In addition to its melee attack, the Bestial Rhoa uses a charge and has an aura that intimidates enemies. Enemies will not engage this minion directly, and they are immune to damage.",
     "fromItem":true,
     "hidden":true,
     "levels":{
@@ -5044,7 +5174,7 @@
     "castTime":1,
     "color":3,
     "constantStats":[["base_number_of_beast_minions_allowed",1],["minion_maximum_life_+%",30],["display_minion_monster_type",14],["base_display_minion_actor_level",70],["alternate_minion",2]],
-    "description":"Summons a Bestial Snake. The Bestial Snake fires powerful chaos projectile attacks. This minion's hits cannot be evaded. Enemies will not engage this minion directly, and they are immune to damage.",
+    "description":"Summons a Bestial Snake. The Bestial Snake fires powerful chaos projectile attacks. Enemies will not engage this minion directly, and they are immune to damage.",
     "fromItem":true,
     "hidden":true,
     "levels":{
@@ -5121,7 +5251,7 @@
     "castTime":1,
     "color":3,
     "constantStats":[["base_number_of_beast_minions_allowed",1],["minion_maximum_life_+%",30],["display_minion_monster_type",13],["base_display_minion_actor_level",70],["alternate_minion",1]],
-    "description":"Summons a Bestial Ursa. In addition to its melee attack, the Bestial Ursa uses a powerful Ground Slam and Rallying Cry. This minion's hits cannot be evaded. Enemies will not engage this minion directly, and they are immune to damage.",
+    "description":"Summons a Bestial Ursa. In addition to its melee attack, the Bestial Ursa uses a powerful Ground Slam and Rallying Cry. Enemies will not engage this minion directly, and they are immune to damage.",
     "fromItem":true,
     "hidden":true,
     "levels":{

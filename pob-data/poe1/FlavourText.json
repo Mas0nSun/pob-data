@@ -172,7 +172,7 @@
     "text":["Few men cast a longer shadow","than the Great Meginord of the North."]
   },{
     "id":"FatedUnique46",
-    "name":"The Tactitian",
+    "name":"The Tactician",
     "text":["Few men command an army better","than the Great Meginord of the North"]
   },{
     "id":"FatedUnique47",
@@ -413,7 +413,7 @@
   },{
     "id":"UniqueAmulet37",
     "name":"Xoph's Heart",
-    "text":["His is our heart.","To its beat we all are driven.","","^8This item can be transformed with a Blessing of Xoph"]
+    "text":["His is our heart.","To its beat we all are driven."]
   },{
     "id":"UniqueAmulet38",
     "name":"Xoph's Blood",
@@ -421,7 +421,7 @@
   },{
     "id":"UniqueAmulet39",
     "name":"The Halcyon",
-    "text":["We wait, still as the dead,","to join the great avalanche.","","^8This item can be transformed with a Blessing of Tul"]
+    "text":["We wait, still as the dead,","to join the great avalanche."]
   },{
     "id":"UniqueAmulet4",
     "name":"Ngamahu Tiki",
@@ -433,7 +433,7 @@
   },{
     "id":"UniqueAmulet41",
     "name":"Voice of the Storm",
-    "text":["When she of many mouths spoke,","we bowed in awe and were crushed.","","^8This item can be transformed with a Blessing of Esh"]
+    "text":["When she of many mouths spoke,","we bowed in awe and were crushed."]
   },{
     "id":"UniqueAmulet42",
     "name":"Choir of the Storm",
@@ -521,7 +521,7 @@
   },{
     "id":"UniqueAmulet6",
     "name":"Eye of Chayula",
-    "text":["Never blinking, always watching.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["Never blinking, always watching."]
   },{
     "id":"UniqueAmulet60",
     "name":"Willowgift",
@@ -610,6 +610,14 @@
     "id":"UniqueAmulet80",
     "name":"Whispers of Infinity",
     "text":["In the Atlas, you do not go mad. You are rewritten."]
+  },{
+    "id":"UniqueAmulet83",
+    "name":"Haunting Memories",
+    "text":["We cannot hide from the wounds of youth.","They fuel the fires within in, driving us on."]
+  },{
+    "id":"UniqueAmulet84",
+    "name":"Bonemeld",
+    "text":["Hills of stark and jagged white it walks,","scratching your ribs without, within.","The Fiend has naught but Empty Eyes,","though sees you, it does, indeed."]
   },{
     "id":"UniqueAmulet9",
     "name":"Carnage Heart",
@@ -853,7 +861,7 @@
   },{
     "id":"UniqueBodyDex10",
     "name":"The Snowblind Grace",
-    "text":["We dance in the white, like water,","colliding as many and emerging as one.","","^8This item can be transformed with a Blessing of Tul"]
+    "text":["We dance in the white, like water,","colliding as many and emerging as one."]
   },{
     "id":"UniqueBodyDex11",
     "name":"The Perfect Form",
@@ -993,7 +1001,7 @@
   },{
     "id":"UniqueBodyInt13",
     "name":"Skin of the Loyal",
-    "text":["We happily give our limbs.","A net woven to keep safe the bones of the Lords.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["We happily give our limbs.","A net woven to keep safe the bones of the Lords."]
   },{
     "id":"UniqueBodyInt14",
     "name":"Skin of the Lords",
@@ -1154,6 +1162,10 @@
     "id":"UniqueBodyStrDex8x",
     "name":"Replica Farrul's Fur",
     "text":["\"Attempt #120: the prototype has finally achieved power similar to the original","without breaking all the bones of the test subject. A rousing success.\""]
+  },{
+    "id":"UniqueBodyStrDex9",
+    "name":"Rigwald's Hunt",
+    "text":["\"The Greatwolf is with us! Gaius Sentari","flees! Let us give chase, for today, my","brothers and sisters, we are finally free!\""]
   },{
     "id":"UniqueBodyStrDexInt1",
     "name":"Atziri's Splendour",
@@ -1413,7 +1425,7 @@
   },{
     "id":"UniqueBootsStr6",
     "name":"The Infinite Pursuit",
-    "text":["We move to be closer to her, but the distance yet grows.","","^8This item can be transformed with a Blessing of Uul-Netol"]
+    "text":["We move to be closer to her, but the distance yet grows."]
   },{
     "id":"UniqueBootsStr7",
     "name":"The Red Trail",
@@ -1533,7 +1545,7 @@
   },{
     "id":"UniqueBow18",
     "name":"Xoph's Inception",
-    "text":["Upon the red pyre we are born.","","^8This item can be transformed with a Blessing of Xoph"]
+    "text":["Upon the red pyre we are born."]
   },{
     "id":"UniqueBow19",
     "name":"Xoph's Nurture",
@@ -1562,6 +1574,10 @@
     "id":"UniqueBow24",
     "name":"Widowhail",
     "text":["\"I loosed a volley of arrows into the heart of the man","who slew my beloved. There was no satisfaction, no","healing, no revenge. There was only... emptiness.\"","- Chieftainess Ahuana of the Ramako Tribe"]
+  },{
+    "id":"UniqueBow25",
+    "name":"Wing of the Wyvern",
+    "text":["Fear flies by night,","a bone, cold as death,","all that remains","of hope's whisper."]
   },{
     "id":"UniqueBow3",
     "name":"Death's Opus",
@@ -1629,7 +1645,7 @@
   },{
     "id":"UniqueClaw16",
     "name":"Hand of Thought and Motion",
-    "text":["She carries us and nurtures us","until we must feed upon each other.","","^8This item can be transformed with a Blessing of Esh"]
+    "text":["She carries us and nurtures us","until we must feed upon each other."]
   },{
     "id":"UniqueClaw17",
     "name":"Hand of Wisdom and Action",
@@ -1819,6 +1835,10 @@
     "name":"Goblinedge",
     "text":["\"That bronze girl sure knows how to cut someone down to size!\"","- Bertrand the Plush"]
   },{
+    "id":"UniqueDagger22",
+    "name":"Festering Resentment",
+    "text":["That which we cannot forgive","harms all those we hold dear."]
+  },{
     "id":"UniqueDagger3",
     "name":"Ungil's Gauche",
     "text":["Unwieldy and garish became graceful","and deadly in Ungil's nimble hands."]
@@ -1975,6 +1995,10 @@
     "name":"Wine of the Prophet",
     "text":["\"To proclaim a vision of the future is to make it so,","for those that have the will, and the way!\"","- High Templar Andronicus"]
   },{
+    "id":"UniqueFlask36",
+    "name":"Wellwater Phylactery",
+    "text":["\"Let us share our thirsts. Yours, for power,","and mine, for death. A stable alliance,","so long as you never speak my name...\""]
+  },{
     "id":"UniqueFlask4",
     "name":"Lavianga's Spirit",
     "text":["\"When the Ancestors fill your cup,","It is only good manners to drink your fill.\"","- Lavianga, Advisor to Kaom"]
@@ -2087,6 +2111,10 @@
     "name":"Stormseeker",
     "text":["The fundamental forces of our world are secrets","to be uncovered by the intelligent and the capable.","Like all secrets, they, too, can be stolen."]
   },{
+    "id":"UniqueGlovesDexInt22",
+    "name":"Hand of the Lords",
+    "text":["We moved to be close, yet grew no closer, since the","Breaking of the Sun. We clung to the feet of the Lords,","wailing, weeping, begging for unity. Now, they heed."]
+  },{
     "id":"UniqueGlovesDexInt3",
     "name":"Thunderfist",
     "text":["The roar of the heavens","Strikes more than fear","Into the hearts of Man"]
@@ -2194,6 +2222,10 @@
     "id":"UniqueGlovesStr14",
     "name":"Admiral's Arrogance",
     "text":["\"The long and venerable lineages of the Oriathan nobility tended","to produce Admirals with, shall we say... quick tempers.\""]
+  },{
+    "id":"UniqueGlovesStr15",
+    "name":"The Caged Mammoth",
+    "text":["The Cyclops of Trarthus became the star","of the Oriath Arena, but he was merely","biding his time, waiting for his chance..."]
   },{
     "id":"UniqueGlovesStr2",
     "name":"Meginord's Vise",
@@ -2585,7 +2617,7 @@
   },{
     "id":"UniqueHelmetStr4",
     "name":"The Formless Flame",
-    "text":["Our skin turns to ash","and we are swallowed by his brilliant red light.","","^8This item can be transformed with a Blessing of Xoph"]
+    "text":["Our skin turns to ash","and we are swallowed by his brilliant red light."]
   },{
     "id":"UniqueHelmetStr5",
     "name":"The Formless Inferno",
@@ -2706,6 +2738,14 @@
     "id":"UniqueHelmetStrInt22",
     "name":"Ravenous Passion",
     "text":["There is power in hunger, though it will","consume all that you have... and more."]
+  },{
+    "id":"UniqueHelmetStrInt24",
+    "name":"Refuge in Isolation",
+    "text":["The pain of solitude can be endured, but","the pain of heartbreak might just destroy us."]
+  },{
+    "id":"UniqueHelmetStrInt25",
+    "name":"The Hallowed Monarch",
+    "text":["\"I don't judge who you are, Saresh. I judge what you do. True leadership","comes from fighting alongside those you command, from elevating them,","and sharing the glory of victory. This, you will never understand.\"","- Sekhema Orbala, to be crowned Garukhan"]
   },{
     "id":"UniqueHelmetStrInt3",
     "name":"Mindspiral",
@@ -3357,7 +3397,7 @@
   },{
     "id":"UniqueJewel85",
     "name":"The Red Dream",
-    "text":["We flow like blood into Chayula's open mouth,","and spill into the land we have watched forever.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["We flow like blood into Chayula's open mouth,","and spill into the land we have watched forever."]
   },{
     "id":"UniqueJewel86",
     "name":"The Red Nightmare",
@@ -3365,7 +3405,7 @@
   },{
     "id":"UniqueJewel87",
     "name":"The Green Dream",
-    "text":["We climb like vines up Chayula's arms,","reaching into the world that should be ours.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["We climb like vines up Chayula's arms,","reaching into the world that should be ours."]
   },{
     "id":"UniqueJewel88",
     "name":"The Green Nightmare",
@@ -3373,7 +3413,7 @@
   },{
     "id":"UniqueJewel89",
     "name":"The Blue Dream",
-    "text":["We crash against Chayula's body,","and fall like rain into the place we cannot go.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["We crash against Chayula's body,","and fall like rain into the place we cannot go."]
   },{
     "id":"UniqueJewel9",
     "name":"Survival Skills",
@@ -3463,6 +3503,10 @@
     "name":"Actum",
     "text":["Better to act without thought","than to think without action."]
   },{
+    "id":"UniqueOneHandAxe11",
+    "name":"The Grey Wind",
+    "text":["Silence fell... we gazed upon high.","The Red Pyre flared, palms wide.","Ash-laden gales scoured our flesh.","Four screams became one roar."]
+  },{
     "id":"UniqueOneHandAxe1x",
     "name":"Replica Soul Taker",
     "text":["\"Nothing feels so smooth in the hand as Prototype #66.","Results like these may justify everything we do here.\""]
@@ -3522,6 +3566,10 @@
     "id":"UniqueOneHandMace12",
     "name":"Serle's Masterwork",
     "text":["Truly great Artificers push the boundaries of the possible."]
+  },{
+    "id":"UniqueOneHandMace13",
+    "name":"The Monastery Bell",
+    "text":["\"We must be ready. We are the voice of Wraeclast's vengeance,","tolling righteous fury for those who would dare invade our world!\"","- Ailith, First of the Keepers"]
   },{
     "id":"UniqueOneHandMace3",
     "name":"Mjölner",
@@ -3617,7 +3665,7 @@
   },{
     "id":"UniqueOneHandSword22",
     "name":"Severed in Sleep",
-    "text":["His lucky thralls dream eternal,","but we must crawl on our own.","","^8This item can be transformed with a Blessing of Chayula"]
+    "text":["His lucky thralls dream eternal,","but we must crawl on our own."]
   },{
     "id":"UniqueOneHandSword23",
     "name":"United in Dream",
@@ -4199,6 +4247,38 @@
     "name":"Squirming Terror",
     "text":["Madness crawls under the skin,","bursting forth from the flesh."]
   },{
+    "id":"UniqueRing92",
+    "name":"The Unseen Hue",
+    "text":["They seek that which lies before them, shining","Yours is a special curse, nipping at your heels","Driving you on long past agony and despair"]
+  },{
+    "id":"UniqueRing93",
+    "name":"Woespike",
+    "text":["The old wound lurks deep within,","never healing, never relenting,","making every smile half-hearted."]
+  },{
+    "id":"UniqueRing94a",
+    "name":"The Will of Tul",
+    "text":["They hide in deep places, and hidden places,","but stillness will find them... and bury them."]
+  },{
+    "id":"UniqueRing94b",
+    "name":"The Will of Xoph",
+    "text":["They dance and scream under the Broken Sun","as spiraling oblivion deepens into flame."]
+  },{
+    "id":"UniqueRing94c",
+    "name":"The Will of Esh",
+    "text":["They whisper in the dark, building towers of","mindless thought that seek a hollow truth."]
+  },{
+    "id":"UniqueRing94d",
+    "name":"The Will of Uul-Netol",
+    "text":["They move and coil, gripped by painful ecstasy,","all meaning long since lost to dead-eyed lust."]
+  },{
+    "id":"UniqueRing94e",
+    "name":"The Sundered Will",
+    "text":["They dream no longer, strive no longer,","feel no longer. They dream only of","continuing to dream, and know not why."]
+  },{
+    "id":"UniqueRing95",
+    "name":"Lost Unity",
+    "text":["All gates are closed.","All dreams are silenced.","What could have been..."]
+  },{
     "id":"UniqueScepter17",
     "name":"Breath of the Council",
     "text":["Breathe deep, and give yourself over to eternity."]
@@ -4429,7 +4509,7 @@
   },{
     "id":"UniqueShieldInt8",
     "name":"Esh's Mirror",
-    "text":["She looked upon her reflection","and trembled, and shook,","until she was not what she saw.","","^8This item can be transformed with a Blessing of Esh"]
+    "text":["She looked upon her reflection","and trembled, and shook,","until she was not what she saw."]
   },{
     "id":"UniqueShieldInt9",
     "name":"Esh's Visage",
@@ -4463,6 +4543,10 @@
     "name":"Svalinn",
     "text":["The priests found the Great Shield the night it fell to Middengard,","but it was the smiths who delved into the secrets it held."]
   },{
+    "id":"UniqueShieldStr15",
+    "name":"Cowards' Wail",
+    "text":["\"A tale-woman passed through here not long ago.","Taught us a thing or two. We're not going to execute","you for what you've done... no. You've a debt to repay.\""]
+  },{
     "id":"UniqueShieldStr2",
     "name":"Titucus Span",
     "text":["A mighty bulwark, curved and strong","A dauntless wall, against the throng","All lance and arrow, knocked aside","For rout of foe, for turn of tide."]
@@ -4485,7 +4569,7 @@
   },{
     "id":"UniqueShieldStr8",
     "name":"The Anticipation",
-    "text":["We are within her reach,","and when the time is right,","she will reach into us.","","^8This item can be transformed with a Blessing of Uul-Netol"]
+    "text":["We are within her reach,","and when the time is right,","she will reach into us."]
   },{
     "id":"UniqueShieldStr9",
     "name":"The Surrender",
@@ -4494,6 +4578,10 @@
     "id":"UniqueShieldStrDex1",
     "name":"Daresso's Courage",
     "text":["By tourney's end, Daresso bled and shivered.","Yet even accursed treachery failed to steal the champion's victory."]
+  },{
+    "id":"UniqueShieldStrDex16",
+    "name":"Bitter Instinct",
+    "text":["We isolate ourselves to hide our long-held pain.","We lash out, when all we want is an end to loneliness."]
   },{
     "id":"UniqueShieldStrDex2",
     "name":"Wheel of the Stormsail",
@@ -4695,6 +4783,10 @@
     "name":"Legacy of the Rose",
     "text":["We shared a memory of your mother,","a memory of roses, of autumn.","One day, I will be but a memory as well,","but I will never leave your side."]
   },{
+    "id":"UniqueStaff36",
+    "name":"Jiquani's Potential",
+    "text":["\"I have risked everything. My position, my ambition, my","very life. There has to be a way to save our people. If we","must, let us tear apart the very foundations of reality!\""]
+  },{
     "id":"UniqueStaff4",
     "name":"Mirebough",
     "text":["You've no reason for fear when you're a root in a fen","- Old Ezomyte saying."]
@@ -4789,7 +4881,7 @@
   },{
     "id":"UniqueTwoHandAxe11",
     "name":"Uul-Netol's Kiss",
-    "text":["We feel the Mother's love","and beg to return to her womb.","","^8This item can be transformed with a Blessing of Uul-Netol"]
+    "text":["We feel the Mother's love","and beg to return to her womb."]
   },{
     "id":"UniqueTwoHandAxe12",
     "name":"Uul-Netol's Embrace",
@@ -4935,6 +5027,10 @@
     "name":"The Living Blade",
     "text":["Green-cloaked travelers emerged from the mists, planted a tree,","and named it Lorrata. Its strongest root became a weapon..."]
   },{
+    "id":"UniqueTwoHandSword17",
+    "name":"The Golden Charlatan",
+    "text":["\"He speaks, he leads, he stands tall...","yet, what has he truly done, save","spill our blood in pursuit of power?\""]
+  },{
     "id":"UniqueTwoHandSword2",
     "name":"Shiversting",
     "text":["Stoic visage, icy heart.","Life of sorrow, lived apart."]
@@ -4993,7 +5089,7 @@
   },{
     "id":"UniqueWand15",
     "name":"Tulborn",
-    "text":["We remember the stillness.","Then the great fall.","The pain of separation.","We return once more.","","^8This item can be transformed with a Blessing of Tul"]
+    "text":["We remember the stillness.","Then the great fall.","The pain of separation.","We return once more."]
   },{
     "id":"UniqueWand16",
     "name":"Tulfall",
@@ -5030,6 +5126,10 @@
     "id":"UniqueWand22",
     "name":"Mystic Refractor",
     "text":["\"Waging war is a simple matter of geometry and death.\"","- Trinian, Intellectus Prime"]
+  },{
+    "id":"UniqueWand23",
+    "name":"Unlight Extant",
+    "text":["Beyond the edge of existence, there","shines violet, naught but pain...","one lantern carries a single flame."]
   },{
     "id":"UniqueWand2x",
     "name":"Replica Midnight Bargain",

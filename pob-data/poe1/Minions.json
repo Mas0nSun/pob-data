@@ -478,16 +478,7 @@
     "life":9,
     "lightningResist":40,
     "limit":"ActiveBeastMinionLimit",
-    "modList":[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"SkillData",
-        "type":"LIST",
-        "value":{
-          "key":"cannotBeEvaded",
-          "value":true
-        }
-      }],
+    "modList":[],
     "monsterTags":["animal_claw_weapon","beast","extra_small_height","fast_movement","has_one_hand_mace","has_one_handed_melee","light_armour","melee","not_int","not_str","physical_affinity","red_blood","ursine_beast"],
     "name":"Summoned Ursa",
     "skillList":["MeleeAtAnimationSpeedUnique","DropBearSummonedGroundSlam","DropBearSummonedRallyingCry"],
@@ -658,6 +649,25 @@
     "name":"Grave Spirit",
     "skillList":["RagingSpiritMeleeAttack"]
   },
+  "LivingLightningMinion":{
+    "accuracy":1,
+    "attackRange":20,
+    "attackTime":1.17,
+    "baseDamageIgnoresAttackSpeed":true,
+    "chaosResist":20,
+    "coldResist":40,
+    "damage":1.4,
+    "damageSpread":0.8,
+    "energyShield":0.2,
+    "fireResist":40,
+    "life":1.4,
+    "lightningResist":40,
+    "limit":"ActiveLivingLightningLimit",
+    "modList":[],
+    "monsterTags":["elemental","lightning","not_dex","not_str","small_height","very_fast_movement"],
+    "name":"Living Lightning",
+    "skillList":["SummonedLivingLightningZap"]
+  },
   "RaisedSkeleton":{
     "accuracy":3.4,
     "attackRange":8,
@@ -819,16 +829,7 @@
     "life":9,
     "lightningResist":40,
     "limit":"ActiveBeastMinionLimit",
-    "modList":[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"SkillData",
-        "type":"LIST",
-        "value":{
-          "key":"cannotBeEvaded",
-          "value":true
-        }
-      }],
+    "modList":[],
     "monsterTags":["animal_claw_weapon","avian_beast","beast","fast_movement","has_claw","has_one_handed_melee","large_model","light_armour","lightning_affinity","medium_height","melee","not_dex","not_int","physical_affinity","red_blood"],
     "name":"Summoned Rhoa",
     "skillList":["MeleeAtAnimationSpeedUnique","SummonedRhoaShieldCharge"]
@@ -896,15 +897,6 @@
     "lightningResist":40,
     "limit":"ActiveBeastMinionLimit",
     "modList":[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"SkillData",
-        "type":"LIST",
-        "value":{
-          "key":"cannotBeEvaded",
-          "value":true
-        }
-      },{
         "flags":0,
         "keywordFlags":0,
         "name":"PhysicalDamageConvertToChaos",
@@ -1294,9 +1286,9 @@
     "coldResist":30,
     "damage":1.5,
     "damageSpread":0.2,
-    "energyShield":0.2,
+    "energyShield":1,
     "fireResist":30,
-    "life":3,
+    "life":6,
     "lightningResist":30,
     "limit":"ActiveVoidSpawnLimit",
     "modList":[],

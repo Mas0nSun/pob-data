@@ -15,7 +15,7 @@
             "line":"10% increased Movement Speed while on Burning Ground",
             "value":[10]
           }],
-        "name":"Sumter the Twisted"
+        "name":"Mephod, the Earth Scorcher"
       }]
   },
   "Arakaali":{
@@ -37,13 +37,13 @@
             "line":"Debuffs on you expire 20% faster",
             "value":[20]
           }],
-        "name":"Legius Garhall"
+        "name":"Enticer of Rot"
       },{
         "mods":[{
             "line":"+40% Chaos Resistance against Damage Over Time",
             "value":[40]
           }],
-        "name":"Armala, the Widow"
+        "name":"Hybrid Widow"
       }]
   },
   "Garukhan":{
@@ -62,7 +62,7 @@
             "line":"You cannot be Maimed",
             "value":[100]
           }],
-        "name":"Stalker of the Endless Dunes"
+        "name":"Preethi, Eye-Pecker"
       }]
   },
   "Gruthkul":{
@@ -103,13 +103,13 @@
             "line":"6% reduced Elemental Damage taken if you have been Hit Recently",
             "value":[-6]
           }],
-        "name":"Fragment of Winter"
+        "name":"The Winged Death"
       },{
         "mods":[{
             "line":"Avoid Projectiles that have Chained",
             "value":[100]
           }],
-        "name":"Khor, Sister of Shadows"
+        "name":"Ormud, Fiend of the Flood"
       }]
   },
   "Ralakesh":{
@@ -147,7 +147,7 @@
             "line":"Enemies you've Hit Recently have 50% reduced Life Regeneration rate",
             "value":[-50]
           }],
-        "name":"Arachnoxia"
+        "name":"Gorulis, Will-Thief"
       }]
   },
   "Shakari":{
@@ -188,7 +188,7 @@
             "line":"8% reduced Elemental Damage taken if you haven't been Hit Recently",
             "value":[-8]
           }],
-        "name":"Woad, Mockery of Man"
+        "name":"Fire and Fury"
       },{
         "mods":[{
             "line":"Take no Extra Damage from Critical Strikes if you have taken a Critical Strike Recently",
@@ -222,7 +222,7 @@
             "line":"100% chance to Avoid being Frozen",
             "value":[100]
           }],
-        "name":"Captain Tanner Lightfoot"
+        "name":"Merveil, the Returned"
       },{
         "mods":[{
             "line":"50% reduced Effect of Chill on you",
@@ -244,7 +244,7 @@
             "line":"Regenerate 2% of Life per second while stationary",
             "value":[120]
           }],
-        "name":"Tahsin, Warmaker"
+        "name":"Sumter the Twisted"
       }]
   },
   "Yugul":{
@@ -263,7 +263,7 @@
             "line":"30% reduced Effect of Curses on you",
             "value":[-30]
           }],
-        "name":"Varhesh, Shimmering Aberration"
+        "name":"Oriath's Vigil"
       }]
   }
 }

@@ -8774,6 +8774,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Conflagration Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"conflagration",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Consecrated Path Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -10054,6 +10066,30 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Kinetic Fusillade Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"kinetic fusillade",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Kinetic Rain Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"kinetic rain",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Lacerate Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -10882,6 +10918,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Somatic Shell Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"somatic shell",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Soul Link Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -11314,6 +11362,18 @@
           "value":3
         }
       }]],
+  "+3 to Level of all Thunderstorm Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"thunderstorm",
+          "value":3
+        }
+      }]],
   "+3 to Level of all Tornado Gems":[[{
         "flags":0,
         "keywordFlags":0,
@@ -11503,6 +11563,18 @@
           "key":"level",
           "keyOfScaledMod":"value",
           "keyword":"vulnerability",
+          "value":3
+        }
+      }]],
+  "+3 to Level of all Wall of Force Gems":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"GemProperty",
+        "type":"LIST",
+        "value":{
+          "key":"level",
+          "keyOfScaledMod":"value",
+          "keyword":"wall of force",
           "value":3
         }
       }]],
@@ -24477,7 +24549,7 @@
         "type":"BASE",
         "value":10
       }],"  you Reflect to Enemies when Hit is gained as Life "],
-  "10% of Elemental taken as Chaos Damage if 4 Hunter Items are Equipped":[[{
+  "10% of Elemental Damage taken as Chaos Damage if 4 Hunter Items are Equipped":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"ElementalDamageTakenAsChaos",
@@ -41583,6 +41655,17 @@
           "var":"DualWielding"
         }
       }]],
+  "3% increased Poison Duration for each Poison you have inflicted Recently, up":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"EnemyPoisonDuration",
+        "type":"INC",
+        "value":3,
+        "1":{
+          "type":"Multiplier",
+          "var":"PoisonAppliedRecently"
+        }
+      }],"  , up "],
   "3% increased Poison Duration for each Poison you have inflicted Recently, up to a maximum of 100%":[[{
         "flags":0,
         "keywordFlags":0,
@@ -81551,6 +81634,13 @@
         "type":"BASE",
         "value":25
       }]],
+  "Fire at most 1 Projectile":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"NoAdditionalProjectiles",
+      "type":"FLAG",
+      "value":true
+    }],
   "First and Final shots of Barrage sequences fire Projectiles that Return to you":[null,"First and Final shots of Barrage sequences fire Projectiles that Return to you "],
   "Flammability can affect Hexproof Enemies":[[{
         "flags":0,
@@ -90279,7 +90369,7 @@
   "Limited to 1 Runegraft of Gemcraft":[null,"Limited to 1 Runegraft of Gemcraft "],
   "Limited to 1 Runegraft of Loyalty":[null,"Limited to 1 Runegraft of Loyalty "],
   "Limited to 1 Runegraft of Quaffing":[null,"Limited to 1 Runegraft of Quaffing "],
-  "Limited to 1 Runegraft of Recompense":[null,"Limited to 1 Runegraft of Recompense "],
+  "Limited to 1 Runegraft of Refraction":[null,"Limited to 1 Runegraft of Refraction "],
   "Limited to 1 Runegraft of Restitching":[null,"Limited to 1 Runegraft of Restitching "],
   "Limited to 1 Runegraft of Stability":[null,"Limited to 1 Runegraft of Stability "],
   "Limited to 1 Runegraft of Time":[null,"Limited to 1 Runegraft of Time "],
@@ -91215,13 +91305,6 @@
         "flags":0,
         "keywordFlags":0,
         "name":"FrenzyChargesMax",
-        "type":"OVERRIDE",
-        "value":0
-      }]],
-  "Maximum Energy Shield is 0":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"EnergyShield",
         "type":"OVERRIDE",
         "value":0
       }]],
@@ -97232,7 +97315,7 @@
         "type":"LIST",
         "value":{
           "key":"radiusIndex",
-          "value":6
+          "value":8
         }
       }]],
   "Only affects Passives in Massive Ring":[[{
@@ -97242,7 +97325,7 @@
         "type":"LIST",
         "value":{
           "key":"radiusIndex",
-          "value":8
+          "value":10
         }
       }]],
   "Only affects Passives in Medium Ring":[[{
@@ -97252,7 +97335,7 @@
         "type":"LIST",
         "value":{
           "key":"radiusIndex",
-          "value":5
+          "value":7
         }
       }]],
   "Only affects Passives in Small Ring":[[{
@@ -97262,7 +97345,7 @@
         "type":"LIST",
         "value":{
           "key":"radiusIndex",
-          "value":4
+          "value":6
         }
       }]],
   "Only affects Passives in Very Large Ring":[[{
@@ -97272,7 +97355,7 @@
         "type":"LIST",
         "value":{
           "key":"radiusIndex",
-          "value":7
+          "value":9
         }
       }]],
   "Onslaught":[[{
@@ -97310,13 +97393,7 @@
         "type":"LIST",
         "value":"Pain Attunement"
       }]],
-  "Passives granting Cold Resistance or all Elemental Resistances in Radius":[null,"Passives granting Cold Resistance or all Elemental Resistances in Radius "],
-  "Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill":[null,"Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill "],
-  "Passives granting Fire Resistance or all Elemental Resistances in Radius":[null,"Passives granting Fire Resistance or all Elemental Resistances in Radius "],
-  "Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill":[null,"Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill "],
-  "Passives granting Lightning Resistance or all Elemental Resistances in Radius":[null,"Passives granting Lightning Resistance or all Elemental Resistances in Radius "],
-  "Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill":[null,"Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill "],
-  "Passives in Radius can be Allocated without being connected to your tree":[[{
+  "Passives Skills in Radius can be Allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97326,12 +97403,7 @@
           "value":true
         }
       }]],
-  "Passives in radius are Conquered by the Eternal Empire":[[]],
-  "Passives in radius are Conquered by the Karui":[[]],
-  "Passives in radius are Conquered by the Maraketh":[[]],
-  "Passives in radius are Conquered by the Templars":[[]],
-  "Passives in radius are Conquered by the Vaal":[[]],
-  "Passives in radius of Acrobatics can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Acrobatics can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97350,7 +97422,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Ancestral Bond can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Ancestral Bond can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97369,7 +97441,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Arrow Dancing can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Arrow Dancing can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97388,7 +97460,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Arsenal of Vengeance can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Arsenal of Vengeance can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97407,7 +97479,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Avatar of Fire can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Avatar of Fire can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97426,7 +97498,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Blood Magic can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Blood Magic can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97445,7 +97517,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Bloodsoaked Blade can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Bloodsoaked Blade can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97464,7 +97536,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Call to Arms can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Call to Arms can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97483,7 +97555,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Chaos Inoculation can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Chaos Inoculation can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97502,7 +97574,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Conduit can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Conduit can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97521,7 +97593,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Crimson Dance can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Crimson Dance can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97540,7 +97612,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Divine Shield can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Divine Shield can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97559,7 +97631,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Eldritch Battery can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Eldritch Battery can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97578,7 +97650,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Elemental Equilibrium can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Elemental Equilibrium can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97597,7 +97669,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Elemental Overload can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Elemental Overload can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97616,7 +97688,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Eternal Youth can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Eternal Youth can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97635,7 +97707,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Ghost Dance can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Ghost Dance can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97654,7 +97726,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Ghost Reaver can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Ghost Reaver can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97673,7 +97745,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Glancing Blows can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Glancing Blows can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97692,7 +97764,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Hex Master can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Hex Master can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97711,7 +97783,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Imbalanced Guard can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Imbalanced Guard can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97730,7 +97802,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Iron Grip can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Iron Grip can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97749,7 +97821,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Iron Reflexes can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Iron Reflexes can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97768,7 +97840,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Iron Will can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Iron Will can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97787,7 +97859,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Lethe Shade can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Lethe Shade can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97806,7 +97878,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Magebane can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Magebane can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97825,7 +97897,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Mind Over Matter can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Mind Over Matter can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97844,7 +97916,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Minion Instability can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Minion Instability can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97863,7 +97935,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Necromantic Aegis can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Necromantic Aegis can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97882,7 +97954,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Pain Attunement can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Pain Attunement can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97901,7 +97973,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Perfect Agony can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Perfect Agony can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97920,7 +97992,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Point Blank can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Point Blank can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97939,7 +98011,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Precise Technique can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Precise Technique can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97958,7 +98030,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Resolute Technique can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Resolute Technique can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97977,7 +98049,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Runebinder can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Runebinder can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -97996,7 +98068,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Solipsism can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Solipsism can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98015,7 +98087,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Supreme Ego can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Supreme Ego can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98034,7 +98106,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of The Agnostic can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of The Agnostic can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98053,7 +98125,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of The Impaler can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of The Impaler can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98072,7 +98144,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Unwavering Stance can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Unwavering Stance can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98091,7 +98163,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Vaal Pact can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Vaal Pact can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98110,7 +98182,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Versatile Combatant can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Versatile Combatant can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98129,7 +98201,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Wicked Ward can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Wicked Ward can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98148,7 +98220,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Wind Dancer can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Wind Dancer can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98167,7 +98239,7 @@
           "value":true
         }
       }]],
-  "Passives in radius of Zealot's Oath can be allocated without being connected to your tree":[[{
+  "Passives Skills in radius of Zealot's Oath can be allocated without being connected to your tree":[[{
         "flags":0,
         "keywordFlags":0,
         "name":"JewelData",
@@ -98186,6 +98258,17 @@
           "value":true
         }
       }]],
+  "Passives granting Cold Resistance or all Elemental Resistances in Radius":[null,"Passives granting Cold Resistance or all Elemental Resistances in Radius "],
+  "Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill":[null,"Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill "],
+  "Passives granting Fire Resistance or all Elemental Resistances in Radius":[null,"Passives granting Fire Resistance or all Elemental Resistances in Radius "],
+  "Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill":[null,"Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill "],
+  "Passives granting Lightning Resistance or all Elemental Resistances in Radius":[null,"Passives granting Lightning Resistance or all Elemental Resistances in Radius "],
+  "Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill":[null,"Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill "],
+  "Passives in radius are Conquered by the Eternal Empire":[[]],
+  "Passives in radius are Conquered by the Karui":[[]],
+  "Passives in radius are Conquered by the Maraketh":[[]],
+  "Passives in radius are Conquered by the Templars":[[]],
+  "Passives in radius are Conquered by the Vaal":[[]],
   "Penetrate 1% Elemental Resistances per 15 Omniscience":[[{
         "flags":0,
         "keywordFlags":0,
@@ -100042,8 +100125,6 @@
       }]],
   "Recover 10% of Mana over 1 second when you use a Guard Skill":[null,"Recover 10% of Mana over 1 second when you use a Guard Skill "],
   "Recover 10% of Mana when a Brand expires while Attached":[null,"Recover 10% of Mana when a Brand expires while Attached "],
-  "Recover 10% of Skill Mana Cost per unspent Chain when Projectiles end, up to 50%":[null,"Recover 10% of Skill Mana Cost per unspent Chain when Projectiles end, up to 50% "],
-  "Recover 10% of Skill Mana Cost per unspent Chain when Projectiles end, up to 50% Limited to 1 Runegraft of Recompense":[null,"Recover 10% of Skill Mana Cost per unspent Chain when Projectiles end, up to 50% Limited to 1 Runegraft of Recompense "],
   "Recover 10% of maximum Life when you use a Mana Flask":[null,"Recover 10% of maximum Life when you use a Mana Flask "],
   "Recover 10% of maximum Life when you use a Mana Flask Non-instant Mana recovery from Flasks is also recovered as Life":[null,"Recover 10% of maximum Life when you use a Mana Flask Non-instant Mana recovery from Flasks is also recovered as Life "],
   "Recover 100 Life for each Fortification lost":[null,"Recover 100 Life for each Fortification lost "],
@@ -105383,6 +105464,29 @@
           "type":"SocketedIn"
         }
       }]],
+  "Socketed Gems are Supported by Level 10 Kinetic Instability":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"SupportKineticInstability"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"TriggeredSupportKineticInstability"
+        }
+      }]],
   "Socketed Gems are Supported by Level 10 Knockback":[[{
         "flags":0,
         "keywordFlags":0,
@@ -105479,6 +105583,29 @@
         "1":{
           "slotName":"{SlotName}",
           "type":"SocketedIn"
+        }
+      }]],
+  "Socketed Gems are Supported by Level 10 Living Lightning":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"SupportLivingLightning"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"TriggeredSupportLivingLightning"
         }
       }]],
   "Socketed Gems are Supported by Level 10 Locus Mine":[[{
@@ -106357,6 +106484,29 @@
         "1":{
           "slotName":"{SlotName}",
           "type":"SocketedIn"
+        }
+      }]],
+  "Socketed Gems are Supported by Level 10 Windburst":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"SupportWindburst"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":10,
+          "skillId":"TriggeredSupportWindburst"
         }
       }]],
   "Socketed Gems are Supported by Level 10 Withering Touch":[[{
@@ -108698,6 +108848,29 @@
           "type":"SocketedIn"
         }
       }]],
+  "Socketed Gems are Supported by Level 35 Kinetic Instability":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"SupportKineticInstability"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"TriggeredSupportKineticInstability"
+        }
+      }]],
   "Socketed Gems are Supported by Level 35 Knockback":[[{
         "flags":0,
         "keywordFlags":0,
@@ -108794,6 +108967,29 @@
         "1":{
           "slotName":"{SlotName}",
           "type":"SocketedIn"
+        }
+      }]],
+  "Socketed Gems are Supported by Level 35 Living Lightning":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"SupportLivingLightning"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"TriggeredSupportLivingLightning"
         }
       }]],
   "Socketed Gems are Supported by Level 35 Locus Mine":[[{
@@ -109670,6 +109866,29 @@
         "1":{
           "slotName":"{SlotName}",
           "type":"SocketedIn"
+        }
+      }]],
+  "Socketed Gems are Supported by Level 35 Windburst":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSupport",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"SupportWindburst"
+        },
+        "1":{
+          "slotName":"{SlotName}",
+          "type":"SocketedIn"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraSkill",
+        "type":"LIST",
+        "value":{
+          "level":35,
+          "skillId":"TriggeredSupportWindburst"
         }
       }]],
   "Socketed Gems are Supported by Level 35 Withering Touch":[[{
@@ -110860,6 +111079,23 @@
         "type":"INC",
         "value":8
       }]],
+  "Spells Cost +8% of Life":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"LifeCostBase",
+        "type":"BASE",
+        "value":1,
+        "1":{
+          "floor":true,
+          "percent":8,
+          "stat":"Life",
+          "type":"PercentStat"
+        },
+        "2":{
+          "skillType":2,
+          "type":"SkillType"
+        }
+      }]],
   "Spells Triggered this way have 150% more Cost":[null,"Spells Triggered this way have 150% more Cost "],
   "Spells Triggered this way have 150% more Cost +28% to Fire Damage over Time Multiplier":[[],"Spells Triggered this way have 150% more % to Fire Damage over Time Multiplier "],
   "Spells cast by Totems deal 25% increased Damage":[[{
@@ -111020,23 +111256,6 @@
         "name":"DoubleDamageChance",
         "type":"BASE",
         "value":20
-      }]],
-  "Spells have an additional Life cost equal to 8% of your Maximum Life":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"LifeCostBase",
-        "type":"BASE",
-        "value":1,
-        "1":{
-          "floor":true,
-          "percent":8,
-          "stat":"Life",
-          "type":"PercentStat"
-        },
-        "2":{
-          "skillType":2,
-          "type":"SkillType"
-        }
       }]],
   "Spells inflict Intimidate on Critical Strike for 4 seconds":[null,"Spells inflict Intimidate on Critical Strike for 4 seconds "],
   "Spells which can gain Intensity have +1 to maximum Intensity":[[{

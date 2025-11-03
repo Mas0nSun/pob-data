@@ -206,6 +206,17 @@
       "name":"Damage",
       "type":"MORE"
     }],
+  "active_skill_damage_+%_final_vs_stunned_enemies":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"Damage",
+      "type":"MORE",
+      "1":{
+        "actor":"enemy",
+        "type":"ActorCondition",
+        "var":"Stunned"
+      }
+    }],
   "active_skill_damage_+%_final_when_cast_on_frostbolt":[{
       "flags":0,
       "keywordFlags":0,
@@ -1475,6 +1486,12 @@
       "name":"ActiveGolemLimit",
       "type":"BASE"
     }],
+  "base_number_of_living_lightning_allowed":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"ActiveLivingLightningLimit",
+      "type":"BASE"
+    }],
   "base_number_of_projectiles":{
     "base":-1,
     "1":{
@@ -2638,17 +2655,6 @@
       "name":"Damage",
       "type":"INC"
     }],
-  "damage_+%_final_vs_stunned_enemies":[{
-      "flags":0,
-      "keywordFlags":0,
-      "name":"Damage",
-      "type":"MORE",
-      "1":{
-        "actor":"enemy",
-        "type":"ActorCondition",
-        "var":"Stunned"
-      }
-    }],
   "damage_+%_if_you_have_consumed_a_corpse_recently":[{
       "flags":0,
       "keywordFlags":0,
@@ -3687,6 +3693,20 @@
           "keywordFlags":0,
           "name":"Speed",
           "type":"INC"
+        }
+      }
+    }],
+  "minion_base_physical_damage_%_to_convert_to_lightning":[{
+      "flags":0,
+      "keywordFlags":0,
+      "name":"MinionModifier",
+      "type":"LIST",
+      "value":{
+        "mod":{
+          "flags":0,
+          "keywordFlags":0,
+          "name":"PhysicalDamageConvertToLightning",
+          "type":"BASE"
         }
       }
     }],

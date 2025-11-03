@@ -1731,6 +1731,28 @@
     },
     "variantId":"Conductivity"
   },
+  "Metadata/Items/Gems/SkillGemConflagration":{
+    "baseTypeName":"Conflagration",
+    "gameId":"Metadata/Items/Gems/SkillGemConflagration",
+    "grantedEffectId":"Conflagration",
+    "name":"Conflagration",
+    "naturalMaxLevel":20,
+    "reqDex":100,
+    "reqInt":0,
+    "reqStr":0,
+    "tagString":"Attack, Fire, AoE, Projectile, Duration, Bow",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "bow":true,
+      "dexterity":true,
+      "duration":true,
+      "fire":true,
+      "grants_active_skill":true,
+      "projectile":true
+    },
+    "variantId":"Conflagration"
+  },
   "Metadata/Items/Gems/SkillGemConsecratedPath":{
     "baseTypeName":"Consecrated Path",
     "gameId":"Metadata/Items/Gems/SkillGemConsecratedPath",
@@ -1863,13 +1885,12 @@
     "name":"Convocation",
     "naturalMaxLevel":1,
     "reqDex":0,
-    "reqInt":100,
+    "reqInt":0,
     "reqStr":0,
     "tagString":"Spell, Duration, Minion",
     "tags":{
       "duration":true,
       "grants_active_skill":true,
-      "intelligence":true,
       "minion":true,
       "spell":true
     },
@@ -5257,6 +5278,67 @@
     },
     "variantId":"KineticBoltAltX"
   },
+  "Metadata/Items/Gems/SkillGemKineticFusillade":{
+    "baseTypeName":"Kinetic Fusillade",
+    "gameId":"Metadata/Items/Gems/SkillGemKineticFusillade",
+    "grantedEffectId":"KineticFusillade",
+    "name":"Kinetic Fusillade",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Attack, Projectile, Duration, AoE",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "projectile":true
+    },
+    "variantId":"KineticFusillade"
+  },
+  "Metadata/Items/Gems/SkillGemKineticRain":{
+    "baseTypeName":"Kinetic Rain",
+    "gameId":"Metadata/Items/Gems/SkillGemKineticRain",
+    "grantedEffectId":"KineticRain",
+    "name":"Kinetic Rain",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "secondaryGrantedEffectId":"KineticRainKineticInstability",
+    "tagString":"Attack, AoE, Projectile, Duration, Trigger",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "projectile":true,
+      "trigger":true
+    },
+    "variantId":"KineticRain"
+  },
+  "Metadata/Items/Gems/SkillGemKineticRainAltX":{
+    "baseTypeName":"Kinetic Rain of Impact",
+    "gameId":"Metadata/Items/Gems/SkillGemKineticRain",
+    "grantedEffectId":"KineticRainAltX",
+    "name":"Kinetic Rain of Impact",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Attack, AoE, Projectile",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "projectile":true
+    },
+    "variantId":"KineticRainAltX"
+  },
   "Metadata/Items/Gems/SkillGemLacerate":{
     "baseTypeName":"Lacerate",
     "gameId":"Metadata/Items/Gems/SkillGemLacerate",
@@ -7452,6 +7534,27 @@
       "spell":true
     },
     "variantId":"SnipersMark"
+  },
+  "Metadata/Items/Gems/SkillGemSomaticShell":{
+    "baseTypeName":"Somatic Shell",
+    "gameId":"Metadata/Items/Gems/SkillGemSomaticShell",
+    "grantedEffectId":"SomaticShell",
+    "name":"Somatic Shell",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Duration, Physical, Attack, AoE, Projectile",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "physical":true,
+      "projectile":true
+    },
+    "variantId":"SomaticShell"
   },
   "Metadata/Items/Gems/SkillGemSoulLink":{
     "baseTypeName":"Soul Link",
@@ -11177,6 +11280,27 @@
     },
     "variantId":"SupportItemRarity"
   },
+  "Metadata/Items/Gems/SkillGemSupportKineticInstability":{
+    "gameId":"Metadata/Items/Gems/SupportGemKineticInstability",
+    "grantedEffectId":"SupportKineticInstability",
+    "name":"Kinetic Instability",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "secondaryGrantedEffectId":"TriggeredSupportKineticInstability",
+    "tagString":"Support, AoE, Trigger, Attack, Duration",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "support":true,
+      "trigger":true
+    },
+    "variantId":"SupportKineticInstability"
+  },
   "Metadata/Items/Gems/SkillGemSupportKnockback":{
     "gameId":"Metadata/Items/Gems/SupportGemKnockback",
     "grantedEffectId":"SupportKnockback",
@@ -11286,6 +11410,28 @@
       "support":true
     },
     "variantId":"SupportLightningPenetration"
+  },
+  "Metadata/Items/Gems/SkillGemSupportLivingLightning":{
+    "gameId":"Metadata/Items/Gems/SupportGemLivingLightning",
+    "grantedEffectId":"SupportLivingLightning",
+    "name":"Living Lightning",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "secondaryGrantedEffectId":"TriggeredSupportLivingLightning",
+    "tagString":"Lightning, Support, Spell, Minion, Duration, Trigger",
+    "tags":{
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "lightning":true,
+      "minion":true,
+      "spell":true,
+      "support":true,
+      "trigger":true
+    },
+    "variantId":"SupportLivingLightning"
   },
   "Metadata/Items/Gems/SkillGemSupportLocusMine":{
     "gameId":"Metadata/Items/Gems/SupportGemLocusMine",
@@ -12303,6 +12449,29 @@
     },
     "variantId":"SupportVolley"
   },
+  "Metadata/Items/Gems/SkillGemSupportWindburst":{
+    "gameId":"Metadata/Items/Gems/SupportGemWindburst",
+    "grantedEffectId":"SupportWindburst",
+    "name":"Windburst",
+    "naturalMaxLevel":20,
+    "reqDex":100,
+    "reqInt":0,
+    "reqStr":0,
+    "secondaryGrantedEffectId":"TriggeredSupportWindburst",
+    "tagString":"Support, Attack, Projectile, Trigger, AoE, Duration, Bow",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "bow":true,
+      "dexterity":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "projectile":true,
+      "support":true,
+      "trigger":true
+    },
+    "variantId":"SupportWindburst"
+  },
   "Metadata/Items/Gems/SkillGemSupportWitheringTouch":{
     "gameId":"Metadata/Items/Gems/SupportGemChaosAttacks",
     "grantedEffectId":"SupportWitheringTouch",
@@ -12459,6 +12628,30 @@
       "spell":true
     },
     "variantId":"TemporalRift"
+  },
+  "Metadata/Items/Gems/SkillGemThunderstorm":{
+    "baseTypeName":"Thunderstorm",
+    "gameId":"Metadata/Items/Gems/SkillGemThunderstorm",
+    "grantedEffectId":"Thunderstorm",
+    "name":"Thunderstorm",
+    "naturalMaxLevel":20,
+    "reqDex":100,
+    "reqInt":0,
+    "reqStr":0,
+    "secondaryGrantedEffectId":"ThunderstormMiniTornados",
+    "tagString":"Attack, AoE, Duration, Lightning, Bow, Projectile, Trigger",
+    "tags":{
+      "area":true,
+      "attack":true,
+      "bow":true,
+      "dexterity":true,
+      "duration":true,
+      "grants_active_skill":true,
+      "lightning":true,
+      "projectile":true,
+      "trigger":true
+    },
+    "variantId":"Thunderstorm"
   },
   "Metadata/Items/Gems/SkillGemTornado":{
     "baseTypeName":"Tornado",
@@ -14223,6 +14416,24 @@
       "strength":true
     },
     "variantId":"Vulnerability"
+  },
+  "Metadata/Items/Gems/SkillGemWallOfForce":{
+    "baseTypeName":"Wall of Force",
+    "gameId":"Metadata/Items/Gems/SkillGemWallOfForce",
+    "grantedEffectId":"WallOfForce",
+    "name":"Wall of Force",
+    "naturalMaxLevel":20,
+    "reqDex":0,
+    "reqInt":100,
+    "reqStr":0,
+    "tagString":"Spell, Duration",
+    "tags":{
+      "duration":true,
+      "grants_active_skill":true,
+      "intelligence":true,
+      "spell":true
+    },
+    "variantId":"WallOfForce"
   },
   "Metadata/Items/Gems/SkillGemWarBanner":{
     "baseTypeName":"War Banner",

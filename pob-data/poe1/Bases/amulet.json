@@ -597,7 +597,6 @@
     "type":"Amulet"
   },
   "Jet Amulet":{
-    "hidden":true,
     "implicit":"+(8-12)% to all Elemental Resistances",
     "implicitModTypes":[["elemental","resistance"]],
     "influenceTags":{
