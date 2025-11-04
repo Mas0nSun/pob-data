@@ -1,0 +1,1290 @@
+{
+  "brequel_currency_fruit_found_chance_+%":3,
+  "brequel_equipment_fruit_found_chance_+%":4,
+  "brequel_graft_fruit_found_chance_+%":5,
+  "brequel_misc_fruit_found_chance_+%":6,
+  "brequel_resource_gained_+%":1,
+  "brequel_unique_fruit_found_chance_+%":7,
+  "graft_granted_maximum_base_lightning_damage":8,
+  "graft_granted_minimum_base_lightning_damage":8,
+  "graft_skill_all_ailment_duration_+%":9,
+  "graft_skill_area_of_effect_+%":10,
+  "graft_skill_attack_speed_+%":11,
+  "graft_skill_chaining_range_+%":12,
+  "graft_skill_chance_to_freeze_%":13,
+  "graft_skill_chance_to_ignite_%":14,
+  "graft_skill_chance_to_unnerve_on_hit_%":15,
+  "graft_skill_cold_damage_%_to_add_as_chaos":16,
+  "graft_skill_conductivity_on_hit_chance_%":17,
+  "graft_skill_cooldown_speed_+%":18,
+  "graft_skill_cover_in_ash_on_hit_%":19,
+  "graft_skill_cover_in_frost_on_hit_%":20,
+  "graft_skill_critical_strike_chance_+%":21,
+  "graft_skill_critical_strike_multiplier_+":22,
+  "graft_skill_crush_on_hit_chance_%":23,
+  "graft_skill_curse_with_punishment_on_hit_%":24,
+  "graft_skill_damage_+%":25,
+  "graft_skill_damage_+%_vs_ignited_enemies":26,
+  "graft_skill_damaging_ailments_deal_damage_+%_faster":27,
+  "graft_skill_duration_+%":28,
+  "graft_skill_esh_jolt_damage_taken_+%_to_grant":29,
+  "graft_skill_esh_jolt_maximum_attack_damage_+%_final_to_grant":30,
+  "graft_skill_esh_lightning_bolts_number_of_bolts":31,
+  "graft_skill_esh_lightning_hands_number_of_hands_spawned":32,
+  "graft_skill_fire_damage_%_to_add_as_chaos":33,
+  "graft_skill_frostbite_on_hit_chance_%":34,
+  "graft_skill_ignore_enemy_physical_damage_reduction_chance_%":35,
+  "graft_skill_impale_debuff_effect_+%":36,
+  "graft_skill_inflict_fire_exposure_on_hit_%_chance":37,
+  "graft_skill_inflict_lightning_exposure_on_hit_%_chance":38,
+  "graft_skill_intimidate_on_hit_chance_%":39,
+  "graft_skill_jolt_buff_critical_strike_chance_+%_to_grant":40,
+  "graft_skill_jolt_buff_critical_strike_multiplier_+_to_grant":41,
+  "graft_skill_jolt_buff_maximum_buff_count":42,
+  "graft_skill_jolt_buff_movement_velocity_+%_to_grant":43,
+  "graft_skill_level_+":44,
+  "graft_skill_lightning_damage_%_to_add_as_chaos":45,
+  "graft_skill_minion_attack_speed_+%":46,
+  "graft_skill_minion_attacks_chance_to_taunt_on_hit_%":47,
+  "graft_skill_minion_damage_+%":48,
+  "graft_skill_minion_maximum_life_+%":49,
+  "graft_skill_minion_physical_damage_%_to_add_as_cold":50,
+  "graft_skill_minions_%_chance_to_blind_on_hit":51,
+  "graft_skill_non_damaging_ailment_effect_+%":52,
+  "graft_skill_number_of_additional_projectiles":53,
+  "graft_skill_projectile_damage_+%_final_if_pierced_enemy":54,
+  "graft_skill_projectile_speed_+%":55,
+  "graft_skill_reduce_enemy_cold_resistance_%":56,
+  "graft_skill_reduce_enemy_fire_resistance_%":57,
+  "graft_skill_reduce_enemy_lightning_resistance_%":58,
+  "graft_skill_shock_as_though_dealing_damage_+%_final":59,
+  "graft_skill_shock_chance_%":60,
+  "graft_skill_skip_cooldown_chance_%":61,
+  "graft_skill_spells_chance_to_hinder_on_hit_%":62,
+  "graft_skill_stun_duration_+%":63,
+  "graft_skill_tul_aegis_%_elemental_resistance_to_grant":64,
+  "graft_skill_tul_aegis_additional_maximum_all_elemental_resistances_%_to_grant":65,
+  "graft_skill_tul_aegis_aegis_shield_amount_granted_on_applying_exposure":66,
+  "graft_skill_tul_mortar_damage_+%_final_vs_frozen_enemies":67,
+  "graft_skill_tul_mortars_maximum_mortars_fired_per_volley":68,
+  "graft_skill_tul_tornado_damage_+%_final":69,
+  "graft_skill_tul_tornado_number_additional_tornados":70,
+  "graft_skill_tul_tornado_number_of_tornados_allowed":71,
+  "graft_skill_uulnetol_bone_spires_num_of_spires_to_create":72,
+  "graft_skill_uulnetol_hand_slam_damage_for_cdr_damage_+%_final":73,
+  "graft_skill_uulnetol_hand_slam_speed_for_AOE_area_of_effect_+%_final":96,
+  "graft_skill_uulnetol_hand_slam_speed_for_AOE_attack_speed_+%_final":97,
+  "graft_skill_uulnetol_impale_buff_additional_impales_to_grant":74,
+  "graft_skill_uulnetol_impale_buff_attack_area_of_effect_+%_to_grant":75,
+  "graft_skill_uulnetol_impale_buff_attack_speed_+%_to_grant":76,
+  "graft_skill_uulnetol_impale_buff_hits_ignore_enemy_monster_physical_damage_reduction_%_chance_to_grant":77,
+  "graft_skill_uulnetol_impale_buff_impale_effect_%_to_grant":78,
+  "graft_skill_vulnerability_on_hit_chance_%":79,
+  "graft_skill_xoph_ailment_buff_%_of_physical_damage_gained_as_element_to_grant":80,
+  "graft_skill_xoph_ailment_buff_also_grants_%_elemental_resistance":81,
+  "graft_skill_xoph_ailment_buff_also_grants_%_of_elemental_damage_added_as_chaos":82,
+  "graft_skill_xoph_ailment_buff_also_grants_avoid_all_elemental_status_%":83,
+  "graft_skill_xoph_flame_pillars_number_of_pillars":84,
+  "graft_skill_xoph_geyser_explosion_number_of_geysers_to_spawn":85,
+  "graft_skill_xoph_geyser_explosion_number_of_projectiles_to_erupt":86,
+  "graft_skill_xoph_molten_shell_absorb_limit":87,
+  "graft_skill_xoph_molten_shell_additional_%_armour_during_buff":88,
+  "graft_skill_xoph_molten_shell_damage_absorbed_%":89,
+  "graft_skill_xoph_molten_shell_shield_amount_+%_final":90,
+  "graft_uulnetol_attack_block_chance_+_to_grant_on_reaching_low_life":91,
+  "graft_uulnetol_life_leech_permyriad_to_grant_on_reaching_low_life":92,
+  "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life":93,
+  "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life":94,
+  "item_found_rarity_+%_from_brequel_monsters":95,
+  "local_maximum_brequel_resource_+%":2,
+  "parent":"stat_descriptions",
+  "1":{
+    "stats":["brequel_resource_gained_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased Graftblood gained"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced Graftblood gained",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "2":{
+    "stats":["local_maximum_brequel_resource_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased Graftblood stored"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced Graftblood stored",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "3":{
+    "stats":["brequel_currency_fruit_found_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased chance to find Lavish Wombgifts"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced chance to find Lavish Wombgifts",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "4":{
+    "stats":["brequel_equipment_fruit_found_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased chance to find Provisioning Wombgifts"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced chance to find Provisioning Wombgifts",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "5":{
+    "stats":["brequel_graft_fruit_found_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased chance to find Growing Wombgifts"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced chance to find Growing Wombgifts",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "6":{
+    "stats":["brequel_misc_fruit_found_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased chance to find Mysterious Wombgifts"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced chance to find Mysterious Wombgifts",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "7":{
+    "stats":["brequel_unique_fruit_found_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased chance to find Ancient Wombgifts"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced chance to find Ancient Wombgifts",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "8":{
+    "stats":["graft_granted_minimum_base_lightning_damage","graft_granted_maximum_base_lightning_damage"],
+    "1":[{
+        "limit":[[1,"#"],[1,"#"]],
+        "text":"Radiant Ground created by Skills from this Graft grants Allies on it an additional {0} to {1} added Lightning Damage"
+      }]
+  },
+  "9":{
+    "stats":["graft_skill_all_ailment_duration_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Ailments inflicted by Skills used by this Graft have {0}% increased duration"
+      },{
+        "limit":[["#",-1]],
+        "text":"Ailments inflicted by Skills used by this Graft have {0}% reduced duration",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "10":{
+    "stats":["graft_skill_area_of_effect_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Area of Effect"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Area of Effect",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "11":{
+    "stats":["graft_skill_attack_speed_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Attack Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Attack Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "12":{
+    "stats":["graft_skill_chaining_range_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Chaining range"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Chaining range",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "13":{
+    "stats":["graft_skill_chance_to_freeze_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Freeze"
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Freeze"
+      }]
+  },
+  "14":{
+    "stats":["graft_skill_chance_to_ignite_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Ignite"
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Ignite"
+      }]
+  },
+  "15":{
+    "stats":["graft_skill_chance_to_unnerve_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Unnerve on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextUnnerve"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Unnerve on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextUnnerve"
+        }
+      }]
+  },
+  "16":{
+    "stats":["graft_skill_cold_damage_%_to_add_as_chaos"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft Gain {0}% of Cold Damage as Extra Chaos Damage"
+      }]
+  },
+  "17":{
+    "stats":["graft_skill_conductivity_on_hit_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Conductivity on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseConductivity"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Conductivity on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseConductivity"
+        }
+      }]
+  },
+  "18":{
+    "stats":["graft_skill_cooldown_speed_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Cooldown Recovery Rate"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Cooldown Recovery Rate",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "19":{
+    "stats":["graft_skill_cover_in_ash_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Cover Enemies in Ash on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCoveredInAsh"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Cover Enemies in Ash on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCoveredInAsh"
+        }
+      }]
+  },
+  "20":{
+    "stats":["graft_skill_cover_in_frost_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Cover Enemies in Frost on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCoveredInFrost"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Cover Enemies in Frost on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCoveredInFrost"
+        }
+      }]
+  },
+  "21":{
+    "stats":["graft_skill_critical_strike_chance_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Critical Strike Chance"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Critical Strike Chance",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "22":{
+    "stats":["graft_skill_critical_strike_multiplier_+"],
+    "1":[{
+        "limit":[["#","#"]],
+        "text":"Skills used by this Graft have {0:+d}% to Critical Strike Multiplier"
+      }]
+  },
+  "23":{
+    "stats":["graft_skill_crush_on_hit_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Crush on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCrushed"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Crush on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCrushed"
+        }
+      }]
+  },
+  "24":{
+    "stats":["graft_skill_curse_with_punishment_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Punishment on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCursePunishment"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Punishment on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCursePunishment"
+        }
+      }]
+  },
+  "25":{
+    "stats":["graft_skill_damage_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft deal {0}% increased Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft deal {0}% reduced Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "26":{
+    "stats":["graft_skill_damage_+%_vs_ignited_enemies"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft deal {0}% increased Damage against Ignited Enemies"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft deal {0}% reduced Damage against Ignited Enemies",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "27":{
+    "stats":["graft_skill_damaging_ailments_deal_damage_+%_faster"],
+    "1":[{
+        "limit":[["#","#"]],
+        "text":"Damaging Ailments inflicted by Skills used by this Graft deal damage {0}% faster",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextDamagingAilments"
+        },
+        "2":{
+          "k":"reminderstring",
+          "v":"ReminderTextDealsDamageFaster"
+        }
+      }]
+  },
+  "28":{
+    "stats":["graft_skill_duration_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Skill Effect Duration"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Skill Effect Duration",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "29":{
+    "stats":["graft_skill_esh_jolt_damage_taken_+%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Jolt granted by this Graft grants {0:+d}% increased Damage taken"
+      },{
+        "limit":[["#",-1]],
+        "text":"Jolt granted by this Graft grants {0:+d}% reduced Damage taken",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "30":{
+    "stats":["graft_skill_esh_jolt_maximum_attack_damage_+%_final_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Jolt granted by this Graft grants {0:+d}% more Maximum Attack Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Jolt granted by this Graft grants {0:+d}% less Maximum Attack Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "31":{
+    "stats":["graft_skill_esh_lightning_bolts_number_of_bolts"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Skills used by this Graft cause an additional lightning bolt strike"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Skills used by this Graft cause {0} additional lightning bolt strikes"
+      }]
+  },
+  "32":{
+    "stats":["graft_skill_esh_lightning_hands_number_of_hands_spawned"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Enervating Grasp used by this Graft creates {0} additional Hand"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Enervating Grasp used by this Graft creates {0} additional Hands"
+      }]
+  },
+  "33":{
+    "stats":["graft_skill_fire_damage_%_to_add_as_chaos"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft Gain {0}% of Fire Damage as Extra Chaos Damage"
+      }]
+  },
+  "34":{
+    "stats":["graft_skill_frostbite_on_hit_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Frostbite on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseFrostbite"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Frostbite on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseFrostbite"
+        }
+      }]
+  },
+  "35":{
+    "stats":["graft_skill_ignore_enemy_physical_damage_reduction_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to ignore Enemy Physical Damage Reduction"
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft ignore Enemy Physical Damage Reduction"
+      }]
+  },
+  "36":{
+    "stats":["graft_skill_impale_debuff_effect_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Impale Effect"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Impale Effect",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "37":{
+    "stats":["graft_skill_inflict_fire_exposure_on_hit_%_chance"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Fire Exposure on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextFireExposure"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Fire Exposure on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextFireExposure"
+        }
+      }]
+  },
+  "38":{
+    "stats":["graft_skill_inflict_lightning_exposure_on_hit_%_chance"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Lightning Exposure on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextLightningExposure"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Lightning Exposure on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextLightningExposure"
+        }
+      }]
+  },
+  "39":{
+    "stats":["graft_skill_intimidate_on_hit_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Intimidate on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextIntimidate"
+        }
+      },{
+        "limit":[["#","#"]],
+        "text":"Skills used by this Graft Intimidate on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextIntimidate"
+        }
+      }]
+  },
+  "40":{
+    "stats":["graft_skill_jolt_buff_critical_strike_chance_+%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Jolt granted by this Graft grants {0}% increased Critical Strike Chance"
+      },{
+        "limit":[["#",-1]],
+        "text":"Jolt granted by this Graft grants {0:+d}% reduced Critical Strike Chance",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "41":{
+    "stats":["graft_skill_jolt_buff_critical_strike_multiplier_+_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Jolt granted by this Graft grants {0:+d}% to Critical Strike Multiplier"
+      }]
+  },
+  "42":{
+    "stats":["graft_skill_jolt_buff_maximum_buff_count"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Overcharged Sinews used by this Graft can apply {0:+d} maximum Jolt Buffs"
+      }]
+  },
+  "43":{
+    "stats":["graft_skill_jolt_buff_movement_velocity_+%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Jolt granted by this Graft grants {0}% increased Movement Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Jolt granted by this Graft grants {0:+d}% reduced Movement Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "44":{
+    "stats":["graft_skill_level_+"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0:+d} to level of Skills used by this Graft"
+      }]
+  },
+  "45":{
+    "stats":["graft_skill_lightning_damage_%_to_add_as_chaos"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft Gain {0}% of Lightning Damage as Extra Chaos Damage"
+      }]
+  },
+  "46":{
+    "stats":["graft_skill_minion_attack_speed_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Minions summoned by this Graft have {0}% increased Attack Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Minions summoned by this Graft have {0}% reduced Attack Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "47":{
+    "stats":["graft_skill_minion_attacks_chance_to_taunt_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Minions summoned by this Graft have {0}% chance to Taunt on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextTaunt"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Minions summoned by this Graft Taunt on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextTaunt"
+        }
+      }]
+  },
+  "48":{
+    "stats":["graft_skill_minion_damage_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Minions summoned by this Graft deal {0}% increased Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Minions summoned by this Graft deal {0}% reduced Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "49":{
+    "stats":["graft_skill_minion_maximum_life_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Minions summoned by this Graft have {0}% increased Life"
+      },{
+        "limit":[["#",-1]],
+        "text":"Minions summoned by this Graft have {0}% reduced Life",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "50":{
+    "stats":["graft_skill_minion_physical_damage_%_to_add_as_cold"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Minions summoned by this Graft gain {0}% of Physical Damage as Extra Cold Damage"
+      }]
+  },
+  "51":{
+    "stats":["graft_skill_minions_%_chance_to_blind_on_hit"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Minions summoned by this Graft have {0}% chance to Blind on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextBlind"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Minions summoned by this Graft Blind on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextBlind"
+        }
+      }]
+  },
+  "52":{
+    "stats":["graft_skill_non_damaging_ailment_effect_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased effect of Non-Damaging Ailments"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced effect of Non-Damaging Ailments",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "53":{
+    "stats":["graft_skill_number_of_additional_projectiles"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Skills used by this Graft fire an additional Projectile"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Skills used by this Graft fire {0} additional Projectiles"
+      }]
+  },
+  "54":{
+    "stats":["graft_skill_projectile_damage_+%_final_if_pierced_enemy"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Projectiles created by this Graft that have Pierced deal {0}% more Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Projectiles created by this Graft that have Pierced deal {0}% less Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "55":{
+    "stats":["graft_skill_projectile_speed_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Projectile Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Projectile Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "56":{
+    "stats":["graft_skill_reduce_enemy_cold_resistance_%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft penetrate {0}% Enemy Cold Resistance"
+      }]
+  },
+  "57":{
+    "stats":["graft_skill_reduce_enemy_fire_resistance_%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft penetrate {0}% Enemy Fire Resistance"
+      }]
+  },
+  "58":{
+    "stats":["graft_skill_reduce_enemy_lightning_resistance_%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft penetrate {0}% Enemy Lightning Resistance"
+      }]
+  },
+  "59":{
+    "stats":["graft_skill_shock_as_though_dealing_damage_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft Shock Enemies as though dealing {0}% more Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft Shock Enemies as though dealing {0}% less Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "60":{
+    "stats":["graft_skill_shock_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to Shock"
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft Shock"
+      }]
+  },
+  "61":{
+    "stats":["graft_skill_skip_cooldown_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to not consume a Cooldown on use"
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft do not consume a Cooldown on use"
+      }]
+  },
+  "62":{
+    "stats":["graft_skill_spells_chance_to_hinder_on_hit_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Spells used by this Graft have {0}% chance to Hinder Enemies on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextHinder"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Spells used by this Graft Hinder Enemies on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextHinder"
+        }
+      }]
+  },
+  "63":{
+    "stats":["graft_skill_stun_duration_+%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% increased Stun Duration"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% reduced Stun Duration",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "64":{
+    "stats":["graft_skill_tul_aegis_%_elemental_resistance_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Preserving Stillness used by this Graft also grants {0:+d}% to all Elemental Resistances"
+      }]
+  },
+  "65":{
+    "stats":["graft_skill_tul_aegis_additional_maximum_all_elemental_resistances_%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Preserving Stillness used by this Graft also grants {0:+d}% to all maximum Elemental Resistances",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextMaximumResistance"
+        }
+      }]
+  },
+  "66":{
+    "stats":["graft_skill_tul_aegis_aegis_shield_amount_granted_on_applying_exposure"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Preserving Stillness used by this Graft can take {0} additional Damage"
+      }]
+  },
+  "67":{
+    "stats":["graft_skill_tul_mortar_damage_+%_final_vs_frozen_enemies"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft deal {0}% more Damage to Frozen Enemies"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft deal {0}% less Damage to Frozen Enemies",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "68":{
+    "stats":["graft_skill_tul_mortars_maximum_mortars_fired_per_volley"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Falling Crystals used by this Graft fires up to {0:d} additional mortar"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Falling Crystals used by this Graft fires up to {0:d} additional mortars"
+      }]
+  },
+  "69":{
+    "stats":["graft_skill_tul_tornado_damage_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft deal {0}% more Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft deal {0}% less Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "70":{
+    "stats":["graft_skill_tul_tornado_number_additional_tornados"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Dance in the White used by this Graft creates an additional Tornado"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Dance in the White used by this Graft creates {0} additional Tornados"
+      }]
+  },
+  "71":{
+    "stats":["graft_skill_tul_tornado_number_of_tornados_allowed"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Dance in the White used by this Graft has {0:+d} to maximum Tornados"
+      }]
+  },
+  "72":{
+    "stats":["graft_skill_uulnetol_bone_spires_num_of_spires_to_create"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Seize the Flesh used by this Graft creates {0:+d} Spire"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Seize the Flesh used by this Graft creates {0:+d} Spires"
+      }]
+  },
+  "73":{
+    "stats":["graft_skill_uulnetol_hand_slam_damage_for_cdr_damage_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft deal {0}% more Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft deal {0}% less Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "74":{
+    "stats":["graft_skill_uulnetol_impale_buff_additional_impales_to_grant"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Violent Desire used by this Graft grants {0:+d} additional Impale"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Violent Desire used by this Graft grants {0:+d} additional Impales"
+      }]
+  },
+  "75":{
+    "stats":["graft_skill_uulnetol_impale_buff_attack_area_of_effect_+%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Violent Desire used by this Graft also grants {0}% increased Area of Effect with Attacks"
+      },{
+        "limit":[["#",-1]],
+        "text":"Violent Desire used by this Graft also grants {0}% reduced Area of Effect with Attacks",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "76":{
+    "stats":["graft_skill_uulnetol_impale_buff_attack_speed_+%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Violent Desire used by this Graft also grants {0}% increased Attack Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Violent Desire used by this Graft also grants {0}% reduced Attack Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "77":{
+    "stats":["graft_skill_uulnetol_impale_buff_hits_ignore_enemy_monster_physical_damage_reduction_%_chance_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Violent Desire used by this Graft also grants Hits have {0}% chance to ignore Enemy Physical Damage Reduction"
+      }]
+  },
+  "78":{
+    "stats":["graft_skill_uulnetol_impale_buff_impale_effect_%_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Violent Desire used by this Graft grants {0:+d}% increased effect of Impale",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextImpale"
+        }
+      }]
+  },
+  "79":{
+    "stats":["graft_skill_vulnerability_on_hit_chance_%"],
+    "1":[{
+        "limit":[[1,99]],
+        "text":"Skills used by this Graft have {0}% chance to inflict Vulnerability on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseVulnerability"
+        }
+      },{
+        "limit":[[100,"#"]],
+        "text":"Skills used by this Graft inflict Vulnerability on Hit",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextCurseVulnerability"
+        }
+      }]
+  },
+  "80":{
+    "stats":["graft_skill_xoph_ailment_buff_%_of_physical_damage_gained_as_element_to_grant"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"The Grey Wind Howls used by this Graft grants {0:+d}% additional Physical Damage gained as Extra Elemental Damage"
+      }]
+  },
+  "81":{
+    "stats":["graft_skill_xoph_ailment_buff_also_grants_%_elemental_resistance"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"The Grey Wind Howls used by this Graft also grants {0:+d}% to all Elemental Resistances"
+      }]
+  },
+  "82":{
+    "stats":["graft_skill_xoph_ailment_buff_also_grants_%_of_elemental_damage_added_as_chaos"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"The Grey Wind Howls used by this Graft also grants {0}% of Elemental Damage gained as Extra Chaos Damage"
+      }]
+  },
+  "83":{
+    "stats":["graft_skill_xoph_ailment_buff_also_grants_avoid_all_elemental_status_%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"The Grey Wind Howls used by this Graft also grants {0}% chance to Avoid Elemental Ailments",
+        "1":{
+          "k":"reminderstring",
+          "v":"ReminderTextElementalAilments"
+        }
+      }]
+  },
+  "84":{
+    "stats":["graft_skill_xoph_flame_pillars_number_of_pillars"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Call the Pyre used by this Graft creates {0:+d} Ashen Pillar"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Call the Pyre used by this Graft creates {0:+d} Ashen Pillars"
+      }]
+  },
+  "85":{
+    "stats":["graft_skill_xoph_geyser_explosion_number_of_geysers_to_spawn"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"His Burning Message used by this Graft creates an additional geyser"
+      },{
+        "limit":[[2,"#"]],
+        "text":"His Burning Message used by this Graft creates {0} additional geysers"
+      }]
+  },
+  "86":{
+    "stats":["graft_skill_xoph_geyser_explosion_number_of_projectiles_to_erupt"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Geysers created by this Graft fire {0} additional Projectile when you Warcry"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Geysers created by this Graft fire {0} additional Projectiles when you Warcry"
+      }]
+  },
+  "87":{
+    "stats":["graft_skill_xoph_molten_shell_absorb_limit"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Heart of Flame Buff used by this Graft can take an additional {0} Damage"
+      }]
+  },
+  "88":{
+    "stats":["graft_skill_xoph_molten_shell_additional_%_armour_during_buff"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Heart of Flame Buff used by this Graft grants {0}% increased Armour"
+      },{
+        "limit":[["#",-1]],
+        "text":"Heart of Flame Buff used by this Graft grants {0}% reduced Armour",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "89":{
+    "stats":["graft_skill_xoph_molten_shell_damage_absorbed_%"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"An additional {0}% of Damage from Hits is taken from Heart of Flame Buff used by this Graft before Life or Energy Shield"
+      }]
+  },
+  "90":{
+    "stats":["graft_skill_xoph_molten_shell_shield_amount_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Heart of Flame Buff used by this Graft can take {0}% more Damage"
+      },{
+        "limit":[["#",-1]],
+        "text":"Heart of Flame Buff used by this Graft can take {0}% less Damage",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "91":{
+    "stats":["graft_uulnetol_attack_block_chance_+_to_grant_on_reaching_low_life"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0:+d}% chance to Block Attack Damage"
+      }]
+  },
+  "92":{
+    "stats":["graft_uulnetol_life_leech_permyriad_to_grant_on_reaching_low_life"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0}% of Damage Leeched as Life",
+        "1":{
+          "k":"divide_by_one_hundred",
+          "v":1
+        },
+        "2":{
+          "k":"reminderstring",
+          "v":"ReminderTextLifeLeech"
+        }
+      }]
+  },
+  "93":{
+    "stats":["graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0}% more Life Recovery Rate"
+      },{
+        "limit":[["#",-1]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0}% less Life Recovery Rate",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "94":{
+    "stats":["graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life"],
+    "1":[{
+        "limit":[[1,1]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0:+d} Endurance Charge when gained"
+      },{
+        "limit":[[2,"#"]],
+        "text":"Buff granted by Tender Embrace used by this Graft grants {0:+d} Endurance Charges when gained"
+      }]
+  },
+  "95":{
+    "stats":["item_found_rarity_+%_from_brequel_monsters"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"{0}% increased Rarity of Items found from Hiveborn Monsters"
+      },{
+        "limit":[["#",-1]],
+        "text":"{0}% reduced Rarity of Items found from Hiveborn Monsters",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "96":{
+    "stats":["graft_skill_uulnetol_hand_slam_speed_for_AOE_area_of_effect_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% more Area of Effect"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% less Area of Effect",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  },
+  "97":{
+    "stats":["graft_skill_uulnetol_hand_slam_speed_for_AOE_attack_speed_+%_final"],
+    "1":[{
+        "limit":[[1,"#"]],
+        "text":"Skills used by this Graft have {0}% more Attack Speed"
+      },{
+        "limit":[["#",-1]],
+        "text":"Skills used by this Graft have {0}% less Attack Speed",
+        "1":{
+          "k":"negate",
+          "v":1
+        }
+      }]
+  }
+}

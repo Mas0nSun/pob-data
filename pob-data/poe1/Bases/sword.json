@@ -1784,6 +1784,7 @@
     }
   },
   "Keyblade":{
+    "flavourText":["Forged from thousands of unclaimed Beta keys"],
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"2h_sword_adjudicator",

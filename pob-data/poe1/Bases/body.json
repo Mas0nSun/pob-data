@@ -1824,6 +1824,7 @@
       "EvasionBaseMin":217,
       "MovementPenalty":3
     },
+    "flavourText":["Of ash and avalanche,","in storm and flesh,","we dream of unity.","The time approaches..."],
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"body_armour_adjudicator",

@@ -87432,7 +87432,46 @@
       }]],
   "Having a placed Banner does not prevent you gaining Valour":[null,"Having a placed Banner does not prevent you gaining Valour "],
   "Having a placed Banner does not prevent you gaining Valour Banner Skills have 100% increased Duration":[null,"Having a placed Banner does not prevent you gaining Valour Banner Skills have 100% increased Duration "],
-  "Herald Skills and Minions from Herald Skills deal 1% more Damage for every 1% of Maximum Life those Skills Reserve":[null,"Herald Skills and Minions from Herald Skills deal 1% more Damage for every 1% of Maximum Life those Skills Reserve "],
+  "Herald Skills and Minions from Herald Skills deal 1% more Damage for every 1% of Maximum Life those Skills Reserve":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"MinionModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"Damage",
+            "type":"MORE",
+            "value":1,
+            "1":{
+              "actor":"parent",
+              "div":1,
+              "stat":"LifeReservedPercent",
+              "type":"PerStat"
+            }
+          }
+        },
+        "1":{
+          "skillType":62,
+          "type":"SkillType"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"Damage",
+        "type":"MORE",
+        "value":1,
+        "1":{
+          "div":1,
+          "stat":"LifeReservedPercent",
+          "type":"PerStat"
+        },
+        "2":{
+          "skillType":62,
+          "type":"SkillType"
+        }
+      }]],
   "Herald Skills deal 20% increased Damage":[[{
         "flags":0,
         "keywordFlags":0,
@@ -87473,29 +87512,15 @@
         "type":"MORE",
         "value":2,
         "1":{
+          "div":1,
+          "stat":"ManaReservedPercent",
+          "type":"PerStat"
+        },
+        "2":{
           "skillType":62,
           "type":"SkillType"
         }
-      }],"  for every 1% of Maximum Mana they Reserve "],
-  "Herald Skills have 2% more Buff Effect for every 1% of Maximum Mana they Reserve Herald Skills and Minions from Herald Skills deal 1% more Damage for every 1% of Maximum Life those Skills Reserve":[[{
-        "flags":0,
-        "keywordFlags":0,
-        "name":"MinionModifier",
-        "type":"LIST",
-        "value":{
-          "mod":{
-            "flags":0,
-            "keywordFlags":0,
-            "name":"BuffEffect",
-            "type":"MORE",
-            "value":2,
-            "1":{
-              "skillType":62,
-              "type":"SkillType"
-            }
-          }
-        }
-      }],"  for every 1% of Maximum Mana they Reserve Herald Skills and s from Herald Skills deal 1% more Damage for every 1% of Maximum Life those Skills Reserve "],
+      }]],
   "Herald Skills have 25% increased Area of Effect":[[{
         "flags":0,
         "keywordFlags":0,
@@ -117707,7 +117732,7 @@
   "You have Everlasting Sacrifice if at least 6 Corrupted Items are Equipped":[[{
         "flags":0,
         "keywordFlags":0,
-        "name":"EverlastingSacrifice",
+        "name":"Condition:EverlastingSacrifice",
         "type":"FLAG",
         "value":true,
         "1":{
@@ -119152,8 +119177,29 @@
         "type":"OVERRIDE",
         "value":80
       }]],
-  "Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second":[null,"Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second "],
-  "Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second Minions have 5% chance to Maim Enemies on Hit with Attacks":[null,"Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second Minions have 5% chance to Maim Enemies on Hit with Attacks "],
+  "Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second":[[{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"ExtraMinionSkill",
+        "type":"LIST",
+        "value":{
+          "skillId":"ReplicaSiegebreakerBurningGround"
+        }
+      },{
+        "flags":0,
+        "keywordFlags":0,
+        "name":"MinionModifier",
+        "type":"LIST",
+        "value":{
+          "mod":{
+            "flags":0,
+            "keywordFlags":0,
+            "name":"Multiplier:SiegebreakerBurningGroundPercent",
+            "type":"BASE",
+            "value":20
+          }
+        }
+      }]],
   "Your Minions spread Caustic Ground on Death, dealing 20% of their maximum Life as Chaos Damage per second":[[{
         "flags":0,
         "keywordFlags":0,

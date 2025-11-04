@@ -44,6 +44,7 @@
     "type":"Amulet"
   },
   "Ashscale Talisman":{
+    "flavourText":["The fire of the hearth is a docile dog,","leashed and tamed.","The fire of the First Ones is a ravening wolf,","wild and free.","- The Wolven King"],
     "implicit":"(20-30)% increased Fire Damage",
     "implicitModTypes":[["elemental_damage","damage","elemental","fire"]],
     "influenceTags":{
@@ -90,6 +91,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Lightning Damage from Hits taken as Fire Damage",
     "implicitModTypes":[["elemental","fire","lightning"]],
     "influenceTags":{
@@ -112,6 +114,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman (Cold-To-Fire)":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Cold Damage from Hits taken as Lightning Damage",
     "implicitModTypes":[["elemental","cold","lightning"]],
     "influenceTags":{
@@ -134,6 +137,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman (Cold-To-Lightning)":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Cold Damage from Hits taken as Fire Damage",
     "implicitModTypes":[["elemental","fire","cold"]],
     "influenceTags":{
@@ -156,6 +160,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman (Fire-To-Cold)":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Fire Damage from Hits taken as Cold Damage",
     "implicitModTypes":[["elemental","fire","cold"]],
     "influenceTags":{
@@ -178,6 +183,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman (Fire-To-Lightning)":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Fire Damage from Hits taken as Lightning Damage",
     "implicitModTypes":[["elemental","fire","lightning"]],
     "influenceTags":{
@@ -200,6 +206,7 @@
     "type":"Amulet"
   },
   "Avian Twins Talisman (Lightning-To-Cold)":{
+    "flavourText":["The first ones live where they can, where they must.","They embrace the frost, the storm, the drought.","Waxing and waning, breaking and mending,","living with time and happenstance, as must we.","- The Wolven King"],
     "implicit":"50% of Lightning Damage from Hits taken as Cold Damage",
     "implicitModTypes":[["elemental","cold","lightning"]],
     "influenceTags":{
@@ -222,6 +229,7 @@
     "type":"Amulet"
   },
   "Black Maw Talisman":{
+    "flavourText":["The First Ones stalk with us","upon this lifelong hunt,","and cast their contempt","upon those that would make us their prey.","- The Wolven King"],
     "implicit":"Has 1 Socket",
     "implicitModTypes":[[]],
     "influenceTags":{
@@ -269,6 +277,7 @@
     "type":"Amulet"
   },
   "Bonespire Talisman":{
+    "flavourText":["The civilised man must wrestle","with the demands of heart and mind.","The First Ones share no such struggle.","For their Spirit is swift and deadly certain.","- The Wolven King"],
     "implicit":"(20-30)% increased maximum Mana",
     "implicitModTypes":[["resource","mana"]],
     "influenceTags":{
@@ -291,6 +300,7 @@
     "type":"Amulet"
   },
   "Breakrib Talisman":{
+    "flavourText":["I stood among the stones","And called out to the First Ones;","That with tooth and mighty claw,","They should tear our enemies asunder.","- The Wolven King"],
     "implicit":"(20-30)% increased Global Physical Damage",
     "implicitModTypes":[["physical_damage","damage","physical"]],
     "influenceTags":{
@@ -313,6 +323,7 @@
     "type":"Amulet"
   },
   "Chrysalis Talisman":{
+    "flavourText":["The world of the First Ones is harsh;","We struggle on our bellies to survive.","But that which imprisons us also changes us","And soon we will emerge anew.","- The Wolven King"],
     "implicit":"(20-30)% increased Spell Damage",
     "implicitModTypes":[["caster_damage","damage","caster"]],
     "influenceTags":{
@@ -357,6 +368,7 @@
     "type":"Amulet"
   },
   "Clutching Talisman":{
+    "flavourText":["Fear the children of the First Ones.","Let fear shield your back.","And let the dullard speak of bravery","when the First Ones come for him.","- The Wolven King"],
     "implicit":"(15-25)% increased Global Defences",
     "implicitModTypes":[["defences"]],
     "influenceTags":{
@@ -399,6 +411,7 @@
     "type":"Amulet"
   },
   "Deadhand Talisman":{
+    "flavourText":["The Empire poisons our blood with sweet wine.","Poisons our flesh with silk.","Poisons our minds with civil lies.","Poisons our children with servitude.","- The Wolven King"],
     "implicit":"(19-31)% increased Chaos Damage",
     "implicitModTypes":[["chaos_damage","damage","chaos"]],
     "influenceTags":{
@@ -421,6 +434,7 @@
     "type":"Amulet"
   },
   "Deep One Talisman":{
+    "flavourText":["We have basked in the cloying warmth of servitude.","Now the First Ones harden us","against the numbing chill of despair","so that freedom will not slip through our trembling fingers.","- The Wolven King"],
     "implicit":"(20-30)% increased Cold Damage",
     "implicitModTypes":[["elemental_damage","damage","elemental","cold"]],
     "influenceTags":{
@@ -443,6 +457,7 @@
     "type":"Amulet"
   },
   "Fangjaw Talisman":{
+    "flavourText":["The First Ones are the forever ones.","There is no dust of the hourglass in their blood.","No fissures of weariness in their faces.","To drink of their blood is to drink of time itself.","- The Wolven King"],
     "implicit":"(8-12)% increased maximum Life",
     "implicitModTypes":[["resource","life"]],
     "influenceTags":{
@@ -511,6 +526,7 @@
     "type":"Amulet"
   },
   "Greatwolf Talisman":{
+    "flavourText":["The wolf greeted the king,","In the light of the harvest moon.","The wolf offered the strength of the wild,","And the king paid for it in blood."],
     "implicitModTypes":[],
     "influenceTags":{
       "adjudicator":"amulet_adjudicator",
@@ -531,6 +547,7 @@
     "type":"Amulet"
   },
   "Hexclaw Talisman":{
+    "flavourText":["The Hunter faced the First One","and notched his final arrow.","The First One bared its fangs","and savoured its final breath.","- The Wolven King"],
     "implicit":"(40-50)% increased Global Critical Strike Chance",
     "implicitModTypes":[["critical"]],
     "influenceTags":{
@@ -553,6 +570,7 @@
     "type":"Amulet"
   },
   "Horned Talisman":{
+    "flavourText":["The Empire hides lies and falsehoods","Behind a mask of politeness and civility.","The First Ones teach us to look through the lies,","And that no beast can truly cover their tracks.","- The Wolven King"],
     "implicit":"Projectiles Pierce 2 additional Targets",
     "implicitModTypes":[[]],
     "influenceTags":{
@@ -643,6 +661,7 @@
     "type":"Amulet"
   },
   "Lone Antler Talisman":{
+    "flavourText":["The First Ones thundered over Ezomyr","upon hooves of grey and black.","The people felt their stamping rage","and cowered as the fury rained down.","- The Wolven King"],
     "implicit":"(20-30)% increased Lightning Damage",
     "implicitModTypes":[["elemental_damage","damage","elemental","lightning"]],
     "influenceTags":{
@@ -665,6 +684,7 @@
     "type":"Amulet"
   },
   "Longtooth Talisman":{
+    "flavourText":["We grew contemptuous of our past.","Dismissed the first ones as ignorant and wild.","We were fools and naive children","to turn our backs on our inheritance.","- The Wolven King"],
     "implicit":"(4-6)% additional Physical Damage Reduction",
     "implicitModTypes":[["physical"]],
     "influenceTags":{
@@ -687,6 +707,7 @@
     "type":"Amulet"
   },
   "Mandible Talisman":{
+    "flavourText":["The First Ones hold us","between two sharpened blades.","That should we stray too far from the path,","we find ourselves severed.","- The Wolven King"],
     "implicit":"(6-10)% increased Attack and Cast Speed",
     "implicitModTypes":[["attack","caster","speed"]],
     "influenceTags":{
@@ -734,6 +755,7 @@
     "type":"Amulet"
   },
   "Monkey Paw Talisman":{
+    "flavourText":["Look not upon me with fear, my men.","Though I seem strange, even monstrous,","were you to see with the eyes of your forebears,","your hearts would be filled with wonder.","- The Wolven King"],
     "implicit":"10% chance to gain an Endurance Charge on Kill",
     "implicitModTypes":[["endurance_charge"]],
     "influenceTags":{
@@ -756,6 +778,7 @@
     "type":"Amulet"
   },
   "Monkey Paw Talisman (Frenzy)":{
+    "flavourText":["Look not upon me with fear, my men.","Though I seem strange, even monstrous,","were you to see with the eyes of your forebears,","your hearts would be filled with wonder.","- The Wolven King"],
     "implicit":"10% chance to gain a Frenzy Charge on Kill",
     "implicitModTypes":[["frenzy_charge"]],
     "influenceTags":{
@@ -778,6 +801,7 @@
     "type":"Amulet"
   },
   "Monkey Paw Talisman (Power)":{
+    "flavourText":["Look not upon me with fear, my men.","Though I seem strange, even monstrous,","were you to see with the eyes of your forebears,","your hearts would be filled with wonder.","- The Wolven King"],
     "implicit":"10% chance to gain a Power Charge on Kill",
     "implicitModTypes":[["power_charge"]],
     "influenceTags":{
@@ -800,6 +824,7 @@
     "type":"Amulet"
   },
   "Monkey Twins Talisman":{
+    "flavourText":["The first ones marked their hunting grounds","with blood and piss.","We have tried to paint our future in words.","Now we shall paint with inks of savagery.","- The Wolven King"],
     "implicit":"(5-8)% increased Area of Effect",
     "implicitModTypes":[[]],
     "influenceTags":{
@@ -864,6 +889,7 @@
     "type":"Amulet"
   },
   "Primal Skull Talisman":{
+    "flavourText":["With the will of the first ones in our sinews","we shall tear down the walls of Sarn.","Yet as is the way of the wildlands,","Only the strong may grow stronger.","- The Wolven King"],
     "implicit":"Regenerate 2% of Life per second",
     "implicitModTypes":[["resource","life"]],
     "influenceTags":{
@@ -886,6 +912,7 @@
     "type":"Amulet"
   },
   "Rot Head Talisman":{
+    "flavourText":["To catch a big fish you need tempting bait.","And there is no fish bigger than the Empire,","and no bait as tempting as Ezomyr.","- The Wolven King"],
     "implicit":"(30-40)% increased Fish Bite Sensitivity",
     "implicitModTypes":[["green_herring"]],
     "influenceTags":{
@@ -908,6 +935,7 @@
     "type":"Amulet"
   },
   "Rotfeather Talisman":{
+    "flavourText":["Death met with the First Ones","and demanded they hunt with mercy.","For while pain might delight the mind,","it does not fill the belly.","- The Wolven King"],
     "implicit":"(25-35)% increased Damage",
     "implicitModTypes":[["damage"]],
     "influenceTags":{
@@ -1000,6 +1028,7 @@
     "type":"Amulet"
   },
   "Spinefuse Talisman":{
+    "flavourText":["We Ezomytes are beasts of burden","bearing wealth of an empire on our backs,","growing lean and strong","while our masters grow fat and weak.","- The Wolven King"],
     "implicit":"+(12-18)% to Damage over Time Multiplier",
     "implicitModTypes":[["dot_multi","damage"]],
     "influenceTags":{
@@ -1022,6 +1051,7 @@
     "type":"Amulet"
   },
   "Splitnewt Talisman":{
+    "flavourText":["From flesh and ferocity,","the First Ones roamed","through the realm of Spirit,","and into the darkness beyond.","- The Wolven King"],
     "implicit":"(4-6)% chance to Freeze, Shock and Ignite",
     "implicitModTypes":[["elemental","fire","cold","lightning","ailment"]],
     "influenceTags":{
@@ -1044,6 +1074,7 @@
     "type":"Amulet"
   },
   "Three Hands Talisman":{
+    "flavourText":["We breed thoughts of single mind,","fashion tools of single purpose.","While the First Ones bring to bear","anything that the wildlands provide.","- The Wolven King"],
     "implicit":"Gain (6-12)% of Physical Damage as Extra Damage of a random Element",
     "implicitModTypes":[["physical_damage","elemental_damage","damage","physical","elemental"]],
     "influenceTags":{
@@ -1066,6 +1097,7 @@
     "type":"Amulet"
   },
   "Three Rat Talisman":{
+    "flavourText":["When we free ourselves from the shackles","of civilised existence","we learn to feed and run and breathe","as the First Ones have always done.","- The Wolven King"],
     "implicit":"(12-16)% increased Attributes",
     "implicitModTypes":[["attribute"]],
     "influenceTags":{
@@ -1110,6 +1142,7 @@
     "type":"Amulet"
   },
   "Undying Flesh Talisman":{
+    "flavourText":["'Sleep when you are weary,' our mothers told us.","'Sleep when you are dead,' our fathers told us.","To the First Ones, the slumbering and the corpse","are one and the same.","- The Wolven King"],
     "implicit":"+1 to maximum number of Raised Zombies",
     "implicitModTypes":[["minion"]],
     "influenceTags":{
@@ -1155,6 +1188,7 @@
     "type":"Amulet"
   },
   "Wereclaw Talisman":{
+    "flavourText":["It's said to be noble to stand one's ground.","To soak the earth in stalwart blood.","While the First Ones chose to laugh and run","and caper with untamed glee.","- The Wolven King"],
     "implicit":"+(24-36)% to Global Critical Strike Multiplier",
     "implicitModTypes":[["damage","critical"]],
     "influenceTags":{
@@ -1177,6 +1211,7 @@
     "type":"Amulet"
   },
   "Writhing Talisman":{
+    "flavourText":["For too long we have crawled in darkness,","scavenging through rotten scraps.","The First Ones teach us to scavenge until we can hunt,","and then never crawl again.","- The Wolven King"],
     "implicit":"(20-30)% increased Attack Damage",
     "implicitModTypes":[["damage","attack"]],
     "influenceTags":{

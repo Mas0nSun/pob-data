@@ -1,0 +1,2286 @@
+{
+  "MutatedUniqueAmluet24EldritchBattery":{
+    "affix":"",
+    "group":"EldritchBattery",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[10553],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Eldritch Battery"
+  },
+  "MutatedUniqueAmulet14GainPowerChargesNotLostRecently":{
+    "affix":"",
+    "group":"GainPowerChargesNotLostRecently",
+    "level":1,
+    "modTags":["power_charge","mutatedunique"],
+    "statOrder":[6695],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain a Power Charge every Second if you haven't lost Power Charges Recently"
+  },
+  "MutatedUniqueAmulet14LosePowerChargesOnMaxPowerCharges":{
+    "affix":"",
+    "group":"LosePowerChargesOnMaxPowerCharges",
+    "level":1,
+    "modTags":["power_charge","mutatedunique"],
+    "statOrder":[3511],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Lose all Power Charges on reaching Maximum Power Charges"
+  },
+  "MutatedUniqueAmulet20CurseEffectTemporalChains":{
+    "affix":"",
+    "group":"CurseEffectTemporalChains",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[3916],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Temporal Chains Curse Effect"
+  },
+  "MutatedUniqueAmulet37NearbyEnemiesDebilitated":{
+    "affix":"",
+    "group":"NearbyEnemiesDebilitated",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7759],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Nearby Enemies are Debilitated"
+  },
+  "MutatedUniqueAmulet37PhysicalDamageTakenAsFire":{
+    "affix":"",
+    "group":"PhysicalDamageTakenAsFirePercent",
+    "level":1,
+    "modTags":["mutatedunique","physical","elemental","fire"],
+    "statOrder":[2356],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(5-15)% of Physical Damage from Hits taken as Fire Damage"
+  },
+  "MutatedUniqueAmulet38KeystoneElementalOverload":{
+    "affix":"",
+    "group":"ElementalOverload",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental","critical"],
+    "statOrder":[10555],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Elemental Overload"
+  },
+  "MutatedUniqueAmulet39CannotBeFrozen":{
+    "affix":"",
+    "group":"CannotBeFrozen",
+    "level":1,
+    "modTags":["mutatedunique","elemental","cold","ailment"],
+    "statOrder":[1749],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Cannot be Frozen"
+  },
+  "MutatedUniqueAmulet39PhysicalDamageTakenAsCold":{
+    "affix":"",
+    "group":"PhysicalDamageTakenAsCold",
+    "level":1,
+    "modTags":["mutatedunique","physical","elemental","cold"],
+    "statOrder":[2357],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(5-15)% of Physical Damage from Hits taken as Cold Damage"
+  },
+  "MutatedUniqueAmulet40CannotBeChilled":{
+    "affix":"",
+    "group":"CannotBeChilled",
+    "level":1,
+    "modTags":["mutatedunique","ailment"],
+    "statOrder":[1748],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Cannot be Chilled"
+  },
+  "MutatedUniqueAmulet41EnemyExtraDamageRolls":{
+    "affix":"",
+    "group":"EnemyExtraDamageRolls",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[4906],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Damage of Enemies Hitting you is Unlucky"
+  },
+  "MutatedUniqueAmulet41MaximumLightningResistance":{
+    "affix":"",
+    "group":"MaximumLightningResistance",
+    "level":1,
+    "modTags":["mutatedunique","elemental","lightning","resistance"],
+    "statOrder":[1545],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+3% to maximum Lightning Resistance"
+  },
+  "MutatedUniqueAmulet42ManaIncreasedPerOvercappedLightningResistUniqueAmulet42":{
+    "affix":"",
+    "group":"ManaIncreasedPerOvercappedLightningResistUniqueAmulet42",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana","elemental","lightning"],
+    "statOrder":[8014],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Mana is increased by 50% of Overcapped Lightning Resistance"
+  },
+  "MutatedUniqueAmulet43ChaosDamageTakenRecoupedAsLife":{
+    "affix":"",
+    "group":"ChaosDamageTakenRecoupedAsLifeActual",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","chaos"],
+    "statOrder":[5644],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% of Chaos Damage taken Recouped as Life"
+  },
+  "MutatedUniqueAmulet43RecoupEnergyShieldInsteadOfLife":{
+    "affix":"",
+    "group":"RecoupEnergyShieldInsteadOfLife",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences","energy_shield"],
+    "statOrder":[7248],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Recoup Energy Shield instead of Life"
+  },
+  "MutatedUniqueBelt12ConvertLightningDamageToChaos":{
+    "affix":"",
+    "group":"ConvertLightningDamageToChaos",
+    "level":1,
+    "modTags":["elemental_damage","chaos_damage","mutatedunique","damage","elemental","lightning","chaos"],
+    "statOrder":[1875],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"40% of Lightning Damage Converted to Chaos Damage"
+  },
+  "MutatedUniqueBelt13CurseEffectOnYou":{
+    "affix":"",
+    "group":"CurseEffectOnYouJewel",
+    "level":1,
+    "modTags":["mutatedunique","curse"],
+    "statOrder":[2079],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"20% reduced Effect of Curses on you"
+  },
+  "MutatedUniqueBelt13NearbyEnemiesAreUnnerved":{
+    "affix":"",
+    "group":"NearbyEnemiesAreUnnerved",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9252],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Nearby Enemies are Unnerved"
+  },
+  "MutatedUniqueBelt14AllDamageCanIgnite":{
+    "affix":"",
+    "group":"AllDamageCanIgnite",
+    "level":1,
+    "modTags":["mutatedunique","elemental","fire","ailment"],
+    "statOrder":[4526],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"All Damage can Ignite"
+  },
+  "MutatedUniqueBelt14MaximumLifeOnChillPercent":{
+    "affix":"",
+    "group":"MaximumLifeOnChillPercent",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","elemental","cold","ailment"],
+    "statOrder":[9627],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Recover 2% of Life when you Chill a non-Chilled Enemy"
+  },
+  "MutatedUniqueBelt19AnimalCharmFlaskChargesEvery3Secondsage":{
+    "affix":"",
+    "group":"AnimalCharmFlaskChargesEvery3Seconds",
+    "level":1,
+    "modTags":["flask","mutatedunique"],
+    "statOrder":[3386],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Flasks gain a Charge every 3 seconds"
+  },
+  "MutatedUniqueBelt19FlaskChargesUsed":{
+    "affix":"",
+    "group":"BeltReducedFlaskChargesUsed",
+    "level":1,
+    "modTags":["flask","mutatedunique"],
+    "statOrder":[2093],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"100% increased Flask Charges used"
+  },
+  "MutatedUniqueBelt21AnimalCharmLeechPercentIsInstant":{
+    "affix":"",
+    "group":"AnimalCharmLeechPercentIsInstant",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7199],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(8-12)% of Leech is Instant"
+  },
+  "MutatedUniqueBelt21EverlastingSacrifice":{
+    "affix":"",
+    "group":"EverlastingSacrifice",
+    "level":1,
+    "modTags":["mutatedunique","defences","resistance"],
+    "statOrder":[10558],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Everlasting Sacrifice"
+  },
+  "MutatedUniqueBelt4PercentageStrength":{
+    "affix":"",
+    "group":"PercentageStrength",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1096],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(5-15)% increased Strength"
+  },
+  "MutatedUniqueBelt7CullingStrike":{
+    "affix":"",
+    "group":"CullingStrike",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1948],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Culling Strike"
+  },
+  "MutatedUniqueBelt7GainSoulEaterStackOnHit":{
+    "affix":"",
+    "group":"GainSoulEaterStackOnHit",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[6708],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Eat a Soul when you Hit a Rare or Unique Enemy, no more than once every 0.25 seconds"
+  },
+  "MutatedUniqueBodyDex10EvasionRatingPer10PlayerLife":{
+    "affix":"",
+    "group":"EvasionRatingPer10PlayerLife",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences"],
+    "statOrder":[6369],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+6 to Evasion Rating per 10 Player Maximum Life"
+  },
+  "MutatedUniqueBodyDex10PurityOfIceNoReservation":{
+    "affix":"",
+    "group":"PurityOfIceNoReservation",
+    "level":1,
+    "modTags":["mutatedunique","aura"],
+    "statOrder":[9560],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Purity of Ice has no Reservation"
+  },
+  "MutatedUniqueBodyDex11EvasionRatingPer10PlayerLife":{
+    "affix":"",
+    "group":"EvasionRatingPer10PlayerLife",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences"],
+    "statOrder":[6369],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+8 to Evasion Rating per 10 Player Maximum Life"
+  },
+  "MutatedUniqueBodyDex11GhostDance":{
+    "affix":"",
+    "group":"GhostDance",
+    "level":1,
+    "modTags":["mutatedunique","defences","evasion","energy_shield"],
+    "statOrder":[10559],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Ghost Dance"
+  },
+  "MutatedUniqueBodyDex3MeleeFireDamage":{
+    "affix":"",
+    "group":"MeleeFireDamage",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental","fire"],
+    "statOrder":[1891],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(75-150)% increased Melee Fire Damage"
+  },
+  "MutatedUniqueBodyDex5MovementSkillCooldown":{
+    "affix":"",
+    "group":"MovementSkillCooldown",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9204],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-40)% increased Cooldown Recovery Rate of Movement Skills"
+  },
+  "MutatedUniqueBodyDex6DamageTaken":{
+    "affix":"",
+    "group":"DamageTaken",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2147],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"25% increased Damage taken"
+  },
+  "MutatedUniqueBodyDex6ProjectileSpeedPercentPerEvasionRatingUpToCap":{
+    "affix":"",
+    "group":"ProjectileSpeedPercentPerEvasionRatingUpToCap",
+    "level":1,
+    "modTags":["mutatedunique","speed"],
+    "statOrder":[9532],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"1% increased Projectile Speed per 600 Evasion Rating, up to 75%"
+  },
+  "MutatedUniqueBodyDex8ChanceToSuppressIfYouHaveSuppressedRecently":{
+    "affix":"",
+    "group":"ChanceToSuppressIfYouHaveSuppressedRecently",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9968],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(20-30)% chance to Suppress Spell Damage if you've Suppressed Spell Damage Recently"
+  },
+  "MutatedUniqueBodyDex8SuppressionPreventionIfYouHaventSuppressedRecently":{
+    "affix":"",
+    "group":"SuppressionPreventionIfYouHaventSuppressedRecently",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9924],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Prevent +35% of Suppressed Spell Damage if you have not Suppressed Spell Damage Recently"
+  },
+  "MutatedUniqueBodyDexInt1AuraEffectOnEnemies":{
+    "affix":"",
+    "group":"AuraEffectOnEnemies",
+    "level":1,
+    "modTags":["mutatedunique","aura"],
+    "statOrder":[3475],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(15-30)% increased Effect of Non-Curse Auras from your Skills on Enemies"
+  },
+  "MutatedUniqueBodyDexInt1DisplaySocketedGemsSupportedByIntensify":{
+    "affix":"",
+    "group":"DisplaySocketedGemsSupportedByIntensify",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[333],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 20 Intensify"
+  },
+  "MutatedUniqueBodyDexInt2EldritchBattery":{
+    "affix":"",
+    "group":"EldritchBattery",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[10553],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Eldritch Battery"
+  },
+  "MutatedUniqueBodyDexInt2GainManaAsExtraEnergyShield":{
+    "affix":"",
+    "group":"GainManaAsExtraEnergyShield",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[2084],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain (15-20)% of Maximum Mana as Extra Maximum Energy Shield"
+  },
+  "MutatedUniqueBodyDexInt4NonCurseAuraDuration":{
+    "affix":"",
+    "group":"NonCurseAuraDuration",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[9839],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Non-Curse Aura Skills have (40-80)% increased Duration"
+  },
+  "MutatedUniqueBodyInt12HeraldEffectOnSelf":{
+    "affix":"",
+    "group":"HeraldEffectOnSelf",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[6971],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(80-100)% increased Effect of Herald Buffs on you"
+  },
+  "MutatedUniqueBodyInt12HeraldOfDoom":{
+    "affix":"",
+    "group":"KeystoneHeraldOfDoom",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10562],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Lone Messenger"
+  },
+  "MutatedUniqueBodyInt13IncreasedAllResistances":{
+    "affix":"",
+    "group":"IncreasedAllResistances",
+    "level":1,
+    "modTags":["mutatedunique","resistance"],
+    "statOrder":[4530],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% increased Elemental and Chaos Resistances"
+  },
+  "MutatedUniqueBodyInt13SocketedGemQuality":{
+    "affix":"",
+    "group":"SocketedGemQuality",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[183],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+20% to Quality of Socketed Gems"
+  },
+  "MutatedUniqueBodyInt14IncreasedAllResistances":{
+    "affix":"",
+    "group":"IncreasedAllResistances",
+    "level":1,
+    "modTags":["mutatedunique","resistance"],
+    "statOrder":[4530],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% increased Elemental and Chaos Resistances"
+  },
+  "MutatedUniqueBodyInt14aSocketedGemQuality":{
+    "affix":"",
+    "group":"SocketedGemQuality",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[183],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+30% to Quality of Socketed Gems"
+  },
+  "MutatedUniqueBodyInt16BlueSocketGemsIgnoreAttributeRequirements":{
+    "affix":"",
+    "group":"BlueSocketGemsIgnoreAttributeRequirements",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[7788],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Ignore Attribute Requirements of Gems Socketed in Blue Sockets"
+  },
+  "MutatedUniqueBodyInt16LocalIncreaseSocketedGemLevel":{
+    "affix":"",
+    "group":"LocalIncreaseSocketedGemLevel",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[142],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+1 to Level of Socketed Gems"
+  },
+  "MutatedUniqueBodyInt21ChaosDamageTakenRecoupedAsLifeActual":{
+    "affix":"",
+    "group":"ChaosDamageTakenRecoupedAsLifeActual",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","chaos"],
+    "statOrder":[5644],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% of Chaos Damage taken Recouped as Life"
+  },
+  "MutatedUniqueBodyInt21MaximumEnergyShieldIsEqualToPercentOfMaximumLife":{
+    "affix":"",
+    "group":"MaximumEnergyShieldIsEqualToPercentOfMaximumLife",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[8951],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Maximum Energy Shield is Equal to 50% of Your Maximum Life"
+  },
+  "MutatedUniqueBodyInt2DamageWhileIgnited":{
+    "affix":"",
+    "group":"DamageWhileIgnited",
+    "level":1,
+    "modTags":["mutatedunique","damage"],
+    "statOrder":[2712],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(50-100)% increased Damage while Ignited"
+  },
+  "MutatedUniqueBodyInt2FireDamageLifeLeechPermyriad":{
+    "affix":"",
+    "group":"FireDamageLifeLeechPermyriad",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","elemental","fire"],
+    "statOrder":[1581],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(5-7)% of Fire Damage Leeched as Life"
+  },
+  "MutatedUniqueBodyInt3BloodMagic":{
+    "affix":"",
+    "group":"BloodMagic",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","mana"],
+    "statOrder":[10545],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Blood Magic"
+  },
+  "MutatedUniqueBodyInt7SupportedByFlamewood":{
+    "affix":"",
+    "group":"SupportedByFlamewood",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[245],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 20 Flamewood"
+  },
+  "MutatedUniqueBodyInt9MinionHasUnholyMight":{
+    "affix":"",
+    "group":"MinionHasUnholyMight",
+    "level":1,
+    "modTags":["mutatedunique","chaos","minion"],
+    "statOrder":[9118],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions have Unholy Might"
+  },
+  "MutatedUniqueBodyStr2LocalPhysicalDamageReductionRating":{
+    "affix":"",
+    "group":"LocalPhysicalDamageReductionRating",
+    "level":1,
+    "modTags":["mutatedunique","defences","armour"],
+    "statOrder":[1451],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(500-800) to Armour"
+  },
+  "MutatedUniqueBodyStr4ElementalDamageTakenAsChaos":{
+    "affix":"",
+    "group":"ElementalDamageTakenAsChaos",
+    "level":1,
+    "modTags":["mutatedunique","elemental","chaos"],
+    "statOrder":[2362],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"25% of Elemental Damage from Hits taken as Chaos Damage"
+  },
+  "MutatedUniqueBodyStr5ExperienceIncrease":{
+    "affix":"",
+    "group":"ExperienceIncrease",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1514],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"5% increased Experience gain"
+  },
+  "MutatedUniqueBodyStr6ChanceToAvoidProjectiles":{
+    "affix":"",
+    "group":"ChanceToAvoidProjectiles",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[4887],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"25% chance to avoid Projectiles"
+  },
+  "MutatedUniqueBodyStr7GainNoInherentBonusFromStrength":{
+    "affix":"",
+    "group":"GainNoInherentBonusFromStrength",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1926],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain no inherent bonuses from Strength"
+  },
+  "MutatedUniqueBodyStr7PrismaticBulwark":{
+    "affix":"",
+    "group":"PrismaticBulwark",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10575],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Transcendence"
+  },
+  "MutatedUniqueBodyStrDex4PhysicalDamageTakenAsChaos":{
+    "affix":"",
+    "group":"PhysicalDamageTakenAsChaos",
+    "level":1,
+    "modTags":["mutatedunique","physical","chaos"],
+    "statOrder":[2360],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"20% of Physical Damage from Hits taken as Chaos Damage"
+  },
+  "MutatedUniqueBodyStrDex7WarcriesAreDisabled":{
+    "affix":"",
+    "group":"WarcriesAreDisabled",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10475],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Warcries are disabled"
+  },
+  "MutatedUniqueBodyStrDex8AttackDamage":{
+    "affix":"",
+    "group":"AttackDamage",
+    "level":1,
+    "modTags":["mutatedunique","damage","attack"],
+    "statOrder":[1110],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"100% increased Attack Damage"
+  },
+  "MutatedUniqueBodyStrInt2MaximumEnduranceCharges":{
+    "affix":"",
+    "group":"MaximumEnduranceCharges",
+    "level":1,
+    "modTags":["endurance_charge","mutatedunique"],
+    "statOrder":[1715],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+1 to Maximum Endurance Charges"
+  },
+  "MutatedUniqueBootsDex2IncreasedGold":{
+    "affix":"",
+    "group":"IncreasedGold",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7173],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Quantity of Gold Dropped by Slain Enemies"
+  },
+  "MutatedUniqueBootsDex3ActionSpeedReduction":{
+    "affix":"",
+    "group":"ActionSpeedReduction",
+    "level":1,
+    "modTags":["mutatedunique","speed"],
+    "statOrder":[4432],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(6-12)% increased Action Speed"
+  },
+  "MutatedUniqueBootsInt7PowerChargeOnCriticalStrikeChance":{
+    "affix":"",
+    "group":"CriticalMultiplierPerPowerCharge",
+    "level":1,
+    "modTags":["mutatedunique","damage","critical"],
+    "statOrder":[3190],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(3-5)% to Critical Strike Multiplier per Power Charge"
+  },
+  "MutatedUniqueBootsStr6ImmuneToElementalAilmentsWhileBleeding":{
+    "affix":"",
+    "group":"ImmuneToElementalAilmentsWhileBleeding",
+    "level":1,
+    "modTags":["mutatedunique","ailment"],
+    "statOrder":[7088],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Immune to Elemental Ailments while Bleeding"
+  },
+  "MutatedUniqueBootsStr6IncreasedArmourWhileBleeding":{
+    "affix":"",
+    "group":"IncreasedArmourWhileBleeding",
+    "level":1,
+    "modTags":["mutatedunique","defences","armour"],
+    "statOrder":[4672],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(50-100)% increased Armour while Bleeding"
+  },
+  "MutatedUniqueBootsStr7GainEnduranceChargeEveryXSecondsWhileStationary":{
+    "affix":"",
+    "group":"GainEnduranceChargePerXSecondsWhileStationary",
+    "level":1,
+    "modTags":["endurance_charge","mutatedunique"],
+    "statOrder":[6592],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain an Endurance Charge each second while Stationary"
+  },
+  "MutatedUniqueBootsStrDex1MovementVelocityOnFullLife":{
+    "affix":"",
+    "group":"MovementVelocityOnFullLife",
+    "level":1,
+    "modTags":["mutatedunique","speed"],
+    "statOrder":[1711],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"40% increased Movement Speed when on Full Life"
+  },
+  "MutatedUniqueBootsStrDex2IncreasedAccuracyPerFrenzy":{
+    "affix":"",
+    "group":"AccuracyRatingPerFrenzyCharge",
+    "level":1,
+    "modTags":["mutatedunique","attack","speed"],
+    "statOrder":[1959],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(4-8)% increased Accuracy Rating per Frenzy Charge"
+  },
+  "MutatedUniqueBootsStrInt2PercentageIntelligence":{
+    "affix":"",
+    "group":"PercentageIntelligence",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1098],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(15-18)% increased Intelligence"
+  },
+  "MutatedUniqueBottsStr7GainPowerChargeOnHitWhileBleeding":{
+    "affix":"",
+    "group":"GainPowerChargeOnHitWhileBleeding",
+    "level":1,
+    "modTags":["power_charge","mutatedunique","ailment"],
+    "statOrder":[6691],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain a Power Charge on Hit while Bleeding"
+  },
+  "MutatedUniqueBow12DisplaySupportedBySummonPhantasm":{
+    "affix":"",
+    "group":"DisplaySupportedBySummonPhantasm",
+    "level":1,
+    "modTags":["mutatedunique","minion"],
+    "statOrder":[335],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 20 Summon Phantasm"
+  },
+  "MutatedUniqueBow12MinionAddedChaosDamage":{
+    "affix":"",
+    "group":"MinionAddedChaosDamage",
+    "level":1,
+    "modTags":["chaos_damage","mutatedunique","damage","chaos","minion"],
+    "statOrder":[3677],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions deal (25-35) to (50-65) additional Chaos Damage"
+  },
+  "MutatedUniqueBow12SummonWrithingWormEveryXMs":{
+    "affix":"",
+    "group":"SummonWrithingWormEveryXMs",
+    "level":1,
+    "modTags":["skill","mutatedunique"],
+    "statOrder":[534],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"An Enemy Writhing Worm spawns every 2 seconds"
+  },
+  "MutatedUniqueBow18DisplaySupportedByReturningProjectiles":{
+    "affix":"",
+    "group":"DisplaySupportedByReturningProjectiles",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[334],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 20 Returning Projectiles"
+  },
+  "MutatedUniqueBow18FasterIgnite":{
+    "affix":"",
+    "group":"FasterIgniteDamage",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental","fire","ailment"],
+    "statOrder":[2473],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Ignites you inflict deal Damage (20-40)% faster"
+  },
+  "MutatedUniqueBow19AllDamageCanIgnite":{
+    "affix":"",
+    "group":"AllDamageCanIgnite",
+    "level":1,
+    "modTags":["mutatedunique","elemental","fire","ailment"],
+    "statOrder":[4526],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"All Damage can Ignite"
+  },
+  "MutatedUniqueBow19SupportedByImmolate":{
+    "affix":"",
+    "group":"DisplaySupportedByImmolate",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[258],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 30 Immolate"
+  },
+  "MutatedUniqueBow4AreaOfEffect":{
+    "affix":"",
+    "group":"AreaOfEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1791],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(40-60)% increased Area of Effect"
+  },
+  "MutatedUniqueBow4BowAttacksUsableWithoutMana":{
+    "affix":"",
+    "group":"BowAttacksUsableWithoutMana",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana","attack"],
+    "statOrder":[5158],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Insufficient Mana doesn't prevent your Bow Attacks"
+  },
+  "MutatedUniqueBow6ChinsolDamageAgainstEnemiesOutsideCloseRange":{
+    "affix":"",
+    "group":"ChinsolDamageAgainstEnemiesOutsideCloseRange",
+    "level":1,
+    "modTags":["mutatedunique","damage"],
+    "statOrder":[2352],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% more Damage with Arrow Hits not at Close Range"
+  },
+  "MutatedUniqueBow6ProjectilesPierceAllNearbyTargets":{
+    "affix":"",
+    "group":"ProjectilesPierceAllNearbyTargets",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9540],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Projectiles Pierce all nearby Targets"
+  },
+  "MutatedUniqueClaw13CrushOnHitChance":{
+    "affix":"",
+    "group":"CrushOnHitChance",
+    "level":1,
+    "modTags":["mutatedunique","physical"],
+    "statOrder":[5553],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"25% chance to Crush on Hit"
+  },
+  "MutatedUniqueClaw13PhysicalSkillEffectDurationPerIntelligence":{
+    "affix":"",
+    "group":"PhysicalSkillEffectDurationPerIntelligence",
+    "level":1,
+    "modTags":["mutatedunique","physical","attribute"],
+    "statOrder":[3708],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Physical Skills have 1% increased Duration per 12 Intelligence"
+  },
+  "MutatedUniqueClaw16AccuracyRatingPercentPer25Intelligence":{
+    "affix":"",
+    "group":"AccuracyRatingPercentPer25Intelligence",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[4416],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"5% increased Accuracy Rating per 25 Intelligence"
+  },
+  "MutatedUniqueClaw16PercentageStrength":{
+    "affix":"",
+    "group":"PercentageStrength",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1096],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(8-12)% increased Strength"
+  },
+  "MutatedUniqueClaw17CriticalStrikeMultiplierPer25Dexterity":{
+    "affix":"",
+    "group":"CriticalStrikeMultiplierPer25Dexterity",
+    "level":1,
+    "modTags":["mutatedunique","critical"],
+    "statOrder":[5846],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+3% to Critical Strike Multiplier per 25 Dexterity"
+  },
+  "MutatedUniqueClaw17PercentageStrength":{
+    "affix":"",
+    "group":"PercentageStrength",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1096],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(8-12)% increased Strength"
+  },
+  "MutatedUniqueClaw6ChaosDamage":{
+    "affix":"",
+    "group":"IncreasedChaosDamage",
+    "level":1,
+    "modTags":["chaos_damage","mutatedunique","damage","chaos"],
+    "statOrder":[1296],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(100-120)% increased Chaos Damage"
+  },
+  "MutatedUniqueDagger10ChaosDamageCanIgnite":{
+    "affix":"",
+    "group":"ChaosDamageCanIgnite",
+    "level":1,
+    "modTags":["elemental_damage","chaos_damage","poison","mutatedunique","damage","elemental","fire","chaos","ailment"],
+    "statOrder":[4895],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Chaos Damage can Ignite"
+  },
+  "MutatedUniqueFishingRod1FishingLureType":{
+    "affix":"",
+    "group":"FishingLureType",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2755],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Wombgift Bait"
+  },
+  "MutatedUniqueFishingRod1FishingMutatedFish":{
+    "affix":"",
+    "group":"FishingMutatedFish",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5278],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"You can catch Foulborn Fish"
+  },
+  "MutatedUniqueFishingRod2AvoidInterruptionWhileCasting":{
+    "affix":"",
+    "group":"AvoidInterruptionWhileCasting",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1809],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(30-40)% chance to Ignore Stuns while Casting"
+  },
+  "MutatedUniqueFishingRod2FishingLureType":{
+    "affix":"",
+    "group":"FishingLureType",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2755],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Otherworldly Lure"
+  },
+  "MutatedUniqueGlovesDex2ActionSpeedMinimum90":{
+    "affix":"",
+    "group":"ActionSpeedMinimum90",
+    "level":1,
+    "modTags":["mutatedunique","speed"],
+    "statOrder":[151],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Action Speed is at least 90% of base value"
+  },
+  "MutatedUniqueGlovesDex2CriticalStrikesNonDamagingAilmentEffect":{
+    "affix":"",
+    "group":"CriticalStrikesNonDamagingAilmentEffect",
+    "level":1,
+    "modTags":["mutatedunique","critical","ailment"],
+    "statOrder":[9300],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% increased Effect of non-Damaging Ailments you inflict with Critical Strikes"
+  },
+  "MutatedUniqueGlovesDexInt2UnarmedAreaOfEffect":{
+    "affix":"",
+    "group":"UnarmedAreaOfEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2961],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Area of Effect while Unarmed"
+  },
+  "MutatedUniqueGlovesDexInt5LocalEnergyShield":{
+    "affix":"",
+    "group":"LocalEnergyShield",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[1470],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(100-130) to maximum Energy Shield"
+  },
+  "MutatedUniqueGlovesDexInt6BlindEffect":{
+    "affix":"",
+    "group":"BlindEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5113],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Blind Effect"
+  },
+  "MutatedUniqueGlovesDexInt7FasterPoisonDamage":{
+    "affix":"",
+    "group":"FasterPoisonDamage",
+    "level":1,
+    "modTags":["chaos_damage","poison","mutatedunique","damage","chaos","ailment"],
+    "statOrder":[6431],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Poisons you inflict deal Damage (15-20)% faster"
+  },
+  "MutatedUniqueGlovesDexInt7PoisonSpread":{
+    "affix":"",
+    "group":"PoisonSpread",
+    "level":1,
+    "modTags":["poison","mutatedunique","chaos","ailment"],
+    "statOrder":[2760],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"On Killing a Poisoned Enemy, nearby Enemies are Poisoned"
+  },
+  "MutatedUniqueGlovesInt1IncreasedGold":{
+    "affix":"",
+    "group":"IncreasedGold",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7173],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(5-15)% increased Quantity of Gold Dropped by Slain Enemies"
+  },
+  "MutatedUniqueGlovesInt4DisplaySocketedGemsSupportedByFocusedChannelling":{
+    "affix":"",
+    "group":"DisplaySocketedGemsSupportedByFocusedChannelling",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[430],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 18 Focused Channelling"
+  },
+  "MutatedUniqueGlovesInt4GainManaCostReductionOnManaSpent":{
+    "affix":"",
+    "group":"GainManaCostReductionOnManaSpent",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana"],
+    "statOrder":[7999],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% reduced Mana Cost of Skills for 2 seconds after Spending a total of 800 Mana"
+  },
+  "MutatedUniqueGlovesInt6ChaosDamagePerCorruptedItem":{
+    "affix":"",
+    "group":"ChaosDamagePerCorruptedItem",
+    "level":1,
+    "modTags":["chaos_damage","mutatedunique","damage","chaos"],
+    "statOrder":[3007],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-15)% increased Chaos Damage for each Corrupted Item Equipped"
+  },
+  "MutatedUniqueGlovesStr12RageLossDelay":{
+    "affix":"",
+    "group":"RageLossDelay",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9584],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Inherent Rage Loss starts 2 seconds later"
+  },
+  "MutatedUniqueGlovesStrDex5VaalSkillDuration":{
+    "affix":"",
+    "group":"VaalSkillDuration",
+    "level":1,
+    "modTags":["mutatedunique","vaal"],
+    "statOrder":[3013],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Vaal Skills have (20-40)% increased Skill Effect Duration"
+  },
+  "MutatedUniqueGlovesStrDex7SupportedByManaforgedArrows":{
+    "affix":"",
+    "group":"SupportedByManaforgedArrows",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[276],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 5 Manaforged Arrows"
+  },
+  "MutatedUniqueGlovesStrInt1SelfCurseDuration":{
+    "affix":"",
+    "group":"SelfCurseDuration",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[2080],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(-30-30)% reduced Duration of Curses on you"
+  },
+  "MutatedUniqueGlovesStrInt2LifeRegenerationRatePercentage":{
+    "affix":"",
+    "group":"LifeRegenerationRate",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[1488],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(15-25)% increased Life Regeneration rate"
+  },
+  "MutatedUniqueHelmStrInt7LifeRegenerationPercentAppliesToEnergyShieldWithNoCorruptedItems":{
+    "affix":"",
+    "group":"LifeRegenerationPercentAppliesToEnergyShieldWithNoCorruptedItems",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences","energy_shield"],
+    "statOrder":[10412],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(15-20)% of Life Regeneration also applies to Energy Shield if no Equipped Items are Corrupted"
+  },
+  "MutatedUniqueHelmStrInt7MaximumEnergyShieldAsPercentageOfLifeWithNoCorruptItems":{
+    "affix":"",
+    "group":"MaximumEnergyShieldAsPercentageOfLifeWithNoCorruptItems",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences","energy_shield"],
+    "statOrder":[8959],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain (8-12)% of Maximum Life as Extra Maximum Energy Shield if no Equipped Items are Corrupted"
+  },
+  "MutatedUniqueHelmetDex3ChaosResistance":{
+    "affix":"",
+    "group":"ChaosResistance",
+    "level":1,
+    "modTags":["mutatedunique","chaos","resistance"],
+    "statOrder":[1552],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(50-75)% to Chaos Resistance"
+  },
+  "MutatedUniqueHelmetDex4IncreasedMana":{
+    "affix":"",
+    "group":"IncreasedMana",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana"],
+    "statOrder":[1490],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(100-200) to maximum Mana"
+  },
+  "MutatedUniqueHelmetDex5LifeReservationEfficiency":{
+    "affix":"",
+    "group":"LifeReservationEfficiency",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[2135],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"32% increased Life Reservation Efficiency of Skills"
+  },
+  "MutatedUniqueHelmetDex5LocalIncreaseSocketedMinionGemLevel":{
+    "affix":"",
+    "group":"LocalIncreaseSocketedMinionGemLevel",
+    "level":1,
+    "modTags":["mutatedunique","minion","gem"],
+    "statOrder":[160],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+2 to Level of Socketed Minion Gems"
+  },
+  "MutatedUniqueHelmetDexInt1MinionDoubleDamage":{
+    "affix":"",
+    "group":"MinionDoubleDamage",
+    "level":1,
+    "modTags":["mutatedunique","minion"],
+    "statOrder":[9090],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions have 20% chance to deal Double Damage"
+  },
+  "MutatedUniqueHelmetDexInt4ChaosDamageCanFreeze":{
+    "affix":"",
+    "group":"ChaosDamageCanFreeze",
+    "level":1,
+    "modTags":["poison","mutatedunique","elemental","cold","chaos","ailment"],
+    "statOrder":[2779],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Chaos Damage can Freeze"
+  },
+  "MutatedUniqueHelmetDexInt4ChaosDamageCanIgnite":{
+    "affix":"",
+    "group":"ChaosDamageCanIgnite",
+    "level":1,
+    "modTags":["elemental_damage","chaos_damage","poison","mutatedunique","damage","elemental","fire","chaos","ailment"],
+    "statOrder":[4895],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Chaos Damage can Ignite"
+  },
+  "MutatedUniqueHelmetDexInt4ChaosDamageCanShock":{
+    "affix":"",
+    "group":"ChaosDamageCanShock",
+    "level":1,
+    "modTags":["poison","mutatedunique","elemental","lightning","chaos","ailment"],
+    "statOrder":[2780],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Chaos Damage can Shock"
+  },
+  "MutatedUniqueHelmetDexInt6RetaliationSkillCooldownRecoveryRate":{
+    "affix":"",
+    "group":"RetaliationSkillCooldownRecoveryRate",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5786],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Retaliation Skills have (25-35)% increased Cooldown Recovery Rate"
+  },
+  "MutatedUniqueHelmetInt9WeaponTreeSupportImpendingDoom":{
+    "affix":"",
+    "group":"WeaponTreeSupportImpendingDoom",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[260],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 30 Impending Doom"
+  },
+  "MutatedUniqueHelmetStr4FireDamageTakenAsPhysical":{
+    "affix":"",
+    "group":"FireDamageTakenAsPhysical",
+    "level":1,
+    "modTags":["mutatedunique","physical","elemental","fire"],
+    "statOrder":[2354],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"30% of Fire Damage from Hits taken as Physical Damage"
+  },
+  "MutatedUniqueHelmetStr4TotemLifeIncreasedByOvercappedFireResistance":{
+    "affix":"",
+    "group":"TotemLifeIncreasedByOvercappedFireResistance",
+    "level":1,
+    "modTags":["mutatedunique","resistance"],
+    "statOrder":[10179],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Totem Life is increased by their Overcapped Fire Resistance"
+  },
+  "MutatedUniqueHelmetStr5SupportedByMinionLife":{
+    "affix":"",
+    "group":"DisplaySocketedGemsSupportedByMinionLife",
+    "level":1,
+    "modTags":["support","mutatedunique","gem"],
+    "statOrder":[431],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems are Supported by Level 30 Minion Life"
+  },
+  "MutatedUniqueHelmetStrDex2AttackSpeedWithMovementSkills":{
+    "affix":"",
+    "group":"AttackSpeedWithMovementSkills",
+    "level":1,
+    "modTags":["mutatedunique","attack","speed"],
+    "statOrder":[1343],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"20% increased Attack Speed with Movement Skills"
+  },
+  "MutatedUniqueHelmetStrDex2ChanceToSuppressSpells":{
+    "affix":"",
+    "group":"ChanceToSuppressSpells",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1056],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(10-20)% chance to Suppress Spell Damage"
+  },
+  "MutatedUniqueHelmetStrDex3WarcryBuffEffect":{
+    "affix":"",
+    "group":"WarcryBuffEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10348],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(25-50)% increased Warcry Buff Effect"
+  },
+  "MutatedUniqueHelmetStrDex3WarcryCooldownSpeed":{
+    "affix":"",
+    "group":"WarcryCooldownSpeed",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[3237],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-40)% increased Warcry Cooldown Recovery Rate"
+  },
+  "MutatedUniqueHelmetStrInt2HeraldOfPurityAdditionalMinion":{
+    "affix":"",
+    "group":"HeraldOfPurityAdditionalMinion",
+    "level":1,
+    "modTags":["mutatedunique","minion"],
+    "statOrder":[4927],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(2-3) to maximum number of Sentinels of Purity"
+  },
+  "MutatedUniqueHelmetStrInt4MaximumLifeIncreasePercent":{
+    "affix":"",
+    "group":"MaximumLifeIncreasePercent",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[1482],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% increased maximum Life"
+  },
+  "MutatedUniqueHelmetStrInt6ChanceToCastOnManaSpent":{
+    "affix":"",
+    "group":"ChanceToCastOnLifeSpent",
+    "level":1,
+    "modTags":["skill","mutatedunique","caster","gem"],
+    "statOrder":[669,669.1],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Trigger Socketed Spells when you Spend at least 200 Life on an",
+    "2":"Upfront Cost to Use or Trigger a Skill, with a 0.1 second Cooldown"
+  },
+  "MutatedUniqueJewel125AllocatedNotablePassiveSkillsInRadiusDoNothing":{
+    "affix":"",
+    "group":"AllocatedNotablePassiveSkillsInRadiusDoNothing",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7804],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Allocated Notable Passive Skills in Radius grant nothing"
+  },
+  "MutatedUniqueJewel125GrantsAllBonusesOfUnallocatedNotablesInRadius":{
+    "affix":"",
+    "group":"GrantsAllBonusesOfUnallocatedNotablesInRadius",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7806],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Grants all bonuses of Unallocated Notable Passive Skills in Radius"
+  },
+  "MutatedUniqueJewel177ModifiersToSpellSuppressionAlsoApplytoChanceToDefendPercentArmor":{
+    "affix":"",
+    "group":"ModifiersToSpellSuppressionAlsoApplytoChanceToDefendPercentArmor",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9967],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Modifiers to Chance to Suppress Spell Damage also apply to Chance to Defend with 200% of Armour at 100% of their Value"
+  },
+  "MutatedUniqueJewel3GainRandomRareMonsterModOnKillWhileNoNotablesAllocatedInRadius":{
+    "affix":"",
+    "group":"GainRandomRareMonsterModOnKillWhileNoNotablesAllocatedInRadius",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2965],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"If no Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its Modifiers for 20 seconds"
+  },
+  "MutatedUniqueJewel3GainRandomRareMonsterModOnKillWhileXSmallPassivesAllocatedInRadius":{
+    "affix":"",
+    "group":"GainRandomRareMonsterModOnKillWhileXSmallPassivesAllocatedInRadius",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[2966],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"With (8-12) Small Passives Allocated in Radius, When you Kill a Rare monster, you gain 1 of its Modifiers for 20 seconds"
+  },
+  "MutatedUniqueJewel5EvasionModifiersInRadiusAreTransformedToArmour":{
+    "affix":"",
+    "group":"EvasionModifiersInRadiusAreTransformedToArmour",
+    "level":1,
+    "modTags":["mutatedunique","defences"],
+    "statOrder":[2974],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Increases and Reductions to Evasion Rating in Radius are Transformed to apply to Armour"
+  },
+  "MutatedUniqueJewel6KeystoneCanBeAllocatedInMassiveRadiusWithoutBeingConnected":{
+    "affix":"",
+    "group":"KeystoneCanBeAllocatedInMassiveRadiusWithoutBeingConnected",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10489,10489.1],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Keystone Passive Skills in Radius can be Allocated without being connected to your tree",
+    "2":"Passage"
+  },
+  "MutatedUniqueOneHandAxe8LocalIncreasedAttackSpeed":{
+    "affix":"",
+    "group":"LocalIncreasedAttackSpeed",
+    "level":1,
+    "modTags":["mutatedunique","attack","speed"],
+    "statOrder":[1324],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(30-50)% increased Attack Speed"
+  },
+  "MutatedUniqueOneHandAxe9MeleeHitsCannotBeEvadedWhileWieldingSword":{
+    "affix":"",
+    "group":"MeleeHitsCannotBeEvadedWhileWieldingSword",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9004],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Melee Hits can't be Evaded while wielding a Sword"
+  },
+  "MutatedUniqueOneHandMace10LocalCriticalStrikeChance":{
+    "affix":"",
+    "group":"LocalCriticalStrikeChance",
+    "level":1,
+    "modTags":["mutatedunique","attack","critical"],
+    "statOrder":[1375],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(60-100)% increased Critical Strike Chance"
+  },
+  "MutatedUniqueOneHandMace3AreaOfEffect":{
+    "affix":"",
+    "group":"AreaOfEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1791],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Area of Effect"
+  },
+  "MutatedUniqueOneHandMace3LightningBoltOnHit":{
+    "affix":"",
+    "group":"LightningBoltOnHit",
+    "level":1,
+    "modTags":["skill","mutatedunique","elemental","lightning"],
+    "statOrder":[687],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Trigger Level 20 Lightning Bolt on Melee Hit with this Weapon, with a 0.25 second cooldown"
+  },
+  "MutatedUniqueOneHandSword15DualWieldingSpellBlockForJewel":{
+    "affix":"",
+    "group":"DualWieldingSpellBlockForJewel",
+    "level":1,
+    "modTags":["block","mutatedunique"],
+    "statOrder":[1057],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+10% Chance to Block Spell Damage while Dual Wielding"
+  },
+  "MutatedUniqueOneHandSword22MinionBaseCriticalStrikeChance":{
+    "affix":"",
+    "group":"MinionBaseCriticalStrikeChance",
+    "level":1,
+    "modTags":["mutatedunique","minion","critical"],
+    "statOrder":[9077],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions have +5% to Critical Strike Chance"
+  },
+  "MutatedUniqueOneHandSword22MinionUnholyMightChance":{
+    "affix":"",
+    "group":"MinionUnholyMightChance",
+    "level":1,
+    "modTags":["mutatedunique","chaos","minion"],
+    "statOrder":[3287],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions have 25% chance to gain Unholy Might for 4 seconds on Kill"
+  },
+  "MutatedUniqueOneHandSword23MinionSkillGemQuality":{
+    "affix":"",
+    "group":"MinionSkillGemQuality",
+    "level":1,
+    "modTags":["mutatedunique","minion","gem"],
+    "statOrder":[9139],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(20-30)% to Quality of all Minion Skill Gems"
+  },
+  "MutatedUniqueOneHandSword23MinionUnholyMightChance":{
+    "affix":"",
+    "group":"MinionUnholyMightChance",
+    "level":1,
+    "modTags":["mutatedunique","chaos","minion"],
+    "statOrder":[3287],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions have 25% chance to gain Unholy Might for 4 seconds on Kill"
+  },
+  "MutatedUniqueQuiver3ImpaleEffect":{
+    "affix":"",
+    "group":"ImpaleEffect",
+    "level":1,
+    "modTags":["mutatedunique","physical"],
+    "statOrder":[7107],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased Impale Effect"
+  },
+  "MutatedUniqueQuiver4BowStunThresholdReduction":{
+    "affix":"",
+    "group":"BowStunThresholdReduction",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1430],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% reduced Enemy Stun Threshold with Bows"
+  },
+  "MutatedUniqueQuiver7MaximumLifeConvertedToEnergyShield":{
+    "affix":"",
+    "group":"MaximumLifeConvertedToEnergyShield",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences","energy_shield"],
+    "statOrder":[8975],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-15)% of Maximum Life Converted to Energy Shield"
+  },
+  "MutatedUniqueQuiver7StartEnergyShieldRechargeOnSkillChance":{
+    "affix":"",
+    "group":"StartEnergyShieldRechargeOnSkillChance",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[6336],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-15)% chance for Energy Shield Recharge to start when you use a Skill"
+  },
+  "MutatedUniqueRing11ConsecratedGroundEffect":{
+    "affix":"",
+    "group":"ConsecratedGroundEffect",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5745],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(25-40)% increased Effect of Consecrated Ground you create"
+  },
+  "MutatedUniqueRing13LeftRingSlotEvasionRating":{
+    "affix":"",
+    "group":"LeftRingSlotEvasionRating",
+    "level":1,
+    "modTags":["mutatedunique","defences"],
+    "statOrder":[2580],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Left ring slot: +1000 to Evasion Rating"
+  },
+  "MutatedUniqueRing13RightRingSlotArmour":{
+    "affix":"",
+    "group":"RightRingSlotArmour",
+    "level":1,
+    "modTags":["mutatedunique","defences"],
+    "statOrder":[2559],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Right ring slot: +1000 to Armour"
+  },
+  "MutatedUniqueRing16DisablesOtherRingSlot":{
+    "affix":"",
+    "group":"DisablesOtherRingSlot",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[1516],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Can't use other Rings"
+  },
+  "MutatedUniqueRing17IncreasedMaximumPowerCharges":{
+    "affix":"",
+    "group":"IncreasedMaximumPowerCharges",
+    "level":1,
+    "modTags":["power_charge","mutatedunique"],
+    "statOrder":[1725],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+1 to Maximum Power Charges"
+  },
+  "MutatedUniqueRing18ActionSpeedMinimumWhileIgnited":{
+    "affix":"",
+    "group":"ActionSpeedMinimumWhileIgnited",
+    "level":1,
+    "modTags":["mutatedunique","elemental","fire","speed","ailment"],
+    "statOrder":[4429],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Action Speed cannot be modified to below Base Value while Ignited"
+  },
+  "MutatedUniqueRing18RecoupWhileFrozen":{
+    "affix":"",
+    "group":"RecoupWhileFrozen",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[6019],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"25% of Damage taken while Frozen Recouped as Life"
+  },
+  "MutatedUniqueRing19EnemiesShockedByHitsAreDebilitated":{
+    "affix":"",
+    "group":"EnemiesShockedByHitsAreDebilitated",
+    "level":25,
+    "modTags":["mutatedunique"],
+    "statOrder":[6287],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Enemies Shocked by you are Debilitated"
+  },
+  "MutatedUniqueRing19FrozenMonstersTakePercentIncreasedDamage":{
+    "affix":"",
+    "group":"FrozenMonstersTakePercentIncreasedDamage",
+    "level":1,
+    "modTags":["mutatedunique","elemental","cold","ailment"],
+    "statOrder":[6576],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Enemies Frozen by you take 10% increased Damage"
+  },
+  "MutatedUniqueRing20IgnitedEnemiesExplode":{
+    "affix":"",
+    "group":"IgnitedEnemiesExplode",
+    "level":1,
+    "modTags":["mutatedunique","elemental","fire","ailment"],
+    "statOrder":[7073],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Ignited Enemies you Kill Explode, dealing 5% of their Life as Fire Damage which cannot Ignite"
+  },
+  "MutatedUniqueRing20ShockedEnemiesExplode":{
+    "affix":"",
+    "group":"ShockedEnemiesExplode",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental","lightning"],
+    "statOrder":[9804,9804.1],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Shocked Enemies you Kill Explode, dealing 5% of",
+    "2":"their Life as Lightning Damage which cannot Shock"
+  },
+  "MutatedUniqueRing24MaximumFireResist":{
+    "affix":"",
+    "group":"MaximumFireResist",
+    "level":1,
+    "modTags":["mutatedunique","elemental","fire","resistance"],
+    "statOrder":[1534],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+3% to maximum Fire Resistance"
+  },
+  "MutatedUniqueRing26ManaPerLevel":{
+    "affix":"",
+    "group":"ManaPerLevel",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana"],
+    "statOrder":[8018],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+2 Maximum Mana per Level"
+  },
+  "MutatedUniqueRing27DebuffTimePassed":{
+    "affix":"",
+    "group":"DebuffTimePassed",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[6045],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Debuffs on you expire (-20-20)% slower"
+  },
+  "MutatedUniqueRing2WarcryMonsterPower":{
+    "affix":"",
+    "group":"WarcryMonsterPower",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10354],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% increased total Power counted by Warcries"
+  },
+  "MutatedUniqueRing32EnergyShieldAndMana":{
+    "affix":"",
+    "group":"EnergyShieldAndMana",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana","defences","energy_shield"],
+    "statOrder":[1469,1490],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(0-60) to maximum Energy Shield",
+    "2":"+(0-60) to maximum Mana"
+  },
+  "MutatedUniqueRing33MinionSkillManaCost":{
+    "affix":"",
+    "group":"MinionSkillManaCost",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana","minion"],
+    "statOrder":[9140],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-20)% reduced Mana Cost of Minion Skills"
+  },
+  "MutatedUniqueRing4EnfeebleOnHit":{
+    "affix":"",
+    "group":"EnfeebleOnHit",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[2422],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Curse Enemies with Enfeeble on Hit"
+  },
+  "MutatedUniqueRing4TemporalChainsOnHit":{
+    "affix":"",
+    "group":"TemporalChainsOnHit",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[2428],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Curse Enemies with Temporal Chains on Hit"
+  },
+  "MutatedUniqueRing4VulnerabilityOnHit":{
+    "affix":"",
+    "group":"VulnerabilityOnHit",
+    "level":1,
+    "modTags":["mutatedunique","caster","curse"],
+    "statOrder":[2429],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Curse Enemies with Vulnerability on Hit"
+  },
+  "MutatedUniqueRing6AllDefences":{
+    "affix":"",
+    "group":"AllDefences",
+    "level":1,
+    "modTags":["mutatedunique","defences"],
+    "statOrder":[2742],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-30)% increased Global Defences"
+  },
+  "MutatedUniqueRing6CriticalStrikeMultiplier":{
+    "affix":"",
+    "group":"CriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["mutatedunique","damage","critical"],
+    "statOrder":[1399],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(10-30)% to Global Critical Strike Multiplier"
+  },
+  "MutatedUniqueRing7NonDamagingAilmentEffectOnSelf":{
+    "affix":"",
+    "group":"NonDamagingAilmentEffectOnSelf",
+    "level":1,
+    "modTags":["mutatedunique","ailment"],
+    "statOrder":[9297],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"50% reduced Effect of Non-Damaging Ailments on you"
+  },
+  "MutatedUniqueRing9ExtraDamageRollsWhileLowLife":{
+    "affix":"",
+    "group":"ExtraDamageRollsWhileLowLife",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[4459],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Your Damage with Hits is Lucky while on Low Life"
+  },
+  "MutatedUniqueRing9IncreasedAttackSpeedWhenOnLowLife":{
+    "affix":"",
+    "group":"IncreasedAttackSpeedWhenOnLowLife",
+    "level":1,
+    "modTags":["mutatedunique","attack","speed"],
+    "statOrder":[1133],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(12-16)% increased Attack Speed when on Low Life"
+  },
+  "MutatedUniqueSceptre13ColdDamageOverTimeMultiplier":{
+    "affix":"",
+    "group":"ColdDamageOverTimeMultiplier",
+    "level":1,
+    "modTags":["dot_multi","elemental_damage","mutatedunique","damage","elemental","cold"],
+    "statOrder":[1168],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(30-40)% to Cold Damage over Time Multiplier"
+  },
+  "MutatedUniqueShieldDex4ChaosDamageOverTimeMultiplier":{
+    "affix":"",
+    "group":"ChaosDamageOverTimeMultiplier",
+    "level":1,
+    "modTags":["dot_multi","chaos_damage","mutatedunique","damage","chaos"],
+    "statOrder":[1171],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(23-37)% to Chaos Damage over Time Multiplier"
+  },
+  "MutatedUniqueShieldDex6ImpaleChanceForJewel":{
+    "affix":"",
+    "group":"ImpaleChanceForJewel",
+    "level":1,
+    "modTags":["mutatedunique","physical","attack"],
+    "statOrder":[4815],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-40)% chance to Impale Enemies on Hit with Attacks"
+  },
+  "MutatedUniqueShieldDex9DegenDamageTaken":{
+    "affix":"",
+    "group":"DegenDamageTaken",
+    "level":1,
+    "modTags":["mutatedunique","damage"],
+    "statOrder":[2154],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-15)% reduced Damage taken from Damage Over Time"
+  },
+  "MutatedUniqueShieldDex9TreatElementalResistanceAsInverted":{
+    "affix":"",
+    "group":"TreatElementalResistanceAsInverted",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental"],
+    "statOrder":[10209],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Hits have (20-25)% chance to treat Enemy Monster Elemental Resistance values as inverted"
+  },
+  "MutatedUniqueShieldInt1DamageOverTimePer100PlayerMaxLife":{
+    "affix":"",
+    "group":"DamageOverTimePer100PlayerMaxLife",
+    "level":1,
+    "modTags":["resource","mutatedunique","life"],
+    "statOrder":[5919],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Deal 5% increased Damage Over Time per 100 Player Maximum Life"
+  },
+  "MutatedUniqueShieldInt1NonDamagingAilmentWithCritsEffectPer100MaxLife":{
+    "affix":"",
+    "group":"NonDamagingAilmentWithCritsEffectPer100MaxLife",
+    "level":1,
+    "modTags":["mutatedunique","critical","ailment"],
+    "statOrder":[9295],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"2% increased Effect of Non-Damaging Ailments you inflict with Critical Strikes per 100 Player Maximum Life"
+  },
+  "MutatedUniqueShieldInt2LocalIncreaseSocketedAuraLevel":{
+    "affix":"",
+    "group":"LocalIncreaseSocketedAuraLevel",
+    "level":1,
+    "modTags":["mutatedunique","aura","gem"],
+    "statOrder":[161],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+2 to Level of Socketed Aura Gems"
+  },
+  "MutatedUniqueShieldInt6EnchantmentBlind":{
+    "affix":"",
+    "group":"EnchantmentBlind",
+    "level":1,
+    "modTags":["mutatedunique","critical"],
+    "statOrder":[6294],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Enemies Blinded by you have 100% reduced Critical Strike Chance"
+  },
+  "MutatedUniqueShieldInt7DodgeChancePerPowerCharge":{
+    "affix":"",
+    "group":"DodgeChancePerPowerCharge",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[9957],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+4% chance to Suppress Spell Damage per Power Charge"
+  },
+  "MutatedUniqueShieldInt8AlwaysShockLowLifeEnemies":{
+    "affix":"",
+    "group":"AlwaysShockLowLifeEnemies",
+    "level":1,
+    "modTags":["mutatedunique","ailment"],
+    "statOrder":[4559],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Hits always Shock Enemies that are on Low Life"
+  },
+  "MutatedUniqueShieldInt8DamageCannotBeReflected":{
+    "affix":"",
+    "group":"DamageCannotBeReflected",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5917],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Damage cannot be Reflected"
+  },
+  "MutatedUniqueShieldInt9ChaosDamageDoesNotBypassESWhileNotLowMana":{
+    "affix":"",
+    "group":"ChaosDamageDoesNotBypassESWhileNotLowMana",
+    "level":1,
+    "modTags":["resource","mutatedunique","mana","defences","energy_shield","chaos"],
+    "statOrder":[5627],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Chaos Damage taken does not bypass Energy Shield while not on Low Mana"
+  },
+  "MutatedUniqueShieldInt9DamageCannotBeReflected":{
+    "affix":"",
+    "group":"DamageCannotBeReflected",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[5917],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Damage cannot be Reflected"
+  },
+  "MutatedUniqueShieldStr8ArmourAppliesToElementalIfBlockedRecently":{
+    "affix":"",
+    "group":"ArmourAppliesToElementalIfBlockedRecently",
+    "level":1,
+    "modTags":["block","mutatedunique","defences"],
+    "statOrder":[4649],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(8-12)% of Armour applies to Fire, Cold and Lightning Damage taken from Hits if you've Blocked Recently"
+  },
+  "MutatedUniqueShieldStr8MaximumBlockChance":{
+    "affix":"",
+    "group":"MaximumBlockChance",
+    "level":1,
+    "modTags":["block","mutatedunique"],
+    "statOrder":[1897],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+3% to maximum Chance to Block Attack Damage"
+  },
+  "MutatedUniqueShieldStr9GainEnergyShieldOnBlock":{
+    "affix":"",
+    "group":"GainEnergyShieldOnBlock",
+    "level":1,
+    "modTags":["block","mutatedunique","defences","energy_shield"],
+    "statOrder":[1670],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain (300-650) Energy Shield when you Block"
+  },
+  "MutatedUniqueShieldStrDex7LocalGemsSocketedHaveNoAttributeRequirements":{
+    "affix":"",
+    "group":"LocalGemsSocketedHaveNoAttributeRequirements",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[7787],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Ignore Attribute Requirements of Socketed Gems"
+  },
+  "MutatedUniqueShieldStrDex7LocalIncreaseSocketedGemLevel":{
+    "affix":"",
+    "group":"LocalIncreaseSocketedGemLevel",
+    "level":1,
+    "modTags":["mutatedunique","gem"],
+    "statOrder":[142],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+1 to Level of Socketed Gems"
+  },
+  "MutatedUniqueShieldStrDex8MonsterChanceToAvoid":{
+    "affix":"",
+    "group":"MonsterChanceToAvoid",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[4836],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-15)% chance to Avoid All Damage from Hits"
+  },
+  "MutatedUniqueShieldStrDex8SpellBlockPercentage":{
+    "affix":"",
+    "group":"SpellBlockPercentage",
+    "level":1,
+    "modTags":["block","mutatedunique"],
+    "statOrder":[1072],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(20-30)% Chance to Block Spell Damage"
+  },
+  "MutatedUniqueShieldStrInt5CastSpeedOnLowLife":{
+    "affix":"",
+    "group":"CastSpeedOnLowLife",
+    "level":1,
+    "modTags":["mutatedunique","caster","speed"],
+    "statOrder":[1908],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(10-20)% increased Cast Speed when on Low Life"
+  },
+  "MutatedUniqueShieldStrInt5FlatEnergyShieldRegenerationPerMinute":{
+    "affix":"",
+    "group":"FlatEnergyShieldRegenerationPerMinute",
+    "level":1,
+    "modTags":["mutatedunique","defences","energy_shield"],
+    "statOrder":[2553],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Regenerate (100-200) Energy Shield per second"
+  },
+  "MutatedUniqueStaff10DisplaySocketedSkillsChain":{
+    "affix":"",
+    "group":"DisplaySocketedSkillsChain",
+    "level":1,
+    "modTags":["skill","mutatedunique","gem"],
+    "statOrder":[467],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Socketed Gems Chain 2 additional times"
+  },
+  "MutatedUniqueTwoHandAxe11WarcriesExertAnAdditionalAttack":{
+    "affix":"",
+    "group":"WarcriesExertAnAdditionalAttack",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10352],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Warcries Exert 1 additional Attack"
+  },
+  "MutatedUniqueTwoHandAxe11WarcryCooldownSpeed":{
+    "affix":"",
+    "group":"WarcryCooldownSpeed",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[3237],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"500% increased Warcry Cooldown Recovery Rate"
+  },
+  "MutatedUniqueTwoHandAxe12FasterBleedDamage":{
+    "affix":"",
+    "group":"FasterBleedDamage",
+    "level":1,
+    "modTags":["physical_damage","bleed","mutatedunique","damage","physical","attack","ailment"],
+    "statOrder":[6430],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Bleeding you inflict deals Damage (20-40)% faster"
+  },
+  "MutatedUniqueTwoHandAxe12PercentageIntelligence":{
+    "affix":"",
+    "group":"PercentageIntelligence",
+    "level":1,
+    "modTags":["mutatedunique","attribute"],
+    "statOrder":[1098],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"80% reduced Intelligence"
+  },
+  "MutatedUniqueTwoHandAxe8SpellDamage":{
+    "affix":"",
+    "group":"SpellDamage",
+    "level":1,
+    "modTags":["caster_damage","mutatedunique","damage","caster"],
+    "statOrder":[1135],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(120-140)% increased Spell Damage"
+  },
+  "MutatedUniqueTwoHandMace6KeystoneBattlemage":{
+    "affix":"",
+    "group":"KeystoneBattlemage",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[10544],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Battlemage"
+  },
+  "MutatedUniqueTwoHandMace6LoseLifePercentOnCrit":{
+    "affix":"",
+    "group":"LoseLifePercentOnCrit",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","critical"],
+    "statOrder":[7975],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Lose 1% of Life when you deal a Critical Strike"
+  },
+  "MutatedUniqueTwoHandMace8DoubleAnimateWeaponLimit":{
+    "affix":"",
+    "group":"DoubleAnimateWeaponLimit",
+    "level":1,
+    "modTags":["mutatedunique","minion"],
+    "statOrder":[6156],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Maximum number of Animated Weapons is Doubled"
+  },
+  "MutatedUniqueTwoHandMace8IncreasedMinionDamageIfYouHitEnemy":{
+    "affix":"",
+    "group":"IncreasedMinionDamageIfYouHitEnemy",
+    "level":1,
+    "modTags":["mutatedunique","damage","minion"],
+    "statOrder":[9106],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions deal (50-70)% increased Damage if you've Hit Recently"
+  },
+  "MutatedUniqueTwoHandSword7AccuracyRatingPerLevel":{
+    "affix":"",
+    "group":"AccuracyRatingPerLevel",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[4420],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(6-8) to Accuracy Rating per Level"
+  },
+  "MutatedUniqueTwoHandSword8ImmortalAmbitionIfAllSocketsRed":{
+    "affix":"",
+    "group":"ImmortalAmbitionIfAllSocketsRed",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[7786],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"You have Immortal Ambition while all Socketed Gems are Red"
+  },
+  "MutatedUniqueTwoHandSword8RecoupedAsLifePerRedGem":{
+    "affix":"",
+    "group":"RecoupedAsLifePerRedGem",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","gem"],
+    "statOrder":[6018],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"10% of Damage taken Recouped as Life per Socketed Red Gem"
+  },
+  "MutatedUniqueTwoHandSword9LocalLightningDamage":{
+    "affix":"",
+    "group":"LocalLightningDamage",
+    "level":1,
+    "modTags":["elemental_damage","mutatedunique","damage","elemental","lightning","attack"],
+    "statOrder":[1293],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Adds 1 to 777 Lightning Damage"
+  },
+  "MutatedUniqueWand14MinionPhysicalDamageAddedAsFire":{
+    "affix":"",
+    "group":"MinionPhysicalDamageAddedAsFire",
+    "level":1,
+    "modTags":["mutatedunique","physical","elemental","fire","minion"],
+    "statOrder":[9134],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Minions gain (20-40)% of Physical Damage as Extra Fire Damage"
+  },
+  "MutatedUniqueWand15GlobalIncreaseColdSpellSkillGemLevel":{
+    "affix":"",
+    "group":"GlobalIncreaseColdSpellSkillGemLevel",
+    "level":1,
+    "modTags":["mutatedunique","elemental","cold","caster","gem"],
+    "statOrder":[1522],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(2-4) to Level of all Cold Spell Skill Gems"
+  },
+  "MutatedUniqueWand15PowerChargeOnManaSpent":{
+    "affix":"",
+    "group":"PowerChargeOnManaSpent",
+    "level":1,
+    "modTags":["power_charge","mutatedunique"],
+    "statOrder":[7749],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Gain a Power Charge after Spending a total of 200 Mana"
+  },
+  "MutatedUniqueWand16ColdDamageOverTimeMultiplierPerPowerCharge":{
+    "affix":"",
+    "group":"ColdDamageOverTimeMultiplierPerPowerCharge",
+    "level":1,
+    "modTags":["mutatedunique","elemental","cold"],
+    "statOrder":[5703],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+(15-20)% to Cold Damage over Time Multiplier per Power Charge"
+  },
+  "MutatedUniqueWand2LifeAndEnergyShieldDegenPerMinion":{
+    "affix":"",
+    "group":"LifeAndEnergyShieldDegenPerMinion",
+    "level":1,
+    "modTags":["resource","mutatedunique","life","defences","energy_shield","minion"],
+    "statOrder":[7200],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"Lose 3000% Life and Energy Shield per Second per Minion"
+  },
+  "MutatedUniqueWand2MaximumGolems":{
+    "affix":"",
+    "group":"MaximumGolems",
+    "level":1,
+    "modTags":["mutatedunique","minion"],
+    "statOrder":[3598],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"+2 to maximum number of Summoned Golems"
+  },
+  "MutatedUniqueWand6WeaponTreeFishingWishEffectOfAncientFish":{
+    "affix":"",
+    "group":"WeaponTreeFishingWishEffectOfAncientFish",
+    "level":1,
+    "modTags":["mutatedunique"],
+    "statOrder":[6500],
+    "weightKey":[],
+    "weightVal":[],
+    "1":"(30-50)% increased effect of Wishes granted by Ancient Fish"
+  }
+}

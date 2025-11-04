@@ -68400,6 +68400,11 @@
           "2":{
             "effectType":"Buff",
             "type":"GlobalEffect"
+          },
+          "3":{
+            "stat":"LifeUnreserved",
+            "threshold":2,
+            "type":"StatThreshold"
           }
         }
       },
@@ -68418,6 +68423,11 @@
           "2":{
             "effectType":"Buff",
             "type":"GlobalEffect"
+          },
+          "3":{
+            "stat":"LifeUnreserved",
+            "threshold":2,
+            "type":"StatThreshold"
           }
         }
       },
@@ -68453,16 +68463,11 @@
           "1":{
             "effectType":"Buff",
             "type":"GlobalEffect"
-          }
-        }],
-      "spell_damage_+%":[{
-          "flags":2,
-          "keywordFlags":0,
-          "name":"Damage",
-          "type":"INC",
-          "1":{
-            "effectType":"Buff",
-            "type":"GlobalEffect"
+          },
+          "2":{
+            "stat":"LifeUnreserved",
+            "threshold":2,
+            "type":"StatThreshold"
           }
         }]
     },
@@ -68808,6 +68813,11 @@
           "2":{
             "effectType":"Buff",
             "type":"GlobalEffect"
+          },
+          "3":{
+            "stat":"LifeUnreserved",
+            "threshold":2,
+            "type":"StatThreshold"
           }
         }
       },
@@ -68831,6 +68841,11 @@
           "1":{
             "effectType":"Buff",
             "type":"GlobalEffect"
+          },
+          "2":{
+            "stat":"LifeUnreserved",
+            "threshold":2,
+            "type":"StatThreshold"
           }
         }]
     },
