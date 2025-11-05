@@ -65387,9 +65387,7 @@
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "statMap":{
-      "pyroclast_mine_aura_fire_exposure_%_to_apply":{
-        "mult":-1,
-        "1":{
+      "pyroclast_mine_aura_fire_exposure_%_to_apply":[{
           "flags":0,
           "keywordFlags":0,
           "name":"FireExposure",
@@ -65397,11 +65395,9 @@
           "1":{
             "effectName":"Pyroclast Mine Fire Exposure",
             "effectType":"AuraDebuff",
-            "type":"GlobalEffect",
-            "unscalable":true
+            "type":"GlobalEffect"
           }
-        }
-      }
+        }]
     },
     "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","base_skill_is_mined","base_skill_show_average_damage_instead_of_dps","is_remote_mine","is_area_damage","base_is_projectile","display_additional_projectile_per_3_mines_in_detonation_sequence","projectile_behaviour_only_explode","quality_display_base_number_of_projectiles_is_gem","exposure_uses_aura_effect_+%_instead_of_effect_+%"]
   },
@@ -66016,9 +66012,7 @@
     },
     "statDescriptionScope":"skill_stat_descriptions",
     "statMap":{
-      "pyroclast_mine_aura_fire_exposure_%_to_apply":{
-        "mult":-1,
-        "1":{
+      "pyroclast_mine_aura_fire_exposure_%_to_apply":[{
           "flags":0,
           "keywordFlags":0,
           "name":"FireExposure",
@@ -66026,11 +66020,9 @@
           "1":{
             "effectName":"Pyroclast Mine Fire Exposure",
             "effectType":"AuraDebuff",
-            "type":"GlobalEffect",
-            "unscalable":true
+            "type":"GlobalEffect"
           }
-        }
-      }
+        }]
     },
     "stats":["spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","spell_minimum_base_fire_damage","spell_maximum_base_fire_damage","base_skill_is_mined","base_skill_show_average_damage_instead_of_dps","is_remote_mine","is_area_damage","base_is_projectile","display_additional_projectile_per_3_mines_in_detonation_sequence","projectile_behaviour_only_explode","quality_display_base_number_of_projectiles_is_gem","exposure_uses_aura_effect_+%_instead_of_effect_+%"]
   },
