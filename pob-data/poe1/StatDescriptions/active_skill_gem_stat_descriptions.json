@@ -1351,7 +1351,7 @@
     "stats":["attack_minimum_added_physical_damage","attack_maximum_added_physical_damage"],
     "1":[{
         "limit":[["#","#"],["#","#"]],
-        "text":"{0} to {1} Physical Damage"
+        "text":"{0} to {1} Added Physical Damage"
       }]
   },
   "88":{

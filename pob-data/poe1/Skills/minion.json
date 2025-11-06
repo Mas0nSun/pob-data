@@ -189,7 +189,8 @@
     "description":"Performs a melee attack, and causes lightning to strike a nearby enemy, dealing damage in an area. Each target can only be hit once by this skill. Hitting an enemy grants an aura for a duration. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.",
     "hidden":true,
     "levels":[{
-        "baseMultiplier":2.0313,
+        "baseMultiplier":3.25,
+        "damageEffectiveness":3.25,
         "levelRequirement":1
       }],
     "name":"Smite",

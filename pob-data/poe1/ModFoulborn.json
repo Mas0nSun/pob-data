@@ -367,7 +367,7 @@
     "statOrder":[9924],
     "weightKey":[],
     "weightVal":[],
-    "1":"Prevent +35% of Suppressed Spell Damage if you have not Suppressed Spell Damage Recently"
+    "1":"Prevent +(20-25)% of Suppressed Spell Damage if you have not Suppressed Spell Damage Recently"
   },
   "MutatedUniqueBodyDexInt1AuraEffectOnEnemies":{
     "affix":"",
@@ -1377,7 +1377,7 @@
     "statOrder":[669,669.1],
     "weightKey":[],
     "weightVal":[],
-    "1":"Trigger Socketed Spells when you Spend at least 200 Life on an",
+    "1":"50% chance to Trigger Socketed Spells when you Spend at least 200 Life on an",
     "2":"Upfront Cost to Use or Trigger a Skill, with a 0.1 second Cooldown"
   },
   "MutatedUniqueJewel125AllocatedNotablePassiveSkillsInRadiusDoNothing":{
@@ -1408,7 +1408,7 @@
     "statOrder":[9967],
     "weightKey":[],
     "weightVal":[],
-    "1":"Modifiers to Chance to Suppress Spell Damage also apply to Chance to Defend with 200% of Armour at 100% of their Value"
+    "1":"Modifiers to Chance to Suppress Spell Damage also apply to Chance to Defend with 200% of Armour at 50% of their Value"
   },
   "MutatedUniqueJewel3GainRandomRareMonsterModOnKillWhileNoNotablesAllocatedInRadius":{
     "affix":"",

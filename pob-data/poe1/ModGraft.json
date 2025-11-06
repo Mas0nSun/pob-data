@@ -2634,7 +2634,7 @@
   "GraftPrefixUulnetolStunDuration2":{
     "affix":"Thundering",
     "group":"GraftPrefixUulnetolStunDuration",
-    "level":1,
+    "level":22,
     "modTags":[],
     "statOrder":[1774],
     "type":"Prefix",
@@ -2645,7 +2645,7 @@
   "GraftPrefixUulnetolStunDuration3":{
     "affix":"Brutish",
     "group":"GraftPrefixUulnetolStunDuration",
-    "level":1,
+    "level":44,
     "modTags":[],
     "statOrder":[1774],
     "type":"Prefix",
@@ -2656,7 +2656,7 @@
   "GraftPrefixUulnetolStunDuration4":{
     "affix":"Sweeping",
     "group":"GraftPrefixUulnetolStunDuration",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[1774],
     "type":"Prefix",
@@ -2667,7 +2667,7 @@
   "GraftPrefixUulnetolStunDuration5":{
     "affix":"Thudding",
     "group":"GraftPrefixUulnetolStunDuration",
-    "level":1,
+    "level":82,
     "modTags":[],
     "statOrder":[1774],
     "type":"Prefix",
@@ -4598,7 +4598,7 @@
   "GraftSuffixMinionAttackSpeed1":{
     "affix":"of Lunacy",
     "group":"GraftSuffixMinionAttackSpeed",
-    "level":1,
+    "level":44,
     "modTags":[],
     "statOrder":[10675],
     "type":"Suffix",
@@ -4609,7 +4609,7 @@
   "GraftSuffixMinionAttackSpeed2":{
     "affix":"of Psychopathy",
     "group":"GraftSuffixMinionAttackSpeed",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10675],
     "type":"Suffix",
@@ -4620,7 +4620,7 @@
   "GraftSuffixMinionAttackSpeed3":{
     "affix":"of Maniacism",
     "group":"GraftSuffixMinionAttackSpeed",
-    "level":1,
+    "level":82,
     "modTags":[],
     "statOrder":[10675],
     "type":"Suffix",
@@ -4631,7 +4631,7 @@
   "GraftSuffixMinionBlindOnHit1":{
     "affix":"of Blinding Snow",
     "group":"GraftSuffixMinionBlindOnHit",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10680],
     "type":"Suffix",
@@ -4653,7 +4653,7 @@
   "GraftSuffixMinionDamage10":{
     "affix":"of Legions",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":85,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4664,7 +4664,7 @@
   "GraftSuffixMinionDamage2":{
     "affix":"of Infantry",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":11,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4675,7 +4675,7 @@
   "GraftSuffixMinionDamage3":{
     "affix":"of Troops",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":22,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4686,7 +4686,7 @@
   "GraftSuffixMinionDamage4":{
     "affix":"of the Multitude",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":33,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4697,7 +4697,7 @@
   "GraftSuffixMinionDamage5":{
     "affix":"of Swarms",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":44,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4708,7 +4708,7 @@
   "GraftSuffixMinionDamage6":{
     "affix":"of Hordes",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":55,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4719,7 +4719,7 @@
   "GraftSuffixMinionDamage7":{
     "affix":"of Hosts",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4730,7 +4730,7 @@
   "GraftSuffixMinionDamage8":{
     "affix":"of Throngs",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":74,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4741,7 +4741,7 @@
   "GraftSuffixMinionDamage9":{
     "affix":"of Droves",
     "group":"GraftSuffixMinionDamage",
-    "level":1,
+    "level":82,
     "modTags":[],
     "statOrder":[10677],
     "type":"Suffix",
@@ -4752,7 +4752,7 @@
   "GraftSuffixMinionDamageGainAsCold1":{
     "affix":"of Frozen Falls",
     "group":"GraftSuffixMinionDamageGainAsCold",
-    "level":1,
+    "level":44,
     "modTags":[],
     "statOrder":[10679],
     "type":"Suffix",
@@ -4763,7 +4763,7 @@
   "GraftSuffixMinionDamageGainAsCold2":{
     "affix":"of Winter Winds",
     "group":"GraftSuffixMinionDamageGainAsCold",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10679],
     "type":"Suffix",
@@ -4774,7 +4774,7 @@
   "GraftSuffixMinionDamageGainAsCold3":{
     "affix":"of Sleetbound Snow",
     "group":"GraftSuffixMinionDamageGainAsCold",
-    "level":1,
+    "level":82,
     "modTags":[],
     "statOrder":[10679],
     "type":"Suffix",
@@ -4796,7 +4796,7 @@
   "GraftSuffixMinionLife2":{
     "affix":"of Flesh",
     "group":"GraftSuffixMinionLife",
-    "level":1,
+    "level":22,
     "modTags":[],
     "statOrder":[10678],
     "type":"Suffix",
@@ -4807,7 +4807,7 @@
   "GraftSuffixMinionLife3":{
     "affix":"of Sinew",
     "group":"GraftSuffixMinionLife",
-    "level":1,
+    "level":44,
     "modTags":[],
     "statOrder":[10678],
     "type":"Suffix",
@@ -4818,7 +4818,7 @@
   "GraftSuffixMinionLife4":{
     "affix":"of Beef",
     "group":"GraftSuffixMinionLife",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10678],
     "type":"Suffix",
@@ -4829,7 +4829,7 @@
   "GraftSuffixMinionLife5":{
     "affix":"of Meat",
     "group":"GraftSuffixMinionLife",
-    "level":1,
+    "level":82,
     "modTags":[],
     "statOrder":[10678],
     "type":"Suffix",
@@ -4840,7 +4840,7 @@
   "GraftSuffixMinionTauntOnHit1":{
     "affix":"of Taunting",
     "group":"GraftSuffixMinionTauntOnHit",
-    "level":1,
+    "level":66,
     "modTags":[],
     "statOrder":[10676],
     "type":"Suffix",

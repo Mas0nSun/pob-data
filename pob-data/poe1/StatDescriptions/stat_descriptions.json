@@ -69512,10 +69512,10 @@
     "stats":["brequel_unique_fruit_dexterity_requirement_chance_+%"],
     "1":[{
         "limit":[[1,"#"]],
-        "text":"{0}% increased chance for Birthed Unique Items to have Dexterity Requirements"
+        "text":"{0}% more chance for Birthed Unique Items to have Dexterity Requirements"
       },{
         "limit":[["#",-1]],
-        "text":"{0}% reduced chance for Birthed Unique Items to have Dexterity Requirements",
+        "text":"{0}% less chance for Birthed Unique Items to have Dexterity Requirements",
         "1":{
           "k":"negate",
           "v":1
@@ -69568,10 +69568,10 @@
     "stats":["brequel_unique_fruit_intelligence_requirement_chance_+%"],
     "1":[{
         "limit":[[1,"#"]],
-        "text":"{0}% increased chance for Birthed Unique Items to have Intelligence Requirements"
+        "text":"{0}% more chance for Birthed Unique Items to have Intelligence Requirements"
       },{
         "limit":[["#",-1]],
-        "text":"{0}% reduced chance for Birthed Unique Items to have Intelligence Requirements",
+        "text":"{0}% less chance for Birthed Unique Items to have Intelligence Requirements",
         "1":{
           "k":"negate",
           "v":1
@@ -69694,10 +69694,10 @@
     "stats":["brequel_unique_fruit_strength_requirement_chance_+%"],
     "1":[{
         "limit":[[1,"#"]],
-        "text":"{0}% increased chance for Birthed Unique Items to have Strength Requirements"
+        "text":"{0}% more chance for Birthed Unique Items to have Strength Requirements"
       },{
         "limit":[["#",-1]],
-        "text":"{0}% reduced chance for Birthed Unique Items to have Strength Requirements",
+        "text":"{0}% less chance for Birthed Unique Items to have Strength Requirements",
         "1":{
           "k":"negate",
           "v":1
