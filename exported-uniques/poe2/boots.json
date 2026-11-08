@@ -1,91 +1,67 @@
 {
+  "Thunderstep":{
+    "baseType":"Steeltoe Boots",
+    "stats":["Thunderstep","Steeltoe Boots","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity2[10,15]","{variant:2}UniqueMovementVelocity2","UniqueLocalIncreasedEvasionRatingPercent3","UniqueMaximumLightningResist1","{variant:1}UniqueLightningResist6[25,35]","{variant:2}UniqueLightningResist6"],
+    "variants":["Pre 0.1.1","Current"],
+    "source":"No longer obtainable",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueMaximumLightningResist1","UniqueMovementVelocity2","UniqueLightningResist6"]
+  },
   "Trampletoe":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Trampletoe","Trimmed Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity5[10,10]","{variant:2}UniqueMovementVelocity5","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueReducedLocalAttributeRequirements4","UniqueOverkillDamagePhysical1"],
     "baseType":"Trimmed Greaves",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueReducedLocalAttributeRequirements4","UniqueOverkillDamagePhysical1","UniqueMovementVelocity5"]
-  },
-  "Bushwhack":{
-    "stats":["Bushwhack","Lizardscale Boots","UniqueMovementVelocity10","UniqueLocalIncreasedEvasionRatingPercent10","UniqueDexterity16","UniquePhysicalDamagePin1"],
-    "baseType":"Lizardscale Boots",
-    "affixes":["UniqueMovementVelocity10","UniqueLocalIncreasedEvasionRatingPercent10","UniqueDexterity16","UniquePhysicalDamagePin1"]
-  },
-  "Corpsewade":{
-    "stats":["Corpsewade","Iron Greaves","UniqueMovementVelocity4","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent9","UniqueStrength11","UniqueTriggerDecomposeOnStep1"],
-    "baseType":"Iron Greaves",
-    "affixes":["UniqueMovementVelocity4","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent9","UniqueStrength11","UniqueTriggerDecomposeOnStep1"]
-  },
-  "Legionstride":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Legionstride","Rough Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating4","{variant:1}UniqueStunThreshold5[30,50]","{variant:2}UniqueStunThreshold5","UniqueRangedAttackDamageTaken1","UniqueBlockPercent1"],
-    "baseType":"Rough Greaves",
-    "affixes":["UniqueRangedAttackDamageTaken1","UniqueBlockPercent1","UniqueLocalIncreasedPhysicalDamageReductionRating4","UniqueStunThreshold5","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4"]
-  },
-  "Ghostmarch":{
-    "variants":["Pre 0.4.0.","Current"],
-    "stats":["Ghostmarch","Threaded Shoes","Variant: Pre 0.4.0.","Variant: Current","{variant:2}UniqueMovementVelocity28","UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueIncreasedMana10","UniqueChaosResist1","UniqueDodgeRollPhasing1"],
-    "baseType":"Threaded Shoes",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueIncreasedMana10","UniqueChaosResist1","UniqueDodgeRollPhasing1","UniqueMovementVelocity28"]
-  },
-  "Luminous Pace":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Luminous Pace","Straw Sandals","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity7","{variant:2}UniqueLocalIncreasedEnergyShield12","UniqueIntelligence15","UniqueEnergyShieldRechargeRate1","UniqueEnergyShieldDelay3"],
-    "baseType":"Straw Sandals",
-    "affixes":["UniqueMovementVelocity7","UniqueIntelligence15","UniqueEnergyShieldRechargeRate1","UniqueEnergyShieldDelay3","UniqueLocalIncreasedEnergyShield12"]
-  },
-  "Ab Aeterno":{
-    "variants":["Pre 0.4.0","Pre 0.5.0","Current"],
-    "baseType":"Grand Cuisses",
-    "stats":["Ab Aeterno","Grand Cuisses","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Variant: Pre 0.4.0","Variant: Pre 0.5.0","Variant: Current","UniqueMovementVelocity22","{variant:1}UniqueLocalArmourAndEvasionAndEnergyShield4[60,80]","{variant:2}UniqueLocalArmourAndEvasionAndEnergyShield4[100,150]","{variant:3}UniqueLocalArmourAndEvasionAndEnergyShield4","UniqueDodgeRollAvoidAllDamage1","{variant:1,2}UniqueSpeedPerDodgeRoll20Seconds1","{variant:3}UniqueOverencumbranceOnDodge1","{variant:3}UniqueUnaffectedBySlowsWhileSprinting1"],
-    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
-    "affixes":["UniqueMovementVelocity22","UniqueDodgeRollAvoidAllDamage1","{variant:1,2}UniqueSpeedPerDodgeRoll20Seconds1","UniqueOverencumbranceOnDodge1","UniqueLocalArmourAndEvasionAndEnergyShield4","UniqueUnaffectedBySlowsWhileSprinting1"]
+    "stats":["Trampletoe","Trimmed Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity5[10,10]","{variant:2}UniqueMovementVelocity5","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueReducedLocalAttributeRequirements4","UniqueOverkillDamagePhysical1"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueReducedLocalAttributeRequirements4","UniqueOverkillDamagePhysical1","UniqueMovementVelocity5"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "Briarpatch":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Briarpatch","Laced Boots","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity19","UniqueIncreasedLife33","UniqueStunThreshold15","{variant:1}UniqueThornsCriticalStrikeChance1[15,15]","{variant:2}UniqueThornsCriticalStrikeChance1","{variant:2}UniqueAttackerTakesDamage4"],
     "baseType":"Laced Boots",
-    "affixes":["UniqueMovementVelocity19","UniqueIncreasedLife33","UniqueStunThreshold15","UniqueAttackerTakesDamage4","UniqueThornsCriticalStrikeChance1"]
+    "stats":["Briarpatch","Laced Boots","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity19","UniqueIncreasedLife33","UniqueStunThreshold15","{variant:1}UniqueThornsCriticalStrikeChance1[15,15]","{variant:2}UniqueThornsCriticalStrikeChance1","{variant:2}UniqueAttackerTakesDamage4"],
+    "affixes":["UniqueMovementVelocity19","UniqueIncreasedLife33","UniqueStunThreshold15","UniqueThornsCriticalStrikeChance1","UniqueAttackerTakesDamage4"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Corpsewade":{
+    "baseType":"Iron Greaves",
+    "stats":["Corpsewade","Iron Greaves","UniqueMovementVelocity4","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent9","UniqueStrength11","UniqueTriggerDecomposeOnStep1"],
+    "affixes":["UniqueMovementVelocity4","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent9","UniqueStrength11","UniqueTriggerDecomposeOnStep1"]
+  },
+  "Wanderlust":{
+    "baseType":"Wrapped Sandals",
+    "stats":["Wanderlust","Wrapped Sandals","UniqueMovementVelocity11","UniqueLocalIncreasedEnergyShield6","UniqueDexterity21","UniqueNoSlowPotency1"],
+    "affixes":["UniqueMovementVelocity11","UniqueLocalIncreasedEnergyShield6","UniqueDexterity21","UniqueNoSlowPotency1"]
+  },
+  "Luminous Pace":{
+    "baseType":"Straw Sandals",
+    "stats":["Luminous Pace","Straw Sandals","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity7","{variant:2}UniqueLocalIncreasedEnergyShield12","UniqueIntelligence15","UniqueEnergyShieldRechargeRate1","UniqueEnergyShieldDelay3"],
+    "affixes":["UniqueMovementVelocity7","UniqueIntelligence15","UniqueEnergyShieldRechargeRate1","UniqueEnergyShieldDelay3","UniqueLocalIncreasedEnergyShield12"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Birth of Fury":{
+    "baseType":"Stone Greaves",
+    "stats":["Birth of Fury","Stone Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity20[15,15]","{variant:2}UniqueMovementVelocity20","UniqueIncreasedLife34","{variant:1}UniqueFireResist21[10,20]","{variant:2}UniqueFireResist21","UniqueBurningGroundWhileMovingMaximumLife1"],
+    "affixes":["UniqueIncreasedLife34","UniqueBurningGroundWhileMovingMaximumLife1","UniqueFireResist21","UniqueMovementVelocity20"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Bushwhack":{
+    "baseType":"Lizardscale Boots",
+    "stats":["Bushwhack","Lizardscale Boots","UniqueMovementVelocity10","UniqueLocalIncreasedEvasionRatingPercent10","UniqueDexterity16","UniquePhysicalDamagePin1"],
+    "affixes":["UniqueMovementVelocity10","UniqueLocalIncreasedEvasionRatingPercent10","UniqueDexterity16","UniquePhysicalDamagePin1"]
   },
   "Bones of Ullr":{
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
-    "stats":["Bones of Ullr","Lattice Sandals","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:3}UniqueMovementVelocity25","UniqueLocalIncreasedEnergyShieldPercent5","{variant:1}UniqueIncreasedLife8[25,25]","{variant:2,3}UniqueIncreasedLife8","{variant:1}UniqueIncreasedMana6[25,25]","{variant:2}UniqueIncreasedMana6","{variant:1,2}UniqueUndeadMinionReservation1[-20,-20]","{variant:3}UniqueUndeadMinionReservation1"],
     "baseType":"Lattice Sandals",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent5","{variant:2,3}UniqueIncreasedLife8","{variant:1,2}UniqueUndeadMinionReservation1[-20,-20]","UniqueIncreasedMana6","UniqueUndeadMinionReservation1","UniqueIncreasedLife8[25,25]","UniqueMovementVelocity25"]
+    "stats":["Bones of Ullr","Lattice Sandals","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:3}UniqueMovementVelocity25","UniqueLocalIncreasedEnergyShieldPercent5","{variant:1}UniqueIncreasedLife8[25,25]","{variant:2,3}UniqueIncreasedLife8","{variant:1}UniqueIncreasedMana6[25,25]","{variant:2}UniqueIncreasedMana6","{variant:1,2}UniqueUndeadMinionReservation1[-20,-20]","{variant:3}UniqueUndeadMinionReservation1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent5","{variant:2,3}UniqueIncreasedLife8","{variant:1,2}UniqueUndeadMinionReservation1[-20,-20]","UniqueIncreasedMana6","UniqueMovementVelocity25","UniqueUndeadMinionReservation1","UniqueIncreasedLife8[25,25]"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
   },
-  "Darkray Vectors":{
-    "stats":["Darkray Vectors","Braced Sabatons","UniqueLocalIncreasedArmourAndEvasion6","UniqueLightningResist4","UniqueLightRadius6","UniqueMovementVelocityPerFrenzyCharge1","UniqueMaximumFrenzyCharges1"],
-    "baseType":"Braced Sabatons",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion6","UniqueLightningResist4","UniqueLightRadius6","UniqueMovementVelocityPerFrenzyCharge1","UniqueMaximumFrenzyCharges1"]
+  "Windscream":{
+    "baseType":"Feathered Sandals",
+    "stats":["Windscream","Feathered Sandals","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity14[10,15]","{variant:2}UniqueMovementVelocity14","UniqueLocalIncreasedEnergyShieldPercent15","UniqueIntelligence23","{variant:2}UniqueCurseCastSpeed1","UniqueCurseNoActivationDelay1"],
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent15","UniqueIntelligence23","UniqueCurseNoActivationDelay1","UniqueMovementVelocity14","UniqueCurseCastSpeed1"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "The Infinite Pursuit":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["The Infinite Pursuit","Bronze Greaves","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity9","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent16","UniqueIncreasedLife23","UniqueAilmentChanceRecieved1","{variant:1}UniqueMovementVelocityWithAilment1[20,20]","{variant:2}UniqueMovementVelocityWithAilment1"],
     "baseType":"Bronze Greaves",
-    "affixes":["UniqueMovementVelocity9","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent16","UniqueIncreasedLife23","UniqueAilmentChanceRecieved1","UniqueMovementVelocityWithAilment1"]
-  },
-  "Wondertrap":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Wondertrap","Silk Slippers","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity3[5,15]","{variant:2}UniqueMovementVelocity3","{variant:2}UniqueLocalIncreasedEnergyShield13","{variant:1}UniqueStrength9[5,15]","{variant:2}UniqueStrength9","{variant:1}UniqueDexterity9[5,15]","{variant:2}UniqueDexterity9","{variant:1}UniqueIntelligence8[5,15]","{variant:2}UniqueIntelligence8","UniqueItemRarityOnLowLife1"],
-    "baseType":"Silk Slippers",
-    "affixes":["UniqueItemRarityOnLowLife1","UniqueDexterity9","UniqueLocalIncreasedEnergyShield13","UniqueMovementVelocity3","UniqueIntelligence8","UniqueStrength9"]
-  },
-  "The Knight-errant":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["The Knight-errant","Mail Sabatons","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity1","UniqueLocalIncreasedArmourAndEvasion3","UniqueStunThreshold2","{variant:2}UniqueAilmentThreshold1","UniqueIronReflexes1"],
-    "baseType":"Mail Sabatons",
-    "affixes":["UniqueMovementVelocity1","UniqueLocalIncreasedArmourAndEvasion3","UniqueStunThreshold2","UniqueIronReflexes1","UniqueAilmentThreshold1"]
-  },
-  "Decree of Flight":{
-    "baseType":"Ancient Leggings",
-    "stats":["Decree of Flight","Ancient Leggings","League: Runes of Aldur","UniqueMovementVelocity29","UniqueLocalIncreasedArmourAndEnergyShield27","UniqueDodgeRollSpeed1","UniqueGuardFromMissingEnergyShieldOnDodge1","UniqueMaximumGuardBasedOnEnergyShield1","UniqueDivineFlight1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueMovementVelocity29","UniqueLocalIncreasedArmourAndEnergyShield27","UniqueDodgeRollSpeed1","UniqueGuardFromMissingEnergyShieldOnDodge1","UniqueMaximumGuardBasedOnEnergyShield1","UniqueDivineFlight1"]
-  },
-  "Wake of Destruction":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Wake of Destruction","Secured Leggings","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueMovementVelocity24","UniqueLocalIncreasedArmourAndEnergyShield1","UniqueAddedLightningDamage1","UniqueShockedGroundWhileMoving1"],
-    "baseType":"Secured Leggings",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield1","UniqueAddedLightningDamage1","UniqueShockedGroundWhileMoving1","UniqueMovementVelocity24"]
+    "stats":["The Infinite Pursuit","Bronze Greaves","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity9","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent16","UniqueIncreasedLife23","UniqueAilmentChanceRecieved1","{variant:1}UniqueMovementVelocityWithAilment1[20,20]","{variant:2}UniqueMovementVelocityWithAilment1"],
+    "affixes":["UniqueMovementVelocity9","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent16","UniqueIncreasedLife23","UniqueAilmentChanceRecieved1","UniqueMovementVelocityWithAilment1"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "Beetlebite":{
     "baseType":"Velour Shoes",
@@ -93,58 +69,82 @@
     "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}",
     "affixes":["UniqueMovementVelocity21","UniqueLocalIncreasedEvasionAndEnergyShield13","UniqueAggravateBleedOnPresence1","UniqueThornsDamageIncrease1"]
   },
-  "Windscream":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Windscream","Feathered Sandals","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity14[10,15]","{variant:2}UniqueMovementVelocity14","UniqueLocalIncreasedEnergyShieldPercent15","UniqueIntelligence23","{variant:2}UniqueCurseCastSpeed1","UniqueCurseNoActivationDelay1"],
-    "baseType":"Feathered Sandals",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent15","UniqueIntelligence23","UniqueCurseNoActivationDelay1","UniqueCurseCastSpeed1","UniqueMovementVelocity14"]
-  },
-  "Powertread":{
-    "variants":["Pre 0.1.1","Pre 0.4.0","Current"],
-    "stats":["Powertread","Hunting Shoes","Variant: Pre 0.1.1","Variant: Pre 0.4.0","Variant: Current","{variant:1,2}UniqueMovementVelocity17[10,15]","{variant:3}UniqueMovementVelocity17","UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIntelligence26","UniqueMaximumPowerCharges1","{variant:1}UniqueCriticalMultiplierPerPowerCharge1[8,8]","{variant:2,3}UniqueCriticalMultiplierPerPowerCharge1"],
-    "baseType":"Hunting Shoes",
-    "affixes":["{variant:1,2}UniqueMovementVelocity17[10,15]","UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIntelligence26","UniqueMaximumPowerCharges1","{variant:2,3}UniqueCriticalMultiplierPerPowerCharge1","UniqueCriticalMultiplierPerPowerCharge1[8,8]","UniqueMovementVelocity17"]
-  },
-  "Thunderstep":{
-    "variants":["Pre 0.1.1","Current"],
-    "baseType":"Steeltoe Boots",
-    "stats":["Thunderstep","Steeltoe Boots","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity2[10,15]","{variant:2}UniqueMovementVelocity2","UniqueLocalIncreasedEvasionRatingPercent3","UniqueMaximumLightningResist1","{variant:1}UniqueLightningResist6[25,35]","{variant:2}UniqueLightningResist6"],
-    "source":"No longer obtainable",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueMaximumLightningResist1","UniqueLightningResist6","UniqueMovementVelocity2"]
+  "Ab Aeterno":{
+    "baseType":"Grand Cuisses",
+    "stats":["Ab Aeterno","Grand Cuisses","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Variant: Pre 0.4.0","Variant: Pre 0.5.0","Variant: Current","UniqueMovementVelocity22","{variant:1}UniqueLocalArmourAndEvasionAndEnergyShield4[60,80]","{variant:2}UniqueLocalArmourAndEvasionAndEnergyShield4[100,150]","{variant:3}UniqueLocalArmourAndEvasionAndEnergyShield4","UniqueDodgeRollAvoidAllDamage1","{variant:1,2}UniqueSpeedPerDodgeRoll20Seconds1","{variant:3}UniqueOverencumbranceOnDodge1","{variant:3}UniqueUnaffectedBySlowsWhileSprinting1"],
+    "variants":["Pre 0.4.0","Pre 0.5.0","Current"],
+    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
+    "affixes":["UniqueMovementVelocity22","UniqueDodgeRollAvoidAllDamage1","{variant:1,2}UniqueSpeedPerDodgeRoll20Seconds1","UniqueOverencumbranceOnDodge1","UniqueUnaffectedBySlowsWhileSprinting1","UniqueLocalArmourAndEvasionAndEnergyShield4"]
   },
   "Gamblesprint":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Gamblesprint","Embossed Boots","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent13","{variant:2}UniqueItemFoundRarityIncrease18","UniqueDexterity20","{variant:1}UniqueLightningResist11[5,15]","{variant:2}UniqueLightningResist11","UniqueRandomMovementVelocityOnHit1"],
     "baseType":"Embossed Boots",
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent13","UniqueDexterity20","UniqueRandomMovementVelocityOnHit1","UniqueItemFoundRarityIncrease18","UniqueLightningResist11"]
+    "stats":["Gamblesprint","Embossed Boots","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent13","{variant:2}UniqueItemFoundRarityIncrease18","UniqueDexterity20","{variant:1}UniqueLightningResist11[5,15]","{variant:2}UniqueLightningResist11","UniqueRandomMovementVelocityOnHit1"],
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent13","UniqueDexterity20","UniqueRandomMovementVelocityOnHit1","UniqueItemFoundRarityIncrease18","UniqueLightningResist11"],
+    "variants":["Pre 0.1.1","Current"]
   },
-  "Obern's Bastion":{
-    "stats":["Obern's Bastion","Stacked Sabatons","UniqueLocalIncreasedArmourAndEvasion18","UniqueLifeRegeneration8","UniqueStunRecovery1","UniqueReducedChillDuration1","UniqueReducedFreezeDuration1","UniqueReducedShockDuration1"],
-    "baseType":"Stacked Sabatons",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion18","UniqueLifeRegeneration8","UniqueStunRecovery1","UniqueReducedChillDuration1","UniqueReducedFreezeDuration1","UniqueReducedShockDuration1"]
+  "Powertread":{
+    "baseType":"Hunting Shoes",
+    "stats":["Powertread","Hunting Shoes","Variant: Pre 0.1.1","Variant: Pre 0.4.0","Variant: Current","{variant:1,2}UniqueMovementVelocity17[10,15]","{variant:3}UniqueMovementVelocity17","UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIntelligence26","UniqueMaximumPowerCharges1","{variant:1}UniqueCriticalMultiplierPerPowerCharge1[8,8]","{variant:2,3}UniqueCriticalMultiplierPerPowerCharge1"],
+    "affixes":["{variant:1,2}UniqueMovementVelocity17[10,15]","UniqueLocalIncreasedEvasionAndEnergyShield11","UniqueIntelligence26","UniqueMaximumPowerCharges1","{variant:2,3}UniqueCriticalMultiplierPerPowerCharge1","UniqueMovementVelocity17","UniqueCriticalMultiplierPerPowerCharge1[8,8]"],
+    "variants":["Pre 0.1.1","Pre 0.4.0","Current"]
   },
-  "Atziri's Step":{
-    "league":" Fate of the Vaal",
-    "baseType":"Cinched Boots",
-    "stats":["Atziri's Step","Cinched Boots","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueMovementVelocity27","UniqueLocalIncreasedEvasionRatingPercent34","UniqueIncreasedLife55","UniqueEvasionAppliesToDeflection4","UniqueDeflectDamagePrevented1","UniqueCannotBeLightStunnedByDeflectedHits1"],
-    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
-    "affixes":["UniqueMovementVelocity27","UniqueLocalIncreasedEvasionRatingPercent34","UniqueIncreasedLife55","UniqueEvasionAppliesToDeflection4","UniqueDeflectDamagePrevented1","UniqueCannotBeLightStunnedByDeflectedHits1"]
+  "Legionstride":{
+    "baseType":"Rough Greaves",
+    "stats":["Legionstride","Rough Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating4","{variant:1}UniqueStunThreshold5[30,50]","{variant:2}UniqueStunThreshold5","UniqueRangedAttackDamageTaken1","UniqueBlockPercent1"],
+    "affixes":["UniqueRangedAttackDamageTaken1","UniqueBlockPercent1","UniqueStunThreshold5","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueLocalIncreasedPhysicalDamageReductionRating4"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Wake of Destruction":{
+    "baseType":"Secured Leggings",
+    "stats":["Wake of Destruction","Secured Leggings","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueMovementVelocity24","UniqueLocalIncreasedArmourAndEnergyShield1","UniqueAddedLightningDamage1","UniqueShockedGroundWhileMoving1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield1","UniqueAddedLightningDamage1","UniqueShockedGroundWhileMoving1","UniqueMovementVelocity24"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Decree of Flight":{
+    "baseType":"Ancient Leggings",
+    "stats":["Decree of Flight","Ancient Leggings","League: Runes of Aldur","UniqueMovementVelocity29","UniqueLocalIncreasedArmourAndEnergyShield27","UniqueDodgeRollSpeed1","UniqueGuardFromMissingEnergyShieldOnDodge1","UniqueMaximumGuardBasedOnEnergyShield1","UniqueDivineFlight1"],
+    "affixes":["UniqueMovementVelocity29","UniqueLocalIncreasedArmourAndEnergyShield27","UniqueDodgeRollSpeed1","UniqueGuardFromMissingEnergyShieldOnDodge1","UniqueMaximumGuardBasedOnEnergyShield1","UniqueDivineFlight1"],
+    "league":" Runes of Aldur"
   },
   "Shankgonne":{
     "baseType":"Covered Sabatons",
     "stats":["Shankgonne","Covered Sabatons","League: Rise of the Abyssal","BlackPowderBlitzUnique__1","UniqueLocalIncreasedArmourAndEvasion31","UniqueItemFoundRarityIncrease23","UniqueFireResist35","UniqueArmourAppliesToDeflection1","UniqueStunThreshold20","UniqueCannotSprint1"],
-    "league":" Rise of the Abyssal",
-    "affixes":["BlackPowderBlitzUnique__1","UniqueLocalIncreasedArmourAndEvasion31","UniqueItemFoundRarityIncrease23","UniqueFireResist35","UniqueArmourAppliesToDeflection1","UniqueStunThreshold20","UniqueCannotSprint1"]
+    "affixes":["BlackPowderBlitzUnique__1","UniqueLocalIncreasedArmourAndEvasion31","UniqueItemFoundRarityIncrease23","UniqueFireResist35","UniqueArmourAppliesToDeflection1","UniqueStunThreshold20","UniqueCannotSprint1"],
+    "league":" Rise of the Abyssal"
   },
-  "Wanderlust":{
-    "stats":["Wanderlust","Wrapped Sandals","UniqueMovementVelocity11","UniqueLocalIncreasedEnergyShield6","UniqueDexterity21","UniqueNoSlowPotency1"],
-    "baseType":"Wrapped Sandals",
-    "affixes":["UniqueMovementVelocity11","UniqueLocalIncreasedEnergyShield6","UniqueDexterity21","UniqueNoSlowPotency1"]
+  "Ghostmarch":{
+    "baseType":"Threaded Shoes",
+    "stats":["Ghostmarch","Threaded Shoes","Variant: Pre 0.4.0.","Variant: Current","{variant:2}UniqueMovementVelocity28","UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueIncreasedMana10","UniqueChaosResist1","UniqueDodgeRollPhasing1"],
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield7","UniqueIncreasedMana10","UniqueChaosResist1","UniqueDodgeRollPhasing1","UniqueMovementVelocity28"],
+    "variants":["Pre 0.4.0.","Current"]
   },
-  "Birth of Fury":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Birth of Fury","Stone Greaves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity20[15,15]","{variant:2}UniqueMovementVelocity20","UniqueIncreasedLife34","{variant:1}UniqueFireResist21[10,20]","{variant:2}UniqueFireResist21","UniqueBurningGroundWhileMovingMaximumLife1"],
-    "baseType":"Stone Greaves",
-    "affixes":["UniqueIncreasedLife34","UniqueBurningGroundWhileMovingMaximumLife1","UniqueFireResist21","UniqueMovementVelocity20"]
+  "The Knight-errant":{
+    "baseType":"Mail Sabatons",
+    "stats":["The Knight-errant","Mail Sabatons","Variant: Pre 0.1.1","Variant: Current","UniqueMovementVelocity1","UniqueLocalIncreasedArmourAndEvasion3","UniqueStunThreshold2","{variant:2}UniqueAilmentThreshold1","UniqueIronReflexes1"],
+    "affixes":["UniqueMovementVelocity1","UniqueLocalIncreasedArmourAndEvasion3","UniqueStunThreshold2","UniqueIronReflexes1","UniqueAilmentThreshold1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Atziri's Step":{
+    "baseType":"Cinched Boots",
+    "stats":["Atziri's Step","Cinched Boots","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueMovementVelocity27","UniqueLocalIncreasedEvasionRatingPercent34","UniqueIncreasedLife55","UniqueEvasionAppliesToDeflection4","UniqueDeflectDamagePrevented1","UniqueCannotBeLightStunnedByDeflectedHits1"],
+    "league":" Fate of the Vaal",
+    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
+    "affixes":["UniqueMovementVelocity27","UniqueLocalIncreasedEvasionRatingPercent34","UniqueIncreasedLife55","UniqueEvasionAppliesToDeflection4","UniqueDeflectDamagePrevented1","UniqueCannotBeLightStunnedByDeflectedHits1"]
+  },
+  "Obern's Bastion":{
+    "baseType":"Stacked Sabatons",
+    "stats":["Obern's Bastion","Stacked Sabatons","UniqueLocalIncreasedArmourAndEvasion18","UniqueLifeRegeneration8","UniqueStunRecovery1","UniqueReducedChillDuration1","UniqueReducedFreezeDuration1","UniqueReducedShockDuration1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion18","UniqueLifeRegeneration8","UniqueStunRecovery1","UniqueReducedChillDuration1","UniqueReducedFreezeDuration1","UniqueReducedShockDuration1"]
+  },
+  "Wondertrap":{
+    "baseType":"Silk Slippers",
+    "stats":["Wondertrap","Silk Slippers","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueMovementVelocity3[5,15]","{variant:2}UniqueMovementVelocity3","{variant:2}UniqueLocalIncreasedEnergyShield13","{variant:1}UniqueStrength9[5,15]","{variant:2}UniqueStrength9","{variant:1}UniqueDexterity9[5,15]","{variant:2}UniqueDexterity9","{variant:1}UniqueIntelligence8[5,15]","{variant:2}UniqueIntelligence8","UniqueItemRarityOnLowLife1"],
+    "affixes":["UniqueItemRarityOnLowLife1","UniqueDexterity9","UniqueIntelligence8","UniqueMovementVelocity3","UniqueLocalIncreasedEnergyShield13","UniqueStrength9"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Darkray Vectors":{
+    "baseType":"Braced Sabatons",
+    "stats":["Darkray Vectors","Braced Sabatons","UniqueLocalIncreasedArmourAndEvasion6","UniqueLightningResist4","UniqueLightRadius6","UniqueMovementVelocityPerFrenzyCharge1","UniqueMaximumFrenzyCharges1"],
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion6","UniqueLightningResist4","UniqueLightRadius6","UniqueMovementVelocityPerFrenzyCharge1","UniqueMaximumFrenzyCharges1"]
   }
 }

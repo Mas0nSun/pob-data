@@ -1,31 +1,31 @@
 {
-  "Double Vision":{
-    "baseType":"Dyad Crossbow",
-    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","UniqueTriggerInfusionOnReload","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
-    "league":" Rise of the Abyssal",
-    "affixes":["UniqueTriggerInfusionOnReload","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"]
-  },
   "Redemption":{
     "baseType":"Trarthan Cannon",
     "stats":["Redemption","Trarthan Cannon","League: Runes of Aldur","UniqueLocalIncreasedPhysicalDamagePercent24","UniqueLocalNoCriticalStrikeMultiplier2","UniqueGlobalCooldownRecovery2","UniqueGainDisorderlyConductEveryXGrenadeSkills"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent24","UniqueLocalNoCriticalStrikeMultiplier2","UniqueGlobalCooldownRecovery2","UniqueGainDisorderlyConductEveryXGrenadeSkills"]
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent24","UniqueLocalNoCriticalStrikeMultiplier2","UniqueGlobalCooldownRecovery2","UniqueGainDisorderlyConductEveryXGrenadeSkills"],
+    "league":" Runes of Aldur"
+  },
+  "Mist Whisper":{
+    "baseType":"Makeshift Crossbow",
+    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"],
+    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueAdditionalAttackChain1","UniqueLocalAddedColdDamage4","UniqueChillDuration1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Rampart Raptor":{
+    "baseType":"Tense Crossbow",
+    "stats":["Rampart Raptor","Tense Crossbow","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"]
   },
   "The Last Lament":{
     "baseType":"Desolate Crossbow",
     "stats":["The Last Lament","Desolate Crossbow","League: Dawn of the Hunt","UniqueGrantsRequiemSkill","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueGrantsRequiemSkill","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"]
+    "affixes":["UniqueGrantsRequiemSkill","UniqueLocalIncreasedPhysicalDamagePercent15","UniqueIncreasedAttackSpeed12","UniqueLifeLeechLocal4","UniqueLoadCrossbowBoltOnKillPercent1","UniqueSacrificeLifeForBolts1","UniqueReloadSpeed1"],
+    "league":" Dawn of the Hunt"
   },
-  "Rampart Raptor":{
-    "stats":["Rampart Raptor","Tense Crossbow","UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"],
-    "baseType":"Tense Crossbow",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent7","UniqueLocalIncreasedAttackSpeed8","UniqueChanceForNoBoltReload1","UniqueLocalReloadSpeed1"]
-  },
-  "Mist Whisper":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Mist Whisper","Makeshift Crossbow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedColdDamage4[4,6][9,12]","{variant:2}UniqueLocalAddedColdDamage4","UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","{variant:2}UniqueChillDuration1","{variant:1}UniqueAdditionalAttackChain1[1,1]","{variant:2}UniqueAdditionalAttackChain1"],
-    "baseType":"Makeshift Crossbow",
-    "affixes":["UniqueManaGainedFromEnemyDeath7","UniqueFreezeDamageIncrease3","UniqueLocalAddedColdDamage4","UniqueChillDuration1","UniqueAdditionalAttackChain1"]
+  "Double Vision":{
+    "baseType":"Dyad Crossbow",
+    "stats":["Double Vision","Dyad Crossbow","League: Rise of the Abyssal","UniqueTriggerInfusionOnReload","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
+    "affixes":["UniqueTriggerInfusionOnReload","UniqueLocalAddedPhysicalDamage24","UniqueLocalCriticalStrikeChance7","UniqueColdFireSurgeOnReload","UniqueReloadSpeed2"],
+    "league":" Rise of the Abyssal"
   }
 }

@@ -1,48 +1,48 @@
 {
-  "Runeseeker's Call":{
-    "baseType":"Runic Fork",
-    "stats":["Runeseeker's Call","Runic Fork","League: Runes of Aldur","Sockets: S S S S S","UniqueTheStarsAnswerSkill1","UniqueOnlySocketRunes1","UniqueLocalIncreasedRuneEffect1"],
-    "league":" Runes of Aldur",
-    "affixes":["Sockets: S S S S S","UniqueTheStarsAnswerSkill1","UniqueOnlySocketRunes1","UniqueLocalIncreasedRuneEffect1"]
-  },
-  "Sanguine Diviner":{
-    "stats":["Sanguine Diviner","Bone Wand","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
-    "baseType":"Bone Wand",
-    "affixes":["UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"]
-  },
-  "Cursecarver":{
-    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"],
-    "baseType":"Acrid Wand",
-    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueElementalWeaknessGemLevel1","UniqueTemporalChainsGemLevel1","UniqueEnfeebleGemLevel1","UniqueDespairGemLevel1","UniqueVulnerabilityGemLevel1"]
+  "Enezun's Charge":{
+    "baseType":"Volatile Wand",
+    "stats":["Enezun's Charge","Volatile Wand","UniqueSpellDamageOnWeapon4","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
+    "affixes":["UniqueSpellDamageOnWeapon4","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"]
   },
   "Adonia's Ego":{
     "baseType":"Siphoning Wand",
     "stats":["Adonia's Ego","Siphoning Wand","League: Dawn of the Hunt","UniqueGrantsElementalPowerSkill","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueGrantsElementalPowerSkill","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"]
-  },
-  "Lifesprig":{
-    "stats":["Lifesprig","Attuned Wand","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
-    "baseType":"Attuned Wand",
-    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"]
-  },
-  "The Wicked Quill":{
-    "baseType":"Withered Wand",
-    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana41","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana41","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"]
+    "affixes":["UniqueGrantsElementalPowerSkill","UniqueIncreasedMana52","UniqueGlobalSpellGemsLevel2","UniqueIncreasedCastSpeed17","UniqueElementalResistancesPerPowerCharge1","UniqueMaximumPowerChargesWand_1"],
+    "league":" Dawn of the Hunt"
   },
   "Liminal Coil":{
     "baseType":"Twisted Wand",
     "stats":["Liminal Coil","Twisted Wand","League: Runes of Aldur","UniqueSpellDamageOnWeapon12","UniqueIncreasedCastSpeed21","UniqueCurseMagnitudeIsZero1","UniqueCursesIgnoreLimit1","UniqueSpellDamageAsExtraChaosPerCurse1","UniqueSpellDamageAsExtraPhysicalPerCurse1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueSpellDamageOnWeapon12","UniqueIncreasedCastSpeed21","UniqueCurseMagnitudeIsZero1","UniqueCursesIgnoreLimit1","UniqueSpellDamageAsExtraChaosPerCurse1","UniqueSpellDamageAsExtraPhysicalPerCurse1"]
+    "affixes":["UniqueSpellDamageOnWeapon12","UniqueIncreasedCastSpeed21","UniqueCurseMagnitudeIsZero1","UniqueCursesIgnoreLimit1","UniqueSpellDamageAsExtraChaosPerCurse1","UniqueSpellDamageAsExtraPhysicalPerCurse1"],
+    "league":" Runes of Aldur"
   },
-  "Enezun's Charge":{
-    "stats":["Enezun's Charge","Volatile Wand","UniqueSpellDamageOnWeapon4","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"],
-    "baseType":"Volatile Wand",
-    "affixes":["UniqueSpellDamageOnWeapon4","UniqueSpellCriticalStrikeChance2","UniqueManaGainedFromEnemyDeath9","UniqueChanceToNotConsumeCorpse1"]
+  "Cursecarver":{
+    "baseType":"Acrid Wand",
+    "stats":["Cursecarver","Acrid Wand","League: Dawn of the Hunt","Variant: Elemental Weakness","Variant: Vulnerability","Variant: Despair","Variant: Enfeeble","Variant: Temporal Chains","UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","{variant:1}UniqueElementalWeaknessGemLevel1","{variant:2}UniqueVulnerabilityGemLevel1","{variant:3}UniqueDespairGemLevel1","{variant:4}UniqueEnfeebleGemLevel1","{variant:5}UniqueTemporalChainsGemLevel1"],
+    "variants":["Elemental Weakness","Vulnerability","Despair","Enfeeble","Temporal Chains"],
+    "affixes":["UniqueSpellDamageOnWeapon8","UniqueIncreasedCastSpeed15","UniqueManaRegeneration30","UniqueLifeGainedFromEnemyDeath10","UniqueDespairGemLevel1","UniqueElementalWeaknessGemLevel1","UniqueEnfeebleGemLevel1","UniqueVulnerabilityGemLevel1","UniqueTemporalChainsGemLevel1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Lifesprig":{
+    "baseType":"Attuned Wand",
+    "stats":["Lifesprig","Attuned Wand","UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"],
+    "affixes":["UniqueIncreasedMana1","UniqueGlobalSpellGemsLevel1","UniqueIncreasedCastSpeed1","UniqueLeechLifeOnSpellCast1"]
+  },
+  "Runeseeker's Call":{
+    "baseType":"Runic Fork",
+    "stats":["Runeseeker's Call","Runic Fork","League: Runes of Aldur","Sockets: S S S S S","UniqueTheStarsAnswerSkill1","UniqueOnlySocketRunes1","UniqueLocalIncreasedRuneEffect1"],
+    "affixes":["Sockets: S S S S S","UniqueTheStarsAnswerSkill1","UniqueOnlySocketRunes1","UniqueLocalIncreasedRuneEffect1"],
+    "league":" Runes of Aldur"
+  },
+  "Sanguine Diviner":{
+    "baseType":"Bone Wand",
+    "stats":["Sanguine Diviner","Bone Wand","UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"],
+    "affixes":["UniqueSpellDamageOnWeapon2","UniqueLifeGainedFromEnemyDeath7","UniqueGlobalChanceToBleed3","UniqueSpellLifeCostPercent1"]
+  },
+  "The Wicked Quill":{
+    "baseType":"Withered Wand",
+    "stats":["The Wicked Quill","Withered Wand","League: Dawn of the Hunt","UniqueSpellDamageOnWeapon6","UniqueIncreasedMana41","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "affixes":["UniqueSpellDamageOnWeapon6","UniqueIncreasedMana41","UniqueChaosResist29","UniqueSpellWitherOnHitChance1"],
+    "league":" Dawn of the Hunt"
   }
 }

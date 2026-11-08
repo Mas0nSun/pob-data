@@ -1,126 +1,126 @@
 {
+  "Mageblood":{
+    "baseType":"Utility Belt",
+    "stats":["Mageblood","Utility Belt","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 1","Selected Alt Variant: 2","Selected Alt Variant Two: 3","Selected Alt Variant Three: 4","Allow Duplicate Variants: true","Variant: Legacy of Amethyst","Variant: Legacy of Basalt","Variant: Legacy of Bismuth","Variant: Legacy of Diamond","Variant: Legacy of Gold","Variant: Legacy of Granite","Variant: Legacy of Jade","Variant: Legacy of Quicksilver","Variant: Legacy of Ruby","Variant: Legacy of Sapphire","Variant: Legacy of Silver","Variant: Legacy of Stibnite","Variant: Legacy of Sulphur","Variant: Legacy of Topaz","League: Runes of Aldur","{variant:1}Legacy of Amethyst","{variant:2}Legacy of Basalt","{variant:3}Legacy of Bismuth","{variant:4}Legacy of Diamond","{variant:5}Legacy of Gold","{variant:6}Legacy of Granite","{variant:7}Legacy of Jade","{variant:8}Legacy of Quicksilver","{variant:9}Legacy of Ruby","{variant:10}Legacy of Sapphire","{variant:11}Legacy of Silver","{variant:12}Legacy of Stibnite","{variant:13}Legacy of Sulphur","{variant:14}Legacy of Topaz","UniqueIncreasedMagesLegacyEffectPerDuplicateMagesLegacy"],
+    "variants":["Legacy of Amethyst","Legacy of Basalt","Legacy of Bismuth","Legacy of Diamond","Legacy of Gold","Legacy of Granite","Legacy of Jade","Legacy of Quicksilver","Legacy of Ruby","Legacy of Sapphire","Legacy of Silver","Legacy of Stibnite","Legacy of Sulphur","Legacy of Topaz"],
+    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 1","Selected Alt Variant: 2","Selected Alt Variant Two: 3","Selected Alt Variant Three: 4","Allow Duplicate Variants: true","UniqueIncreasedMagesLegacyEffectPerDuplicateMagesLegacy","Legacy of Diamond","Legacy of Gold","Legacy of Granite","Legacy of Jade","Legacy of Quicksilver","Legacy of Ruby","Legacy of Sapphire","Legacy of Silver","Legacy of Stibnite","Legacy of Sulphur","Legacy of Topaz","Legacy of Amethyst","Legacy of Basalt","Legacy of Bismuth"],
+    "league":" Runes of Aldur"
+  },
+  "Headhunter":{
+    "baseType":"Heavy Belt",
+    "stats":["Headhunter","Heavy Belt","UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"],
+    "affixes":["UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"]
+  },
+  "Coward's Legacy":{
+    "baseType":"Mail Belt",
+    "stats":["Coward's Legacy","Mail Belt","UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"],
+    "affixes":["UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"]
+  },
+  "Keelhaul":{
+    "baseType":"Linen Belt",
+    "stats":["Keelhaul","Linen Belt","Variant: Pre 0.1.1","Variant: Current","UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","{variant:1}UniqueLifeFlaskChargeGeneration1[0,15]","{variant:2}UniqueLifeFlaskChargeGeneration1","{variant:1}UniqueManaFlaskChargeGeneration1[0,15]","{variant:2}UniqueManaFlaskChargeGeneration1"],
+    "affixes":["UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","UniqueLifeFlaskChargeGeneration1","UniqueManaFlaskChargeGeneration1"],
+    "variants":["Pre 0.1.1","Current"]
+  },
   "Umbilicus Immortalis":{
     "baseType":"Linen Belt",
     "stats":["Umbilicus Immortalis","Linen Belt","League: Rise of the Abyssal","UniqueBeltFlaskDuration1","UniqueIntelligence36","UniqueMinionLife6","UniqueLifeFlasksApplyToMinions1","MinionsCannotDieWhileAffectedByYourLifeFlasks1","UniqueIncreasedFlaskChargesGained4"],
-    "league":" Rise of the Abyssal",
-    "affixes":["UniqueBeltFlaskDuration1","UniqueIntelligence36","UniqueMinionLife6","UniqueLifeFlasksApplyToMinions1","MinionsCannotDieWhileAffectedByYourLifeFlasks1","UniqueIncreasedFlaskChargesGained4"]
+    "affixes":["UniqueBeltFlaskDuration1","UniqueIntelligence36","UniqueMinionLife6","UniqueLifeFlasksApplyToMinions1","MinionsCannotDieWhileAffectedByYourLifeFlasks1","UniqueIncreasedFlaskChargesGained4"],
+    "league":" Rise of the Abyssal"
   },
-  "Cat O' Nine Tails":{
-    "baseType":"Utility Belt",
-    "stats":["Cat O' Nine Tails","Utility Belt","League: Runes of Aldur","UniqueIncreasedLife51","UniqueRegeneratePercentLifeIfHitRecently1","UniqueLifeRecoveryRate1","UniqueCannotRecoverAboveLowLifeExceptFlasks1","UniqueGainPercentLifeAsThorns1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueIncreasedLife51","UniqueRegeneratePercentLifeIfHitRecently1","UniqueLifeRecoveryRate1","UniqueCannotRecoverAboveLowLifeExceptFlasks1","UniqueGainPercentLifeAsThorns1"]
+  "Darkness Enthroned":{
+    "baseType":"Fine Belt",
+    "stats":["Darkness Enthroned","Fine Belt","League: Rise of the Abyssal","Variant: Helmet","Variant: Body Armour","Variant: Gloves","Variant: Boots","Variant: Shield","Sockets: S S","{variant:1}LocalItemBenefitSocketableAsIfHelmetUnique__1","{variant:2}LocalItemBenefitSocketableAsIfBodyArmourUnique__1","{variant:3}LocalItemBenefitSocketableAsIfGlovesUnique__1","{variant:4}LocalItemBenefitSocketableAsIfBootsUnique__1","{variant:5}LocalItemBenefitSocketableAsIfShieldUnique__1","LocalSocketItemsEffectUnique__1"],
+    "variants":["Helmet","Body Armour","Gloves","Boots","Shield"],
+    "affixes":["Sockets: S S","LocalSocketItemsEffectUnique__1","LocalItemBenefitSocketableAsIfBootsUnique__1","LocalItemBenefitSocketableAsIfShieldUnique__1","LocalItemBenefitSocketableAsIfBodyArmourUnique__1","LocalItemBenefitSocketableAsIfHelmetUnique__1","LocalItemBenefitSocketableAsIfGlovesUnique__1"],
+    "league":" Rise of the Abyssal"
   },
   "Birthright Buckle":{
-    "stats":["Birthright Buckle","Wide Belt","UniqueIncreasedPhysicalDamageReductionRating2","UniqueReducedFlaskChargesUsed3","UniqueIncreasedFlaskChargesGained3","UniqueInstantLifeFlaskOnLowLife1","UniqueInstantManaFlaskOnLowMana1"],
     "baseType":"Wide Belt",
+    "stats":["Birthright Buckle","Wide Belt","UniqueIncreasedPhysicalDamageReductionRating2","UniqueReducedFlaskChargesUsed3","UniqueIncreasedFlaskChargesGained3","UniqueInstantLifeFlaskOnLowLife1","UniqueInstantManaFlaskOnLowMana1"],
     "affixes":["UniqueIncreasedPhysicalDamageReductionRating2","UniqueReducedFlaskChargesUsed3","UniqueIncreasedFlaskChargesGained3","UniqueInstantLifeFlaskOnLowLife1","UniqueInstantManaFlaskOnLowMana1"]
   },
-  "Byrnabas":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Byrnabas","Wide Belt","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedMana9","{variant:1}UniqueLightningResist7[20,30]","{variant:2}UniqueLightningResist7","UniqueLifeRegeneration2","UniqueCannotBeShocked1"],
-    "baseType":"Wide Belt",
-    "affixes":["UniqueIncreasedMana9","UniqueLifeRegeneration2","UniqueCannotBeShocked1","UniqueLightningResist7"]
-  },
-  "Shavronne's Satchel":{
-    "stats":["Shavronne's Satchel","Fine Belt","UniqueFlaskLifeRecoveryRate3","UniqueIntelligence20","UniqueIncreasedFlaskChargesGained2","UniqueFlaskLifeRecoveryEnergyShield1"],
-    "baseType":"Fine Belt",
-    "affixes":["UniqueFlaskLifeRecoveryRate3","UniqueIntelligence20","UniqueIncreasedFlaskChargesGained2","UniqueFlaskLifeRecoveryEnergyShield1"]
-  },
-  "Infernoclasp":{
-    "variants":["Pre 0.1.1","Pre 0.5.0","Current"],
-    "baseType":"Plate Belt",
-    "stats":["Infernoclasp","Plate Belt","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Pre 0.5.0","Variant: Current","{variant:3}BeltImplicitPhysicalDamageReductionRating1","{variant:1,2}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","{variant:1}UniqueFireResist3[25,35]","{variant:2,3}UniqueFireResist3"],
-    "source":"No longer obtainable",
-    "affixes":["{variant:1,2}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","{variant:2,3}UniqueFireResist3","BeltImplicitPhysicalDamageReductionRating1","UniqueFireResist3[25,35]"]
-  },
-  "Soul Tether":{
-    "stats":["Soul Tether","Long Belt","UniqueIncreasedEnergyShield2","UniqueIntelligence27","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"],
-    "baseType":"Long Belt",
-    "affixes":["UniqueIncreasedEnergyShield2","UniqueIntelligence27","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"]
-  },
-  "Bijouborne":{
-    "baseType":"Double Belt",
-    "stats":["Bijouborne","Double Belt","League: Dawn of the Hunt","UniqueGrantsCastOnCharmUseSkill1","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueGrantsCastOnCharmUseSkill1","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"]
+  "Meginord's Girdle":{
+    "baseType":"Rawhide Belt",
+    "stats":["Meginord's Girdle","Rawhide Belt","UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"],
+    "affixes":["UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"]
   },
   "The Gnashing Sash":{
     "baseType":"Wide Belt",
     "stats":["The Gnashing Sash","Wide Belt","League: Dawn of the Hunt","UniqueFlaskLifeRecoveryRate7","UniqueChaosResist33","UniqueLifeDegenerationPercentGracePeriod1","UniqueLifeFlasksOvercapLife1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueFlaskLifeRecoveryRate7","UniqueChaosResist33","UniqueLifeDegenerationPercentGracePeriod1","UniqueLifeFlasksOvercapLife1"]
-  },
-  "Goregirdle":{
-    "variants":["Pre 0.5.0","Current"],
-    "baseType":"Plate Belt",
-    "stats":["Goregirdle","Plate Belt","League: Dawn of the Hunt","Variant: Pre 0.5.0","Variant: Current","{variant:2}BeltImplicitPhysicalDamageReductionRating1","{variant:1}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueStrength33","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueStrength33","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1","BeltImplicitPhysicalDamageReductionRating1"]
-  },
-  "Mageblood":{
-    "variants":["Legacy of Amethyst","Legacy of Basalt","Legacy of Bismuth","Legacy of Diamond","Legacy of Gold","Legacy of Granite","Legacy of Jade","Legacy of Quicksilver","Legacy of Ruby","Legacy of Sapphire","Legacy of Silver","Legacy of Stibnite","Legacy of Sulphur","Legacy of Topaz"],
-    "baseType":"Utility Belt",
-    "stats":["Mageblood","Utility Belt","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 1","Selected Alt Variant: 2","Selected Alt Variant Two: 3","Selected Alt Variant Three: 4","Allow Duplicate Variants: true","Variant: Legacy of Amethyst","Variant: Legacy of Basalt","Variant: Legacy of Bismuth","Variant: Legacy of Diamond","Variant: Legacy of Gold","Variant: Legacy of Granite","Variant: Legacy of Jade","Variant: Legacy of Quicksilver","Variant: Legacy of Ruby","Variant: Legacy of Sapphire","Variant: Legacy of Silver","Variant: Legacy of Stibnite","Variant: Legacy of Sulphur","Variant: Legacy of Topaz","League: Runes of Aldur","{variant:1}Legacy of Amethyst","{variant:2}Legacy of Basalt","{variant:3}Legacy of Bismuth","{variant:4}Legacy of Diamond","{variant:5}Legacy of Gold","{variant:6}Legacy of Granite","{variant:7}Legacy of Jade","{variant:8}Legacy of Quicksilver","{variant:9}Legacy of Ruby","{variant:10}Legacy of Sapphire","{variant:11}Legacy of Silver","{variant:12}Legacy of Stibnite","{variant:13}Legacy of Sulphur","{variant:14}Legacy of Topaz","UniqueIncreasedMagesLegacyEffectPerDuplicateMagesLegacy"],
-    "league":" Runes of Aldur",
-    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Selected Variant: 1","Selected Alt Variant: 2","Selected Alt Variant Two: 3","Selected Alt Variant Three: 4","Allow Duplicate Variants: true","UniqueIncreasedMagesLegacyEffectPerDuplicateMagesLegacy","Legacy of Bismuth","Legacy of Sulphur","Legacy of Quicksilver","Legacy of Topaz","Legacy of Stibnite","Legacy of Ruby","Legacy of Sapphire","Legacy of Silver","Legacy of Gold","Legacy of Jade","Legacy of Diamond","Legacy of Granite","Legacy of Amethyst","Legacy of Basalt"]
-  },
-  "Keelhaul":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Keelhaul","Linen Belt","Variant: Pre 0.1.1","Variant: Current","UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","{variant:1}UniqueLifeFlaskChargeGeneration1[0,15]","{variant:2}UniqueLifeFlaskChargeGeneration1","{variant:1}UniqueManaFlaskChargeGeneration1[0,15]","{variant:2}UniqueManaFlaskChargeGeneration1"],
-    "baseType":"Linen Belt",
-    "affixes":["UniqueFlaskLifeRecoveryRate4","UniqueFlaskManaRecoveryRate2","UniqueLifeFlaskChargeGeneration1","UniqueManaFlaskChargeGeneration1"]
-  },
-  "Meginord's Girdle":{
-    "stats":["Meginord's Girdle","Rawhide Belt","UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"],
-    "baseType":"Rawhide Belt",
-    "affixes":["UniqueStrength6","UniqueColdResist12","UniqueReducedFlaskChargesUsed2","UniqueIncreasedFlaskChargesGained1"]
-  },
-  "Ryslatha's Coil":{
-    "stats":["Ryslatha's Coil","Ornate Belt","UniqueIncreasedLife19","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"],
-    "baseType":"Ornate Belt",
-    "affixes":["UniqueIncreasedLife19","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"]
-  },
-  "Ingenuity":{
-    "variants":["Pre 0.2.0","Pre 0.2.0F","Current"],
-    "baseType":"Utility Belt",
-    "stats":["Ingenuity","Utility Belt","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","Variant: Pre 0.2.0","Variant: Pre 0.2.0F","Variant: Current","{variant:2}UniqueAdditionalCharm2","{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","{variant:1}UniqueIncreasedRingBonuses1"],
-    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}",
-    "affixes":["{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","UniqueAdditionalCharm2","UniqueIncreasedRingBonuses1"]
-  },
-  "Headhunter":{
-    "stats":["Headhunter","Heavy Belt","UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"],
-    "baseType":"Heavy Belt",
-    "affixes":["UniqueIncreasedLife3","UniqueStrength7","UniqueDexterity5","UniqueGainRareMonsterModsOnKill1"]
-  },
-  "Midnight Braid":{
-    "stats":["Midnight Braid","Rawhide Belt","UniqueIncreasedMana19","UniqueAllResistances9","UniqueDamageTakenGoesToMana1"],
-    "baseType":"Rawhide Belt",
-    "affixes":["UniqueIncreasedMana19","UniqueAllResistances9","UniqueDamageTakenGoesToMana1"]
+    "affixes":["UniqueFlaskLifeRecoveryRate7","UniqueChaosResist33","UniqueLifeDegenerationPercentGracePeriod1","UniqueLifeFlasksOvercapLife1"],
+    "league":" Dawn of the Hunt"
   },
   "Waistgate":{
     "baseType":"Heavy Belt",
     "stats":["Waistgate","Heavy Belt","League: Dawn of the Hunt","UniqueIncreasedLife45","UniqueIncreasedMana38","UniqueFlaskLifeRecoveryRate6","UniqueFlaskManaRecoveryRate4","UniqueLifeManaFlaskAnySlot1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueIncreasedLife45","UniqueIncreasedMana38","UniqueFlaskLifeRecoveryRate6","UniqueFlaskManaRecoveryRate4","UniqueLifeManaFlaskAnySlot1"]
+    "affixes":["UniqueIncreasedLife45","UniqueIncreasedMana38","UniqueFlaskLifeRecoveryRate6","UniqueFlaskManaRecoveryRate4","UniqueLifeManaFlaskAnySlot1"],
+    "league":" Dawn of the Hunt"
   },
-  "Coward's Legacy":{
-    "stats":["Coward's Legacy","Mail Belt","UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"],
-    "baseType":"Mail Belt",
-    "affixes":["UniqueStrength4","UniqueDexterity3","UniqueBeltFlaskRecoveryRate1","UniqueLowLifeThreshold1"]
+  "Midnight Braid":{
+    "baseType":"Rawhide Belt",
+    "stats":["Midnight Braid","Rawhide Belt","UniqueIncreasedMana19","UniqueAllResistances9","UniqueDamageTakenGoesToMana1"],
+    "affixes":["UniqueIncreasedMana19","UniqueAllResistances9","UniqueDamageTakenGoesToMana1"]
   },
-  "Darkness Enthroned":{
-    "variants":["Helmet","Body Armour","Gloves","Boots","Shield"],
-    "baseType":"Fine Belt",
-    "stats":["Darkness Enthroned","Fine Belt","League: Rise of the Abyssal","Variant: Helmet","Variant: Body Armour","Variant: Gloves","Variant: Boots","Variant: Shield","Sockets: S S","{variant:1}LocalItemBenefitSocketableAsIfHelmetUnique__1","{variant:2}LocalItemBenefitSocketableAsIfBodyArmourUnique__1","{variant:3}LocalItemBenefitSocketableAsIfGlovesUnique__1","{variant:4}LocalItemBenefitSocketableAsIfBootsUnique__1","{variant:5}LocalItemBenefitSocketableAsIfShieldUnique__1","LocalSocketItemsEffectUnique__1"],
-    "league":" Rise of the Abyssal",
-    "affixes":["Sockets: S S","LocalSocketItemsEffectUnique__1","LocalItemBenefitSocketableAsIfShieldUnique__1","LocalItemBenefitSocketableAsIfBootsUnique__1","LocalItemBenefitSocketableAsIfBodyArmourUnique__1","LocalItemBenefitSocketableAsIfHelmetUnique__1","LocalItemBenefitSocketableAsIfGlovesUnique__1"]
+  "Byrnabas":{
+    "baseType":"Wide Belt",
+    "stats":["Byrnabas","Wide Belt","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedMana9","{variant:1}UniqueLightningResist7[20,30]","{variant:2}UniqueLightningResist7","UniqueLifeRegeneration2","UniqueCannotBeShocked1"],
+    "affixes":["UniqueIncreasedMana9","UniqueLifeRegeneration2","UniqueCannotBeShocked1","UniqueLightningResist7"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Goregirdle":{
+    "baseType":"Plate Belt",
+    "stats":["Goregirdle","Plate Belt","League: Dawn of the Hunt","Variant: Pre 0.5.0","Variant: Current","{variant:2}BeltImplicitPhysicalDamageReductionRating1","{variant:1}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueStrength33","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1"],
+    "variants":["Pre 0.5.0","Current"],
+    "affixes":["UniqueStrength33","UniqueLifeRegeneration17","UniqueDoubleArmourEffect1","UniqueMaximumPhysicalReductionOverride1","BeltImplicitPhysicalDamageReductionRating1"],
+    "league":" Dawn of the Hunt"
   },
   "Zerphi's Genesis":{
-    "variants":["Pre 0.2.0f","Pre 0.5.0","Current"],
     "baseType":"Heavy Belt",
     "stats":["Zerphi's Genesis","Heavy Belt","Variant: Pre 0.2.0f","Variant: Pre 0.5.0","Variant: Current","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","{variant:1}UniqueAdditionalCharm1","UniqueStrength28","UniqueCorruptedBloodImmunity1","UniqueCharmChargesToLifeFlasks1","{variant:1,2}UniqueReducedCharmChargesUsed1","{variant:3}UniqueLifeFlaskChargesToCharms1","{variant:3}UniqueCorruptedSkillCostEfficiencyDuringFlaskEffect1","{variant:3}UniqueCorruptedCharmDuration1"],
+    "variants":["Pre 0.2.0f","Pre 0.5.0","Current"],
     "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
-    "affixes":["UniqueStrength28","UniqueCorruptedBloodImmunity1","UniqueCharmChargesToLifeFlasks1","{variant:1,2}UniqueReducedCharmChargesUsed1","UniqueCorruptedCharmDuration1","UniqueCorruptedSkillCostEfficiencyDuringFlaskEffect1","UniqueLifeFlaskChargesToCharms1","UniqueAdditionalCharm1"]
+    "affixes":["UniqueStrength28","UniqueCorruptedBloodImmunity1","UniqueCharmChargesToLifeFlasks1","{variant:1,2}UniqueReducedCharmChargesUsed1","UniqueAdditionalCharm1","UniqueLifeFlaskChargesToCharms1","UniqueCorruptedSkillCostEfficiencyDuringFlaskEffect1","UniqueCorruptedCharmDuration1"]
+  },
+  "Ryslatha's Coil":{
+    "baseType":"Ornate Belt",
+    "stats":["Ryslatha's Coil","Ornate Belt","UniqueIncreasedLife19","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"],
+    "affixes":["UniqueIncreasedLife19","UniqueFlaskLifeRecoveryRate1","UniquePhysicalMaximumDamageModifier1","UniquePhysicalMinimumDamageModifier1"]
+  },
+  "Ingenuity":{
+    "baseType":"Utility Belt",
+    "stats":["Ingenuity","Utility Belt","Source: Drops from unique{The King in the Mists} in normal{Crux of Nothingness}","Variant: Pre 0.2.0","Variant: Pre 0.2.0F","Variant: Current","{variant:2}UniqueAdditionalCharm2","{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","{variant:1}UniqueIncreasedRingBonuses1"],
+    "variants":["Pre 0.2.0","Pre 0.2.0F","Current"],
+    "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}",
+    "affixes":["{variant:2,3}UniqueIncreasedCharmChargesGained1","{variant:2,3}UniqueReducedCharmChargesUsed2","{variant:2,3}UniqueIncreasedLeftRingBonuses1","{variant:2,3}UniqueIncreasedRightRingBonuses1","UniqueAdditionalCharm2","UniqueIncreasedRingBonuses1"]
+  },
+  "Soul Tether":{
+    "baseType":"Long Belt",
+    "stats":["Soul Tether","Long Belt","UniqueIncreasedEnergyShield2","UniqueIntelligence27","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"],
+    "affixes":["UniqueIncreasedEnergyShield2","UniqueIntelligence27","UniqueLoseEnergyShieldPerSecond1","UniqueLifeLeechExcessToEnergyShield1"]
+  },
+  "Cat O' Nine Tails":{
+    "baseType":"Utility Belt",
+    "stats":["Cat O' Nine Tails","Utility Belt","League: Runes of Aldur","UniqueIncreasedLife51","UniqueRegeneratePercentLifeIfHitRecently1","UniqueLifeRecoveryRate1","UniqueCannotRecoverAboveLowLifeExceptFlasks1","UniqueGainPercentLifeAsThorns1"],
+    "affixes":["UniqueIncreasedLife51","UniqueRegeneratePercentLifeIfHitRecently1","UniqueLifeRecoveryRate1","UniqueCannotRecoverAboveLowLifeExceptFlasks1","UniqueGainPercentLifeAsThorns1"],
+    "league":" Runes of Aldur"
+  },
+  "Bijouborne":{
+    "baseType":"Double Belt",
+    "stats":["Bijouborne","Double Belt","League: Dawn of the Hunt","UniqueGrantsCastOnCharmUseSkill1","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"],
+    "affixes":["UniqueGrantsCastOnCharmUseSkill1","UniqueIncreasedMana51","UniqueGlobalCharmIncreasedDuration1","UniqueAdditionalCharm3","UniqueDexterity41","UniqueIncreasedCharmChargesGained2"],
+    "league":" Dawn of the Hunt"
+  },
+  "Shavronne's Satchel":{
+    "baseType":"Fine Belt",
+    "stats":["Shavronne's Satchel","Fine Belt","UniqueFlaskLifeRecoveryRate3","UniqueIntelligence20","UniqueIncreasedFlaskChargesGained2","UniqueFlaskLifeRecoveryEnergyShield1"],
+    "affixes":["UniqueFlaskLifeRecoveryRate3","UniqueIntelligence20","UniqueIncreasedFlaskChargesGained2","UniqueFlaskLifeRecoveryEnergyShield1"]
+  },
+  "Infernoclasp":{
+    "baseType":"Plate Belt",
+    "stats":["Infernoclasp","Plate Belt","Source: No longer obtainable","Variant: Pre 0.1.1","Variant: Pre 0.5.0","Variant: Current","{variant:3}BeltImplicitPhysicalDamageReductionRating1","{variant:1,2}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","{variant:1}UniqueFireResist3[25,35]","{variant:2,3}UniqueFireResist3"],
+    "variants":["Pre 0.1.1","Pre 0.5.0","Current"],
+    "source":"No longer obtainable",
+    "affixes":["{variant:1,2}BeltImplicitPhysicalDamageReductionRating1[100,140]","UniqueIncreasedPhysicalDamageReductionRating1","UniqueStrength2","UniqueMaximumFireResist1","{variant:2,3}UniqueFireResist3","BeltImplicitPhysicalDamageReductionRating1","UniqueFireResist3[25,35]"]
   }
 }

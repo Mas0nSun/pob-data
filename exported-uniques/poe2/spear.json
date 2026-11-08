@@ -1,66 +1,66 @@
 {
-  "Skysliver":{
-    "baseType":"Winged Spear",
-    "stats":["Skysliver","Winged Spear","League: Dawn of the Hunt","UniqueLocalNoWeaponPhysicalDamage4","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalNoWeaponPhysicalDamage4","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"]
-  },
-  "Spire of Ire":{
-    "variants":["Pre 0.2.1","Current"],
-    "baseType":"Helix Spear",
-    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","UniqueGrantsChaosInfusion1","UniqueLocalIncreasedAttackSpeed21","{variant:1}UniqueLifeLeechLocal3[6,10]","{variant:2}UniqueLifeLeechLocal3","{variant:1}UniqueLocalChaosDamage2[106,146][181,221]","{variant:2}UniqueLocalChaosDamage2","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueGrantsChaosInfusion1","UniqueLocalIncreasedAttackSpeed21","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1","UniqueLifeLeechLocal3","UniqueLocalChaosDamage2"]
-  },
   "The Ordained":{
     "baseType":"Grand Spear",
     "stats":["The Ordained","Grand Spear","League: Runes of Aldur","UniqueRighteousDescentSkill1","UniqueLocalIncreasedPhysicalDamagePercent21","UniqueLocalAddedLightningDamage11","UniqueLocalCriticalStrikeChance10","UniqueLifeLeechAlsoBasedOnLightningDamage1","UniqueDivineFragments1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueRighteousDescentSkill1","UniqueLocalIncreasedPhysicalDamagePercent21","UniqueLocalAddedLightningDamage11","UniqueLocalCriticalStrikeChance10","UniqueLifeLeechAlsoBasedOnLightningDamage1","UniqueDivineFragments1"]
-  },
-  "Splinter of Lorrata":{
-    "variants":["Pre 0.3.0","Current"],
-    "baseType":"Hardwood Spear",
-    "stats":["Splinter of Lorrata","Hardwood Spear","League: Dawn of the Hunt","Variant: Pre 0.3.0","Variant: Current","UniqueLocalAddedPhysicalDamage3","{variant:2}DealNoElementalDamageUnique__3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1","DealNoElementalDamageUnique__3"]
-  },
-  "Atziri's Contempt":{
-    "league":" Fate of the Vaal",
-    "baseType":"Pronged Spear",
-    "stats":["Atziri's Contempt","Pronged Spear","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueShatteringSpiteSkill1","UniqueLocalIncreasedPhysicalDamagePercent20","UniqueLocalAddedFireDamage8","UniqueLocalAddedLightningDamage8","UniqueLocalIncreasedAttackSpeed27","UniquePresenceRadius5","UniqueSpearsInflictBloodstoneLanceOnHit1"],
-    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
-    "affixes":["UniqueShatteringSpiteSkill1","UniqueLocalIncreasedPhysicalDamagePercent20","UniqueLocalAddedFireDamage8","UniqueLocalAddedLightningDamage8","UniqueLocalIncreasedAttackSpeed27","UniquePresenceRadius5","UniqueSpearsInflictBloodstoneLanceOnHit1"]
+    "affixes":["UniqueRighteousDescentSkill1","UniqueLocalIncreasedPhysicalDamagePercent21","UniqueLocalAddedLightningDamage11","UniqueLocalCriticalStrikeChance10","UniqueLifeLeechAlsoBasedOnLightningDamage1","UniqueDivineFragments1"],
+    "league":" Runes of Aldur"
   },
   "Chainsting":{
     "baseType":"Hunting Spear",
     "stats":["Chainsting","Hunting Spear","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed18","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed18","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"]
+    "affixes":["UniqueLocalAddedPhysicalDamage19","UniqueLocalIncreasedAccuracy7","UniqueLocalIncreasedAttackSpeed18","UniqueLocalAllDamageCanPin1","UniqueLocalIncreasedProjectileSpeed1"],
+    "league":" Dawn of the Hunt"
   },
-  "Tangletongue":{
-    "variants":["Pre 0.3.0","Current"],
-    "baseType":"Forked Spear",
-    "stats":["Tangletongue","Forked Spear","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage21","{variant:1}UniqueLocalCriticalStrikeChance8[1000,2000]","{variant:2}UniqueLocalCriticalStrikeChance8","UniqueIntelligence38","UniqueRollCriticalChanceTwice1","UniqueLifeCost2"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage21","UniqueIntelligence38","UniqueRollCriticalChanceTwice1","UniqueLifeCost2","UniqueLocalCriticalStrikeChance8"]
+  "Atziri's Contempt":{
+    "baseType":"Pronged Spear",
+    "stats":["Atziri's Contempt","Pronged Spear","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueShatteringSpiteSkill1","UniqueLocalIncreasedPhysicalDamagePercent20","UniqueLocalAddedFireDamage8","UniqueLocalAddedLightningDamage8","UniqueLocalIncreasedAttackSpeed27","UniquePresenceRadius5","UniqueSpearsInflictBloodstoneLanceOnHit1"],
+    "league":" Fate of the Vaal",
+    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
+    "affixes":["UniqueShatteringSpiteSkill1","UniqueLocalIncreasedPhysicalDamagePercent20","UniqueLocalAddedFireDamage8","UniqueLocalAddedLightningDamage8","UniqueLocalIncreasedAttackSpeed27","UniquePresenceRadius5","UniqueSpearsInflictBloodstoneLanceOnHit1"]
   },
   "Daevata's Wind":{
     "baseType":"War Spear",
     "stats":["Daevata's Wind","War Spear","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"]
+    "affixes":["UniqueLocalAddedPhysicalDamage22","UniqueIncreasedEvasionRating4","UniqueLocalIncreasedAttackSpeed20","UniqueMeleeDamageIfProjectileHitRecently1","UniqueProjectileDamageIfMeleeHitRecently1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Skysliver":{
+    "baseType":"Winged Spear",
+    "stats":["Skysliver","Winged Spear","League: Dawn of the Hunt","UniqueLocalNoWeaponPhysicalDamage4","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
+    "affixes":["UniqueLocalNoWeaponPhysicalDamage4","UniqueLocalAddedLightningDamage1","UniqueLocalIncreasedAttackSpeed3","UniqueShockChanceIncrease1","UniqueLocalAlwaysMinimumOrMaximum1"],
+    "league":" Dawn of the Hunt"
   },
   "Saitha's Spear":{
     "baseType":"Barbed Spear",
     "stats":["Saitha's Spear","Barbed Spear","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"]
+    "affixes":["UniqueLocalAddedPhysicalDamage20","UniqueLocalAddedFireDamage1","UniqueLocalChanceToBleed2","UniqueAggravateIgnites1","UniqueLocalChanceToAggravateBleed1"],
+    "league":" Dawn of the Hunt"
   },
   "Tyranny's Grip":{
     "baseType":"Ironhead Spear",
     "stats":["Tyranny's Grip","Ironhead Spear","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"]
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent12","UniqueLocalIncreasedAttackSpeed16","UniqueStrength38","UniqueMeleeSplash1","UniqueLocalKnockback1","UniqueCannotBeThrown1"],
+    "league":" Dawn of the Hunt"
+  },
+  "Splinter of Lorrata":{
+    "baseType":"Hardwood Spear",
+    "stats":["Splinter of Lorrata","Hardwood Spear","League: Dawn of the Hunt","Variant: Pre 0.3.0","Variant: Current","UniqueLocalAddedPhysicalDamage3","{variant:2}DealNoElementalDamageUnique__3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1"],
+    "variants":["Pre 0.3.0","Current"],
+    "affixes":["UniqueLocalAddedPhysicalDamage3","UniqueLocalWeaponRangeIncrease1","UniqueLocalInfinitePoisonStackCount1","UniqueLocalPoisonOnHit1","DealNoElementalDamageUnique__3"],
+    "league":" Dawn of the Hunt"
+  },
+  "Spire of Ire":{
+    "baseType":"Helix Spear",
+    "stats":["Spire of Ire","Helix Spear","League: Dawn of the Hunt","Variant: Pre 0.2.1","Variant: Current","UniqueGrantsChaosInfusion1","UniqueLocalIncreasedAttackSpeed21","{variant:1}UniqueLifeLeechLocal3[6,10]","{variant:2}UniqueLifeLeechLocal3","{variant:1}UniqueLocalChaosDamage2[106,146][181,221]","{variant:2}UniqueLocalChaosDamage2","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1"],
+    "variants":["Pre 0.2.1","Current"],
+    "affixes":["UniqueGrantsChaosInfusion1","UniqueLocalIncreasedAttackSpeed21","UniqueChaosInfusionFromCharge1","UniqueLifeLeechChaosDamage1","UniqueLifeLeechLocal3","UniqueLocalChaosDamage2"],
+    "league":" Dawn of the Hunt"
+  },
+  "Tangletongue":{
+    "baseType":"Forked Spear",
+    "stats":["Tangletongue","Forked Spear","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage21","{variant:1}UniqueLocalCriticalStrikeChance8[1000,2000]","{variant:2}UniqueLocalCriticalStrikeChance8","UniqueIntelligence38","UniqueRollCriticalChanceTwice1","UniqueLifeCost2"],
+    "variants":["Pre 0.3.0","Current"],
+    "affixes":["UniqueLocalAddedPhysicalDamage21","UniqueIntelligence38","UniqueRollCriticalChanceTwice1","UniqueLifeCost2","UniqueLocalCriticalStrikeChance8"],
+    "league":" Dawn of the Hunt"
   }
 }

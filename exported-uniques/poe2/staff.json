@@ -1,70 +1,54 @@
 {
-  "Collapsing Horizon":{
-    "baseType":"Wyrm Quarterstaff",
-    "stats":["Collapsing Horizon","Wyrm Quarterstaff","Source: Drops from unique{Kosis, The Revelation}","UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"],
-    "source":"Drops from unique{Kosis, The Revelation}",
-    "affixes":["UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"]
+  "The Raven's Flock":{
+    "baseType":"Perching Staff",
+    "stats":["The Raven's Flock","Perching Staff","League: Runes of Aldur","UniqueIncreasedCastSpeed22","UniqueIntelligence47","UniqueMinionDamage3","UniqueMinionChanceToApplyGruelingMadness1","UniqueSpiritReservationEfficiency1"],
+    "affixes":["UniqueIncreasedCastSpeed22","UniqueIntelligence47","UniqueMinionDamage3","UniqueMinionChanceToApplyGruelingMadness1","UniqueSpiritReservationEfficiency1"],
+    "league":" Runes of Aldur"
   },
-  "Atziri's Rule":{
-    "league":" Fate of the Vaal",
-    "baseType":"Reflecting Staff",
-    "stats":["Atziri's Rule","Reflecting Staff","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueMaximumLifeIncrease8","UniqueGlobalCorruptedSpellSkillLevel1","UniqueIncreasedCastSpeed20","UniqueIntelligence46","UniqueSpellsThatCostLifeGainDamageAsExtraPhys1"],
-    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
-    "affixes":["UniqueMaximumLifeIncrease8","UniqueGlobalCorruptedSpellSkillLevel1","UniqueIncreasedCastSpeed20","UniqueIntelligence46","UniqueSpellsThatCostLifeGainDamageAsExtraPhys1"]
+  "The Sentry":{
+    "baseType":"Gothic Quarterstaff",
+    "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalNoWeaponPhysicalDamage3","{variant:1}UniqueLocalAddedFireDamage3[8,12][16,20]","{variant:2}UniqueLocalAddedFireDamage3","{variant:2}UniqueLocalIncreasedAccuracy6","UniqueFireResist13","UniqueIgniteChanceIncrease2","UniqueLightRadius8"],
+    "affixes":["UniqueFireResist13","UniqueIgniteChanceIncrease2","UniqueLightRadius8","UniqueLocalIncreasedAccuracy6","UniqueLocalNoWeaponPhysicalDamage3","UniqueLocalAddedFireDamage3"],
+    "variants":["Pre 0.1.1","Current"]
   },
-  "Dusk Vigil":{
+  "The Whispering Ice":{
+    "baseType":"Permafrost Staff",
+    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","UniqueGrantsIcestormSkill","{variant:1}UniqueGlobalColdSpellGemsLevel1[2,4]","{variant:2}UniqueGlobalColdSpellGemsLevel1","UniqueIncreasedCastSpeed16","{variant:1}UniquePercentageIntelligence3[5,15]","{variant:2}UniquePercentageIntelligence3","{variant:1}SpellDamagePerIntelligenceUniqueStaff12[4,4]","{variant:2}SpellDamagePerIntelligenceUniqueStaff12","{variant:1}UniqueColdExposureOnHitWithMagnitude1[20,30]","{variant:2}UniqueColdExposureOnHitWithMagnitude1"],
     "variants":["Pre 0.4.0","Current"],
-    "stats":["Dusk Vigil","Ashen Staff","Variant: Pre 0.4.0","Variant: Current","{variant:2}UniqueDamageGainedAsFire3","{variant:1}UniqueSpellDamageOnWeapon3[60,80]","{variant:2}UniqueSpellDamageOnWeapon3","UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1"],
-    "baseType":"Ashen Staff",
-    "affixes":["UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1","UniqueSpellDamageOnWeapon3","UniqueDamageGainedAsFire3"]
+    "affixes":["UniqueGrantsIcestormSkill","UniqueIncreasedCastSpeed16","UniqueColdExposureOnHitWithMagnitude1","UniquePercentageIntelligence3","SpellDamagePerIntelligenceUniqueStaff12","UniqueGlobalColdSpellGemsLevel1"],
+    "league":" Dawn of the Hunt"
+  },
+  "The Searing Touch":{
+    "baseType":"Pyrophyte Staff",
+    "stats":["The Searing Touch","Pyrophyte Staff","Variant: Pre 0.4.0","Variant: Current","UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2","{variant:2}UniqueStaffIgniteProliferation1"],
+    "affixes":["UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2","UniqueStaffIgniteProliferation1"],
+    "variants":["Pre 0.4.0","Current"]
   },
   "Duality":{
     "baseType":"Warding Quarterstaff",
     "stats":["Duality","Warding Quarterstaff","League: Runes of Aldur","UniqueLocalIncreasedPhysicalDamagePercent25","UniqueLocalCriticalMultiplier3","UniqueLocalIncreasedAttackSpeed32","UniqueGainFinalityForXSecondsPerComboLostUsingSkills1","UniqueGainXGuardPerComboLostUsingSkills1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent25","UniqueLocalCriticalMultiplier3","UniqueLocalIncreasedAttackSpeed32","UniqueGainFinalityForXSecondsPerComboLostUsingSkills1","UniqueGainXGuardPerComboLostUsingSkills1"]
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent25","UniqueLocalCriticalMultiplier3","UniqueLocalIncreasedAttackSpeed32","UniqueGainFinalityForXSecondsPerComboLostUsingSkills1","UniqueGainXGuardPerComboLostUsingSkills1"],
+    "league":" Runes of Aldur"
   },
-  "Earthbound":{
-    "variants":["Pre 0.4.0","Current"],
-    "stats":["Earthbound","Voltaic Staff","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueLightningDamageOnWeapon1","{variant:2}UniqueSpellDamageOnWeapon11","UniqueIncreasedCastSpeed10","UniqueManaRegeneration25","{variant:2}UniqueShockChanceIncrease4","UniqueTriggerSparkOnKillingShockedEnemy1"],
-    "baseType":"Voltaic Staff",
-    "affixes":["UniqueIncreasedCastSpeed10","UniqueManaRegeneration25","UniqueTriggerSparkOnKillingShockedEnemy1","UniqueLightningDamageOnWeapon1","UniqueSpellDamageOnWeapon11","UniqueShockChanceIncrease4"]
+  "Atziri's Rule":{
+    "baseType":"Reflecting Staff",
+    "stats":["Atziri's Rule","Reflecting Staff","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueMaximumLifeIncrease8","UniqueGlobalCorruptedSpellSkillLevel1","UniqueIncreasedCastSpeed20","UniqueIntelligence46","UniqueSpellsThatCostLifeGainDamageAsExtraPhys1"],
+    "league":" Fate of the Vaal",
+    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
+    "affixes":["UniqueMaximumLifeIncrease8","UniqueGlobalCorruptedSpellSkillLevel1","UniqueIncreasedCastSpeed20","UniqueIntelligence46","UniqueSpellsThatCostLifeGainDamageAsExtraPhys1"]
   },
-  "The Blood Thorn":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["The Blood Thorn","Wrapped Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage2[3,5][9,11]","{variant:2}UniqueLocalAddedPhysicalDamage2","UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1"],
-    "baseType":"Wrapped Quarterstaff",
-    "affixes":["UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1","UniqueLocalAddedPhysicalDamage2"]
-  },
-  "Sire of Shards":{
-    "baseType":"Chiming Staff",
-    "stats":["Sire of Shards","Chiming Staff","League: Dawn of the Hunt","UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed13","UniqueAllResistances22","UniqueLightRadius18","UniqueSpellAdditionalProjectilesInCircle1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed13","UniqueAllResistances22","UniqueLightRadius18","UniqueSpellAdditionalProjectilesInCircle1"]
-  },
-  "Nazir's Judgement":{
-    "variants":["Pre 0.1.1","Pre 0.3.0","Current"],
-    "stats":["Nazir's Judgement","Steelpoint Quarterstaff","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueLocalIncreasedAccuracy4","UniqueStunDuration1","UniqueLocalDazeBuildup1","{variant:3}UniqueMeleeDamageAgainstStunnedEnemies1"],
-    "baseType":"Steelpoint Quarterstaff",
-    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueLocalIncreasedAccuracy4","UniqueStunDuration1","UniqueLocalDazeBuildup1","UniqueMeleeDamageAgainstStunnedEnemies1","UniqueLocalIncreasedPhysicalDamagePercent4"]
-  },
-  "Pillar of the Caged God":{
-    "variants":["Current"],
-    "stats":["Pillar of the Caged God","Variant: Pre 0.2.0","Variant: Current","Long Quarterstaff","{variant:1}UniqueAttackAreaOfEffectPerIntelligence1[2,2]","{variant:2}UniqueAttackAreaOfEffectPerIntelligence1","{variant:1}UniqueAttackSpeedPerDexterity1[2,2]","{variant:2}UniqueAttackSpeedPerDexterity1","UniqueWeaponDamagePerStrength1"],
-    "baseType":"Variant: Pre 0.2.0",
-    "affixes":["Long Quarterstaff","UniqueWeaponDamagePerStrength1","UniqueAttackSpeedPerDexterity1","UniqueAttackAreaOfEffectPerIntelligence1"]
-  },
-  "The Raven's Flock":{
-    "baseType":"Perching Staff",
-    "stats":["The Raven's Flock","Perching Staff","League: Runes of Aldur","UniqueIncreasedCastSpeed22","UniqueIntelligence47","UniqueMinionDamage3","UniqueMinionChanceToApplyGruelingMadness1","UniqueSpiritReservationEfficiency1"],
-    "league":" Runes of Aldur",
-    "affixes":["UniqueIncreasedCastSpeed22","UniqueIntelligence47","UniqueMinionDamage3","UniqueMinionChanceToApplyGruelingMadness1","UniqueSpiritReservationEfficiency1"]
+  "The Unborn Lich":{
+    "baseType":"Ravenous Staff",
+    "stats":["The Unborn Lich","Ravenous Staff","League: Rise of the Abyssal","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Crafted: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","Variant: His Dark Horizon","Variant: His Foul Emergence","Variant: His Grave Command","Variant: His Scattering Calamity","Variant: His Vile Intrusion","Variant: His Winnowing Flame","Variant: Elemental Damage and Ailment Duration","Variant: Spirit and Spirit Reservation Efficiency","Variant: Chaos Damage and Curse","Variant: Spell Physical Damage and Bleed Chance","Variant: Chaos Damage and Explode","Variant: Unholy Might","UniqueDesecratedModEffect1","{variant:1}UniqueKulemakHisDarkHorizon_1","{variant:2}UniqueKulemakHisFoulEmergence_1","{variant:3}UniqueKulemakHisGraveCommand_1","{variant:4}UniqueKulemakHisScatteringCalamity_1","{variant:5}UniqueKulemakHisVileIntrusion_1","{variant:6}UniqueKulemakHisWinnowingFlame_1","{variant:7}UniqueKulemakElementalDamageEleAilmentDuration_1","{variant:8}UniqueKulemakSpiritAndSpiritReservationEfficiency_1","{variant:9}UniqueKulemakChaosDamageCurseLowersChaosRes_1","{variant:10}UniqueKulemakSpellPhysicalDamageBleedChance_1","{variant:11}UniqueKulemakChaosDamageAndExplosion_1","{variant:12}UniqueKulemakUnholyMightAndMagnitude_1"],
+    "variants":["His Dark Horizon","His Foul Emergence","His Grave Command","His Scattering Calamity","His Vile Intrusion","His Winnowing Flame","Elemental Damage and Ailment Duration","Spirit and Spirit Reservation Efficiency","Chaos Damage and Curse","Spell Physical Damage and Bleed Chance","Chaos Damage and Explode","Unholy Might"],
+    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Crafted: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","UniqueDesecratedModEffect1","UniqueKulemakHisFoulEmergence_1","UniqueKulemakHisGraveCommand_1","UniqueKulemakHisScatteringCalamity_1","UniqueKulemakHisVileIntrusion_1","UniqueKulemakHisWinnowingFlame_1","UniqueKulemakElementalDamageEleAilmentDuration_1","UniqueKulemakSpiritAndSpiritReservationEfficiency_1","UniqueKulemakChaosDamageCurseLowersChaosRes_1","UniqueKulemakSpellPhysicalDamageBleedChance_1","UniqueKulemakChaosDamageAndExplosion_1","UniqueKulemakUnholyMightAndMagnitude_1","UniqueKulemakHisDarkHorizon_1"],
+    "league":" Rise of the Abyssal"
   },
   "Matsya":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["Matsya","Crescent Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalAddedColdDamage5","{variant:2}UniqueLocalAddedLightningDamage5","UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration17","UniqueHalvedSpiritReservation1"],
     "baseType":"Crescent Quarterstaff",
-    "affixes":["UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration17","UniqueHalvedSpiritReservation1","UniqueLocalAddedColdDamage5","UniqueLocalAddedLightningDamage5"]
+    "stats":["Matsya","Crescent Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalAddedColdDamage5","{variant:2}UniqueLocalAddedLightningDamage5","UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration17","UniqueHalvedSpiritReservation1"],
+    "affixes":["UniqueLocalCriticalStrikeChance2","UniqueLocalIncreasedAttackSpeed9","UniqueManaRegeneration17","UniqueHalvedSpiritReservation1","UniqueLocalAddedColdDamage5","UniqueLocalAddedLightningDamage5"],
+    "variants":["Pre 0.1.1","Current"]
   },
   "The Burden of Shadows":{
     "baseType":"Chiming Staff",
@@ -72,36 +56,52 @@
     "source":"Drops from unique{The King in the Mists} in normal{Crux of Nothingness}",
     "affixes":["UniqueIncreasedCastSpeed11","UniqueLifeCost1","UniqueDamageGainedAsChaosPerCost1"]
   },
-  "The Unborn Lich":{
-    "variants":["His Dark Horizon","His Foul Emergence","His Grave Command","His Scattering Calamity","His Vile Intrusion","His Winnowing Flame","Elemental Damage and Ailment Duration","Spirit and Spirit Reservation Efficiency","Chaos Damage and Curse","Spell Physical Damage and Bleed Chance","Chaos Damage and Explode","Unholy Might"],
-    "baseType":"Ravenous Staff",
-    "stats":["The Unborn Lich","Ravenous Staff","League: Rise of the Abyssal","Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Crafted: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","Variant: His Dark Horizon","Variant: His Foul Emergence","Variant: His Grave Command","Variant: His Scattering Calamity","Variant: His Vile Intrusion","Variant: His Winnowing Flame","Variant: Elemental Damage and Ailment Duration","Variant: Spirit and Spirit Reservation Efficiency","Variant: Chaos Damage and Curse","Variant: Spell Physical Damage and Bleed Chance","Variant: Chaos Damage and Explode","Variant: Unholy Might","UniqueDesecratedModEffect1","{variant:1}UniqueKulemakHisDarkHorizon_1","{variant:2}UniqueKulemakHisFoulEmergence_1","{variant:3}UniqueKulemakHisGraveCommand_1","{variant:4}UniqueKulemakHisScatteringCalamity_1","{variant:5}UniqueKulemakHisVileIntrusion_1","{variant:6}UniqueKulemakHisWinnowingFlame_1","{variant:7}UniqueKulemakElementalDamageEleAilmentDuration_1","{variant:8}UniqueKulemakSpiritAndSpiritReservationEfficiency_1","{variant:9}UniqueKulemakChaosDamageCurseLowersChaosRes_1","{variant:10}UniqueKulemakSpellPhysicalDamageBleedChance_1","{variant:11}UniqueKulemakChaosDamageAndExplosion_1","{variant:12}UniqueKulemakUnholyMightAndMagnitude_1"],
-    "league":" Rise of the Abyssal",
-    "affixes":["Has Alt Variant: true","Has Alt Variant Two: true","Has Alt Variant Three: true","Crafted: true","Selected Variant: 7","Selected Alt Variant: 8","Selected Alt Variant Two: 9","Selected Alt Variant Three: 10","UniqueDesecratedModEffect1","UniqueKulemakHisDarkHorizon_1","UniqueKulemakUnholyMightAndMagnitude_1","UniqueKulemakSpellPhysicalDamageBleedChance_1","UniqueKulemakHisScatteringCalamity_1","UniqueKulemakHisGraveCommand_1","UniqueKulemakHisFoulEmergence_1","UniqueKulemakHisVileIntrusion_1","UniqueKulemakHisWinnowingFlame_1","UniqueKulemakChaosDamageCurseLowersChaosRes_1","UniqueKulemakChaosDamageAndExplosion_1","UniqueKulemakSpiritAndSpiritReservationEfficiency_1","UniqueKulemakElementalDamageEleAilmentDuration_1"]
-  },
-  "The Searing Touch":{
-    "variants":["Pre 0.4.0","Current"],
-    "stats":["The Searing Touch","Pyrophyte Staff","Variant: Pre 0.4.0","Variant: Current","UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2","{variant:2}UniqueStaffIgniteProliferation1"],
-    "baseType":"Pyrophyte Staff",
-    "affixes":["UniqueFireDamageOnWeapon1","UniqueIncreasedCastSpeed4","UniqueIgniteChanceIncrease1","UniqueIgniteEffect2","UniqueStaffIgniteProliferation1"]
-  },
-  "The Whispering Ice":{
-    "variants":["Pre 0.4.0","Current"],
-    "baseType":"Permafrost Staff",
-    "stats":["The Whispering Ice","Permafrost Staff","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","UniqueGrantsIcestormSkill","{variant:1}UniqueGlobalColdSpellGemsLevel1[2,4]","{variant:2}UniqueGlobalColdSpellGemsLevel1","UniqueIncreasedCastSpeed16","{variant:1}UniquePercentageIntelligence3[5,15]","{variant:2}UniquePercentageIntelligence3","{variant:1}SpellDamagePerIntelligenceUniqueStaff12[4,4]","{variant:2}SpellDamagePerIntelligenceUniqueStaff12","{variant:1}UniqueColdExposureOnHitWithMagnitude1[20,30]","{variant:2}UniqueColdExposureOnHitWithMagnitude1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueGrantsIcestormSkill","UniqueIncreasedCastSpeed16","UniqueGlobalColdSpellGemsLevel1","UniqueColdExposureOnHitWithMagnitude1","UniquePercentageIntelligence3","SpellDamagePerIntelligenceUniqueStaff12"]
-  },
   "Taryn's Shiver":{
-    "variants":["Pre 0.4.0","Current"],
-    "stats":["Taryn's Shiver","Gelid Staff","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueColdDamageOnWeapon1","{variant:2}UniqueSpellDamageOnWeapon10","UniqueIncreasedCastSpeed5","{variant:1}UniqueFreezeDamageIncrease1[100,100]","{variant:2}UniqueFreezeDamageIncrease1","{variant:1}UniqueFrozenMonstersTakeIncreasedDamage1[50,50]","{variant:2}UniqueFrozenMonstersTakeIncreasedDamage1"],
     "baseType":"Gelid Staff",
-    "affixes":["UniqueIncreasedCastSpeed5","UniqueSpellDamageOnWeapon10","UniqueFrozenMonstersTakeIncreasedDamage1","UniqueFreezeDamageIncrease1","UniqueColdDamageOnWeapon1"]
+    "stats":["Taryn's Shiver","Gelid Staff","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueColdDamageOnWeapon1","{variant:2}UniqueSpellDamageOnWeapon10","UniqueIncreasedCastSpeed5","{variant:1}UniqueFreezeDamageIncrease1[100,100]","{variant:2}UniqueFreezeDamageIncrease1","{variant:1}UniqueFrozenMonstersTakeIncreasedDamage1[50,50]","{variant:2}UniqueFrozenMonstersTakeIncreasedDamage1"],
+    "affixes":["UniqueIncreasedCastSpeed5","UniqueColdDamageOnWeapon1","UniqueSpellDamageOnWeapon10","UniqueFrozenMonstersTakeIncreasedDamage1","UniqueFreezeDamageIncrease1"],
+    "variants":["Pre 0.4.0","Current"]
   },
-  "The Sentry":{
-    "variants":["Pre 0.1.1","Current"],
-    "stats":["The Sentry","Gothic Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalNoWeaponPhysicalDamage3","{variant:1}UniqueLocalAddedFireDamage3[8,12][16,20]","{variant:2}UniqueLocalAddedFireDamage3","{variant:2}UniqueLocalIncreasedAccuracy6","UniqueFireResist13","UniqueIgniteChanceIncrease2","UniqueLightRadius8"],
-    "baseType":"Gothic Quarterstaff",
-    "affixes":["UniqueFireResist13","UniqueIgniteChanceIncrease2","UniqueLightRadius8","UniqueLocalAddedFireDamage3","UniqueLocalIncreasedAccuracy6","UniqueLocalNoWeaponPhysicalDamage3"]
+  "Pillar of the Caged God":{
+    "baseType":"Variant: Pre 0.2.0",
+    "stats":["Pillar of the Caged God","Variant: Pre 0.2.0","Variant: Current","Long Quarterstaff","{variant:1}UniqueAttackAreaOfEffectPerIntelligence1[2,2]","{variant:2}UniqueAttackAreaOfEffectPerIntelligence1","{variant:1}UniqueAttackSpeedPerDexterity1[2,2]","{variant:2}UniqueAttackSpeedPerDexterity1","UniqueWeaponDamagePerStrength1"],
+    "affixes":["Long Quarterstaff","UniqueWeaponDamagePerStrength1","UniqueAttackAreaOfEffectPerIntelligence1","UniqueAttackSpeedPerDexterity1"],
+    "variants":["Current"]
+  },
+  "The Blood Thorn":{
+    "baseType":"Wrapped Quarterstaff",
+    "stats":["The Blood Thorn","Wrapped Quarterstaff","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalAddedPhysicalDamage2[3,5][9,11]","{variant:2}UniqueLocalAddedPhysicalDamage2","UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1"],
+    "affixes":["UniqueStrength3","UniqueCausesBleeding1","UniqueAttackerTakesDamage1","UniqueLocalAddedPhysicalDamage2"],
+    "variants":["Pre 0.1.1","Current"]
+  },
+  "Collapsing Horizon":{
+    "baseType":"Wyrm Quarterstaff",
+    "stats":["Collapsing Horizon","Wyrm Quarterstaff","Source: Drops from unique{Kosis, The Revelation}","UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"],
+    "source":"Drops from unique{Kosis, The Revelation}",
+    "affixes":["UniqueWeaponElementalDamage1","UniqueLocalCriticalStrikeChance4","UniqueGlobalElementalGemLevel1","UniqueTriggersRefundEnergySpent1"]
+  },
+  "Nazir's Judgement":{
+    "baseType":"Steelpoint Quarterstaff",
+    "stats":["Nazir's Judgement","Steelpoint Quarterstaff","Variant: Pre 0.1.1","Variant: Pre 0.3.0","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent4","{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueLocalIncreasedAccuracy4","UniqueStunDuration1","UniqueLocalDazeBuildup1","{variant:3}UniqueMeleeDamageAgainstStunnedEnemies1"],
+    "affixes":["{variant:2,3}UniqueLocalAddedPhysicalDamage13","UniqueLocalIncreasedAccuracy4","UniqueStunDuration1","UniqueLocalDazeBuildup1","UniqueLocalIncreasedPhysicalDamagePercent4","UniqueMeleeDamageAgainstStunnedEnemies1"],
+    "variants":["Pre 0.1.1","Pre 0.3.0","Current"]
+  },
+  "Dusk Vigil":{
+    "baseType":"Ashen Staff",
+    "stats":["Dusk Vigil","Ashen Staff","Variant: Pre 0.4.0","Variant: Current","{variant:2}UniqueDamageGainedAsFire3","{variant:1}UniqueSpellDamageOnWeapon3[60,80]","{variant:2}UniqueSpellDamageOnWeapon3","UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1"],
+    "affixes":["UniqueLifeGainedFromEnemyDeath9","UniqueManaRegeneration20","UniqueTriggerEmberFusilladeOnSpellCast1","UniqueSpellDamageOnWeapon3","UniqueDamageGainedAsFire3"],
+    "variants":["Pre 0.4.0","Current"]
+  },
+  "Earthbound":{
+    "baseType":"Voltaic Staff",
+    "stats":["Earthbound","Voltaic Staff","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueLightningDamageOnWeapon1","{variant:2}UniqueSpellDamageOnWeapon11","UniqueIncreasedCastSpeed10","UniqueManaRegeneration25","{variant:2}UniqueShockChanceIncrease4","UniqueTriggerSparkOnKillingShockedEnemy1"],
+    "affixes":["UniqueIncreasedCastSpeed10","UniqueManaRegeneration25","UniqueTriggerSparkOnKillingShockedEnemy1","UniqueLightningDamageOnWeapon1","UniqueSpellDamageOnWeapon11","UniqueShockChanceIncrease4"],
+    "variants":["Pre 0.4.0","Current"]
+  },
+  "Sire of Shards":{
+    "baseType":"Chiming Staff",
+    "stats":["Sire of Shards","Chiming Staff","League: Dawn of the Hunt","UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed13","UniqueAllResistances22","UniqueLightRadius18","UniqueSpellAdditionalProjectilesInCircle1"],
+    "affixes":["UniqueSpellDamageOnWeapon7","UniqueIncreasedCastSpeed13","UniqueAllResistances22","UniqueLightRadius18","UniqueSpellAdditionalProjectilesInCircle1"],
+    "league":" Dawn of the Hunt"
   }
 }

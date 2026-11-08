@@ -45,7 +45,10 @@ jobs:
         run: luajit RePoE/lua/export_uniques_to_json.lua RePoE
         working-directory: .
       - name: merge unique items
-        run: luajit RePoE/lua/merge_uniques.lua RePoE all
+        run: luajit RePoE/lua/merge_uniques.lua merge
+        working-directory: RePoE
+      - name: copy renamed files to output
+        run: luajit RePoE/lua/copy_to_output.lua RePoE
         working-directory: .
       - name: commit changes
         id: autocommit
