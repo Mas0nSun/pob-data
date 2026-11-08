@@ -1,208 +1,221 @@
 {
-  "Gravebind":{
-    "baseType":"Rope Cuffs",
-    "stats":["Gravebind","Rope Cuffs","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield4","{variant:2}UniqueColdResist25","UniqueLifeGainedFromEnemyDeath3","UniqueManaGainedFromEnemyDeath4","UniqueEnemiesKilledCountAsYours1"],
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield4","UniqueLifeGainedFromEnemyDeath3","UniqueManaGainedFromEnemyDeath4","UniqueEnemiesKilledCountAsYours1","UniqueColdResist25"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Demon Stitcher":{
-    "baseType":"Intricate Gloves",
-    "stats":["Demon Stitcher","Intricate Gloves","UniqueIncreasedEnergyShield2","UniqueIncreasedLife15","UniqueIncreasedCastSpeed7","UniqueSacrificeLifeToGainEnergyShield1"],
-    "affixes":["UniqueIncreasedEnergyShield2","UniqueIncreasedLife15","UniqueIncreasedCastSpeed7","UniqueSacrificeLifeToGainEnergyShield1"]
-  },
-  "Thunderfist":{
-    "baseType":"Utility Wraps",
-    "stats":["Thunderfist","Utility Wraps","League: Rise of the Abyssal","Implicits: 1","Grants Skill: Level (1-20) Crackling Palm","UniqueLocalIncreasedEvasionAndEnergyShield19","UniqueIncreasedAttackSpeed13","UniqueLightningResist29","AddedLightningDamageWhileUnarmedUniqueGloves_1","BaseUnarmedCriticalStrikeChanceUnique__2"],
-    "implicitCount":1,
-    "league":" Rise of the Abyssal",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield19","UniqueIncreasedAttackSpeed13","UniqueLightningResist29","AddedLightningDamageWhileUnarmedUniqueGloves_1","BaseUnarmedCriticalStrikeChanceUnique__2"],
-    "grantSkill":" Level (1-20) Crackling Palm"
-  },
-  "Grip of Winter":{
-    "baseType":"Firm Bracers",
-    "stats":["Grip of Winter","Firm Bracers","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent6","UniqueAddedColdDamage1","{variant:2}UniqueColdResist24","UniqueFreezeDamageIncrease2","UniqueChillEffect1"],
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent6","UniqueAddedColdDamage1","UniqueFreezeDamageIncrease2","UniqueChillEffect1","UniqueColdResist24"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Doedre's Tenure":{
-    "baseType":"Stitched Gloves",
-    "stats":["Doedre's Tenure","Stitched Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEnergyShield12","UniqueSpellDamage1","UniqueIncreasedCastSpeed6","AmuletImplicitIntelligence1"],
-    "affixes":["UniqueSpellDamage1","UniqueIncreasedCastSpeed6","AmuletImplicitIntelligence1","UniqueLocalIncreasedEnergyShield12"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Sine Aequo":{
-    "baseType":"Grand Manchettes",
-    "stats":["Sine Aequo","Grand Manchettes","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","UniqueIncreasedSkillSpeed1","UniqueLocalArmourAndEvasionAndEnergyShield3","UniqueImmobiliseThreshold1","UniqueImmobiliseDamageTaken1"],
-    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
-    "affixes":["UniqueIncreasedSkillSpeed1","UniqueLocalArmourAndEvasionAndEnergyShield3","UniqueImmobiliseThreshold1","UniqueImmobiliseDamageTaken1"]
-  },
-  "Idle Hands":{
-    "baseType":"Sectioned Bracers",
-    "stats":["Idle Hands","Sectioned Bracers","UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy4","UniqueIntelligence3","UniqueIncreasedAttackSpeedFullMana1","UniqueFullManaThreshold1"],
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueIncreasedAccuracy4","UniqueIntelligence3","UniqueIncreasedAttackSpeedFullMana1","UniqueFullManaThreshold1"]
-  },
-  "Essentia Sanguis":{
-    "baseType":"Furtive Wraps",
-    "stats":["Essentia Sanguis","Furtive Wraps","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionAndEnergyShield17","UniqueAddedLightningDamage3","UniqueIntelligence31","UniqueLightningResist26","UniqueLeechEnergyShieldInsteadofLife1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield17","UniqueAddedLightningDamage3","UniqueIntelligence31","UniqueLightningResist26","UniqueLeechEnergyShieldInsteadofLife1"]
-  },
-  "Aerisvane's Wings":{
-    "baseType":"Burnished Gauntlets",
-    "stats":["Aerisvane's Wings","Burnished Gauntlets","UniqueLocalIncreasedArmourAndEvasion15","UniqueIncreasedAttackSpeed4","UniqueIntelligence9","UniqueDecimatingStrike1"],
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion15","UniqueIncreasedAttackSpeed4","UniqueIntelligence9","UniqueDecimatingStrike1"]
-  },
-  "Maligaro's Virtuosity":{
-    "baseType":"Fine Bracers",
-    "stats":["Maligaro's Virtuosity","Fine Bracers","UniqueLocalIncreasedEvasionRatingPercent12","UniqueCriticalStrikeChance1","UniqueIncreasedAttackSpeed3","UniqueDexterity2","UniqueCriticalStrikeMultiplierOverride1"],
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent12","UniqueCriticalStrikeChance1","UniqueIncreasedAttackSpeed3","UniqueDexterity2","UniqueCriticalStrikeMultiplierOverride1"]
-  },
-  "Kitoko's Current":{
-    "baseType":"Jewelled Gloves",
-    "stats":["Kitoko's Current","Jewelled Gloves","UniqueLocalIncreasedEnergyShieldPercent7","UniqueDexterity2","UniqueAttackAndCastSpeed1","UniqueLightningDamageCanElectrocute1"],
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent7","UniqueDexterity2","UniqueAttackAndCastSpeed1","UniqueLightningDamageCanElectrocute1"]
-  },
-  "Atziri's Acuity":{
-    "baseType":"Moulded Mitts",
-    "stats":["Atziri's Acuity","Moulded Mitts","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11","{variant:1}UniqueCriticalStrikeChance2[20,30]","{variant:2}UniqueCriticalStrikeChance2","UniqueIntelligence9","UniqueCriticalStrikesLeechIsInstant1"],
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11","UniqueIntelligence9","UniqueCriticalStrikesLeechIsInstant1","UniqueCriticalStrikeChance2"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Northpaw":{
-    "baseType":"Suede Bracers",
-    "stats":["Northpaw","Suede Bracers","Variant: Pre 0.1.1","Variant: Pre 0.2.0","Variant: Current","{variant:2,3}UniqueLocalIncreasedEvasionRating4","{variant:1}UniqueAddedPhysicalDamage2[2,3][5,6]","{variant:2,3}UniqueAddedPhysicalDamage2","{variant:2}UniqueCriticalMultiplier1[20,30]","{variant:3}UniqueCriticalMultiplier1","{variant:2}UniqueOverrideWeaponBaseCritical1[800,800]","{variant:3}UniqueOverrideWeaponBaseCritical1"],
-    "affixes":["{variant:2,3}UniqueLocalIncreasedEvasionRating4","{variant:2,3}UniqueAddedPhysicalDamage2","UniqueAddedPhysicalDamage2[2,3][5,6]","UniqueCriticalMultiplier1","UniqueOverrideWeaponBaseCritical1"],
-    "variants":["Pre 0.1.1","Pre 0.2.0","Current"]
-  },
-  "Death Articulated":{
-    "baseType":"Ornate Gauntlets",
-    "stats":["Death Articulated","Ornate Gauntlets","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEvasion26","UniqueIncreasedAttackSpeed8","UniqueChaosResist25","UniqueLifeDegenerationPercentGracePeriod1","UniqueRageRegeneration1","UniqueNonherentRageLoss1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion26","UniqueIncreasedAttackSpeed8","UniqueChaosResist25","UniqueLifeDegenerationPercentGracePeriod1","UniqueRageRegeneration1","UniqueNonherentRageLoss1"]
-  },
-  "Leopold's Applause":{
-    "baseType":"Embroidered Gloves",
-    "stats":["Leopold's Applause","Embroidered Gloves","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent1","UniqueIncreasedMana12","UniqueItemFoundRarityIncrease21","UniqueElementalPenetration1","UniqueElementalPenetrationBelowZero1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent1","UniqueIncreasedMana12","UniqueItemFoundRarityIncrease21","UniqueElementalPenetration1","UniqueElementalPenetrationBelowZero1"]
-  },
-  "Dreadfist":{
-    "baseType":"Bolstered Mitts",
-    "stats":["Dreadfist","Bolstered Mitts","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueCriticalMultiplier2","UniqueImpaleOnCriticalHit1","UniqueCriticalsCannotConsumeImpale1","UniqueAttackerTakesDamage8"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent10","UniqueCriticalMultiplier2","UniqueImpaleOnCriticalHit1","UniqueCriticalsCannotConsumeImpale1","UniqueAttackerTakesDamage8"]
-  },
-  "Hand of Wisdom and Action":{
-    "baseType":"Variant: Pre 0.2.0",
-    "stats":["Hand of Wisdom and Action","Variant: Pre 0.2.0","Variant: Current","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","{variant:1}Furtive Wraps","{variant:2}Spiral Wraps","UniqueDexterity31","UniqueIntelligence31","{variant:1}UniqueIncreasedAttackSpeedPerDexterity1[3,3]","{variant:2}UniqueIncreasedAttackSpeedPerDexterity1","UniqueLightningDamageToAttacksPerIntelligence1"],
-    "variants":["Current"],
-    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "affixes":["UniqueDexterity31","UniqueIntelligence31","UniqueLightningDamageToAttacksPerIntelligence1","Spiral Wraps","Furtive Wraps","UniqueIncreasedAttackSpeedPerDexterity1"]
-  },
-  "Nightscale":{
-    "baseType":"Pauascale Gloves",
-    "stats":["Nightscale","Pauascale Gloves","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent26","UniqueCriticalStrikeChance14","UniqueIntelligence29","UniqueColdResist34","UniqueManaRegenerationRateIfCritRecently1","UniqueNoManaRegenIfNotCritRecently1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent26","UniqueCriticalStrikeChance14","UniqueIntelligence29","UniqueColdResist34","UniqueManaRegenerationRateIfCritRecently1","UniqueNoManaRegenIfNotCritRecently1"]
-  },
-  "Hateforge":{
-    "baseType":"Moulded Mitts",
-    "stats":["Hateforge","Moulded Mitts","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueGainChargesOnMaximumRage1","UniqueLoseRageOnMaximumRage1"],
-    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent4","UniqueGainChargesOnMaximumRage1","UniqueLoseRageOnMaximumRage1"]
-  },
-  "Snakebite":{
-    "baseType":"Spined Bracers",
-    "stats":["Snakebite","Spined Bracers","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent3","UniqueChaosResist6","{variant:2}UniqueLifeRegeneration12","{variant:1}UniqueBaseChanceToPoison1[20,20]","{variant:2}UniqueBaseChanceToPoison1","UniquePoisonStackCount1"],
-    "affixes":["UniqueLocalIncreasedEvasionRatingPercent3","UniqueChaosResist6","UniquePoisonStackCount1","UniqueLifeRegeneration12","UniqueBaseChanceToPoison1"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Jarngreipr":{
-    "baseType":"Ringmail Gauntlets",
-    "stats":["Jarngreipr","Ringmail Gauntlets","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedArmourAndEvasion25","UniqueAddedPhysicalDamage3","UniqueIncreasedLife6","UniqueIncreasedAttackSpeed2","UniqueStrengthSatisfiesAllWeaponRequirements1"],
-    "affixes":["UniqueAddedPhysicalDamage3","UniqueIncreasedLife6","UniqueIncreasedAttackSpeed2","UniqueStrengthSatisfiesAllWeaponRequirements1","UniqueLocalIncreasedArmourAndEvasion25"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Painter's Servant":{
-    "baseType":"Torn Gloves",
-    "stats":["Painter's Servant","Torn Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueFireResist5","{variant:1}UniqueColdResist4","{variant:1}UniqueLightningResist1","{variant:2}UniqueElementalDamageGainedAsCold1","{variant:2}UniqueElementalDamageGainedAsFire1","{variant:2}UniqueElementalDamageGainedAsLightning1","UniqueElementalDamageConvertToCold1","UniqueElementalDamageConvertToFire1","UniqueElementalDamageConvertToLightning1"],
-    "affixes":["UniqueElementalDamageConvertToCold1","UniqueElementalDamageConvertToFire1","UniqueElementalDamageConvertToLightning1","UniqueColdResist4","UniqueLightningResist1","UniqueElementalDamageGainedAsCold1","UniqueElementalDamageGainedAsFire1","UniqueElementalDamageGainedAsLightning1","UniqueFireResist5"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Lochtonial Caress":{
-    "baseType":"Tempered Mitts",
-    "stats":["Lochtonial Caress","Tempered Mitts","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedSkillSpeed1","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating3","UniqueIncreasedLife3","UniqueMaximumManaIncrease3","UniqueShareChargesWithAllies1"],
-    "affixes":["UniqueIncreasedSkillSpeed1","UniqueIncreasedLife3","UniqueMaximumManaIncrease3","UniqueShareChargesWithAllies1","UniqueLocalIncreasedPhysicalDamageReductionRating3"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "Killjoy":{
-    "baseType":"Linen Wraps",
-    "stats":["Killjoy","Linen Wraps","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionAndEnergyShield2","UniqueIncreasedLife10","{variant:2}UniqueCriticalMultiplier3","UniqueLifeFlaskNoRecovery1","UniqueDoubleOnKillEffects1"],
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield2","UniqueIncreasedLife10","UniqueLifeFlaskNoRecovery1","UniqueDoubleOnKillEffects1","UniqueCriticalMultiplier3"],
-    "variants":["Pre 0.1.1","Current"]
-  },
-  "The Prisoner's Manacles":{
-    "baseType":"Verisium Cuffs",
-    "stats":["The Prisoner's Manacles","Verisium Cuffs","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield21","UniqueIncreasedLife54","UniqueReducedLocalAttributeRequirements5","UniqueLightningResist28","UniqueLifeRegeneration23","UniqueSlowEffect1","UniqueCannotImmobilise1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield21","UniqueIncreasedLife54","UniqueReducedLocalAttributeRequirements5","UniqueLightningResist28","UniqueLifeRegeneration23","UniqueSlowEffect1","UniqueCannotImmobilise1"]
+  "Treefingers":{
+    "variants":["Pre 0.1.1","Pre 0.4.0","Current"],
+    "stats":["Treefingers","Riveted Mitts","Variant: Pre 0.1.1","Variant: Pre 0.4.0","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent5","{variant:1}UniqueAddedPhysicalDamage4[3,5][6,8]","{variant:2,3}UniqueAddedPhysicalDamage4","{variant:2,3}UniqueIncreasedAttackSpeed7","{variant:3}UniqueStrength47","{variant:2,3}UniqueStunDamageIncrease2","UniqueGiantsBlood1"],
+    "baseType":"Riveted Mitts",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent5","{variant:2,3}UniqueAddedPhysicalDamage4","{variant:2,3}UniqueIncreasedAttackSpeed7","{variant:2,3}UniqueStunDamageIncrease2","UniqueGiantsBlood1","UniqueStrength47","UniqueAddedPhysicalDamage4[3,5][6,8]"]
   },
   "Valako's Vice":{
     "baseType":"Plate Gauntlets",
-    "stats":["Valako's Vice","Plate Gauntlets","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEvasion23","UniqueIncreasedAttackSpeed9","UniqueStrength41","UniqueDexterity37","UniqueLightningResist23","UniqueFireDamageConvertToLightning1"],
+    "stats":["Valako's Vice","Plate Gauntlets","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEvasion19","UniqueIncreasedAttackSpeed11","UniqueStrength23","UniqueDexterity24","UniqueLightningResist23","UniqueFireDamageConvertToLightning1"],
     "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion23","UniqueIncreasedAttackSpeed9","UniqueStrength41","UniqueDexterity37","UniqueLightningResist23","UniqueFireDamageConvertToLightning1"]
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion19","UniqueIncreasedAttackSpeed11","UniqueStrength23","UniqueDexterity24","UniqueLightningResist23","UniqueFireDamageConvertToLightning1"]
+  },
+  "Demon Stitcher":{
+    "stats":["Demon Stitcher","Intricate Gloves","UniqueLocalIncreasedEnergyShield4","UniqueIncreasedLife15","UniqueIncreasedCastSpeed7","UniqueSacrificeLifeToGainEnergyShield1"],
+    "baseType":"Intricate Gloves",
+    "affixes":["UniqueLocalIncreasedEnergyShield4","UniqueIncreasedLife15","UniqueIncreasedCastSpeed7","UniqueSacrificeLifeToGainEnergyShield1"]
+  },
+  "Dreadfist":{
+    "baseType":"Bolstered Mitts",
+    "stats":["Dreadfist","Bolstered Mitts","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent6","UniqueCriticalMultiplier2","UniqueImpaleOnCriticalHit1","UniqueCriticalsCannotConsumeImpale1","UniqueAttackerTakesDamage8"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent6","UniqueCriticalMultiplier2","UniqueImpaleOnCriticalHit1","UniqueCriticalsCannotConsumeImpale1","UniqueAttackerTakesDamage8"]
+  },
+  "Northpaw":{
+    "variants":["Pre 0.1.1","Pre 0.2.0","Current"],
+    "stats":["Northpaw","Suede Bracers","Variant: Pre 0.1.1","Variant: Pre 0.2.0","Variant: Current","{variant:2,3}UniqueLocalIncreasedEvasionRating4","{variant:1}UniqueAddedPhysicalDamage2[2,3][5,6]","{variant:2,3}UniqueAddedPhysicalDamage2","{variant:2}UniqueCriticalMultiplier1[20,30]","{variant:3}UniqueCriticalMultiplier1","{variant:2}UniqueOverrideWeaponBaseCritical1[800,800]","{variant:3}UniqueOverrideWeaponBaseCritical1"],
+    "baseType":"Suede Bracers",
+    "affixes":["{variant:2,3}UniqueLocalIncreasedEvasionRating4","{variant:2,3}UniqueAddedPhysicalDamage2","UniqueOverrideWeaponBaseCritical1","UniqueAddedPhysicalDamage2[2,3][5,6]","UniqueCriticalMultiplier1"]
+  },
+  "Death Articulated":{
+    "baseType":"Ornate Gauntlets",
+    "stats":["Death Articulated","Ornate Gauntlets","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEvasion30","UniqueIncreasedAttackSpeed9","UniqueChaosResist35","UniqueLifeDegenerationPercentGracePeriod3","UniqueRageRegeneration1","UniqueNonherentRageLoss1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion30","UniqueIncreasedAttackSpeed9","UniqueChaosResist35","UniqueLifeDegenerationPercentGracePeriod3","UniqueRageRegeneration1","UniqueNonherentRageLoss1"]
+  },
+  "Essentia Sanguis":{
+    "baseType":"Furtive Wraps",
+    "stats":["Essentia Sanguis","Furtive Wraps","League: Dawn of the Hunt","UniqueLocalIncreasedEvasionAndEnergyShield17","UniqueAddedLightningDamage3","UniqueIntelligence34","UniqueLightningResist26","UniqueLeechEnergyShieldInsteadofLife1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield17","UniqueAddedLightningDamage3","UniqueIntelligence34","UniqueLightningResist26","UniqueLeechEnergyShieldInsteadofLife1"]
+  },
+  "Facebreaker":{
+    "baseType":"Stocky Mitts",
+    "stats":["Facebreaker","Stocky Mitts","League: Runes of Aldur","UniqueBaseDamageOverrideForMaceAttacks1","UniqueStunDamageIncrease1","UniqueUnarmedAttackDamagePerXStrength1","UnarmedStrikeRangeUnique1","UniqueGainArmourEqualToStrength1","UniqueOneHandMaceSkillsUsableUnarmed1"],
+    "league":" Runes of Aldur",
+    "affixes":["UniqueBaseDamageOverrideForMaceAttacks1","UniqueStunDamageIncrease1","UniqueUnarmedAttackDamagePerXStrength1","UnarmedStrikeRangeUnique1","UniqueGainArmourEqualToStrength1","UniqueOneHandMaceSkillsUsableUnarmed1"]
+  },
+  "Shackles of the Wretched":{
+    "stats":["Shackles of the Wretched","Aged Cuffs","UniqueLocalIncreasedArmourAndEnergyShield3","UniqueChillImmunityWhenChilled1","UniqueFreezeImmunityWhenFrozen1","UniqueIgniteImmunityWhenIgnited1","UniqueShockImmunityWhenShocked1","UniqueReflectCurseToSelf1"],
+    "baseType":"Aged Cuffs",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield3","UniqueChillImmunityWhenChilled1","UniqueFreezeImmunityWhenFrozen1","UniqueIgniteImmunityWhenIgnited1","UniqueShockImmunityWhenShocked1","UniqueReflectCurseToSelf1"]
   },
   "Candlemaker":{
-    "baseType":"Sombre Gloves",
+    "variants":["Pre 0.1.1","Current"],
     "stats":["Candlemaker","Sombre Gloves","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEnergyShieldPercent2","{variant:2}UniqueFireDamagePercent2","{variant:2}UniqueColdDamagePercent2","{variant:1}UniqueFireResist2[15,30]","{variant:2}UniqueFireResist2","{variant:1}UniqueColdResist1[-30,-15]","{variant:2}UniqueColdResist1","UniqueDoubleIgniteChance1"],
-    "affixes":["UniqueLocalIncreasedEnergyShieldPercent2","UniqueDoubleIgniteChance1","UniqueFireResist2","UniqueFireDamagePercent2","UniqueColdDamagePercent2","UniqueColdResist1"],
-    "variants":["Pre 0.1.1","Current"]
+    "baseType":"Sombre Gloves",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent2","UniqueDoubleIgniteChance1","UniqueFireDamagePercent2","UniqueColdDamagePercent2","UniqueColdResist1","UniqueFireResist2"]
+  },
+  "Sine Aequo":{
+    "variants":["Pre 0.4.0","Pre 0.5.0","Current"],
+    "baseType":"Grand Manchettes",
+    "stats":["Sine Aequo","Grand Manchettes","Source: Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}","Variant: Pre 0.4.0","Variant: Pre 0.5.0","Variant: Current","UniqueIncreasedSkillSpeed5","{variant:1}UniqueLocalArmourAndEvasionAndEnergyShield3[40,60]","{variant:2}UniqueLocalArmourAndEvasionAndEnergyShield3[100,150]","{variant:3}UniqueLocalArmourAndEvasionAndEnergyShield3","UniqueImmobiliseThreshold1","{variant:1}UniqueImmobiliseDamageTaken1[25,25]","{variant:2}UniqueImmobiliseDamageTaken1","{variant:3}UniqueImmobiliseIncreasedDamageTaken1"],
+    "source":"Drops from unique{Arbiter of Ash} in normal{The Burning Monolith}",
+    "affixes":["UniqueIncreasedSkillSpeed5","UniqueImmobiliseThreshold1","UniqueImmobiliseDamageTaken1","UniqueImmobiliseIncreasedDamageTaken1","UniqueLocalArmourAndEvasionAndEnergyShield3"]
+  },
+  "Gravebind":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Gravebind","Rope Cuffs","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEnergyShield4","{variant:2}UniqueColdResist25","UniqueLifeGainedFromEnemyDeath3","UniqueManaGainedFromEnemyDeath4","UniqueEnemiesKilledCountAsYours1"],
+    "baseType":"Rope Cuffs",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield4","UniqueLifeGainedFromEnemyDeath3","UniqueManaGainedFromEnemyDeath4","UniqueEnemiesKilledCountAsYours1","UniqueColdResist25"]
   },
   "Empire's Grasp":{
     "baseType":"Titan Mitts",
-    "stats":["Empire's Grasp","Titan Mitts","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent30","UniqueStrength23","UniqueLifeGainedFromEnemyDeath11","UniqueIncreasedPhysicalDamagePercent1","UniqueEnemyKnockbackDirectionReversed1"],
+    "stats":["Empire's Grasp","Titan Mitts","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent30","UniqueStrength41","UniqueLifeGainedFromEnemyDeath11","UniqueIncreasedPhysicalDamagePercent1","UniqueEnemyKnockbackDirectionReversed1"],
     "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent30","UniqueStrength23","UniqueLifeGainedFromEnemyDeath11","UniqueIncreasedPhysicalDamagePercent1","UniqueEnemyKnockbackDirectionReversed1"]
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent30","UniqueStrength41","UniqueLifeGainedFromEnemyDeath11","UniqueIncreasedPhysicalDamagePercent1","UniqueEnemyKnockbackDirectionReversed1"]
   },
-  "Shackles of the Wretched":{
-    "baseType":"Aged Cuffs",
-    "stats":["Shackles of the Wretched","Aged Cuffs","UniqueLocalIncreasedArmourAndEnergyShield2","UniqueChillImmunityWhenChilled1","UniqueFreezeImmunityWhenFrozen1","UniqueIgniteImmunityWhenIgnited1","UniqueShockImmunityWhenShocked1","UniqueReflectCurseToSelf1"],
-    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield2","UniqueChillImmunityWhenChilled1","UniqueFreezeImmunityWhenFrozen1","UniqueIgniteImmunityWhenIgnited1","UniqueShockImmunityWhenShocked1","UniqueReflectCurseToSelf1"]
+  "Idle Hands":{
+    "stats":["Idle Hands","Sectioned Bracers","UniqueLocalIncreasedEvasionRatingPercent7","UniqueIncreasedAccuracy4","UniqueIntelligence19","UniqueIncreasedAttackSpeedFullMana1","UniqueFullManaThreshold1"],
+    "baseType":"Sectioned Bracers",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent7","UniqueIncreasedAccuracy4","UniqueIntelligence19","UniqueIncreasedAttackSpeedFullMana1","UniqueFullManaThreshold1"]
   },
   "Plaguefinger":{
+    "variants":["Pre 0.1.1","Pre 0.5.0","Current"],
+    "stats":["Plaguefinger","Gauze Wraps","Variant: Pre 0.1.1","Variant: Pre 0.5.0","Variant: Current","UniqueLocalIncreasedEvasionAndEnergyShield4","UniqueIncreasedAttackSpeed1","{variant:3}UniqueCannotInflictElementalAilments1","{variant:1}UniqueBaseChanceToPoison2[5,10]","{variant:2,3}UniqueBaseChanceToPoison2","UniqueAllDamageCanPoison1"],
     "baseType":"Gauze Wraps",
-    "stats":["Plaguefinger","Gauze Wraps","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionAndEnergyShield1","UniqueIncreasedAttackSpeed1","{variant:1}UniqueBaseChanceToPoison2[5,10]","{variant:2}UniqueBaseChanceToPoison2","UniqueAllDamageCanPoison1"],
-    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield1","UniqueIncreasedAttackSpeed1","UniqueAllDamageCanPoison1","UniqueBaseChanceToPoison2"],
-    "variants":["Pre 0.1.1","Current"]
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield4","UniqueIncreasedAttackSpeed1","{variant:2,3}UniqueBaseChanceToPoison2","UniqueAllDamageCanPoison1","UniqueCannotInflictElementalAilments1","UniqueBaseChanceToPoison2[5,10]"]
+  },
+  "Leopold's Applause":{
+    "baseType":"Embroidered Gloves",
+    "stats":["Leopold's Applause","Embroidered Gloves","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent25","UniqueIncreasedMana48","UniqueItemFoundRarityIncrease21","UniqueElementalPenetration1","UniqueElementalPenetrationBelowZero1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent25","UniqueIncreasedMana48","UniqueItemFoundRarityIncrease21","UniqueElementalPenetration1","UniqueElementalPenetrationBelowZero1"]
+  },
+  "Atziri's Acuity":{
+    "variants":["Pre 0.1.1","Pre 0.5.0","Current"],
+    "stats":["Atziri's Acuity","Moulded Mitts","Variant: Pre 0.1.1","Variant: Pre 0.5.0","Variant: Current","{variant:3}UniqueAtziriHeraldSkill1","{variant:1,2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11[80,100]","{variant:3}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11","{variant:3}UniqueIncreasedLife58","{variant:1}UniqueCriticalStrikeChance2[20,30]","{variant:2}UniqueCriticalStrikeChance2","{variant:1,2}UniqueIntelligence9","{variant:1,2}UniqueCriticalStrikesLeechIsInstant1","{variant:3}UniqueLifeLeech2","{variant:3}PercentOfPhysicalHitDamageAsAdditionalBloodLoss","{variant:3}UniqueVaalPact1"],
+    "baseType":"Moulded Mitts",
+    "affixes":["{variant:1,2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11[80,100]","{variant:1,2}UniqueIntelligence9","{variant:1,2}UniqueCriticalStrikesLeechIsInstant1","UniqueCriticalStrikeChance2","UniqueVaalPact1","UniqueAtziriHeraldSkill1","PercentOfPhysicalHitDamageAsAdditionalBloodLoss","UniqueIncreasedLife58","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent11","UniqueLifeLeech2"]
+  },
+  "Grip of Winter":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Grip of Winter","Firm Bracers","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent6","UniqueAddedColdDamage1","{variant:2}UniqueColdResist24","UniqueFreezeDamageIncrease2","UniqueChillEffect1"],
+    "baseType":"Firm Bracers",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent6","UniqueAddedColdDamage1","UniqueFreezeDamageIncrease2","UniqueChillEffect1","UniqueColdResist24"]
   },
   "Deathblow":{
-    "baseType":"Doubled Gauntlets",
+    "variants":["Pre 0.1.1","Current"],
     "stats":["Deathblow","Doubled Gauntlets","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedArmourAndEvasion7","{variant:2}UniqueIncreasedAttackSpeed8","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath5","UniqueCullingStrike1"],
-    "affixes":["UniqueLocalIncreasedArmourAndEvasion7","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath5","UniqueCullingStrike1","UniqueIncreasedAttackSpeed8"],
-    "variants":["Pre 0.1.1","Current"]
+    "baseType":"Doubled Gauntlets",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion7","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath5","UniqueCullingStrike1","UniqueIncreasedAttackSpeed8"]
+  },
+  "Thunderfist":{
+    "baseType":"Utility Wraps",
+    "stats":["Thunderfist","Utility Wraps","League: Rise of the Abyssal","ThunderfistUnique__1","UniqueLocalIncreasedEvasionAndEnergyShield19","UniqueIncreasedAttackSpeed13","UniqueLightningResist29","AddedLightningDamageWhileUnarmedUniqueGloves_1","BaseUnarmedCriticalStrikeChanceUnique__2"],
+    "league":" Rise of the Abyssal",
+    "affixes":["ThunderfistUnique__1","UniqueLocalIncreasedEvasionAndEnergyShield19","UniqueIncreasedAttackSpeed13","UniqueLightningResist29","AddedLightningDamageWhileUnarmedUniqueGloves_1","BaseUnarmedCriticalStrikeChanceUnique__2"]
+  },
+  "Nightscale":{
+    "baseType":"Pauascale Gloves",
+    "stats":["Nightscale","Pauascale Gloves","League: Dawn of the Hunt","UniqueLocalIncreasedEnergyShieldPercent20","UniqueCriticalStrikeChance14","UniqueIntelligence10","UniqueColdResist30","UniqueManaRegenerationRateIfCritRecently1","UniqueNoManaRegenIfNotCritRecently1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent20","UniqueCriticalStrikeChance14","UniqueIntelligence10","UniqueColdResist30","UniqueManaRegenerationRateIfCritRecently1","UniqueNoManaRegenIfNotCritRecently1"]
+  },
+  "Aerisvane's Wings":{
+    "stats":["Aerisvane's Wings","Burnished Gauntlets","UniqueLocalIncreasedArmourAndEvasion15","UniqueIncreasedAttackSpeed4","UniqueIntelligence22","UniqueDecimatingStrike1"],
+    "baseType":"Burnished Gauntlets",
+    "affixes":["UniqueLocalIncreasedArmourAndEvasion15","UniqueIncreasedAttackSpeed4","UniqueIntelligence22","UniqueDecimatingStrike1"]
+  },
+  "Horror's Flight":{
+    "baseType":"Engraved Bracers",
+    "stats":["Horror's Flight","Engraved Bracers","League: Runes of Aldur","UniqueCrushingFearSkill1","UniqueLocalIncreasedEvasionRatingPercent36","UniqueIncreasedAttackSpeed16","UniqueDexterity45","UniqueAddedChaosDamage5","UniqueGainFearIncarnateOnCulling1","UniqueCanBeInstilled"],
+    "league":" Runes of Aldur",
+    "affixes":["UniqueCrushingFearSkill1","UniqueLocalIncreasedEvasionRatingPercent36","UniqueIncreasedAttackSpeed16","UniqueDexterity45","UniqueAddedChaosDamage5","UniqueGainFearIncarnateOnCulling1","UniqueCanBeInstilled"]
   },
   "Blessed Bonds":{
     "baseType":"Linen Wraps",
-    "stats":["Blessed Bonds","Linen Wraps","Source: Drops from unique{Zarokh, the Temporal}","UniqueLocalBaseEvasionRatingAndEnergyShield1","UniqueManaGainedFromEnemyDeath8","UniqueColdExposureOnIgnite1","UniqueFireExposureOnShock1","UniqueLightningExposureOnCrit1"],
-    "source":"Drops from unique{Zarokh, the Temporal}",
+    "stats":["Blessed Bonds","Linen Wraps","Source: No longer obtainable","UniqueLocalBaseEvasionRatingAndEnergyShield1","UniqueManaGainedFromEnemyDeath8","UniqueColdExposureOnIgnite1","UniqueFireExposureOnShock1","UniqueLightningExposureOnCrit1"],
+    "source":"No longer obtainable",
     "affixes":["UniqueLocalBaseEvasionRatingAndEnergyShield1","UniqueManaGainedFromEnemyDeath8","UniqueColdExposureOnIgnite1","UniqueFireExposureOnShock1","UniqueLightningExposureOnCrit1"]
   },
+  "Kitoko's Current":{
+    "stats":["Kitoko's Current","Jewelled Gloves","UniqueLocalIncreasedEnergyShieldPercent7","UniqueDexterity10","UniqueAttackAndCastSpeed1","UniqueLightningDamageCanElectrocute1"],
+    "baseType":"Jewelled Gloves",
+    "affixes":["UniqueLocalIncreasedEnergyShieldPercent7","UniqueDexterity10","UniqueAttackAndCastSpeed1","UniqueLightningDamageCanElectrocute1"]
+  },
+  "Snakebite":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Snakebite","Spined Bracers","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent8","UniqueChaosResist6","{variant:2}UniqueLifeRegeneration12","{variant:1}UniqueBaseChanceToPoison1[20,20]","{variant:2}UniqueBaseChanceToPoison1","UniquePoisonStackCount1"],
+    "baseType":"Spined Bracers",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent8","UniqueChaosResist6","UniquePoisonStackCount1","UniqueBaseChanceToPoison1","UniqueLifeRegeneration12"]
+  },
+  "Jarngreipr":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Jarngreipr","Ringmail Gauntlets","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedArmourAndEvasion25","UniqueAddedPhysicalDamage3","UniqueIncreasedLife10","UniqueIncreasedAttackSpeed2","UniqueStrengthSatisfiesAllWeaponRequirements1"],
+    "baseType":"Ringmail Gauntlets",
+    "affixes":["UniqueAddedPhysicalDamage3","UniqueIncreasedLife10","UniqueIncreasedAttackSpeed2","UniqueStrengthSatisfiesAllWeaponRequirements1","UniqueLocalIncreasedArmourAndEvasion25"]
+  },
+  "Lochtonial Caress":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Lochtonial Caress","Tempered Mitts","Variant: Pre 0.1.1","Variant: Current","UniqueIncreasedSkillSpeed1","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRating3","UniqueIncreasedLife9","UniqueMaximumManaIncrease3","UniqueShareChargesWithAllies1"],
+    "baseType":"Tempered Mitts",
+    "affixes":["UniqueIncreasedSkillSpeed1","UniqueIncreasedLife9","UniqueMaximumManaIncrease3","UniqueShareChargesWithAllies1","UniqueLocalIncreasedPhysicalDamageReductionRating3"]
+  },
+  "Maligaro's Virtuosity":{
+    "variants":["Pre 0.4.0","Current"],
+    "stats":["Maligaro's Virtuosity","Fine Bracers","Variant: Pre 0.4.0","Variant: Current","UniqueLocalIncreasedEvasionRatingPercent12","UniqueCriticalStrikeChance5","UniqueIncreasedAttackSpeed3","UniqueDexterity19","{variant:2}UniqueCriticalStrikesCannotBeRerolled1","UniqueCriticalStrikeMultiplierOverride1"],
+    "baseType":"Fine Bracers",
+    "affixes":["UniqueLocalIncreasedEvasionRatingPercent12","UniqueCriticalStrikeChance5","UniqueIncreasedAttackSpeed3","UniqueDexterity19","UniqueCriticalStrikeMultiplierOverride1","UniqueCriticalStrikesCannotBeRerolled1"]
+  },
   "Aurseize":{
-    "baseType":"Layered Gauntlets",
     "stats":["Aurseize","Layered Gauntlets","UniqueLocalIncreasedArmourAndEvasion1","UniqueItemFoundRarityIncrease1","UniqueMaximumLifeOnKillPercent1"],
+    "baseType":"Layered Gauntlets",
     "affixes":["UniqueLocalIncreasedArmourAndEvasion1","UniqueItemFoundRarityIncrease1","UniqueMaximumLifeOnKillPercent1"]
   },
   "Blueflame Bracers":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Blueflame Bracers","Goldcast Cuffs","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEnergyShield11","UniqueIntelligence12","UniqueFireResist7","UniqueColdResist9","UniqueFireDamageConvertToCold1"],
     "baseType":"Goldcast Cuffs",
-    "stats":["Blueflame Bracers","Goldcast Cuffs","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEnergyShield11","UniqueIntelligence6","UniqueFireResist7","UniqueColdResist9","UniqueFireDamageConvertToCold1"],
-    "affixes":["UniqueIntelligence6","UniqueFireResist7","UniqueColdResist9","UniqueFireDamageConvertToCold1","UniqueLocalIncreasedEnergyShield11"],
-    "variants":["Pre 0.1.1","Current"]
+    "affixes":["UniqueIntelligence12","UniqueFireResist7","UniqueColdResist9","UniqueFireDamageConvertToCold1","UniqueLocalIncreasedEnergyShield11"]
   },
-  "Treefingers":{
-    "baseType":"Riveted Mitts",
-    "stats":["Treefingers","Riveted Mitts","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent5","{variant:1}UniqueAddedPhysicalDamage4[3,5][6,8]","{variant:2}UniqueAddedPhysicalDamage4","{variant:2}UniqueIncreasedAttackSpeed7","{variant:2}UniqueStunDamageIncrease2","UniqueGiantsBlood1"],
-    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRatingPercent5","UniqueGiantsBlood1","UniqueAddedPhysicalDamage4","UniqueIncreasedAttackSpeed7","UniqueStunDamageIncrease2"],
-    "variants":["Pre 0.1.1","Current"]
+  "Doedre's Tenure":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Doedre's Tenure","Stitched Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueLocalIncreasedEnergyShield10","UniqueSpellDamage1","UniqueIncreasedCastSpeed6","UniqueIntelligence18"],
+    "baseType":"Stitched Gloves",
+    "affixes":["UniqueSpellDamage1","UniqueIncreasedCastSpeed6","UniqueIntelligence18","UniqueLocalIncreasedEnergyShield10"]
+  },
+  "The Prisoner's Manacles":{
+    "baseType":"Kalguuran Cuffs",
+    "stats":["The Prisoner's Manacles","Kalguuran Cuffs","League: Dawn of the Hunt","UniqueLocalIncreasedArmourAndEnergyShield21","UniqueIncreasedLife54","UniqueReducedLocalAttributeRequirements5","UniqueLightningResist28","UniqueLifeRegeneration23","UniqueSlowEffect1","UniqueCannotImmobilise1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedArmourAndEnergyShield21","UniqueIncreasedLife54","UniqueReducedLocalAttributeRequirements5","UniqueLightningResist28","UniqueLifeRegeneration23","UniqueSlowEffect1","UniqueCannotImmobilise1"]
+  },
+  "Killjoy":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Killjoy","Linen Wraps","Variant: Pre 0.1.1","Variant: Current","UniqueLocalIncreasedEvasionAndEnergyShield2","UniqueIncreasedLife6","{variant:2}UniqueCriticalMultiplier3","UniqueLifeFlaskNoRecovery1","UniqueDoubleOnKillEffects1"],
+    "baseType":"Linen Wraps",
+    "affixes":["UniqueLocalIncreasedEvasionAndEnergyShield2","UniqueIncreasedLife6","UniqueLifeFlaskNoRecovery1","UniqueDoubleOnKillEffects1","UniqueCriticalMultiplier3"]
+  },
+  "Painter's Servant":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Painter's Servant","Torn Gloves","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueFireResist5","{variant:1}UniqueColdResist4","{variant:1}UniqueLightningResist1","{variant:2}UniqueElementalDamageGainedAsCold1","{variant:2}UniqueElementalDamageGainedAsFire1","{variant:2}UniqueElementalDamageGainedAsLightning1","UniqueElementalDamageConvertToCold1","UniqueElementalDamageConvertToFire1","UniqueElementalDamageConvertToLightning1"],
+    "baseType":"Torn Gloves",
+    "affixes":["UniqueElementalDamageConvertToCold1","UniqueElementalDamageConvertToFire1","UniqueElementalDamageConvertToLightning1","UniqueColdResist4","UniqueElementalDamageGainedAsCold1","UniqueFireResist5","UniqueLightningResist1","UniqueElementalDamageGainedAsLightning1","UniqueElementalDamageGainedAsFire1"]
+  },
+  "Hand of Wisdom and Action":{
+    "variants":["Current"],
+    "baseType":"Variant: Pre 0.2.0",
+    "stats":["Hand of Wisdom and Action","Variant: Pre 0.2.0","Variant: Current","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","{variant:1}Furtive Wraps","{variant:2}Spiral Wraps","UniqueDexterity31","UniqueIntelligence31","{variant:1}UniqueIncreasedAttackSpeedPerDexterity1[3,3]","{variant:2}UniqueIncreasedAttackSpeedPerDexterity1","UniqueLightningDamageToAttacksPerIntelligence1"],
+    "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
+    "affixes":["UniqueDexterity31","UniqueIntelligence31","UniqueLightningDamageToAttacksPerIntelligence1","UniqueIncreasedAttackSpeedPerDexterity1","Furtive Wraps","Spiral Wraps"]
+  },
+  "Hateforge":{
+    "variants":["Pre 0.4.0","Current"],
+    "baseType":"Moulded Mitts",
+    "stats":["Hateforge","Moulded Mitts","Source: Drops from unique{Trialmaster} in normal{The Trial of Chaos}","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent23[50,80]","{variant:2}UniqueLocalIncreasedPhysicalDamageReductionRatingPercent23","{variant:2}UniqueRageOnAnyHit1","UniqueGainChargesOnMaximumRage1","UniqueLoseRageOnMaximumRage1"],
+    "source":"Drops from unique{Trialmaster} in normal{The Trial of Chaos}",
+    "affixes":["UniqueGainChargesOnMaximumRage1","UniqueLoseRageOnMaximumRage1","UniqueLocalIncreasedPhysicalDamageReductionRatingPercent23","UniqueRageOnAnyHit1"]
   }
 }

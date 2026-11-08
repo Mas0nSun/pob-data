@@ -1,0 +1,1273 @@
+{
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceAbyss":{
+    "mods":[],
+    "name":"Essence of the Abyss",
+    "tierLevel":1,
+    "type":"Abyss"
+  },
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceBreach":{
+    "mods":{
+      "Amulet":"EssenceBreach",
+      "Ring":"EssenceBreach"
+    },
+    "name":"Essence of the Breach",
+    "tierLevel":1,
+    "type":"Breach"
+  },
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceDelirium":{
+    "mods":{
+      "Body Armour":"EssenceGrantedPassive"
+    },
+    "name":"Essence of Delirium",
+    "tierLevel":1,
+    "type":"Delirium"
+  },
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceHorror":{
+    "mods":{
+      "Boots":"EssenceLocalRuneAndSoulCoreEffect1",
+      "Gloves":"EssenceLocalRuneAndSoulCoreEffect1"
+    },
+    "name":"Essence of Horror",
+    "tierLevel":1,
+    "type":"Horror"
+  },
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceHysteria":{
+    "mods":{
+      "Amulet":"DamageTakenGainedAsLife4_",
+      "Belt":"StunThreshold10",
+      "Body Armour":"AttackerTakesDamage6",
+      "Boots":"MovementVelocity5",
+      "Buckler":"LocalBlockChance2",
+      "Focus":"EnergyShieldRechargeRate5______",
+      "Gloves":"CriticalMultiplier4",
+      "Helmet":"GlobalMinionSpellSkillGemLevel1",
+      "Quiver":"DamageWithBows5",
+      "Ring":"ManaRegeneration5",
+      "Shield":"LocalBlockChance2"
+    },
+    "name":"Essence of Hysteria",
+    "tierLevel":1,
+    "type":"Hysteria"
+  },
+  "Metadata/Items/Currency/CurrencyCorruptedEssenceInsanity":{
+    "mods":{
+      "Belt":"EssenceCorruptForTwoEnchantments1"
+    },
+    "name":"Essence of Insanity",
+    "tierLevel":1,
+    "type":"Insanity"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceAlly":{
+    "mods":{
+      "Sceptre":"NearbyAlliesAllDamage4"
+    },
+    "name":"Essence of Command",
+    "tierLevel":40,
+    "type":"Ally"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceAttack":{
+    "mods":{
+      "Bow":"LocalIncreasedAccuracy5",
+      "Crossbow":"LocalIncreasedAccuracy5",
+      "Dagger":"LocalIncreasedAccuracy5",
+      "Flail":"LocalIncreasedAccuracy5",
+      "One Hand Axe":"LocalIncreasedAccuracy5",
+      "One Hand Mace":"LocalIncreasedAccuracy5",
+      "One Hand Sword":"LocalIncreasedAccuracy5",
+      "Spear":"LocalIncreasedAccuracy5",
+      "Talisman":"LocalIncreasedAccuracy5",
+      "Two Hand Axe":"LocalIncreasedAccuracy5",
+      "Two Hand Mace":"LocalIncreasedAccuracy5",
+      "Two Hand Sword":"LocalIncreasedAccuracy5",
+      "Warstaff":"LocalIncreasedAccuracy5"
+    },
+    "name":"Essence of Battle",
+    "tierLevel":40,
+    "type":"Attack"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceAttribute":{
+    "mods":{
+      "Amulet":"EssenceDisplayAttributes2",
+      "Belt":"EssenceDisplayAttributes2",
+      "Body Armour":"EssenceDisplayAttributes2",
+      "Boots":"EssenceDisplayAttributes2",
+      "Bow":"EssenceDisplayAttributes2",
+      "Buckler":"EssenceDisplayAttributes2",
+      "Crossbow":"EssenceDisplayAttributes2",
+      "Dagger":"EssenceDisplayAttributes2",
+      "Flail":"EssenceDisplayAttributes2",
+      "Focus":"EssenceDisplayAttributes2",
+      "Gloves":"EssenceDisplayAttributes2",
+      "Helmet":"EssenceDisplayAttributes2",
+      "One Hand Axe":"EssenceDisplayAttributes2",
+      "One Hand Mace":"EssenceDisplayAttributes2",
+      "One Hand Sword":"EssenceDisplayAttributes2",
+      "Quiver":"EssenceDisplayAttributes2",
+      "Ring":"EssenceDisplayAttributes2",
+      "Sceptre":"EssenceDisplayAttributes2",
+      "Shield":"EssenceDisplayAttributes2",
+      "Spear":"EssenceDisplayAttributes2",
+      "Staff":"EssenceDisplayAttributes2",
+      "Talisman":"EssenceDisplayAttributes2",
+      "Two Hand Axe":"EssenceDisplayAttributes2",
+      "Two Hand Mace":"EssenceDisplayAttributes2",
+      "Two Hand Sword":"EssenceDisplayAttributes2",
+      "Wand":"EssenceDisplayAttributes2",
+      "Warstaff":"EssenceDisplayAttributes2"
+    },
+    "name":"Essence of the Infinite",
+    "tierLevel":40,
+    "type":"Attribute"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceCaster":{
+    "mods":{
+      "Focus":"SpellDamageOnWeapon4",
+      "Staff":"SpellDamageOnTwoHandWeapon4",
+      "Wand":"SpellDamageOnWeapon4"
+    },
+    "name":"Essence of Sorcery",
+    "tierLevel":40,
+    "type":"Caster"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceChaos":{
+    "mods":{
+      "Amulet":"ChaosResist2",
+      "Belt":"ChaosResist2",
+      "Body Armour":"ChaosResist2",
+      "Boots":"ChaosResist2",
+      "Buckler":"ChaosResist2",
+      "Focus":"ChaosResist2",
+      "Gloves":"ChaosResist2",
+      "Helmet":"ChaosResist2",
+      "Ring":"ChaosResist2",
+      "Shield":"ChaosResist2"
+    },
+    "name":"Essence of Ruin",
+    "tierLevel":40,
+    "type":"Chaos"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceCold":{
+    "mods":{
+      "Bow":"LocalAddedColdDamage5",
+      "Crossbow":"LocalAddedColdDamageTwoHand5",
+      "Dagger":"LocalAddedColdDamage5",
+      "Flail":"LocalAddedColdDamage5",
+      "One Hand Axe":"LocalAddedColdDamage5",
+      "One Hand Mace":"LocalAddedColdDamage5",
+      "One Hand Sword":"LocalAddedColdDamage5",
+      "Spear":"LocalAddedColdDamage5",
+      "Talisman":"LocalAddedColdDamageTwoHand5",
+      "Two Hand Axe":"LocalAddedColdDamageTwoHand5",
+      "Two Hand Mace":"LocalAddedColdDamageTwoHand5",
+      "Two Hand Sword":"LocalAddedColdDamageTwoHand5",
+      "Warstaff":"LocalAddedColdDamageTwoHand5"
+    },
+    "name":"Essence of Ice",
+    "tierLevel":40,
+    "type":"Cold"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceColdResist":{
+    "mods":{
+      "Amulet":"ColdResist4",
+      "Belt":"ColdResist4",
+      "Body Armour":"ColdResist4",
+      "Boots":"ColdResist4",
+      "Buckler":"ColdResist4",
+      "Focus":"ColdResist4",
+      "Gloves":"ColdResist4",
+      "Helmet":"ColdResist4",
+      "Ring":"ColdResist4",
+      "Shield":"ColdResist4"
+    },
+    "name":"Essence of Thawing",
+    "tierLevel":40,
+    "type":"ColdResist"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceCritical":{
+    "mods":{
+      "Bow":"LocalCriticalStrikeChance3",
+      "Crossbow":"LocalCriticalStrikeChance3",
+      "Dagger":"LocalCriticalStrikeChance3",
+      "Flail":"LocalCriticalStrikeChance3",
+      "Focus":"SpellCriticalStrikeChance3",
+      "One Hand Axe":"LocalCriticalStrikeChance3",
+      "One Hand Mace":"LocalCriticalStrikeChance3",
+      "One Hand Sword":"LocalCriticalStrikeChance3",
+      "Spear":"LocalCriticalStrikeChance3",
+      "Staff":"SpellCriticalStrikeChanceTwoHand3",
+      "Talisman":"LocalCriticalStrikeChance3",
+      "Two Hand Axe":"LocalCriticalStrikeChance3",
+      "Two Hand Mace":"LocalCriticalStrikeChance3",
+      "Two Hand Sword":"LocalCriticalStrikeChance3",
+      "Wand":"SpellCriticalStrikeChance3",
+      "Warstaff":"LocalCriticalStrikeChance3"
+    },
+    "name":"Essence of Seeking",
+    "tierLevel":40,
+    "type":"Critical"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceDefences":{
+    "mods":{
+      "Body Armour":"EssenceDisplayDefences2",
+      "Boots":"EssenceDisplayDefences2",
+      "Buckler":"EssenceDisplayDefences2",
+      "Focus":"EssenceDisplayDefences2",
+      "Gloves":"EssenceDisplayDefences2",
+      "Helmet":"EssenceDisplayDefences2",
+      "Shield":"EssenceDisplayDefences2"
+    },
+    "name":"Essence of Enhancement",
+    "tierLevel":40,
+    "type":"Defences"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceFire":{
+    "mods":{
+      "Bow":"LocalAddedFireDamage5",
+      "Crossbow":"LocalAddedFireDamageTwoHand5",
+      "Dagger":"LocalAddedFireDamage5",
+      "Flail":"LocalAddedFireDamage5",
+      "One Hand Axe":"LocalAddedFireDamage5",
+      "One Hand Mace":"LocalAddedFireDamage5",
+      "One Hand Sword":"LocalAddedFireDamage5",
+      "Spear":"LocalAddedFireDamage5",
+      "Talisman":"LocalAddedFireDamageTwoHand5",
+      "Two Hand Axe":"LocalAddedFireDamageTwoHand5",
+      "Two Hand Mace":"LocalAddedFireDamageTwoHand5",
+      "Two Hand Sword":"LocalAddedFireDamageTwoHand5",
+      "Warstaff":"LocalAddedFireDamageTwoHand5"
+    },
+    "name":"Essence of Flames",
+    "tierLevel":40,
+    "type":"Fire"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceFireResist":{
+    "mods":{
+      "Amulet":"FireResist4",
+      "Belt":"FireResist4",
+      "Body Armour":"FireResist4",
+      "Boots":"FireResist4",
+      "Buckler":"FireResist4",
+      "Focus":"FireResist4",
+      "Gloves":"FireResist4",
+      "Helmet":"FireResist4",
+      "Ring":"FireResist4",
+      "Shield":"FireResist4"
+    },
+    "name":"Essence of Insulation",
+    "tierLevel":40,
+    "type":"FireResist"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceLife":{
+    "mods":{
+      "Amulet":"IncreasedLife6",
+      "Belt":"IncreasedLife7",
+      "Body Armour":"IncreasedLife7",
+      "Boots":"IncreasedLife6",
+      "Buckler":"IncreasedLife7",
+      "Gloves":"IncreasedLife6",
+      "Helmet":"IncreasedLife7",
+      "Ring":"IncreasedLife6",
+      "Shield":"IncreasedLife7"
+    },
+    "name":"Essence of the Body",
+    "tierLevel":40,
+    "type":"Life"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceLightning":{
+    "mods":{
+      "Bow":"LocalAddedLightningDamage5",
+      "Crossbow":"LocalAddedLightningDamageTwoHand5",
+      "Dagger":"LocalAddedLightningDamage5",
+      "Flail":"LocalAddedLightningDamage5",
+      "One Hand Axe":"LocalAddedLightningDamage5",
+      "One Hand Mace":"LocalAddedLightningDamage5",
+      "One Hand Sword":"LocalAddedLightningDamage5",
+      "Spear":"LocalAddedLightningDamage5",
+      "Talisman":"LocalAddedLightningDamageTwoHand5",
+      "Two Hand Axe":"LocalAddedLightningDamageTwoHand5",
+      "Two Hand Mace":"LocalAddedLightningDamageTwoHand5",
+      "Two Hand Sword":"LocalAddedLightningDamageTwoHand5",
+      "Warstaff":"LocalAddedLightningDamageTwoHand5"
+    },
+    "name":"Essence of Electricity",
+    "tierLevel":40,
+    "type":"Lightning"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceLightningResist":{
+    "mods":{
+      "Amulet":"LightningResist4",
+      "Belt":"LightningResist4",
+      "Body Armour":"LightningResist4",
+      "Boots":"LightningResist4",
+      "Buckler":"LightningResist4",
+      "Focus":"LightningResist4",
+      "Gloves":"LightningResist4",
+      "Helmet":"LightningResist4",
+      "Ring":"LightningResist4",
+      "Shield":"LightningResist4"
+    },
+    "name":"Essence of Grounding",
+    "tierLevel":40,
+    "type":"LightningResist"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceMana":{
+    "mods":{
+      "Amulet":"IncreasedMana7",
+      "Belt":"IncreasedMana6",
+      "Boots":"IncreasedMana6",
+      "Gloves":"IncreasedMana6",
+      "Helmet":"IncreasedMana6",
+      "Ring":"IncreasedMana7"
+    },
+    "name":"Essence of the Mind",
+    "tierLevel":40,
+    "type":"Mana"
+  },
+  "Metadata/Items/Currency/CurrencyEssencePhysical":{
+    "mods":{
+      "Bow":"LocalAddedPhysicalDamage5",
+      "Crossbow":"LocalAddedPhysicalDamageTwoHand5",
+      "Dagger":"LocalAddedPhysicalDamage5",
+      "Flail":"LocalAddedPhysicalDamage5",
+      "One Hand Axe":"LocalAddedPhysicalDamage5",
+      "One Hand Mace":"LocalAddedPhysicalDamage5",
+      "One Hand Sword":"LocalAddedPhysicalDamage5",
+      "Spear":"LocalAddedPhysicalDamage5",
+      "Talisman":"LocalAddedPhysicalDamageTwoHand5",
+      "Two Hand Axe":"LocalAddedPhysicalDamageTwoHand5",
+      "Two Hand Mace":"LocalAddedPhysicalDamageTwoHand5",
+      "Two Hand Sword":"LocalAddedPhysicalDamageTwoHand5",
+      "Warstaff":"LocalAddedPhysicalDamageTwoHand5"
+    },
+    "name":"Essence of Abrasion",
+    "tierLevel":40,
+    "type":"Physical"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceRarity":{
+    "mods":{
+      "Amulet":"ItemFoundRarityIncrease2",
+      "Boots":"ItemFoundRarityIncrease2",
+      "Gloves":"ItemFoundRarityIncrease2",
+      "Helmet":"ItemFoundRarityIncrease2",
+      "Ring":"ItemFoundRarityIncrease2"
+    },
+    "name":"Essence of Opulence",
+    "tierLevel":40,
+    "type":"Rarity"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceSpeed":{
+    "mods":{
+      "Bow":"LocalIncreasedAttackSpeed3",
+      "Crossbow":"LocalIncreasedAttackSpeed3",
+      "Dagger":"LocalIncreasedAttackSpeed5",
+      "Flail":"LocalIncreasedAttackSpeed5",
+      "One Hand Axe":"LocalIncreasedAttackSpeed5",
+      "One Hand Mace":"LocalIncreasedAttackSpeed5",
+      "One Hand Sword":"LocalIncreasedAttackSpeed5",
+      "Spear":"LocalIncreasedAttackSpeed5",
+      "Talisman":"LocalIncreasedAttackSpeed5",
+      "Two Hand Axe":"LocalIncreasedAttackSpeed5",
+      "Two Hand Mace":"LocalIncreasedAttackSpeed5",
+      "Two Hand Sword":"LocalIncreasedAttackSpeed5",
+      "Warstaff":"LocalIncreasedAttackSpeed5"
+    },
+    "name":"Essence of Haste",
+    "tierLevel":40,
+    "type":"Speed"
+  },
+  "Metadata/Items/Currency/CurrencyEssenceSpeedCaster":{
+    "mods":{
+      "Focus":"IncreasedCastSpeed3",
+      "Staff":"IncreasedCastSpeedTwoHand3",
+      "Wand":"IncreasedCastSpeed3"
+    },
+    "name":"Essence of Alacrity",
+    "tierLevel":40,
+    "type":"SpeedCaster"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceAlly":{
+    "mods":{
+      "Sceptre":"NearbyAlliesAllDamage6"
+    },
+    "name":"Greater Essence of Command",
+    "tierLevel":65,
+    "type":"Ally"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceAttack":{
+    "mods":{
+      "Bow":"IncreasedAccuracy7",
+      "Crossbow":"IncreasedAccuracy7",
+      "Dagger":"IncreasedAccuracy7",
+      "Flail":"IncreasedAccuracy7",
+      "Gloves":"IncreasedAccuracy7",
+      "One Hand Axe":"IncreasedAccuracy7",
+      "One Hand Mace":"IncreasedAccuracy7",
+      "One Hand Sword":"IncreasedAccuracy7",
+      "Quiver":"IncreasedAccuracy7",
+      "Spear":"IncreasedAccuracy7",
+      "Talisman":"IncreasedAccuracy7",
+      "Two Hand Axe":"IncreasedAccuracy7",
+      "Two Hand Mace":"IncreasedAccuracy7",
+      "Two Hand Sword":"IncreasedAccuracy7",
+      "Warstaff":"IncreasedAccuracy7"
+    },
+    "name":"Greater Essence of Battle",
+    "tierLevel":60,
+    "type":"Attack"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceAttribute":{
+    "mods":{
+      "Amulet":"EssenceDisplayAttributes3",
+      "Belt":"EssenceDisplayAttributes3",
+      "Body Armour":"EssenceDisplayAttributes3",
+      "Boots":"EssenceDisplayAttributes3",
+      "Bow":"EssenceDisplayAttributes3",
+      "Buckler":"EssenceDisplayAttributes3",
+      "Crossbow":"EssenceDisplayAttributes3",
+      "Dagger":"EssenceDisplayAttributes3",
+      "Flail":"EssenceDisplayAttributes3",
+      "Focus":"EssenceDisplayAttributes3",
+      "Gloves":"EssenceDisplayAttributes3",
+      "Helmet":"EssenceDisplayAttributes3",
+      "One Hand Axe":"EssenceDisplayAttributes3",
+      "One Hand Mace":"EssenceDisplayAttributes3",
+      "One Hand Sword":"EssenceDisplayAttributes3",
+      "Quiver":"EssenceDisplayAttributes3",
+      "Ring":"EssenceDisplayAttributes3",
+      "Sceptre":"EssenceDisplayAttributes3",
+      "Shield":"EssenceDisplayAttributes3",
+      "Spear":"EssenceDisplayAttributes3",
+      "Staff":"EssenceDisplayAttributes3",
+      "Talisman":"EssenceDisplayAttributes3",
+      "Two Hand Axe":"EssenceDisplayAttributes3",
+      "Two Hand Mace":"EssenceDisplayAttributes3",
+      "Two Hand Sword":"EssenceDisplayAttributes3",
+      "Wand":"EssenceDisplayAttributes3",
+      "Warstaff":"EssenceDisplayAttributes3"
+    },
+    "name":"Greater Essence of the Infinite",
+    "tierLevel":60,
+    "type":"Attribute"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceCaster":{
+    "mods":{
+      "Focus":"SpellDamageOnWeapon6",
+      "Staff":"SpellDamageOnTwoHandWeapon6",
+      "Wand":"SpellDamageOnWeapon6"
+    },
+    "name":"Greater Essence of Sorcery",
+    "tierLevel":60,
+    "type":"Caster"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceChaos":{
+    "mods":{
+      "Amulet":"ChaosResist4",
+      "Belt":"ChaosResist4",
+      "Body Armour":"ChaosResist4",
+      "Boots":"ChaosResist4",
+      "Buckler":"ChaosResist4",
+      "Focus":"ChaosResist4",
+      "Gloves":"ChaosResist4",
+      "Helmet":"ChaosResist4",
+      "Ring":"ChaosResist4",
+      "Shield":"ChaosResist4"
+    },
+    "name":"Greater Essence of Ruin",
+    "tierLevel":60,
+    "type":"Chaos"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceCold":{
+    "mods":{
+      "Bow":"LocalAddedColdDamage7",
+      "Crossbow":"LocalAddedColdDamageTwoHand7",
+      "Dagger":"LocalAddedColdDamage7",
+      "Flail":"LocalAddedColdDamage7",
+      "One Hand Axe":"LocalAddedColdDamage7",
+      "One Hand Mace":"LocalAddedColdDamage7",
+      "One Hand Sword":"LocalAddedColdDamage7",
+      "Spear":"LocalAddedColdDamage7",
+      "Talisman":"LocalAddedColdDamageTwoHand7",
+      "Two Hand Axe":"LocalAddedColdDamageTwoHand7",
+      "Two Hand Mace":"LocalAddedColdDamageTwoHand7",
+      "Two Hand Sword":"LocalAddedColdDamageTwoHand7",
+      "Warstaff":"LocalAddedColdDamageTwoHand7"
+    },
+    "name":"Greater Essence of Ice",
+    "tierLevel":60,
+    "type":"Cold"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceColdResist":{
+    "mods":{
+      "Amulet":"ColdResist6",
+      "Belt":"ColdResist6",
+      "Body Armour":"ColdResist6",
+      "Boots":"ColdResist6",
+      "Buckler":"ColdResist6",
+      "Focus":"ColdResist6",
+      "Gloves":"ColdResist6",
+      "Helmet":"ColdResist6",
+      "Ring":"ColdResist6",
+      "Shield":"ColdResist6"
+    },
+    "name":"Greater Essence of Thawing",
+    "tierLevel":60,
+    "type":"ColdResist"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceCritical":{
+    "mods":{
+      "Bow":"LocalCriticalStrikeChance4",
+      "Crossbow":"LocalCriticalStrikeChance4",
+      "Dagger":"LocalCriticalStrikeChance4",
+      "Flail":"LocalCriticalStrikeChance4",
+      "Focus":"SpellCriticalStrikeChance4",
+      "One Hand Axe":"LocalCriticalStrikeChance4",
+      "One Hand Mace":"LocalCriticalStrikeChance4",
+      "One Hand Sword":"LocalCriticalStrikeChance4",
+      "Spear":"LocalCriticalStrikeChance4",
+      "Staff":"SpellCriticalStrikeChanceTwoHand4",
+      "Talisman":"LocalCriticalStrikeChance4",
+      "Two Hand Axe":"LocalCriticalStrikeChance4",
+      "Two Hand Mace":"LocalCriticalStrikeChance4",
+      "Two Hand Sword":"LocalCriticalStrikeChance4",
+      "Wand":"SpellCriticalStrikeChance4",
+      "Warstaff":"LocalCriticalStrikeChance4"
+    },
+    "name":"Greater Essence of Seeking",
+    "tierLevel":60,
+    "type":"Critical"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceDefences":{
+    "mods":{
+      "Body Armour":"EssenceDisplayDefences3",
+      "Boots":"EssenceDisplayDefences3",
+      "Buckler":"EssenceDisplayDefences3",
+      "Focus":"EssenceDisplayDefences3",
+      "Gloves":"EssenceDisplayDefences3",
+      "Helmet":"EssenceDisplayDefences3",
+      "Shield":"EssenceDisplayDefences3"
+    },
+    "name":"Greater Essence of Enhancement",
+    "tierLevel":60,
+    "type":"Defences"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceFire":{
+    "mods":{
+      "Bow":"LocalAddedFireDamage7",
+      "Crossbow":"LocalAddedFireDamageTwoHand7",
+      "Dagger":"LocalAddedFireDamage7",
+      "Flail":"LocalAddedFireDamage7",
+      "One Hand Axe":"LocalAddedFireDamage7",
+      "One Hand Mace":"LocalAddedFireDamage7",
+      "One Hand Sword":"LocalAddedFireDamage7",
+      "Spear":"LocalAddedFireDamage7",
+      "Talisman":"LocalAddedFireDamageTwoHand7",
+      "Two Hand Axe":"LocalAddedFireDamageTwoHand7",
+      "Two Hand Mace":"LocalAddedFireDamageTwoHand7",
+      "Two Hand Sword":"LocalAddedFireDamageTwoHand7",
+      "Warstaff":"LocalAddedFireDamageTwoHand7"
+    },
+    "name":"Greater Essence of Flames",
+    "tierLevel":60,
+    "type":"Fire"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceFireResist":{
+    "mods":{
+      "Amulet":"FireResist6",
+      "Belt":"FireResist6",
+      "Body Armour":"FireResist6",
+      "Boots":"FireResist6",
+      "Buckler":"FireResist6",
+      "Focus":"FireResist6",
+      "Gloves":"FireResist6",
+      "Helmet":"FireResist6",
+      "Ring":"FireResist6",
+      "Shield":"FireResist6"
+    },
+    "name":"Greater Essence of Insulation",
+    "tierLevel":60,
+    "type":"FireResist"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceLife":{
+    "mods":{
+      "Amulet":"IncreasedLife7",
+      "Belt":"IncreasedLife8",
+      "Body Armour":"IncreasedLife8",
+      "Boots":"IncreasedLife7",
+      "Buckler":"IncreasedLife8",
+      "Gloves":"IncreasedLife7",
+      "Helmet":"IncreasedLife8",
+      "Shield":"IncreasedLife8"
+    },
+    "name":"Greater Essence of the Body",
+    "tierLevel":60,
+    "type":"Life"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceLightning":{
+    "mods":{
+      "Bow":"LocalAddedLightningDamage7",
+      "Crossbow":"LocalAddedLightningDamageTwoHand7",
+      "Dagger":"LocalAddedLightningDamage7",
+      "Flail":"LocalAddedLightningDamage7",
+      "One Hand Axe":"LocalAddedLightningDamage7",
+      "One Hand Mace":"LocalAddedLightningDamage7",
+      "One Hand Sword":"LocalAddedLightningDamage7",
+      "Spear":"LocalAddedLightningDamage7",
+      "Talisman":"LocalAddedLightningDamageTwoHand7",
+      "Two Hand Axe":"LocalAddedLightningDamageTwoHand7",
+      "Two Hand Mace":"LocalAddedLightningDamageTwoHand7",
+      "Two Hand Sword":"LocalAddedLightningDamageTwoHand7",
+      "Warstaff":"LocalAddedLightningDamageTwoHand7"
+    },
+    "name":"Greater Essence of Electricity",
+    "tierLevel":60,
+    "type":"Lightning"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceLightningResist":{
+    "mods":{
+      "Amulet":"LightningResist6",
+      "Belt":"LightningResist6",
+      "Body Armour":"LightningResist6",
+      "Boots":"LightningResist6",
+      "Buckler":"LightningResist6",
+      "Focus":"LightningResist6",
+      "Gloves":"LightningResist6",
+      "Helmet":"LightningResist6",
+      "Ring":"LightningResist6",
+      "Shield":"LightningResist6"
+    },
+    "name":"Greater Essence of Grounding",
+    "tierLevel":60,
+    "type":"LightningResist"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceMana":{
+    "mods":{
+      "Amulet":"IncreasedMana8",
+      "Belt":"IncreasedMana7",
+      "Boots":"IncreasedMana7",
+      "Gloves":"IncreasedMana7",
+      "Helmet":"IncreasedMana7",
+      "Ring":"IncreasedMana8"
+    },
+    "name":"Greater Essence of the Mind",
+    "tierLevel":60,
+    "type":"Mana"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssencePhysical":{
+    "mods":{
+      "Bow":"LocalAddedPhysicalDamage7",
+      "Crossbow":"LocalAddedPhysicalDamageTwoHand7",
+      "Dagger":"LocalAddedPhysicalDamage7",
+      "Flail":"LocalAddedPhysicalDamage7",
+      "One Hand Axe":"LocalAddedPhysicalDamage7",
+      "One Hand Mace":"LocalAddedPhysicalDamage7",
+      "One Hand Sword":"LocalAddedPhysicalDamage7",
+      "Spear":"LocalAddedPhysicalDamage7",
+      "Talisman":"LocalAddedPhysicalDamageTwoHand7",
+      "Two Hand Axe":"LocalAddedPhysicalDamageTwoHand7",
+      "Two Hand Mace":"LocalAddedPhysicalDamageTwoHand7",
+      "Two Hand Sword":"LocalAddedPhysicalDamageTwoHand7",
+      "Warstaff":"LocalAddedPhysicalDamageTwoHand7"
+    },
+    "name":"Greater Essence of Abrasion",
+    "tierLevel":60,
+    "type":"Physical"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceRarity":{
+    "mods":{
+      "Amulet":"ItemFoundRarityIncrease3",
+      "Boots":"ItemFoundRarityIncrease3",
+      "Gloves":"ItemFoundRarityIncrease3",
+      "Helmet":"ItemFoundRarityIncrease3",
+      "Ring":"ItemFoundRarityIncrease3"
+    },
+    "name":"Greater Essence of Opulence",
+    "tierLevel":65,
+    "type":"Rarity"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceSpeed":{
+    "mods":{
+      "Bow":"LocalIncreasedAttackSpeed4",
+      "Crossbow":"LocalIncreasedAttackSpeed4",
+      "Dagger":"LocalIncreasedAttackSpeed7",
+      "Flail":"LocalIncreasedAttackSpeed7",
+      "One Hand Axe":"LocalIncreasedAttackSpeed7",
+      "One Hand Mace":"LocalIncreasedAttackSpeed7",
+      "One Hand Sword":"LocalIncreasedAttackSpeed7",
+      "Spear":"LocalIncreasedAttackSpeed7",
+      "Talisman":"LocalIncreasedAttackSpeed7",
+      "Two Hand Axe":"LocalIncreasedAttackSpeed7",
+      "Two Hand Mace":"LocalIncreasedAttackSpeed7",
+      "Two Hand Sword":"LocalIncreasedAttackSpeed7",
+      "Warstaff":"LocalIncreasedAttackSpeed7"
+    },
+    "name":"Greater Essence of Haste",
+    "tierLevel":60,
+    "type":"Speed"
+  },
+  "Metadata/Items/Currency/CurrencyGreaterEssenceSpeedCaster":{
+    "mods":{
+      "Focus":"IncreasedCastSpeed5",
+      "Staff":"IncreasedCastSpeedTwoHand5",
+      "Wand":"IncreasedCastSpeed5"
+    },
+    "name":"Greater Essence of Alacrity",
+    "tierLevel":60,
+    "type":"SpeedCaster"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceAlly":{
+    "mods":{
+      "Sceptre":"NearbyAlliesAllDamage2"
+    },
+    "name":"Lesser Essence of Command",
+    "tierLevel":12,
+    "type":"Ally"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceAttack":{
+    "mods":{
+      "Bow":"LocalIncreasedAccuracy3",
+      "Crossbow":"LocalIncreasedAccuracy3",
+      "Dagger":"LocalIncreasedAccuracy3",
+      "Flail":"LocalIncreasedAccuracy3",
+      "One Hand Axe":"LocalIncreasedAccuracy3",
+      "One Hand Mace":"LocalIncreasedAccuracy3",
+      "One Hand Sword":"LocalIncreasedAccuracy3",
+      "Spear":"LocalIncreasedAccuracy3",
+      "Talisman":"LocalIncreasedAccuracy3",
+      "Two Hand Axe":"LocalIncreasedAccuracy3",
+      "Two Hand Mace":"LocalIncreasedAccuracy3",
+      "Two Hand Sword":"LocalIncreasedAccuracy3",
+      "Warstaff":"LocalIncreasedAccuracy3"
+    },
+    "name":"Lesser Essence of Battle",
+    "tierLevel":20,
+    "type":"Attack"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceAttribute":{
+    "mods":{
+      "Amulet":"EssenceDisplayAttributes1",
+      "Belt":"EssenceDisplayAttributes1",
+      "Body Armour":"EssenceDisplayAttributes1",
+      "Boots":"EssenceDisplayAttributes1",
+      "Bow":"EssenceDisplayAttributes1",
+      "Buckler":"EssenceDisplayAttributes1",
+      "Crossbow":"EssenceDisplayAttributes1",
+      "Dagger":"EssenceDisplayAttributes1",
+      "Flail":"EssenceDisplayAttributes1",
+      "Focus":"EssenceDisplayAttributes1",
+      "Gloves":"EssenceDisplayAttributes1",
+      "Helmet":"EssenceDisplayAttributes1",
+      "One Hand Axe":"EssenceDisplayAttributes1",
+      "One Hand Mace":"EssenceDisplayAttributes1",
+      "One Hand Sword":"EssenceDisplayAttributes1",
+      "Quiver":"EssenceDisplayAttributes1",
+      "Ring":"EssenceDisplayAttributes1",
+      "Sceptre":"EssenceDisplayAttributes1",
+      "Shield":"EssenceDisplayAttributes1",
+      "Spear":"EssenceDisplayAttributes1",
+      "Staff":"EssenceDisplayAttributes1",
+      "Talisman":"EssenceDisplayAttributes1",
+      "Two Hand Axe":"EssenceDisplayAttributes1",
+      "Two Hand Mace":"EssenceDisplayAttributes1",
+      "Two Hand Sword":"EssenceDisplayAttributes1",
+      "Wand":"EssenceDisplayAttributes1",
+      "Warstaff":"EssenceDisplayAttributes1"
+    },
+    "name":"Lesser Essence of the Infinite",
+    "tierLevel":12,
+    "type":"Attribute"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceCaster":{
+    "mods":{
+      "Focus":"SpellDamageOnWeapon2",
+      "Staff":"SpellDamageOnTwoHandWeapon2",
+      "Wand":"SpellDamageOnWeapon2"
+    },
+    "name":"Lesser Essence of Sorcery",
+    "tierLevel":12,
+    "type":"Caster"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceChaos":{
+    "mods":{
+      "Amulet":"ChaosResist1",
+      "Belt":"ChaosResist1",
+      "Body Armour":"ChaosResist1",
+      "Boots":"ChaosResist1",
+      "Buckler":"ChaosResist1",
+      "Focus":"ChaosResist1",
+      "Gloves":"ChaosResist1",
+      "Helmet":"ChaosResist1",
+      "Ring":"ChaosResist1",
+      "Shield":"ChaosResist1"
+    },
+    "name":"Lesser Essence of Ruin",
+    "tierLevel":25,
+    "type":"Chaos"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceCold":{
+    "mods":{
+      "Bow":"LocalAddedColdDamage2",
+      "Crossbow":"LocalAddedColdDamageTwoHand2",
+      "Dagger":"LocalAddedColdDamage2",
+      "Flail":"LocalAddedColdDamage2",
+      "One Hand Axe":"LocalAddedColdDamage2",
+      "One Hand Mace":"LocalAddedColdDamage2",
+      "One Hand Sword":"LocalAddedColdDamage2",
+      "Spear":"LocalAddedColdDamage2",
+      "Talisman":"LocalAddedColdDamageTwoHand2",
+      "Two Hand Axe":"LocalAddedColdDamageTwoHand2",
+      "Two Hand Mace":"LocalAddedColdDamageTwoHand2",
+      "Two Hand Sword":"LocalAddedColdDamageTwoHand2",
+      "Warstaff":"LocalAddedColdDamageTwoHand2"
+    },
+    "name":"Lesser Essence of Ice",
+    "tierLevel":12,
+    "type":"Cold"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceColdResist":{
+    "mods":{
+      "Amulet":"ColdResist2",
+      "Belt":"ColdResist2",
+      "Body Armour":"ColdResist2",
+      "Boots":"ColdResist2",
+      "Buckler":"ColdResist2",
+      "Focus":"ColdResist2",
+      "Gloves":"ColdResist2",
+      "Helmet":"ColdResist2",
+      "Ring":"ColdResist2",
+      "Shield":"ColdResist2"
+    },
+    "name":"Lesser Essence of Thawing",
+    "tierLevel":12,
+    "type":"ColdResist"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceCritical":{
+    "mods":{
+      "Bow":"LocalCriticalStrikeChance2",
+      "Crossbow":"LocalCriticalStrikeChance2",
+      "Dagger":"LocalCriticalStrikeChance2",
+      "Flail":"LocalCriticalStrikeChance2",
+      "Focus":"SpellCriticalStrikeChance2",
+      "One Hand Axe":"LocalCriticalStrikeChance2",
+      "One Hand Mace":"LocalCriticalStrikeChance2",
+      "One Hand Sword":"LocalCriticalStrikeChance2",
+      "Spear":"LocalCriticalStrikeChance2",
+      "Staff":"SpellCriticalStrikeChanceTwoHand2",
+      "Talisman":"LocalCriticalStrikeChance2",
+      "Two Hand Axe":"LocalCriticalStrikeChance2",
+      "Two Hand Mace":"LocalCriticalStrikeChance2",
+      "Two Hand Sword":"LocalCriticalStrikeChance2",
+      "Wand":"SpellCriticalStrikeChance2",
+      "Warstaff":"LocalCriticalStrikeChance2"
+    },
+    "name":"Lesser Essence of Seeking",
+    "tierLevel":23,
+    "type":"Critical"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceDefences":{
+    "mods":{
+      "Body Armour":"EssenceDisplayDefences1",
+      "Boots":"EssenceDisplayDefences1",
+      "Buckler":"EssenceDisplayDefences1",
+      "Focus":"EssenceDisplayDefences1",
+      "Gloves":"EssenceDisplayDefences1",
+      "Helmet":"EssenceDisplayDefences1",
+      "Shield":"EssenceDisplayDefences1"
+    },
+    "name":"Lesser Essence of Enhancement",
+    "tierLevel":16,
+    "type":"Defences"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceFire":{
+    "mods":{
+      "Bow":"LocalAddedFireDamage2",
+      "Crossbow":"LocalAddedFireDamageTwoHand2",
+      "Dagger":"LocalAddedFireDamage2",
+      "Flail":"LocalAddedFireDamage2",
+      "One Hand Axe":"LocalAddedFireDamage2",
+      "One Hand Mace":"LocalAddedFireDamage2",
+      "One Hand Sword":"LocalAddedFireDamage2",
+      "Spear":"LocalAddedFireDamage2",
+      "Talisman":"LocalAddedFireDamageTwoHand2",
+      "Two Hand Axe":"LocalAddedFireDamageTwoHand2",
+      "Two Hand Mace":"LocalAddedFireDamageTwoHand2",
+      "Two Hand Sword":"LocalAddedFireDamageTwoHand2",
+      "Warstaff":"LocalAddedFireDamageTwoHand2"
+    },
+    "name":"Lesser Essence of Flames",
+    "tierLevel":12,
+    "type":"Fire"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceFireResist":{
+    "mods":{
+      "Amulet":"FireResist2",
+      "Belt":"FireResist2",
+      "Body Armour":"FireResist2",
+      "Boots":"FireResist2",
+      "Buckler":"FireResist2",
+      "Focus":"FireResist2",
+      "Gloves":"FireResist2",
+      "Helmet":"FireResist2",
+      "Ring":"FireResist2",
+      "Shield":"FireResist2"
+    },
+    "name":"Lesser Essence of Insulation",
+    "tierLevel":12,
+    "type":"FireResist"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceLife":{
+    "mods":{
+      "Amulet":"IncreasedLife2",
+      "Belt":"IncreasedLife3",
+      "Body Armour":"IncreasedLife3",
+      "Boots":"IncreasedLife3",
+      "Buckler":"IncreasedLife3",
+      "Focus":"IncreasedLife3",
+      "Gloves":"IncreasedLife3",
+      "Helmet":"IncreasedLife3",
+      "Ring":"IncreasedLife2",
+      "Shield":"IncreasedLife3"
+    },
+    "name":"Lesser Essence of the Body",
+    "tierLevel":12,
+    "type":"Life"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceLightning":{
+    "mods":{
+      "Bow":"LocalAddedLightningDamage2",
+      "Crossbow":"LocalAddedLightningDamageTwoHand2",
+      "Dagger":"LocalAddedLightningDamage2",
+      "Flail":"LocalAddedLightningDamage2",
+      "One Hand Axe":"LocalAddedLightningDamage2",
+      "One Hand Mace":"LocalAddedLightningDamage2",
+      "One Hand Sword":"LocalAddedLightningDamage2",
+      "Spear":"LocalAddedLightningDamage2",
+      "Talisman":"LocalAddedLightningDamageTwoHand2",
+      "Two Hand Axe":"LocalAddedLightningDamageTwoHand2",
+      "Two Hand Mace":"LocalAddedLightningDamageTwoHand2",
+      "Two Hand Sword":"LocalAddedLightningDamageTwoHand2",
+      "Warstaff":"LocalAddedLightningDamageTwoHand2"
+    },
+    "name":"Lesser Essence of Electricity",
+    "tierLevel":12,
+    "type":"Lightning"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceLightningResist":{
+    "mods":{
+      "Amulet":"LightningResist2",
+      "Belt":"LightningResist2",
+      "Body Armour":"LightningResist2",
+      "Boots":"LightningResist2",
+      "Buckler":"LightningResist2",
+      "Focus":"LightningResist2",
+      "Gloves":"LightningResist2",
+      "Helmet":"LightningResist2",
+      "Ring":"LightningResist2",
+      "Shield":"LightningResist2"
+    },
+    "name":"Lesser Essence of Grounding",
+    "tierLevel":12,
+    "type":"LightningResist"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceMana":{
+    "mods":{
+      "Amulet":"IncreasedMana3",
+      "Belt":"IncreasedMana3",
+      "Boots":"IncreasedMana3",
+      "Gloves":"IncreasedMana3",
+      "Helmet":"IncreasedMana3",
+      "Ring":"IncreasedMana3"
+    },
+    "name":"Lesser Essence of the Mind",
+    "tierLevel":12,
+    "type":"Mana"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssencePhysical":{
+    "mods":{
+      "Bow":"LocalAddedPhysicalDamage2",
+      "Crossbow":"LocalAddedPhysicalDamageTwoHand2",
+      "Dagger":"LocalAddedPhysicalDamage2",
+      "Flail":"LocalAddedPhysicalDamage2",
+      "One Hand Axe":"LocalAddedPhysicalDamage2",
+      "One Hand Mace":"LocalAddedPhysicalDamage2",
+      "One Hand Sword":"LocalAddedPhysicalDamage2",
+      "Spear":"LocalAddedPhysicalDamage2",
+      "Talisman":"LocalAddedPhysicalDamageTwoHand2",
+      "Two Hand Axe":"LocalAddedPhysicalDamageTwoHand2",
+      "Two Hand Mace":"LocalAddedPhysicalDamageTwoHand2",
+      "Two Hand Sword":"LocalAddedPhysicalDamageTwoHand2",
+      "Warstaff":"LocalAddedPhysicalDamageTwoHand2"
+    },
+    "name":"Lesser Essence of Abrasion",
+    "tierLevel":12,
+    "type":"Physical"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceRarity":{
+    "mods":{
+      "Amulet":"ItemFoundRarityIncrease1",
+      "Boots":"ItemFoundRarityIncrease1",
+      "Gloves":"ItemFoundRarityIncrease1",
+      "Helmet":"ItemFoundRarityIncrease1",
+      "Ring":"ItemFoundRarityIncrease1"
+    },
+    "name":"Lesser Essence of Opulence",
+    "tierLevel":25,
+    "type":"Rarity"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceSpeed":{
+    "mods":{
+      "Bow":"LocalIncreasedAttackSpeed2",
+      "Crossbow":"LocalIncreasedAttackSpeed2",
+      "Dagger":"LocalIncreasedAttackSpeed3",
+      "Flail":"LocalIncreasedAttackSpeed3",
+      "One Hand Axe":"LocalIncreasedAttackSpeed3",
+      "One Hand Mace":"LocalIncreasedAttackSpeed3",
+      "One Hand Sword":"LocalIncreasedAttackSpeed3",
+      "Spear":"LocalIncreasedAttackSpeed3",
+      "Talisman":"LocalIncreasedAttackSpeed3",
+      "Two Hand Axe":"LocalIncreasedAttackSpeed3",
+      "Two Hand Mace":"LocalIncreasedAttackSpeed3",
+      "Two Hand Sword":"LocalIncreasedAttackSpeed3",
+      "Warstaff":"LocalIncreasedAttackSpeed3"
+    },
+    "name":"Lesser Essence of Haste",
+    "tierLevel":22,
+    "type":"Speed"
+  },
+  "Metadata/Items/Currency/CurrencyLesserEssenceSpeedCaster":{
+    "mods":{
+      "Focus":"IncreasedCastSpeed2",
+      "Staff":"IncreasedCastSpeedTwoHand2",
+      "Wand":"IncreasedCastSpeed2"
+    },
+    "name":"Lesser Essence of Alacrity",
+    "tierLevel":23,
+    "type":"SpeedCaster"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceAlly":{
+    "mods":{
+      "Sceptre":"EssenceAuraEffect1"
+    },
+    "name":"Perfect Essence of Command",
+    "tierLevel":72,
+    "type":"Ally"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceAttack":{
+    "mods":{
+      "Bow":"EssenceAttackSkillLevel1H1",
+      "Crossbow":"EssenceAttackSkillLevel2H1",
+      "Dagger":"EssenceAttackSkillLevel1H1",
+      "Flail":"EssenceAttackSkillLevel1H1",
+      "One Hand Axe":"EssenceAttackSkillLevel1H1",
+      "One Hand Mace":"EssenceAttackSkillLevel1H1",
+      "One Hand Sword":"EssenceAttackSkillLevel1H1",
+      "Spear":"EssenceAttackSkillLevel1H1",
+      "Talisman":"EssenceAttackSkillLevel2H1",
+      "Two Hand Axe":"EssenceAttackSkillLevel2H1",
+      "Two Hand Mace":"EssenceAttackSkillLevel2H1",
+      "Two Hand Sword":"EssenceAttackSkillLevel2H1",
+      "Warstaff":"EssenceAttackSkillLevel2H1"
+    },
+    "name":"Perfect Essence of Battle",
+    "tierLevel":72,
+    "type":"Attack"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceAttribute":{
+    "mods":{
+      "Amulet":"EssenceDisplayAttributes5"
+    },
+    "name":"Perfect Essence of the Infinite",
+    "tierLevel":72,
+    "type":"Attribute"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceCaster":{
+    "mods":{
+      "Staff":"EssenceSpellSkillLevel2H1",
+      "Wand":"EssenceSpellSkillLevel1H1"
+    },
+    "name":"Perfect Essence of Sorcery",
+    "tierLevel":72,
+    "type":"Caster"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceChaos":{
+    "mods":{
+      "Body Armour":"EssencePhysicalDamageTakenAsChaos1"
+    },
+    "name":"Perfect Essence of Ruin",
+    "tierLevel":72,
+    "type":"Chaos"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceCold":{
+    "mods":{
+      "Bow":"EssenceDamageasExtraCold1",
+      "Crossbow":"EssenceDamageasExtraCold2H",
+      "Dagger":"EssenceDamageasExtraCold1",
+      "Flail":"EssenceDamageasExtraCold1",
+      "One Hand Axe":"EssenceDamageasExtraCold1",
+      "One Hand Mace":"EssenceDamageasExtraCold1",
+      "One Hand Sword":"EssenceDamageasExtraCold1",
+      "Spear":"EssenceDamageasExtraCold1",
+      "Talisman":"EssenceDamageasExtraCold2H",
+      "Two Hand Axe":"EssenceDamageasExtraCold2H",
+      "Two Hand Mace":"EssenceDamageasExtraCold2H",
+      "Two Hand Sword":"EssenceDamageasExtraCold2H",
+      "Warstaff":"EssenceDamageasExtraCold2H"
+    },
+    "name":"Perfect Essence of Ice",
+    "tierLevel":72,
+    "type":"Cold"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceColdResist":{
+    "mods":{
+      "Helmet":"EssenceColdRecoupLife1"
+    },
+    "name":"Perfect Essence of Thawing",
+    "tierLevel":72,
+    "type":"ColdResist"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceCritical":{
+    "mods":{
+      "Body Armour":"EssenceReducedCriticalDamageAgainstYou1"
+    },
+    "name":"Perfect Essence of Seeking",
+    "tierLevel":72,
+    "type":"Critical"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceDefences":{
+    "mods":{
+      "Amulet":"EssenceGlobalDefences1"
+    },
+    "name":"Perfect Essence of Enhancement",
+    "tierLevel":72,
+    "type":"Defences"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceFire":{
+    "mods":{
+      "Bow":"EssenceDamageasExtraFire1",
+      "Crossbow":"EssenceDamageasExtraFire2H",
+      "Dagger":"EssenceDamageasExtraFire1",
+      "Flail":"EssenceDamageasExtraFire1",
+      "One Hand Axe":"EssenceDamageasExtraFire1",
+      "One Hand Mace":"EssenceDamageasExtraFire1",
+      "One Hand Sword":"EssenceDamageasExtraFire1",
+      "Spear":"EssenceDamageasExtraFire1",
+      "Talisman":"EssenceDamageasExtraFire2H",
+      "Two Hand Axe":"EssenceDamageasExtraFire2H",
+      "Two Hand Mace":"EssenceDamageasExtraFire2H",
+      "Two Hand Sword":"EssenceDamageasExtraFire2H",
+      "Warstaff":"EssenceDamageasExtraFire2H"
+    },
+    "name":"Perfect Essence of Flames",
+    "tierLevel":72,
+    "type":"Fire"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceFireResist":{
+    "mods":{
+      "Belt":"EssenceFireRecoupLife1"
+    },
+    "name":"Perfect Essence of Insulation",
+    "tierLevel":72,
+    "type":"FireResist"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceLife":{
+    "mods":{
+      "Body Armour":"EssenceIncreasedLifePercent1"
+    },
+    "name":"Perfect Essence of the Body",
+    "tierLevel":72,
+    "type":"Life"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceLightning":{
+    "mods":{
+      "Bow":"EssenceDamageasExtraLightning1",
+      "Crossbow":"EssenceDamageasExtraLightning2H",
+      "Dagger":"EssenceDamageasExtraLightning1",
+      "Flail":"EssenceDamageasExtraLightning1",
+      "One Hand Axe":"EssenceDamageasExtraLightning1",
+      "One Hand Mace":"EssenceDamageasExtraLightning1",
+      "One Hand Sword":"EssenceDamageasExtraLightning1",
+      "Spear":"EssenceDamageasExtraLightning1",
+      "Talisman":"EssenceDamageasExtraLightning2H",
+      "Two Hand Axe":"EssenceDamageasExtraLightning2H",
+      "Two Hand Mace":"EssenceDamageasExtraLightning2H",
+      "Two Hand Sword":"EssenceDamageasExtraLightning2H",
+      "Warstaff":"EssenceDamageasExtraLightning2H"
+    },
+    "name":"Perfect Essence of Electricity",
+    "tierLevel":72,
+    "type":"Lightning"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceLightningResist":{
+    "mods":{
+      "Gloves":"EssenceLightningRecoupLife1"
+    },
+    "name":"Perfect Essence of Grounding",
+    "tierLevel":72,
+    "type":"LightningResist"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceMana":{
+    "mods":{
+      "Ring":"EssenceIncreasedManaPercent1"
+    },
+    "name":"Perfect Essence of the Mind",
+    "tierLevel":72,
+    "type":"Mana"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssencePhysical":{
+    "mods":{
+      "Bow":"EssenceDamageasExtraPhysical1",
+      "Crossbow":"EssenceDamageasExtraPhysical2H",
+      "Dagger":"EssenceDamageasExtraPhysical1",
+      "Flail":"EssenceDamageasExtraPhysical1",
+      "One Hand Axe":"EssenceDamageasExtraPhysical1",
+      "One Hand Mace":"EssenceDamageasExtraPhysical1",
+      "One Hand Sword":"EssenceDamageasExtraPhysical1",
+      "Spear":"EssenceDamageasExtraPhysical1",
+      "Talisman":"EssenceDamageasExtraPhysical2H",
+      "Two Hand Axe":"EssenceDamageasExtraPhysical2H",
+      "Two Hand Mace":"EssenceDamageasExtraPhysical2H",
+      "Two Hand Sword":"EssenceDamageasExtraPhysical2H",
+      "Warstaff":"EssenceDamageasExtraPhysical2H"
+    },
+    "name":"Perfect Essence of Abrasion",
+    "tierLevel":72,
+    "type":"Physical"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceRarity":{
+    "mods":{
+      "Gloves":"EssenceGoldDropped1"
+    },
+    "name":"Perfect Essence of Opulence",
+    "tierLevel":72,
+    "type":"Rarity"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceSpeed":{
+    "mods":{
+      "Bow":"EssenceOnslaughtonKill1",
+      "Crossbow":"EssenceOnslaughtonKill1",
+      "Dagger":"EssenceOnslaughtonKill1",
+      "Flail":"EssenceOnslaughtonKill1",
+      "One Hand Axe":"EssenceOnslaughtonKill1",
+      "One Hand Mace":"EssenceOnslaughtonKill1",
+      "One Hand Sword":"EssenceOnslaughtonKill1",
+      "Spear":"EssenceOnslaughtonKill1",
+      "Talisman":"EssenceOnslaughtonKill1",
+      "Two Hand Axe":"EssenceOnslaughtonKill1",
+      "Two Hand Mace":"EssenceOnslaughtonKill1",
+      "Two Hand Sword":"EssenceOnslaughtonKill1",
+      "Warstaff":"EssenceOnslaughtonKill1"
+    },
+    "name":"Perfect Essence of Haste",
+    "tierLevel":72,
+    "type":"Speed"
+  },
+  "Metadata/Items/Currency/CurrencyPerfectEssenceSpeedCaster":{
+    "mods":{
+      "Focus":"EssenceManaCostReduction",
+      "Staff":"EssenceManaCostReduction2H",
+      "Wand":"EssenceManaCostReduction"
+    },
+    "name":"Perfect Essence of Alacrity",
+    "tierLevel":72,
+    "type":"SpeedCaster"
+  }
+}

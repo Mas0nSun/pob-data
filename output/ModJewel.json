@@ -1,0 +1,5471 @@
+{
+  "CraftedJewelAdditionalPrefixAllowed":{
+    "affix":"",
+    "group":"PrefixSuffixAllowed",
+    "level":1,
+    "modTags":[],
+    "statOrder":[18],
+    "tradeHashes":{
+      "718638445":[""],
+      "3182714256":["+1 Prefix Modifier allowed"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+1 Prefix Modifier allowed"
+  },
+  "CraftedJewelAdditionalSuffixAllowed":{
+    "affix":"",
+    "group":"PrefixSuffixAllowed",
+    "level":1,
+    "modTags":[],
+    "statOrder":[19],
+    "tradeHashes":{
+      "718638445":["+1 Suffix Modifier allowed"],
+      "3182714256":[""]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+1 Suffix Modifier allowed"
+  },
+  "CraftedJewelBlindOnHitWhileRubySapphireSocketed":{
+    "affix":"",
+    "group":"BlindOnHitWhileRubySapphireForJewel",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4325],
+    "tradeHashes":{
+      "3587953142":["Blind Enemies on Hit while you have a Ruby and a Sapphire socketed in your tree"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Blind Enemies on Hit while you have a Ruby and a Sapphire socketed in your tree"
+  },
+  "CraftedJewelDebilitateOnHitWhileEmeraldSapphireSocketed":{
+    "affix":"",
+    "group":"DebilitateOnHitWhileEmeraldSapphireForJewel",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4328],
+    "tradeHashes":{
+      "541021467":["Debilitate Enemies on Hit while you have an Emerald and a Sapphire socketed in your tree"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Debilitate Enemies on Hit while you have an Emerald and a Sapphire socketed in your tree"
+  },
+  "CraftedJewelExposureOnHitWhileRubyEmeraldSocketed":{
+    "affix":"",
+    "group":"ExposureOnHitWhileRubyEmeraldForJewel",
+    "level":1,
+    "modTags":["elemental"],
+    "statOrder":[4329],
+    "tradeHashes":{
+      "2951965588":["Inflict Elemental Exposure on Hit while you have a Ruby and an Emerald socketed in your tree"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Inflict Elemental Exposure on Hit while you have a Ruby and an Emerald socketed in your tree"
+  },
+  "CraftedJewelMaximumChaosResistance":{
+    "affix":"",
+    "group":"MaximumChaosResistance",
+    "level":1,
+    "modTags":["chaos_resistance","chaos","resistance"],
+    "statOrder":[1012],
+    "tradeHashes":{
+      "1301765461":["+1% to Maximum Chaos Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+1% to Maximum Chaos Resistance"
+  },
+  "CraftedJewelPrefixEffect":{
+    "affix":"",
+    "group":"LocalPrefixEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7810],
+    "tradeHashes":{
+      "1443502073":["(40-60)% increased Effect of Prefixes"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"(40-60)% increased Effect of Prefixes"
+  },
+  "CraftedJewelRadiusChaosResistance":{
+    "affix":"",
+    "group":"ChaosResistance",
+    "level":1,
+    "modTags":["chaos_resistance","chaos","resistance"],
+    "nodeType":2,
+    "statOrder":[1024],
+    "tradeHashes":{
+      "248192092":["Notable Passive Skills in Radius also grant +(4-5)% to Chaos Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+(4-5)% to Chaos Resistance"
+  },
+  "CraftedJewelRadiusColdResistance":{
+    "affix":"",
+    "group":"ColdResistance",
+    "level":1,
+    "modTags":["cold_resistance","elemental_resistance","elemental","cold","resistance"],
+    "nodeType":2,
+    "statOrder":[1020],
+    "tradeHashes":{
+      "3946450303":["Notable Passive Skills in Radius also grant +(5-7)% to Cold Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+(5-7)% to Cold Resistance"
+  },
+  "CraftedJewelRadiusExtraLargeSize":{
+    "affix":"",
+    "group":"JewelRadiusLargerRadius",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7760],
+    "tradeHashes":{
+      "3891355829":["Upgrades Radius to Very Large"]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Upgrades Radius to Very Large"
+  },
+  "CraftedJewelRadiusFireResistance":{
+    "affix":"",
+    "group":"FireResistance",
+    "level":1,
+    "modTags":["elemental_resistance","fire_resistance","elemental","fire","resistance"],
+    "nodeType":2,
+    "statOrder":[1014],
+    "tradeHashes":{
+      "2670212285":["Notable Passive Skills in Radius also grant +(5-7)% to Fire Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+(5-7)% to Fire Resistance"
+  },
+  "CraftedJewelRadiusLightningResistance":{
+    "affix":"",
+    "group":"LightningResistance",
+    "level":1,
+    "modTags":["elemental_resistance","lightning_resistance","elemental","lightning","resistance"],
+    "nodeType":2,
+    "statOrder":[1023],
+    "tradeHashes":{
+      "1687542781":["Notable Passive Skills in Radius also grant +(5-7)% to Lightning Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"+(5-7)% to Lightning Resistance"
+  },
+  "CraftedJewelSuffixEffect":{
+    "affix":"",
+    "group":"LocalSuffixEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7811],
+    "tradeHashes":{
+      "2475221757":["(40-60)% increased Effect of Suffixes"]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"(40-60)% increased Effect of Suffixes"
+  },
+  "JewelAccuracy":{
+    "affix":"Accurate",
+    "group":"IncreasedAccuracyPercent",
+    "level":1,
+    "modTags":["attack"],
+    "statOrder":[1332],
+    "tradeHashes":{
+      "624954515":["(5-10)% increased Accuracy Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Accuracy Rating"
+  },
+  "JewelAilmentChance":{
+    "affix":"of Ailing",
+    "group":"AilmentChance",
+    "level":1,
+    "modTags":["ailment"],
+    "statOrder":[4255],
+    "tradeHashes":{
+      "1772247089":["(5-15)% increased chance to inflict Ailments"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-15)% increased chance to inflict Ailments"
+  },
+  "JewelAilmentEffect":{
+    "affix":"Acrimonious",
+    "group":"AilmentEffect",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "statOrder":[4259],
+    "tradeHashes":{
+      "1303248024":["(5-15)% increased Magnitude of Ailments you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-15)% increased Magnitude of Ailments you inflict"
+  },
+  "JewelAilmentThreshold":{
+    "affix":"of Enduring",
+    "group":"IncreasedAilmentThreshold",
+    "level":1,
+    "modTags":["ailment"],
+    "statOrder":[4266],
+    "tradeHashes":{
+      "3544800472":["(10-20)% increased Elemental Ailment Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Elemental Ailment Threshold"
+  },
+  "JewelAilmentThresholdfromEnergyShield":{
+    "affix":"of Inuring",
+    "group":"AilmentThresholdfromEnergyShield",
+    "level":1,
+    "modTags":["ailment"],
+    "statOrder":[4265],
+    "tradeHashes":{
+      "3398301358":["Gain additional Ailment Threshold equal to (5-15)% of maximum Energy Shield"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain additional Ailment Threshold equal to (5-15)% of maximum Energy Shield"
+  },
+  "JewelAreaofEffect":{
+    "affix":"Blasting",
+    "group":"AreaOfEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[1630],
+    "tradeHashes":{
+      "280731498":["(4-6)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(4-6)% increased Area of Effect"
+  },
+  "JewelArmour":{
+    "affix":"Armoured",
+    "group":"GlobalPhysicalDamageReductionRatingPercent",
+    "level":1,
+    "modTags":["defences","armour"],
+    "statOrder":[882],
+    "tradeHashes":{
+      "2866361420":["(10-20)% increased Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Armour"
+  },
+  "JewelArmourBreak":{
+    "affix":"Shattering",
+    "group":"ArmourBreak",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4407],
+    "tradeHashes":{
+      "1776411443":["Break (5-15)% increased Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Break (5-15)% increased Armour"
+  },
+  "JewelArmourBreakDuration":{
+    "affix":"Resonating",
+    "group":"ArmourBreakDuration",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4409],
+    "tradeHashes":{
+      "2637470878":["(10-20)% increased Armour Break Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Armour Break Duration"
+  },
+  "JewelAttackCriticalChance":{
+    "affix":"of Deadliness",
+    "group":"AttackCriticalStrikeChance",
+    "level":1,
+    "modTags":["attack","critical"],
+    "statOrder":[977],
+    "tradeHashes":{
+      "2194114101":["(6-16)% increased Critical Hit Chance for Attacks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Critical Hit Chance for Attacks"
+  },
+  "JewelAttackCriticalDamage":{
+    "affix":"of Demolishing",
+    "group":"AttackCriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["damage","attack","critical"],
+    "statOrder":[981],
+    "tradeHashes":{
+      "3714003708":["(10-20)% increased Critical Damage Bonus for Attack Damage"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Critical Damage Bonus for Attack Damage"
+  },
+  "JewelAttackDamage":{
+    "affix":"Combat",
+    "group":"AttackDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1156],
+    "tradeHashes":{
+      "2843214518":["(5-15)% increased Attack Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","dexjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-15)% increased Attack Damage"
+  },
+  "JewelAttackSpeed":{
+    "affix":"of Alacrity",
+    "group":"IncreasedAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[985],
+    "tradeHashes":{
+      "681332047":["(2-4)% increased Attack Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Attack Speed"
+  },
+  "JewelAuraEffect":{
+    "affix":"Commanding",
+    "group":"AuraEffectForJewel",
+    "level":1,
+    "modTags":["aura"],
+    "statOrder":[2574],
+    "tradeHashes":{
+      "315791320":["Aura Skills have (3-7)% increased Magnitudes"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"Aura Skills have (3-7)% increased Magnitudes"
+  },
+  "JewelAxeDamage":{
+    "affix":"Sinister",
+    "group":"IncreasedAxeDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1233],
+    "tradeHashes":{
+      "3314142259":["(5-15)% increased Damage with Axes"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(5-15)% increased Damage with Axes"
+  },
+  "JewelAxeSpeed":{
+    "affix":"of Cleaving",
+    "group":"AxeAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1319],
+    "tradeHashes":{
+      "3550868361":["(2-4)% increased Attack Speed with Axes"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-4)% increased Attack Speed with Axes"
+  },
+  "JewelBannerArea":{
+    "affix":"Rallying",
+    "group":"BannerArea",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4629],
+    "tradeHashes":{
+      "429143663":["Banner Skills have (6-16)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Banner Skills have (6-16)% increased Area of Effect"
+  },
+  "JewelBannerDuration":{
+    "affix":"of Inspiring",
+    "group":"BannerDuration",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4631],
+    "tradeHashes":{
+      "2720982137":["Banner Skills have (15-25)% increased Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Banner Skills have (15-25)% increased Duration"
+  },
+  "JewelBannerValourGained":{
+    "affix":"of Valour",
+    "group":"BannerValourGained",
+    "level":1,
+    "modTags":[],
+    "statOrder":[6913],
+    "tradeHashes":{
+      "1869147066":["(15-20)% increased Glory generation for Banner Skills"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-20)% increased Glory generation for Banner Skills"
+  },
+  "JewelBleedingChance":{
+    "affix":"Bleeding",
+    "group":"BaseChanceToBleed",
+    "level":1,
+    "modTags":["bleed","physical","ailment"],
+    "statOrder":[4671],
+    "tradeHashes":{
+      "2174054121":["(3-7)% chance to inflict Bleeding on Hit"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% chance to inflict Bleeding on Hit"
+  },
+  "JewelBleedingDuration":{
+    "affix":"of Haemophilia",
+    "group":"BleedDuration",
+    "level":1,
+    "modTags":["bleed","physical","attack","ailment"],
+    "statOrder":[4660],
+    "tradeHashes":{
+      "1459321413":["(5-10)% increased Bleeding Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Bleeding Duration"
+  },
+  "JewelBleedingEffect":{
+    "affix":"Haemorrhaging",
+    "group":"BleedDotMultiplier",
+    "level":1,
+    "modTags":["bleed","physical_damage","damage","physical","attack","ailment"],
+    "statOrder":[4807],
+    "tradeHashes":{
+      "3166958180":["(5-15)% increased Magnitude of Bleeding you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Magnitude of Bleeding you inflict"
+  },
+  "JewelBlindEffect":{
+    "affix":"Stifling",
+    "group":"BlindEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4926],
+    "tradeHashes":{
+      "1585769763":["(5-10)% increased Blind Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Blind Effect"
+  },
+  "JewelBlindonHit":{
+    "affix":"of Blinding",
+    "group":"AttacksBlindOnHitChance",
+    "level":1,
+    "modTags":["attack"],
+    "statOrder":[4588],
+    "tradeHashes":{
+      "318953428":["(3-7)% chance to Blind Enemies on Hit with Attacks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% chance to Blind Enemies on Hit with Attacks"
+  },
+  "JewelBlock":{
+    "affix":"Protecting",
+    "group":"IncreasedBlockChance",
+    "level":1,
+    "modTags":["block"],
+    "statOrder":[1133],
+    "tradeHashes":{
+      "4147897060":["(3-7)% increased Block chance"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Block chance"
+  },
+  "JewelBowAccuracyRating":{
+    "affix":"Precise",
+    "group":"BowIncreasedAccuracyRating",
+    "level":1,
+    "modTags":["attack"],
+    "statOrder":[1341],
+    "tradeHashes":{
+      "169946467":["(5-15)% increased Accuracy Rating with Bows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Accuracy Rating with Bows"
+  },
+  "JewelBowDamage":{
+    "affix":"Perforating",
+    "group":"IncreasedBowDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1253],
+    "tradeHashes":{
+      "4188894176":["(6-16)% increased Damage with Bows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Damage with Bows"
+  },
+  "JewelBowSpeed":{
+    "affix":"of Nocking",
+    "group":"BowAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1324],
+    "tradeHashes":{
+      "3759735052":["(2-4)% increased Attack Speed with Bows"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Attack Speed with Bows"
+  },
+  "JewelCastSpeed":{
+    "affix":"of Enchanting",
+    "group":"IncreasedCastSpeed",
+    "level":1,
+    "modTags":["caster_speed","caster","speed"],
+    "statOrder":[987],
+    "tradeHashes":{
+      "2891184298":["(2-4)% increased Cast Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Cast Speed"
+  },
+  "JewelChainFromTerrain":{
+    "affix":"of Chaining",
+    "group":"ChainFromTerrain",
+    "level":1,
+    "modTags":[],
+    "statOrder":[9545],
+    "tradeHashes":{
+      "4081947835":["Projectiles have (3-5)% chance to Chain an additional time from terrain"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Projectiles have (3-5)% chance to Chain an additional time from terrain"
+  },
+  "JewelChaosDamage":{
+    "affix":"Chaotic",
+    "group":"IncreasedChaosDamage",
+    "level":1,
+    "modTags":["chaos_damage","damage","chaos"],
+    "statOrder":[876],
+    "tradeHashes":{
+      "736967255":["(7-13)% increased Chaos Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(7-13)% increased Chaos Damage"
+  },
+  "JewelCharmChargesGained":{
+    "affix":"of the Thicker",
+    "group":"CharmChargesGained",
+    "level":1,
+    "modTags":["charm"],
+    "statOrder":[5602],
+    "tradeHashes":{
+      "3585532255":["(5-15)% increased Charm Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Charm Charges gained"
+  },
+  "JewelCharmDamageWhileUsing":{
+    "affix":"Verdant",
+    "group":"CharmDamageWhileUsing",
+    "level":1,
+    "modTags":["charm","damage"],
+    "statOrder":[6019],
+    "tradeHashes":{
+      "627767961":["(10-20)% increased Damage while you have an active Charm"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Damage while you have an active Charm"
+  },
+  "JewelCharmDuration":{
+    "affix":"of the Woodland",
+    "group":"CharmDuration",
+    "level":1,
+    "modTags":["charm"],
+    "statOrder":[900],
+    "tradeHashes":{
+      "1389754388":["(5-15)% increased Charm Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Charm Effect Duration"
+  },
+  "JewelChillDuration":{
+    "affix":"of Frost",
+    "group":"IncreasedChillDuration",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "statOrder":[1612],
+    "tradeHashes":{
+      "3485067555":["(15-25)% increased Chill Duration on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Chill Duration on Enemies"
+  },
+  "JewelColdDamage":{
+    "affix":"Chilling",
+    "group":"ColdDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","cold"],
+    "statOrder":[874],
+    "tradeHashes":{
+      "3291658075":["(5-15)% increased Cold Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Cold Damage"
+  },
+  "JewelColdPenetration":{
+    "affix":"Numbing",
+    "group":"ColdResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","cold"],
+    "statOrder":[2725],
+    "tradeHashes":{
+      "3417711605":["Damage Penetrates (5-10)% Cold Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (5-10)% Cold Resistance"
+  },
+  "JewelCompanionDamage":{
+    "affix":"Kinship",
+    "group":"CompanionDamage",
+    "level":1,
+    "modTags":["minion_damage","damage","minion"],
+    "statOrder":[5719],
+    "tradeHashes":{
+      "234296660":["Companions deal (10-20)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Companions deal (10-20)% increased Damage"
+  },
+  "JewelCompanionLife":{
+    "affix":"Kindred",
+    "group":"CompanionLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "statOrder":[5723],
+    "tradeHashes":{
+      "1805182458":["Companions have (10-20)% increased maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Companions have (10-20)% increased maximum Life"
+  },
+  "JewelCooldownSpeed":{
+    "affix":"of Chronomancy",
+    "group":"GlobalCooldownRecovery",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4103],
+    "tradeHashes":{
+      "1004011302":["(3-5)% increased Cooldown Recovery Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Cooldown Recovery Rate"
+  },
+  "JewelCorpses":{
+    "affix":"Necromantic",
+    "group":"DamageIfConsumedCorpse",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[3901],
+    "tradeHashes":{
+      "2118708619":["(10-20)% increased Damage if you have Consumed a Corpse Recently"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Damage if you have Consumed a Corpse Recently"
+  },
+  "JewelCriticalAilmentEffect":{
+    "affix":"Rancorous",
+    "group":"CriticalAilmentEffect",
+    "level":1,
+    "modTags":["damage","critical","ailment"],
+    "statOrder":[5815],
+    "tradeHashes":{
+      "440490623":["(10-20)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(10-20)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"
+  },
+  "JewelCriticalChance":{
+    "affix":"of Annihilation",
+    "group":"CriticalStrikeChance",
+    "level":1,
+    "modTags":["critical"],
+    "statOrder":[976],
+    "tradeHashes":{
+      "587431675":["(5-15)% increased Critical Hit Chance"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Critical Hit Chance"
+  },
+  "JewelCriticalDamage":{
+    "affix":"of Potency",
+    "group":"CriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["damage","critical"],
+    "statOrder":[980],
+    "tradeHashes":{
+      "3556824919":["(10-20)% increased Critical Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Critical Damage Bonus"
+  },
+  "JewelCrossbowDamage":{
+    "affix":"Bolting",
+    "group":"CrossbowDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[3948],
+    "tradeHashes":{
+      "427684353":["(6-16)% increased Damage with Crossbows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Damage with Crossbows"
+  },
+  "JewelCrossbowReloadSpeed":{
+    "affix":"of Reloading",
+    "group":"CrossbowReloadSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[9736],
+    "tradeHashes":{
+      "3192728503":["(10-15)% increased Crossbow Reload Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-15)% increased Crossbow Reload Speed"
+  },
+  "JewelCrossbowSpeed":{
+    "affix":"of Rapidity",
+    "group":"CrossbowSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[3952],
+    "tradeHashes":{
+      "1135928777":["(2-4)% increased Attack Speed with Crossbows"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Attack Speed with Crossbows"
+  },
+  "JewelCurseArea":{
+    "affix":"Expanding",
+    "group":"CurseAreaOfEffect",
+    "level":1,
+    "modTags":["caster","curse"],
+    "statOrder":[1950],
+    "tradeHashes":{
+      "153777645":["(8-12)% increased Area of Effect of Curses"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(8-12)% increased Area of Effect of Curses"
+  },
+  "JewelCurseDelay":{
+    "affix":"of Chanting",
+    "group":"CurseDelay",
+    "level":1,
+    "modTags":["caster","curse"],
+    "statOrder":[5921],
+    "tradeHashes":{
+      "1104825894":["(5-15)% faster Curse Activation"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% faster Curse Activation"
+  },
+  "JewelCurseDuration":{
+    "affix":"of Continuation",
+    "group":"BaseCurseDuration",
+    "level":1,
+    "modTags":["caster","curse"],
+    "statOrder":[1540],
+    "tradeHashes":{
+      "3824372849":["(15-25)% increased Curse Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Curse Duration"
+  },
+  "JewelCurseEffect":{
+    "affix":"Hexing",
+    "group":"CurseEffectivenessForJewel",
+    "level":1,
+    "modTags":["caster","curse"],
+    "statOrder":[2376],
+    "tradeHashes":{
+      "2353576063":["(2-4)% increased Curse Magnitudes"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Curse Magnitudes"
+  },
+  "JewelDaggerCriticalChance":{
+    "affix":"of Backstabbing",
+    "group":"CritChanceWithDaggerForJewel",
+    "level":1,
+    "modTags":["attack","critical"],
+    "statOrder":[1363],
+    "tradeHashes":{
+      "4018186542":["(6-16)% increased Critical Hit Chance with Daggers"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Critical Hit Chance with Daggers"
+  },
+  "JewelDaggerDamage":{
+    "affix":"Lethal",
+    "group":"IncreasedDaggerDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1245],
+    "tradeHashes":{
+      "3586984690":["(6-16)% increased Damage with Daggers"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Damage with Daggers"
+  },
+  "JewelDaggerSpeed":{
+    "affix":"of Slicing",
+    "group":"DaggerAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1322],
+    "tradeHashes":{
+      "2538566497":["(2-4)% increased Attack Speed with Daggers"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-4)% increased Attack Speed with Daggers"
+  },
+  "JewelDamageVsRareOrUnique":{
+    "affix":"Slaying",
+    "group":"DamageVsRareOrUnique",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[2926],
+    "tradeHashes":{
+      "1852872083":["(10-20)% increased Damage with Hits against Rare and Unique Enemies"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Damage with Hits against Rare and Unique Enemies"
+  },
+  "JewelDamagefromMana":{
+    "affix":"of Mind",
+    "group":"DamageRemovedFromManaBeforeLife",
+    "level":1,
+    "modTags":["resource","life","mana"],
+    "statOrder":[2472],
+    "tradeHashes":{
+      "458438597":["(2-4)% of Damage is taken from Mana before Life"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% of Damage is taken from Mana before Life"
+  },
+  "JewelDamagevsArmourBrokenEnemies":{
+    "affix":"Exploiting",
+    "group":"DamagevsArmourBrokenEnemies",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[5944],
+    "tradeHashes":{
+      "2301718443":["(15-25)% increased Damage against Enemies with Fully Broken Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Damage against Enemies with Fully Broken Armour"
+  },
+  "JewelDamagingAilmentDuration":{
+    "affix":"of Suffusion",
+    "group":"DamagingAilmentDuration",
+    "level":1,
+    "modTags":["ailment"],
+    "statOrder":[6061],
+    "tradeHashes":{
+      "1829102168":["(5-10)% increased Duration of Damaging Ailments on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-10)% increased Duration of Damaging Ailments on Enemies"
+  },
+  "JewelDazeBuildup":{
+    "affix":"of Dazing",
+    "group":"DazeBuildup",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4669],
+    "tradeHashes":{
+      "3146310524":["(5-10)% chance to Daze on Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% chance to Daze on Hit"
+  },
+  "JewelDebuffExpiry":{
+    "affix":"of Diminishing",
+    "group":"DebuffTimePassed",
+    "level":1,
+    "modTags":[],
+    "statOrder":[6095],
+    "tradeHashes":{
+      "1238227257":["Debuffs on you expire (5-10)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","dexjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"Debuffs on you expire (5-10)% faster"
+  },
+  "JewelElementalAilmentDuration":{
+    "affix":"of Suffering",
+    "group":"ElementalAilmentDuration",
+    "level":1,
+    "modTags":["elemental","fire","cold","lightning","ailment"],
+    "statOrder":[7267],
+    "tradeHashes":{
+      "1062710370":["(5-10)% increased Duration of Ignite, Shock and Chill on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Duration of Ignite, Shock and Chill on Enemies"
+  },
+  "JewelElementalDamage":{
+    "affix":"Prismatic",
+    "group":"ElementalDamagePercent",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire","cold","lightning"],
+    "statOrder":[1726],
+    "tradeHashes":{
+      "3141070085":["(5-15)% increased Elemental Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","intjewel","dexjewel","jewel"],
+    "weightVal":[1,1,1,0],
+    "1":"(5-15)% increased Elemental Damage"
+  },
+  "JewelEmpoweredAttackDamage":{
+    "affix":"Empowering",
+    "group":"ExertedAttackDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[6319],
+    "tradeHashes":{
+      "1569101201":["Empowered Attacks deal (10-20)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Empowered Attacks deal (10-20)% increased Damage"
+  },
+  "JewelEnergy":{
+    "affix":"of Generation",
+    "group":"EnergyGeneration",
+    "level":1,
+    "modTags":[],
+    "statOrder":[6407],
+    "tradeHashes":{
+      "4236566306":["Meta Skills gain (4-8)% increased Energy"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Meta Skills gain (4-8)% increased Energy"
+  },
+  "JewelEnergyShield":{
+    "affix":"Shimmering",
+    "group":"GlobalEnergyShieldPercent",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "statOrder":[886],
+    "tradeHashes":{
+      "2482852589":["(10-20)% increased maximum Energy Shield"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased maximum Energy Shield"
+  },
+  "JewelEnergyShieldDelay":{
+    "affix":"Serene",
+    "group":"EnergyShieldDelay",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "statOrder":[1033],
+    "tradeHashes":{
+      "1782086450":["(10-15)% faster start of Energy Shield Recharge"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-15)% faster start of Energy Shield Recharge"
+  },
+  "JewelEnergyShieldRecharge":{
+    "affix":"Fevered",
+    "group":"EnergyShieldRegeneration",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "statOrder":[1032],
+    "tradeHashes":{
+      "2339757871":["(10-20)% increased Energy Shield Recharge Rate"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(10-20)% increased Energy Shield Recharge Rate"
+  },
+  "JewelEvasion":{
+    "affix":"Evasive",
+    "group":"GlobalEvasionRatingPercent",
+    "level":1,
+    "modTags":["defences","evasion"],
+    "statOrder":[884],
+    "tradeHashes":{
+      "2106365538":["(10-20)% increased Evasion Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Evasion Rating"
+  },
+  "JewelFasterAilments":{
+    "affix":"of Decrepifying",
+    "group":"FasterAilmentDamageForJewel",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "statOrder":[6064],
+    "tradeHashes":{
+      "538241406":["Damaging Ailments deal damage (3-7)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"Damaging Ailments deal damage (3-7)% faster"
+  },
+  "JewelFireDamage":{
+    "affix":"Flaming",
+    "group":"FireDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire"],
+    "statOrder":[873],
+    "tradeHashes":{
+      "3962278098":["(5-15)% increased Fire Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Fire Damage"
+  },
+  "JewelFirePenetration":{
+    "affix":"Searing",
+    "group":"FireResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire"],
+    "statOrder":[2724],
+    "tradeHashes":{
+      "2653955271":["Damage Penetrates (5-10)% Fire Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (5-10)% Fire Resistance"
+  },
+  "JewelFlailCriticalChance":{
+    "affix":"of Thrashing",
+    "group":"FlailCriticalChance",
+    "level":1,
+    "modTags":["attack","critical"],
+    "statOrder":[3942],
+    "tradeHashes":{
+      "1484710594":["(6-16)% increased Critical Hit Chance with Flails"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Critical Hit Chance with Flails"
+  },
+  "JewelFlailDamage":{
+    "affix":"Flailing",
+    "group":"FlailDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[3937],
+    "tradeHashes":{
+      "1731242173":["(6-16)% increased Damage with Flails"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Damage with Flails"
+  },
+  "JewelFlaskChargesGained":{
+    "affix":"of Gathering",
+    "group":"IncreasedFlaskChargesGained",
+    "level":1,
+    "modTags":["flask"],
+    "statOrder":[6637],
+    "tradeHashes":{
+      "1836676211":["(5-10)% increased Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Flask Charges gained"
+  },
+  "JewelFlaskDuration":{
+    "affix":"of Prolonging",
+    "group":"FlaskDuration",
+    "level":1,
+    "modTags":["flask"],
+    "statOrder":[902],
+    "tradeHashes":{
+      "3741323227":["(5-10)% increased Flask Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Flask Effect Duration"
+  },
+  "JewelFocusEnergyShield":{
+    "affix":"Focusing",
+    "group":"FocusEnergyShield",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "statOrder":[6423],
+    "tradeHashes":{
+      "3174700878":["(30-50)% increased Energy Shield from Equipped Focus"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(30-50)% increased Energy Shield from Equipped Focus"
+  },
+  "JewelForkingProjectiles":{
+    "affix":"of Forking",
+    "group":"ForkingProjectiles",
+    "level":1,
+    "modTags":[],
+    "statOrder":[5512],
+    "tradeHashes":{
+      "3003542304":["Projectiles have (10-15)% chance for an additional Projectile when Forking"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Projectiles have (10-15)% chance for an additional Projectile when Forking"
+  },
+  "JewelFreezeAmount":{
+    "affix":"of Freezing",
+    "group":"FreezeDamageIncrease",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "statOrder":[1057],
+    "tags":["no_fire_spell_mods","no_lightning_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "473429811":["(10-20)% increased Freeze Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Freeze Buildup"
+  },
+  "JewelFreezeThreshold":{
+    "affix":"of Snowbreathing",
+    "group":"FreezeThreshold",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "statOrder":[2984],
+    "tradeHashes":{
+      "3780644166":["(18-32)% increased Freeze Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(18-32)% increased Freeze Threshold"
+  },
+  "JewelHazardDamage":{
+    "affix":"Hazardous",
+    "group":"HazardDamage",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[6980],
+    "tradeHashes":{
+      "1697951953":["(10-20)% increased Hazard Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Hazard Damage"
+  },
+  "JewelHeraldDamage":{
+    "affix":"Heralding",
+    "group":"HeraldDamage",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[6024],
+    "tradeHashes":{
+      "21071013":["Herald Skills deal (15-25)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Herald Skills deal (15-25)% increased Damage"
+  },
+  "JewelIgniteChance":{
+    "affix":"of Ignition",
+    "group":"IgniteChanceIncrease",
+    "level":1,
+    "modTags":["elemental","fire","ailment"],
+    "statOrder":[1055],
+    "tags":["no_cold_spell_mods","no_lightning_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "2968503605":["(10-20)% increased Flammability Magnitude"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(10-20)% increased Flammability Magnitude"
+  },
+  "JewelIgniteEffect":{
+    "affix":"Burning",
+    "group":"IgniteEffect",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire","ailment"],
+    "statOrder":[1077],
+    "tradeHashes":{
+      "3791899485":["(5-15)% increased Ignite Magnitude"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-15)% increased Ignite Magnitude"
+  },
+  "JewelIncisionChance":{
+    "affix":"Incise",
+    "group":"IncisionChance",
+    "level":1,
+    "modTags":["bleed","physical","ailment"],
+    "statOrder":[5550],
+    "tradeHashes":{
+      "300723956":["(15-25)% chance for Attack Hits to apply Incision"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% chance for Attack Hits to apply Incision"
+  },
+  "JewelIncreasedDuration":{
+    "affix":"of Lengthening",
+    "group":"SkillEffectDuration",
+    "level":1,
+    "modTags":[],
+    "statOrder":[1645],
+    "tradeHashes":{
+      "3377888098":["(5-10)% increased Skill Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-10)% increased Skill Effect Duration"
+  },
+  "JewelKnockback":{
+    "affix":"of Fending",
+    "group":"KnockbackDistance",
+    "level":1,
+    "modTags":[],
+    "statOrder":[1744],
+    "tradeHashes":{
+      "565784293":["(5-15)% increased Knockback Distance"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Knockback Distance"
+  },
+  "JewelLifeCost":{
+    "affix":"of Sacrifice",
+    "group":"LifeCost",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[4743],
+    "tradeHashes":{
+      "2480498143":["(4-6)% of Skill Mana Costs Converted to Life Costs"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(4-6)% of Skill Mana Costs Converted to Life Costs"
+  },
+  "JewelLifeFlaskChargeGen":{
+    "affix":"of Pathfinding",
+    "group":"LifeFlaskChargePercentGeneration",
+    "level":1,
+    "modTags":["flask"],
+    "statOrder":[7434],
+    "tradeHashes":{
+      "4009879772":["(10-20)% increased Life Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Life Flask Charges gained"
+  },
+  "JewelLifeFlaskRecovery":{
+    "affix":"of Recovery",
+    "group":"GlobalFlaskLifeRecovery",
+    "level":1,
+    "modTags":["flask","resource","life"],
+    "statOrder":[1794],
+    "tradeHashes":{
+      "821241191":["(5-15)% increased Life Recovery from Flasks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Life Recovery from Flasks"
+  },
+  "JewelLifeLeech":{
+    "affix":"of Frenzy",
+    "group":"LifeLeechAmount",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[1895],
+    "tradeHashes":{
+      "2112395885":["(5-15)% increased amount of Life Leeched"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased amount of Life Leeched"
+  },
+  "JewelLifeRecoup":{
+    "affix":"of Infusion",
+    "group":"LifeRecoupForJewel",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[1037],
+    "tradeHashes":{
+      "1444556985":["(2-3)% of Damage taken Recouped as Life"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% of Damage taken Recouped as Life"
+  },
+  "JewelLifeRegeneration":{
+    "affix":"of Regeneration",
+    "group":"LifeRegenerationRate",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[1036],
+    "tradeHashes":{
+      "44972811":["(5-10)% increased Life Regeneration rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Life Regeneration rate"
+  },
+  "JewelLifeonKill":{
+    "affix":"of Success",
+    "group":"MaximumLifeOnKillPercent",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[1511],
+    "tradeHashes":{
+      "2023107756":["Recover (1-2)% of maximum Life on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Recover (1-2)% of maximum Life on Kill"
+  },
+  "JewelLightningDamage":{
+    "affix":"Humming",
+    "group":"LightningDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","lightning"],
+    "statOrder":[875],
+    "tradeHashes":{
+      "2231156303":["(5-15)% increased Lightning Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Lightning Damage"
+  },
+  "JewelLightningPenetration":{
+    "affix":"Surging",
+    "group":"LightningResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","lightning"],
+    "statOrder":[2726],
+    "tradeHashes":{
+      "818778753":["Damage Penetrates (5-10)% Lightning Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (5-10)% Lightning Resistance"
+  },
+  "JewelMaceDamage":{
+    "affix":"Beating",
+    "group":"IncreasedMaceDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1249],
+    "tradeHashes":{
+      "1181419800":["(6-16)% increased Damage with Maces"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Damage with Maces"
+  },
+  "JewelMaceStun":{
+    "affix":"of Thumping",
+    "group":"MaceStun",
+    "level":1,
+    "modTags":["attack"],
+    "statOrder":[7946],
+    "tradeHashes":{
+      "872504239":["(15-25)% increased Stun Buildup with Maces"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Stun Buildup with Maces"
+  },
+  "JewelManaFlaskChargeGen":{
+    "affix":"of Fountains",
+    "group":"ManaFlaskChargePercentGeneration",
+    "level":1,
+    "modTags":["flask"],
+    "statOrder":[7979],
+    "tradeHashes":{
+      "3590792340":["(10-20)% increased Mana Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Mana Flask Charges gained"
+  },
+  "JewelManaFlaskRecovery":{
+    "affix":"of Quenching",
+    "group":"FlaskManaRecovery",
+    "level":1,
+    "modTags":["flask","resource","mana"],
+    "statOrder":[1795],
+    "tradeHashes":{
+      "2222186378":["(5-15)% increased Mana Recovery from Flasks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Mana Recovery from Flasks"
+  },
+  "JewelManaLeech":{
+    "affix":"of Thirsting",
+    "group":"ManaLeechAmount",
+    "level":1,
+    "modTags":["resource","mana"],
+    "statOrder":[1897],
+    "tradeHashes":{
+      "2839066308":["(5-15)% increased amount of Mana Leeched"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased amount of Mana Leeched"
+  },
+  "JewelManaRegeneration":{
+    "affix":"of Energy",
+    "group":"ManaRegeneration",
+    "level":1,
+    "modTags":["resource","mana"],
+    "statOrder":[1043],
+    "tradeHashes":{
+      "789117908":["(5-15)% increased Mana Regeneration Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Mana Regeneration Rate"
+  },
+  "JewelManaonKill":{
+    "affix":"of Osmosis",
+    "group":"ManaGainedOnKillPercentage",
+    "level":1,
+    "modTags":["resource","mana"],
+    "statOrder":[1517],
+    "tradeHashes":{
+      "1604736568":["Recover (1-2)% of maximum Mana on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Recover (1-2)% of maximum Mana on Kill"
+  },
+  "JewelMarkCastSpeed":{
+    "affix":"of Targeting",
+    "group":"MarkCastSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[1946],
+    "tradeHashes":{
+      "1714971114":["Mark Skills have (5-15)% increased Use Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Mark Skills have (5-15)% increased Use Speed"
+  },
+  "JewelMarkDuration":{
+    "affix":"of Tracking",
+    "group":"MarkDuration",
+    "level":1,
+    "modTags":[],
+    "statOrder":[8822],
+    "tradeHashes":{
+      "2594634307":["Mark Skills have (18-32)% increased Skill Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Mark Skills have (18-32)% increased Skill Effect Duration"
+  },
+  "JewelMarkEffect":{
+    "affix":"Marking",
+    "group":"MarkEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[2378],
+    "tradeHashes":{
+      "712554801":["(4-8)% increased Effect of your Mark Skills"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(4-8)% increased Effect of your Mark Skills"
+  },
+  "JewelMaximumColdResistance":{
+    "affix":"of the Kraken",
+    "group":"MaximumColdResist",
+    "level":1,
+    "modTags":["cold_resistance","elemental_resistance","elemental","cold","resistance"],
+    "statOrder":[1010],
+    "tradeHashes":{
+      "3676141501":["+1% to Maximum Cold Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"+1% to Maximum Cold Resistance"
+  },
+  "JewelMaximumFireResistance":{
+    "affix":"of the Phoenix",
+    "group":"MaximumFireResist",
+    "level":1,
+    "modTags":["elemental_resistance","fire_resistance","elemental","fire","resistance"],
+    "statOrder":[1009],
+    "tradeHashes":{
+      "4095671657":["+1% to Maximum Fire Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"+1% to Maximum Fire Resistance"
+  },
+  "JewelMaximumLightningResistance":{
+    "affix":"of the Leviathan",
+    "group":"MaximumLightningResistance",
+    "level":1,
+    "modTags":["elemental_resistance","lightning_resistance","elemental","lightning","resistance"],
+    "statOrder":[1011],
+    "tradeHashes":{
+      "1011760251":["+1% to Maximum Lightning Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"+1% to Maximum Lightning Resistance"
+  },
+  "JewelMaximumRage":{
+    "affix":"Angry",
+    "group":"MaximumRage",
+    "level":1,
+    "modTags":[],
+    "statOrder":[9611],
+    "tradeHashes":{
+      "1181501418":["+(1-2) to Maximum Rage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"+(1-2) to Maximum Rage"
+  },
+  "JewelMeleeDamage":{
+    "affix":"Clashing",
+    "group":"MeleeDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1187],
+    "tradeHashes":{
+      "1002362373":["(5-15)% increased Melee Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Melee Damage"
+  },
+  "JewelMeleeDamageIfProjectileHitRecently":{
+    "affix":"Engaging",
+    "group":"MeleeDamageIfProjectileHitRecently",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[8914],
+    "tradeHashes":{
+      "3028809864":["(10-20)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds"
+  },
+  "JewelMinionAccuracy":{
+    "affix":"Training",
+    "group":"MinionAccuracyRatingForJewel",
+    "level":1,
+    "modTags":["attack","minion"],
+    "statOrder":[8996],
+    "tradeHashes":{
+      "1718147982":["(10-20)% increased Minion Accuracy Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(10-20)% increased Minion Accuracy Rating"
+  },
+  "JewelMinionArea":{
+    "affix":"Companion",
+    "group":"MinionAreaOfEffect",
+    "level":1,
+    "modTags":["minion"],
+    "statOrder":[2759],
+    "tradeHashes":{
+      "3811191316":["Minions have (5-8)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (5-8)% increased Area of Effect"
+  },
+  "JewelMinionAttackandCastSpeed":{
+    "affix":"of Orchestration",
+    "group":"MinionAttackSpeedAndCastSpeed",
+    "level":1,
+    "modTags":["caster_speed","minion_speed","attack","caster","speed","minion"],
+    "statOrder":[9003],
+    "tradeHashes":{
+      "3091578504":["Minions have (2-4)% increased Attack and Cast Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (2-4)% increased Attack and Cast Speed"
+  },
+  "JewelMinionChaosResistance":{
+    "affix":"of Righteousness",
+    "group":"MinionChaosResistance",
+    "level":1,
+    "modTags":["chaos_resistance","minion_resistance","chaos","resistance","minion"],
+    "statOrder":[2668],
+    "tradeHashes":{
+      "3837707023":["Minions have +(7-13)% to Chaos Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have +(7-13)% to Chaos Resistance"
+  },
+  "JewelMinionCriticalChance":{
+    "affix":"of Marshalling",
+    "group":"MinionCriticalStrikeChanceIncrease",
+    "level":1,
+    "modTags":["minion","critical"],
+    "statOrder":[9030],
+    "tradeHashes":{
+      "491450213":["Minions have (10-20)% increased Critical Hit Chance"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (10-20)% increased Critical Hit Chance"
+  },
+  "JewelMinionCriticalMultiplier":{
+    "affix":"of Gripping",
+    "group":"MinionCriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["minion_damage","damage","minion","critical"],
+    "statOrder":[9032],
+    "tradeHashes":{
+      "1854213750":["Minions have (15-25)% increased Critical Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (15-25)% increased Critical Damage Bonus"
+  },
+  "JewelMinionDamage":{
+    "affix":"Authoritative",
+    "group":"MinionDamage",
+    "level":1,
+    "modTags":["minion_damage","damage","minion"],
+    "statOrder":[1720],
+    "tradeHashes":{
+      "1589917703":["Minions deal (5-15)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions deal (5-15)% increased Damage"
+  },
+  "JewelMinionLife":{
+    "affix":"Fortuitous",
+    "group":"MinionLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "statOrder":[1026],
+    "tradeHashes":{
+      "770672621":["Minions have (5-15)% increased maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (5-15)% increased maximum Life"
+  },
+  "JewelMinionPhysicalDamageReduction":{
+    "affix":"of Confidence",
+    "group":"MinionPhysicalDamageReduction",
+    "level":1,
+    "modTags":["physical","minion"],
+    "statOrder":[2022],
+    "tradeHashes":{
+      "3119612865":["Minions have (6-16)% additional Physical Damage Reduction"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (6-16)% additional Physical Damage Reduction"
+  },
+  "JewelMinionResistances":{
+    "affix":"of Acclimatisation",
+    "group":"MinionElementalResistance",
+    "level":1,
+    "modTags":["cold_resistance","elemental_resistance","fire_resistance","lightning_resistance","minion_resistance","elemental","fire","cold","lightning","resistance","minion"],
+    "statOrder":[2667],
+    "tradeHashes":{
+      "1423639565":["Minions have +(5-10)% to all Elemental Resistances"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have +(5-10)% to all Elemental Resistances"
+  },
+  "JewelMinionReviveSpeed":{
+    "affix":"of Revival",
+    "group":"MinionReviveSpeed",
+    "level":1,
+    "modTags":["minion"],
+    "statOrder":[9085],
+    "tradeHashes":{
+      "2639966148":["Minions Revive (5-15)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"Minions Revive (5-15)% faster"
+  },
+  "JewelMovementSpeed":{
+    "affix":"of Speed",
+    "group":"MovementVelocity",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[836],
+    "tradeHashes":{
+      "2250533757":["(1-2)% increased Movement Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Movement Speed"
+  },
+  "JewelOfferingDuration":{
+    "affix":"of Offering",
+    "group":"OfferingDuration",
+    "level":1,
+    "modTags":["minion"],
+    "statOrder":[9356],
+    "tradeHashes":{
+      "2957407601":["Offering Skills have (15-25)% increased Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Offering Skills have (15-25)% increased Duration"
+  },
+  "JewelOfferingLife":{
+    "affix":"Sacrificial",
+    "group":"OfferingLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "statOrder":[9357],
+    "tradeHashes":{
+      "3787460122":["Offerings have (15-25)% increased Maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Offerings have (15-25)% increased Maximum Life"
+  },
+  "JewelParriedDebuffDuration":{
+    "affix":"of Unsettling",
+    "group":"ParriedDebuffDuration",
+    "level":1,
+    "modTags":["block"],
+    "statOrder":[9393],
+    "tradeHashes":{
+      "3401186585":["(10-15)% increased Parried Debuff Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-15)% increased Parried Debuff Duration"
+  },
+  "JewelParryDamage":{
+    "affix":"Parrying",
+    "group":"ParryDamage",
+    "level":1,
+    "modTags":["block","damage"],
+    "statOrder":[9385],
+    "tradeHashes":{
+      "1569159338":["(15-25)% increased Parry Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Parry Damage"
+  },
+  "JewelPhysicalDamage":{
+    "affix":"Sharpened",
+    "group":"PhysicalDamagePercent",
+    "level":1,
+    "modTags":["physical_damage","damage","physical"],
+    "statOrder":[1185],
+    "tradeHashes":{
+      "1310194496":["(5-15)% increased Global Physical Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Global Physical Damage"
+  },
+  "JewelPiercingProjectiles":{
+    "affix":"of Piercing",
+    "group":"ChanceToPierce",
+    "level":1,
+    "modTags":[],
+    "statOrder":[1068],
+    "tradeHashes":{
+      "2321178454":["(10-20)% chance to Pierce an Enemy"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% chance to Pierce an Enemy"
+  },
+  "JewelPinBuildup":{
+    "affix":"of Pinning",
+    "group":"PinBuildup",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7196],
+    "tradeHashes":{
+      "3473929743":["(10-20)% increased Pin Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Pin Buildup"
+  },
+  "JewelPlantDamage":{
+    "affix":"Overgrown",
+    "group":"PlantDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[9487],
+    "tradeHashes":{
+      "2518900926":["(5-15)% increased Damage with Plant Skills"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","strjewel","dexjewel","jewel"],
+    "weightVal":[1,1,1,0],
+    "1":"(5-15)% increased Damage with Plant Skills"
+  },
+  "JewelPoisonChance":{
+    "affix":"of Poisoning",
+    "group":"BaseChanceToPoison",
+    "level":1,
+    "modTags":["ailment"],
+    "statOrder":[2899],
+    "tradeHashes":{
+      "795138349":["(5-10)% chance to Poison on Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% chance to Poison on Hit"
+  },
+  "JewelPoisonDamage":{
+    "affix":"Venomous",
+    "group":"PoisonEffect",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "statOrder":[9500],
+    "tradeHashes":{
+      "2487305362":["(5-15)% increased Magnitude of Poison you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Magnitude of Poison you inflict"
+  },
+  "JewelPoisonDuration":{
+    "affix":"of Infection",
+    "group":"PoisonDuration",
+    "level":1,
+    "modTags":["poison","chaos","ailment"],
+    "statOrder":[2896],
+    "tradeHashes":{
+      "2011656677":["(5-10)% increased Poison Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Poison Duration"
+  },
+  "JewelPresenceRadius":{
+    "affix":"Iconic",
+    "group":"PresenceRadius",
+    "level":1,
+    "modTags":["aura"],
+    "statOrder":[1069],
+    "tradeHashes":{
+      "101878827":["(15-25)% increased Presence Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(15-25)% increased Presence Area of Effect"
+  },
+  "JewelProjectileDamage":{
+    "affix":"Archer's",
+    "group":"ProjectileDamage",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[1738],
+    "tradeHashes":{
+      "1839076647":["(5-15)% increased Projectile Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Projectile Damage"
+  },
+  "JewelProjectileDamageIfMeleeHitRecently":{
+    "affix":"Retreating",
+    "group":"ProjectileDamageIfMeleeHitRecently",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[9549],
+    "tradeHashes":{
+      "3596695232":["(10-20)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds"
+  },
+  "JewelProjectileSpeed":{
+    "affix":"Soaring",
+    "group":"ProjectileSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[897],
+    "tradeHashes":{
+      "3759663284":["(4-8)% increased Projectile Speed"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(4-8)% increased Projectile Speed"
+  },
+  "JewelQuarterstaffDamage":{
+    "affix":"Monk's",
+    "group":"IncreasedStaffDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1238],
+    "tradeHashes":{
+      "4045894391":["(6-16)% increased Damage with Quarterstaves"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Damage with Quarterstaves"
+  },
+  "JewelQuarterstaffFreezeBuildup":{
+    "affix":"of Glaciers",
+    "group":"QuarterstaffFreezeBuildup",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "statOrder":[9599],
+    "tradeHashes":{
+      "1697447343":["(10-20)% increased Freeze Buildup with Quarterstaves"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(10-20)% increased Freeze Buildup with Quarterstaves"
+  },
+  "JewelQuarterstaffSpeed":{
+    "affix":"of Sequencing",
+    "group":"StaffAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1320],
+    "tradeHashes":{
+      "3283482523":["(2-4)% increased Attack Speed with Quarterstaves"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Attack Speed with Quarterstaves"
+  },
+  "JewelQuiverEffect":{
+    "affix":"Fletching",
+    "group":"QuiverModifierEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[9607],
+    "tradeHashes":{
+      "1200678966":["(4-6)% increased bonuses gained from Equipped Quiver"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(4-6)% increased bonuses gained from Equipped Quiver"
+  },
+  "JewelRadiusAccuracy":{
+    "affix":"Accurate",
+    "group":"IncreasedAccuracyPercent",
+    "level":1,
+    "modTags":["attack"],
+    "nodeType":1,
+    "statOrder":[1332],
+    "tradeHashes":{
+      "533892981":["Small Passive Skills in Radius also grant (1-2)% increased Accuracy Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Accuracy Rating"
+  },
+  "JewelRadiusAilmentChance":{
+    "affix":"of Ailing",
+    "group":"AilmentChance",
+    "level":1,
+    "modTags":["ailment"],
+    "nodeType":2,
+    "statOrder":[4255],
+    "tradeHashes":{
+      "412709880":["Notable Passive Skills in Radius also grant (3-7)% increased chance to inflict Ailments"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(3-7)% increased chance to inflict Ailments"
+  },
+  "JewelRadiusAilmentEffect":{
+    "affix":"Acrimonious",
+    "group":"AilmentEffect",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "nodeType":2,
+    "statOrder":[4259],
+    "tradeHashes":{
+      "1321104829":["Notable Passive Skills in Radius also grant (3-7)% increased Magnitude of Ailments you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(3-7)% increased Magnitude of Ailments you inflict"
+  },
+  "JewelRadiusAilmentThreshold":{
+    "affix":"of Enduring",
+    "group":"IncreasedAilmentThreshold",
+    "level":1,
+    "modTags":["ailment"],
+    "nodeType":1,
+    "statOrder":[4266],
+    "tradeHashes":{
+      "3409275777":["Small Passive Skills in Radius also grant (2-3)% increased Elemental Ailment Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Elemental Ailment Threshold"
+  },
+  "JewelRadiusAilmentThresholdfromEnergyShield":{
+    "affix":"of Inuring",
+    "group":"AilmentThresholdfromEnergyShield",
+    "level":1,
+    "modTags":["ailment"],
+    "nodeType":1,
+    "statOrder":[4265],
+    "tradeHashes":{
+      "693237939":["Small Passive Skills in Radius also grant Gain additional Ailment Threshold equal to (1-2)% of maximum Energy Shield"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain additional Ailment Threshold equal to (1-2)% of maximum Energy Shield"
+  },
+  "JewelRadiusAreaofEffect":{
+    "affix":"Blasting",
+    "group":"AreaOfEffect",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[1630],
+    "tradeHashes":{
+      "3391917254":["Notable Passive Skills in Radius also grant (2-3)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(2-3)% increased Area of Effect"
+  },
+  "JewelRadiusArmour":{
+    "affix":"Armoured",
+    "group":"GlobalPhysicalDamageReductionRatingPercent",
+    "level":1,
+    "modTags":["defences","armour"],
+    "nodeType":1,
+    "statOrder":[882],
+    "tradeHashes":{
+      "3858398337":["Small Passive Skills in Radius also grant (2-3)% increased Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Armour"
+  },
+  "JewelRadiusArmourBreak":{
+    "affix":"Shattering",
+    "group":"ArmourBreak",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[4407],
+    "tradeHashes":{
+      "4089835882":["Small Passive Skills in Radius also grant Break (1-2)% increased Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Break (1-2)% increased Armour"
+  },
+  "JewelRadiusArmourBreakDuration":{
+    "affix":"Resonating",
+    "group":"ArmourBreakDuration",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[4409],
+    "tradeHashes":{
+      "504915064":["Notable Passive Skills in Radius also grant (5-10)% increased Armour Break Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Armour Break Duration"
+  },
+  "JewelRadiusAttackCriticalChance":{
+    "affix":"of Deadliness",
+    "group":"AttackCriticalStrikeChance",
+    "level":1,
+    "modTags":["attack","critical"],
+    "nodeType":2,
+    "statOrder":[977],
+    "tradeHashes":{
+      "3865605585":["Notable Passive Skills in Radius also grant (3-7)% increased Critical Hit Chance for Attacks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Critical Hit Chance for Attacks"
+  },
+  "JewelRadiusAttackCriticalDamage":{
+    "affix":"of Demolishing",
+    "group":"AttackCriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["damage","attack","critical"],
+    "nodeType":2,
+    "statOrder":[981],
+    "tradeHashes":{
+      "1352561456":["Notable Passive Skills in Radius also grant (5-10)% increased Critical Damage Bonus for Attack Damage"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Critical Damage Bonus for Attack Damage"
+  },
+  "JewelRadiusAttackDamage":{
+    "affix":"Combat",
+    "group":"AttackDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1156],
+    "tradeHashes":{
+      "1426522529":["Small Passive Skills in Radius also grant (1-2)% increased Attack Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","dex_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(1-2)% increased Attack Damage"
+  },
+  "JewelRadiusAttackSpeed":{
+    "affix":"of Alacrity",
+    "group":"IncreasedAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[985],
+    "tradeHashes":{
+      "2822644689":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Attack Speed"
+  },
+  "JewelRadiusAuraEffect":{
+    "affix":"Commanding",
+    "group":"AuraEffectForJewel",
+    "level":1,
+    "modTags":["aura"],
+    "nodeType":2,
+    "statOrder":[2574],
+    "tradeHashes":{
+      "3243034867":["Notable Passive Skills in Radius also grant Aura Skills have (1-3)% increased Magnitudes"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"Aura Skills have (1-3)% increased Magnitudes"
+  },
+  "JewelRadiusAxeDamage":{
+    "affix":"Sinister",
+    "group":"IncreasedAxeDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1233],
+    "tradeHashes":{
+      "2508922991":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Axes"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-3)% increased Damage with Axes"
+  },
+  "JewelRadiusAxeSpeed":{
+    "affix":"of Cleaving",
+    "group":"AxeAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1319],
+    "tradeHashes":{
+      "2433102767":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Axes"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Attack Speed with Axes"
+  },
+  "JewelRadiusBannerArea":{
+    "affix":"Rallying",
+    "group":"BannerArea",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[4629],
+    "tradeHashes":{
+      "4142814612":["Small Passive Skills in Radius also grant Banner Skills have (2-3)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Banner Skills have (2-3)% increased Area of Effect"
+  },
+  "JewelRadiusBannerDuration":{
+    "affix":"of Inspiring",
+    "group":"BannerDuration",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[4631],
+    "tradeHashes":{
+      "2690740379":["Small Passive Skills in Radius also grant Banner Skills have (3-4)% increased Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Banner Skills have (3-4)% increased Duration"
+  },
+  "JewelRadiusBannerValourGained":{
+    "affix":"of Valour",
+    "group":"BannerValourGained",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[6913],
+    "tradeHashes":{
+      "2907381231":["Notable Passive Skills in Radius also grant (8-12)% increased Glory generation for Banner Skills"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(8-12)% increased Glory generation for Banner Skills"
+  },
+  "JewelRadiusBleedingChance":{
+    "affix":"Bleeding",
+    "group":"BaseChanceToBleed",
+    "level":1,
+    "modTags":["bleed","physical","ailment"],
+    "nodeType":1,
+    "statOrder":[4671],
+    "tradeHashes":{
+      "944643028":["Small Passive Skills in Radius also grant 1% chance to inflict Bleeding on Hit"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% chance to inflict Bleeding on Hit"
+  },
+  "JewelRadiusBleedingDuration":{
+    "affix":"of Haemophilia",
+    "group":"BleedDuration",
+    "level":1,
+    "modTags":["bleed","physical","attack","ailment"],
+    "nodeType":2,
+    "statOrder":[4660],
+    "tradeHashes":{
+      "1505023559":["Notable Passive Skills in Radius also grant (3-7)% increased Bleeding Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Bleeding Duration"
+  },
+  "JewelRadiusBleedingEffect":{
+    "affix":"Haemorrhaging",
+    "group":"BleedDotMultiplier",
+    "level":1,
+    "modTags":["bleed","physical_damage","damage","physical","attack","ailment"],
+    "nodeType":2,
+    "statOrder":[4807],
+    "tradeHashes":{
+      "391602279":["Notable Passive Skills in Radius also grant (3-7)% increased Magnitude of Bleeding you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Magnitude of Bleeding you inflict"
+  },
+  "JewelRadiusBlindEffect":{
+    "affix":"Stifling",
+    "group":"BlindEffect",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[4926],
+    "tradeHashes":{
+      "2912416697":["Notable Passive Skills in Radius also grant (3-5)% increased Blind Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Blind Effect"
+  },
+  "JewelRadiusBlindonHit":{
+    "affix":"of Blinding",
+    "group":"AttacksBlindOnHitChance",
+    "level":1,
+    "modTags":["attack"],
+    "nodeType":1,
+    "statOrder":[4588],
+    "tradeHashes":{
+      "2610562860":["Small Passive Skills in Radius also grant 1% chance to Blind Enemies on Hit with Attacks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% chance to Blind Enemies on Hit with Attacks"
+  },
+  "JewelRadiusBlock":{
+    "affix":"Protecting",
+    "group":"IncreasedBlockChance",
+    "level":1,
+    "modTags":["block"],
+    "nodeType":2,
+    "statOrder":[1133],
+    "tradeHashes":{
+      "3821543413":["Notable Passive Skills in Radius also grant (1-3)% increased Block chance"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-3)% increased Block chance"
+  },
+  "JewelRadiusBowAccuracyRating":{
+    "affix":"Precise",
+    "group":"BowIncreasedAccuracyRating",
+    "level":1,
+    "modTags":["attack"],
+    "nodeType":1,
+    "statOrder":[1341],
+    "tradeHashes":{
+      "1285594161":["Small Passive Skills in Radius also grant (1-2)% increased Accuracy Rating with Bows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Accuracy Rating with Bows"
+  },
+  "JewelRadiusBowDamage":{
+    "affix":"Perforating",
+    "group":"IncreasedBowDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1253],
+    "tradeHashes":{
+      "945774314":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Bows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage with Bows"
+  },
+  "JewelRadiusBowSpeed":{
+    "affix":"of Nocking",
+    "group":"BowAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1324],
+    "tradeHashes":{
+      "3641543553":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Bows"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Attack Speed with Bows"
+  },
+  "JewelRadiusCastSpeed":{
+    "affix":"of Enchanting",
+    "group":"IncreasedCastSpeed",
+    "level":1,
+    "modTags":["caster_speed","caster","speed"],
+    "nodeType":2,
+    "statOrder":[987],
+    "tradeHashes":{
+      "1022759479":["Notable Passive Skills in Radius also grant (1-2)% increased Cast Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Cast Speed"
+  },
+  "JewelRadiusChainFromTerrain":{
+    "affix":"of Chaining",
+    "group":"ChainFromTerrain",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[9545],
+    "tradeHashes":{
+      "2334956771":["Notable Passive Skills in Radius also grant Projectiles have (1-2)% chance to Chain an additional time from terrain"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Projectiles have (1-2)% chance to Chain an additional time from terrain"
+  },
+  "JewelRadiusChaosDamage":{
+    "affix":"Chaotic",
+    "group":"IncreasedChaosDamage",
+    "level":1,
+    "modTags":["chaos_damage","damage","chaos"],
+    "nodeType":1,
+    "statOrder":[876],
+    "tradeHashes":{
+      "1309799717":["Small Passive Skills in Radius also grant (1-2)% increased Chaos Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Chaos Damage"
+  },
+  "JewelRadiusCharmChargesGained":{
+    "affix":"of the Thicker",
+    "group":"CharmChargesGained",
+    "level":1,
+    "modTags":["charm"],
+    "nodeType":2,
+    "statOrder":[5602],
+    "tradeHashes":{
+      "2320654813":["Notable Passive Skills in Radius also grant (3-7)% increased Charm Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Charm Charges gained"
+  },
+  "JewelRadiusCharmDamageWhileUsing":{
+    "affix":"Verdant",
+    "group":"CharmDamageWhileUsing",
+    "level":1,
+    "modTags":["charm","damage"],
+    "nodeType":1,
+    "statOrder":[6019],
+    "tradeHashes":{
+      "3752589831":["Small Passive Skills in Radius also grant (2-3)% increased Damage while you have an active Charm"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage while you have an active Charm"
+  },
+  "JewelRadiusCharmDuration":{
+    "affix":"of the Woodland",
+    "group":"CharmDuration",
+    "level":1,
+    "modTags":["charm"],
+    "nodeType":1,
+    "statOrder":[900],
+    "tradeHashes":{
+      "3088348485":["Small Passive Skills in Radius also grant (1-2)% increased Charm Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Charm Effect Duration"
+  },
+  "JewelRadiusChillDuration":{
+    "affix":"of Frost",
+    "group":"IncreasedChillDuration",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "nodeType":2,
+    "statOrder":[1612],
+    "tradeHashes":{
+      "61644361":["Notable Passive Skills in Radius also grant (6-12)% increased Chill Duration on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-12)% increased Chill Duration on Enemies"
+  },
+  "JewelRadiusColdDamage":{
+    "affix":"Chilling",
+    "group":"ColdDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","cold"],
+    "nodeType":1,
+    "statOrder":[874],
+    "tradeHashes":{
+      "2442527254":["Small Passive Skills in Radius also grant (1-2)% increased Cold Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Cold Damage"
+  },
+  "JewelRadiusColdPenetration":{
+    "affix":"Numbing",
+    "group":"ColdResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","cold"],
+    "nodeType":1,
+    "statOrder":[2725],
+    "tradeHashes":{
+      "1896066427":["Small Passive Skills in Radius also grant Damage Penetrates (1-2)% Cold Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (1-2)% Cold Resistance"
+  },
+  "JewelRadiusCompanionDamage":{
+    "affix":"Kinship",
+    "group":"CompanionDamage",
+    "level":1,
+    "modTags":["minion_damage","damage","minion"],
+    "nodeType":1,
+    "statOrder":[5719],
+    "tradeHashes":{
+      "1494950893":["Small Passive Skills in Radius also grant Companions deal (2-3)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Companions deal (2-3)% increased Damage"
+  },
+  "JewelRadiusCompanionLife":{
+    "affix":"Kindred",
+    "group":"CompanionLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "nodeType":1,
+    "statOrder":[5723],
+    "tradeHashes":{
+      "2638756573":["Small Passive Skills in Radius also grant Companions have (2-3)% increased maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Companions have (2-3)% increased maximum Life"
+  },
+  "JewelRadiusCooldownSpeed":{
+    "affix":"of Chronomancy",
+    "group":"GlobalCooldownRecovery",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[4103],
+    "tradeHashes":{
+      "2149603090":["Notable Passive Skills in Radius also grant (1-3)% increased Cooldown Recovery Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-3)% increased Cooldown Recovery Rate"
+  },
+  "JewelRadiusCorpses":{
+    "affix":"Necromantic",
+    "group":"DamageIfConsumedCorpse",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[3901],
+    "tradeHashes":{
+      "1892122971":["Small Passive Skills in Radius also grant (2-3)% increased Damage if you have Consumed a Corpse Recently"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage if you have Consumed a Corpse Recently"
+  },
+  "JewelRadiusCriticalAilmentEffect":{
+    "affix":"Rancorous",
+    "group":"CriticalAilmentEffect",
+    "level":1,
+    "modTags":["damage","critical","ailment"],
+    "nodeType":2,
+    "statOrder":[5815],
+    "tradeHashes":{
+      "4092130601":["Notable Passive Skills in Radius also grant (5-10)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-10)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"
+  },
+  "JewelRadiusCriticalChance":{
+    "affix":"of Annihilation",
+    "group":"CriticalStrikeChance",
+    "level":1,
+    "modTags":["critical"],
+    "nodeType":2,
+    "statOrder":[976],
+    "tradeHashes":{
+      "2077117738":["Notable Passive Skills in Radius also grant (3-7)% increased Critical Hit Chance"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Critical Hit Chance"
+  },
+  "JewelRadiusCriticalDamage":{
+    "affix":"of Potency",
+    "group":"CriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["damage","critical"],
+    "nodeType":2,
+    "statOrder":[980],
+    "tradeHashes":{
+      "2359002191":["Notable Passive Skills in Radius also grant (5-10)% increased Critical Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Critical Damage Bonus"
+  },
+  "JewelRadiusCrossbowDamage":{
+    "affix":"Bolting",
+    "group":"CrossbowDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[3948],
+    "tradeHashes":{
+      "517664839":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Crossbows"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage with Crossbows"
+  },
+  "JewelRadiusCrossbowReloadSpeed":{
+    "affix":"of Reloading",
+    "group":"CrossbowReloadSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[9736],
+    "tradeHashes":{
+      "3856744003":["Notable Passive Skills in Radius also grant (5-7)% increased Crossbow Reload Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-7)% increased Crossbow Reload Speed"
+  },
+  "JewelRadiusCrossbowSpeed":{
+    "affix":"of Rapidity",
+    "group":"CrossbowSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[3952],
+    "tradeHashes":{
+      "715957346":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Crossbows"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Attack Speed with Crossbows"
+  },
+  "JewelRadiusCurseArea":{
+    "affix":"Expanding",
+    "group":"CurseAreaOfEffect",
+    "level":1,
+    "modTags":["caster","curse"],
+    "nodeType":2,
+    "statOrder":[1950],
+    "tradeHashes":{
+      "3859848445":["Notable Passive Skills in Radius also grant (3-6)% increased Area of Effect of Curses"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-6)% increased Area of Effect of Curses"
+  },
+  "JewelRadiusCurseDuration":{
+    "affix":"of Continuation",
+    "group":"BaseCurseDuration",
+    "level":1,
+    "modTags":["caster","curse"],
+    "nodeType":1,
+    "statOrder":[1540],
+    "tradeHashes":{
+      "1087108135":["Small Passive Skills in Radius also grant (2-4)% increased Curse Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Curse Duration"
+  },
+  "JewelRadiusCurseEffect":{
+    "affix":"Hexing",
+    "group":"CurseEffectivenessForJewel",
+    "level":1,
+    "modTags":["caster","curse"],
+    "nodeType":2,
+    "statOrder":[2376],
+    "tradeHashes":{
+      "2770044702":["Notable Passive Skills in Radius also grant 1% increased Curse Magnitudes"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% increased Curse Magnitudes"
+  },
+  "JewelRadiusDaggerCriticalChance":{
+    "affix":"of Backstabbing",
+    "group":"CritChanceWithDaggerForJewel",
+    "level":1,
+    "modTags":["attack","critical"],
+    "nodeType":2,
+    "statOrder":[1363],
+    "tradeHashes":{
+      "4260437915":["Notable Passive Skills in Radius also grant (3-7)% increased Critical Hit Chance with Daggers"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(3-7)% increased Critical Hit Chance with Daggers"
+  },
+  "JewelRadiusDaggerDamage":{
+    "affix":"Lethal",
+    "group":"IncreasedDaggerDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1245],
+    "tradeHashes":{
+      "1441232665":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Daggers"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-3)% increased Damage with Daggers"
+  },
+  "JewelRadiusDaggerSpeed":{
+    "affix":"of Slicing",
+    "group":"DaggerAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1322],
+    "tradeHashes":{
+      "2172391939":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Daggers"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Attack Speed with Daggers"
+  },
+  "JewelRadiusDamageVsRareOrUnique":{
+    "affix":"Slaying",
+    "group":"DamageVsRareOrUnique",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[2926],
+    "tradeHashes":{
+      "147764878":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Hits against Rare and Unique Enemies"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage with Hits against Rare and Unique Enemies"
+  },
+  "JewelRadiusDamagefromMana":{
+    "affix":"of Mind",
+    "group":"DamageRemovedFromManaBeforeLife",
+    "level":1,
+    "modTags":["resource","life","mana"],
+    "nodeType":2,
+    "statOrder":[2472],
+    "tradeHashes":{
+      "2709646369":["Notable Passive Skills in Radius also grant 1% of Damage is taken from Mana before Life"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% of Damage is taken from Mana before Life"
+  },
+  "JewelRadiusDamagevsArmourBrokenEnemies":{
+    "affix":"Exploiting",
+    "group":"DamagevsArmourBrokenEnemies",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[5944],
+    "tradeHashes":{
+      "1834658952":["Small Passive Skills in Radius also grant (2-4)% increased Damage against Enemies with Fully Broken Armour"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Damage against Enemies with Fully Broken Armour"
+  },
+  "JewelRadiusDamagingAilmentDuration":{
+    "affix":"of Suffusion",
+    "group":"DamagingAilmentDuration",
+    "level":1,
+    "modTags":["ailment"],
+    "nodeType":2,
+    "statOrder":[6061],
+    "tradeHashes":{
+      "2272980012":["Notable Passive Skills in Radius also grant (3-5)% increased Duration of Damaging Ailments on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(3-5)% increased Duration of Damaging Ailments on Enemies"
+  },
+  "JewelRadiusDazeBuildup":{
+    "affix":"of Dazing",
+    "group":"DazeBuildup",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[4669],
+    "tradeHashes":{
+      "4258000627":["Small Passive Skills in Radius also grant 1% chance to Daze on Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% chance to Daze on Hit"
+  },
+  "JewelRadiusDebuffExpiry":{
+    "affix":"of Diminishing",
+    "group":"DebuffTimePassed",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[6095],
+    "tradeHashes":{
+      "2256120736":["Notable Passive Skills in Radius also grant Debuffs on you expire (3-5)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","dex_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"Debuffs on you expire (3-5)% faster"
+  },
+  "JewelRadiusElementalAilmentDuration":{
+    "affix":"of Suffering",
+    "group":"ElementalAilmentDuration",
+    "level":1,
+    "modTags":["elemental","fire","cold","lightning","ailment"],
+    "nodeType":2,
+    "statOrder":[7267],
+    "tradeHashes":{
+      "1323216174":["Notable Passive Skills in Radius also grant (3-5)% increased Duration of Ignite, Shock and Chill on Enemies"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Duration of Ignite, Shock and Chill on Enemies"
+  },
+  "JewelRadiusElementalDamage":{
+    "affix":"Prismatic",
+    "group":"ElementalDamagePercent",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire","cold","lightning"],
+    "nodeType":1,
+    "statOrder":[1726],
+    "tradeHashes":{
+      "3222402650":["Small Passive Skills in Radius also grant (1-2)% increased Elemental Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","dex_radius_jewel","jewel"],
+    "weightVal":[1,1,1,0],
+    "1":"(1-2)% increased Elemental Damage"
+  },
+  "JewelRadiusEmpoweredAttackDamage":{
+    "affix":"Empowering",
+    "group":"ExertedAttackDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[6319],
+    "tradeHashes":{
+      "3395186672":["Small Passive Skills in Radius also grant Empowered Attacks deal (2-3)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Empowered Attacks deal (2-3)% increased Damage"
+  },
+  "JewelRadiusEnergy":{
+    "affix":"of Generation",
+    "group":"EnergyGeneration",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[6407],
+    "tradeHashes":{
+      "2849546516":["Notable Passive Skills in Radius also grant Meta Skills gain (2-4)% increased Energy"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Meta Skills gain (2-4)% increased Energy"
+  },
+  "JewelRadiusEnergyShield":{
+    "affix":"Shimmering",
+    "group":"GlobalEnergyShieldPercent",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "nodeType":1,
+    "statOrder":[886],
+    "tradeHashes":{
+      "3665922113":["Small Passive Skills in Radius also grant (2-3)% increased maximum Energy Shield"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased maximum Energy Shield"
+  },
+  "JewelRadiusEnergyShieldDelay":{
+    "affix":"Serene",
+    "group":"EnergyShieldDelay",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "nodeType":2,
+    "statOrder":[1033],
+    "tradeHashes":{
+      "3394832998":["Notable Passive Skills in Radius also grant (5-7)% faster start of Energy Shield Recharge"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-7)% faster start of Energy Shield Recharge"
+  },
+  "JewelRadiusEnergyShieldRecharge":{
+    "affix":"Fevered",
+    "group":"EnergyShieldRegeneration",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "nodeType":1,
+    "statOrder":[1032],
+    "tradeHashes":{
+      "1552666713":["Small Passive Skills in Radius also grant (2-3)% increased Energy Shield Recharge Rate"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-3)% increased Energy Shield Recharge Rate"
+  },
+  "JewelRadiusEvasion":{
+    "affix":"Evasive",
+    "group":"GlobalEvasionRatingPercent",
+    "level":1,
+    "modTags":["defences","evasion"],
+    "nodeType":1,
+    "statOrder":[884],
+    "tradeHashes":{
+      "1994296038":["Small Passive Skills in Radius also grant (2-3)% increased Evasion Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Evasion Rating"
+  },
+  "JewelRadiusFasterAilments":{
+    "affix":"of Decrepifying",
+    "group":"FasterAilmentDamageForJewel",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "nodeType":2,
+    "statOrder":[6064],
+    "tradeHashes":{
+      "3173882956":["Notable Passive Skills in Radius also grant Damaging Ailments deal damage (2-3)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"Damaging Ailments deal damage (2-3)% faster"
+  },
+  "JewelRadiusFireDamage":{
+    "affix":"Flaming",
+    "group":"FireDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire"],
+    "nodeType":1,
+    "statOrder":[873],
+    "tradeHashes":{
+      "139889694":["Small Passive Skills in Radius also grant (1-2)% increased Fire Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Fire Damage"
+  },
+  "JewelRadiusFirePenetration":{
+    "affix":"Searing",
+    "group":"FireResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire"],
+    "nodeType":1,
+    "statOrder":[2724],
+    "tradeHashes":{
+      "1432756708":["Small Passive Skills in Radius also grant Damage Penetrates (1-2)% Fire Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (1-2)% Fire Resistance"
+  },
+  "JewelRadiusFlailCriticalChance":{
+    "affix":"of Thrashing",
+    "group":"FlailCriticalChance",
+    "level":1,
+    "modTags":["attack","critical"],
+    "nodeType":2,
+    "statOrder":[3942],
+    "tradeHashes":{
+      "1441673288":["Notable Passive Skills in Radius also grant (3-7)% increased Critical Hit Chance with Flails"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(3-7)% increased Critical Hit Chance with Flails"
+  },
+  "JewelRadiusFlailDamage":{
+    "affix":"Flailing",
+    "group":"FlailDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[3937],
+    "tradeHashes":{
+      "2482383489":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Flails"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Damage with Flails"
+  },
+  "JewelRadiusFlaskChargesGained":{
+    "affix":"of Gathering",
+    "group":"IncreasedFlaskChargesGained",
+    "level":1,
+    "modTags":["flask"],
+    "nodeType":2,
+    "statOrder":[6637],
+    "tradeHashes":{
+      "2066964205":["Notable Passive Skills in Radius also grant (3-5)% increased Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Flask Charges gained"
+  },
+  "JewelRadiusFlaskDuration":{
+    "affix":"of Prolonging",
+    "group":"FlaskDuration",
+    "level":1,
+    "modTags":["flask"],
+    "nodeType":1,
+    "statOrder":[902],
+    "tradeHashes":{
+      "1773308808":["Small Passive Skills in Radius also grant (1-2)% increased Flask Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Flask Effect Duration"
+  },
+  "JewelRadiusFocusEnergyShield":{
+    "affix":"Focusing",
+    "group":"FocusEnergyShield",
+    "level":1,
+    "modTags":["defences","energy_shield"],
+    "nodeType":2,
+    "statOrder":[6423],
+    "tradeHashes":{
+      "3419203492":["Notable Passive Skills in Radius also grant (15-25)% increased Energy Shield from Equipped Focus"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Energy Shield from Equipped Focus"
+  },
+  "JewelRadiusForkingProjectiles":{
+    "affix":"of Forking",
+    "group":"ForkingProjectiles",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[5512],
+    "tradeHashes":{
+      "4258720395":["Notable Passive Skills in Radius also grant Projectiles have (5-7)% chance for an additional Projectile when Forking"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Projectiles have (5-7)% chance for an additional Projectile when Forking"
+  },
+  "JewelRadiusFreezeAmount":{
+    "affix":"of Freezing",
+    "group":"FreezeDamageIncrease",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "nodeType":2,
+    "statOrder":[1057],
+    "tags":["no_fire_spell_mods","no_lightning_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "1087531620":["Notable Passive Skills in Radius also grant (5-10)% increased Freeze Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Freeze Buildup"
+  },
+  "JewelRadiusFreezeThreshold":{
+    "affix":"of Snowbreathing",
+    "group":"FreezeThreshold",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "nodeType":1,
+    "statOrder":[2984],
+    "tradeHashes":{
+      "830345042":["Small Passive Skills in Radius also grant (2-4)% increased Freeze Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Freeze Threshold"
+  },
+  "JewelRadiusHazardDamage":{
+    "affix":"Hazardous",
+    "group":"HazardDamage",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[6980],
+    "tradeHashes":{
+      "255840549":["Small Passive Skills in Radius also grant (2-3)% increased Hazard Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Hazard Damage"
+  },
+  "JewelRadiusHeraldDamage":{
+    "affix":"Heralding",
+    "group":"HeraldDamage",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[6024],
+    "tradeHashes":{
+      "3065378291":["Small Passive Skills in Radius also grant Herald Skills deal (2-4)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Herald Skills deal (2-4)% increased Damage"
+  },
+  "JewelRadiusIgniteChance":{
+    "affix":"of Ignition",
+    "group":"IgniteChanceIncrease",
+    "level":1,
+    "modTags":["elemental","fire","ailment"],
+    "nodeType":1,
+    "statOrder":[1055],
+    "tags":["no_cold_spell_mods","no_lightning_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "394473632":["Small Passive Skills in Radius also grant (2-3)% increased Flammability Magnitude"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(2-3)% increased Flammability Magnitude"
+  },
+  "JewelRadiusIgniteEffect":{
+    "affix":"Burning",
+    "group":"IgniteEffect",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","fire","ailment"],
+    "nodeType":2,
+    "statOrder":[1077],
+    "tradeHashes":{
+      "253641217":["Notable Passive Skills in Radius also grant (3-7)% increased Ignite Magnitude"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(3-7)% increased Ignite Magnitude"
+  },
+  "JewelRadiusIncColdFreToLightning":{
+    "affix":"Wrath",
+    "group":"IncreasedColdFreToLightning",
+    "level":1,
+    "modTags":["elemental","fire","cold","lightning"],
+    "statOrder":[7788,7788.1],
+    "tradeHashes":{
+      "895564377":["Increases and Reductions to"," Cold and Fire Damage in Radius are transformed to apply to Lightning Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Increases and Reductions to",
+    "2":" Cold and Fire Damage in Radius are transformed to apply to Lightning Damage"
+  },
+  "JewelRadiusIncLightningColdToFire":{
+    "affix":"Anger",
+    "group":"IncreasedLightningColdToFire",
+    "level":1,
+    "modTags":["elemental","fire","cold","lightning"],
+    "statOrder":[7789,7789.1],
+    "tradeHashes":{
+      "1400313697":["Increases and Reductions to"," Cold and Lightning Damage in Radius are transformed to apply to Fire Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Increases and Reductions to",
+    "2":" Cold and Lightning Damage in Radius are transformed to apply to Fire Damage"
+  },
+  "JewelRadiusIncLightningFireToCold":{
+    "affix":"Hatred",
+    "group":"IncreasedLightningFireToCold",
+    "level":1,
+    "modTags":["elemental","fire","cold","lightning"],
+    "statOrder":[7790,7790.1],
+    "tradeHashes":{
+      "3368921525":["Increases and Reductions to"," Fire and Lightning Damage in Radius are transformed to apply to Cold Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"Increases and Reductions to",
+    "2":" Fire and Lightning Damage in Radius are transformed to apply to Cold Damage"
+  },
+  "JewelRadiusIncisionChance":{
+    "affix":"Incise",
+    "group":"IncisionChance",
+    "level":1,
+    "modTags":["bleed","physical","ailment"],
+    "nodeType":1,
+    "statOrder":[5550],
+    "tradeHashes":{
+      "318092306":["Small Passive Skills in Radius also grant (3-5)% chance for Attack Hits to apply Incision"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% chance for Attack Hits to apply Incision"
+  },
+  "JewelRadiusIncreasedDuration":{
+    "affix":"of Lengthening",
+    "group":"SkillEffectDuration",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[1645],
+    "tradeHashes":{
+      "3113764475":["Notable Passive Skills in Radius also grant (3-5)% increased Skill Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(3-5)% increased Skill Effect Duration"
+  },
+  "JewelRadiusKnockback":{
+    "affix":"of Fending",
+    "group":"KnockbackDistance",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[1744],
+    "tradeHashes":{
+      "2976476845":["Notable Passive Skills in Radius also grant (3-7)% increased Knockback Distance"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Knockback Distance"
+  },
+  "JewelRadiusLargeSize":{
+    "affix":"Grand",
+    "group":"JewelRadiusLargerRadius",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7760],
+    "tradeHashes":{
+      "3891355829":["Upgrades Radius to Large"]
+    },
+    "type":"Prefix",
+    "weightKey":["radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Upgrades Radius to Large"
+  },
+  "JewelRadiusLifeCost":{
+    "affix":"of Sacrifice",
+    "group":"LifeCost",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":2,
+    "statOrder":[4743],
+    "tradeHashes":{
+      "3386297724":["Notable Passive Skills in Radius also grant (2-3)% of Skill Mana Costs Converted to Life Costs"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% of Skill Mana Costs Converted to Life Costs"
+  },
+  "JewelRadiusLifeFlaskChargeGen":{
+    "affix":"of Pathfinding",
+    "group":"LifeFlaskChargePercentGeneration",
+    "level":1,
+    "modTags":["flask"],
+    "nodeType":2,
+    "statOrder":[7434],
+    "tradeHashes":{
+      "942519401":["Notable Passive Skills in Radius also grant (5-10)% increased Life Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Life Flask Charges gained"
+  },
+  "JewelRadiusLifeFlaskRecovery":{
+    "affix":"of Recovery",
+    "group":"GlobalFlaskLifeRecovery",
+    "level":1,
+    "modTags":["flask","resource","life"],
+    "nodeType":1,
+    "statOrder":[1794],
+    "tradeHashes":{
+      "980177976":["Small Passive Skills in Radius also grant (2-3)% increased Life Recovery from Flasks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Life Recovery from Flasks"
+  },
+  "JewelRadiusLifeLeech":{
+    "affix":"of Frenzy",
+    "group":"LifeLeechAmount",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":1,
+    "statOrder":[1895],
+    "tradeHashes":{
+      "3666476747":["Small Passive Skills in Radius also grant (2-3)% increased amount of Life Leeched"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased amount of Life Leeched"
+  },
+  "JewelRadiusLifeRecoup":{
+    "affix":"of Infusion",
+    "group":"LifeRecoupForJewel",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":2,
+    "statOrder":[1037],
+    "tradeHashes":{
+      "3669820740":["Notable Passive Skills in Radius also grant 1% of Damage taken Recouped as Life"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% of Damage taken Recouped as Life"
+  },
+  "JewelRadiusLifeRegeneration":{
+    "affix":"of Regeneration",
+    "group":"LifeRegenerationRate",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":2,
+    "statOrder":[1036],
+    "tradeHashes":{
+      "1185341308":["Notable Passive Skills in Radius also grant (3-5)% increased Life Regeneration rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Life Regeneration rate"
+  },
+  "JewelRadiusLifeonKill":{
+    "affix":"of Success",
+    "group":"MaximumLifeOnKillPercent",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":2,
+    "statOrder":[1511],
+    "tradeHashes":{
+      "2726713579":["Notable Passive Skills in Radius also grant Recover 1% of maximum Life on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Recover 1% of maximum Life on Kill"
+  },
+  "JewelRadiusLightningDamage":{
+    "affix":"Humming",
+    "group":"LightningDamagePercentage",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","lightning"],
+    "nodeType":1,
+    "statOrder":[875],
+    "tradeHashes":{
+      "2768899959":["Small Passive Skills in Radius also grant (1-2)% increased Lightning Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Lightning Damage"
+  },
+  "JewelRadiusLightningPenetration":{
+    "affix":"Surging",
+    "group":"LightningResistancePenetration",
+    "level":1,
+    "modTags":["elemental_damage","damage","elemental","lightning"],
+    "nodeType":1,
+    "statOrder":[2726],
+    "tradeHashes":{
+      "868556494":["Small Passive Skills in Radius also grant Damage Penetrates (1-2)% Lightning Resistance"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Damage Penetrates (1-2)% Lightning Resistance"
+  },
+  "JewelRadiusMaceDamage":{
+    "affix":"Beating",
+    "group":"IncreasedMaceDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1249],
+    "tradeHashes":{
+      "1852184471":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Maces"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Damage with Maces"
+  },
+  "JewelRadiusMaceStun":{
+    "affix":"of Thumping",
+    "group":"MaceStun",
+    "level":1,
+    "modTags":["attack"],
+    "nodeType":2,
+    "statOrder":[7946],
+    "tradeHashes":{
+      "2392824305":["Notable Passive Skills in Radius also grant (6-12)% increased Stun Buildup with Maces"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-12)% increased Stun Buildup with Maces"
+  },
+  "JewelRadiusManaFlaskChargeGen":{
+    "affix":"of Fountains",
+    "group":"ManaFlaskChargePercentGeneration",
+    "level":1,
+    "modTags":["flask"],
+    "nodeType":2,
+    "statOrder":[7979],
+    "tradeHashes":{
+      "3171212276":["Notable Passive Skills in Radius also grant (5-10)% increased Mana Flask Charges gained"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Mana Flask Charges gained"
+  },
+  "JewelRadiusManaFlaskRecovery":{
+    "affix":"of Quenching",
+    "group":"FlaskManaRecovery",
+    "level":1,
+    "modTags":["flask","resource","mana"],
+    "nodeType":1,
+    "statOrder":[1795],
+    "tradeHashes":{
+      "3774951878":["Small Passive Skills in Radius also grant (1-2)% increased Mana Recovery from Flasks"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Mana Recovery from Flasks"
+  },
+  "JewelRadiusManaLeech":{
+    "affix":"of Thirsting",
+    "group":"ManaLeechAmount",
+    "level":1,
+    "modTags":["resource","mana"],
+    "nodeType":1,
+    "statOrder":[1897],
+    "tradeHashes":{
+      "3700202631":["Small Passive Skills in Radius also grant (1-2)% increased amount of Mana Leeched"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased amount of Mana Leeched"
+  },
+  "JewelRadiusManaRegeneration":{
+    "affix":"of Energy",
+    "group":"ManaRegeneration",
+    "level":1,
+    "modTags":["resource","mana"],
+    "nodeType":1,
+    "statOrder":[1043],
+    "tradeHashes":{
+      "3256879910":["Small Passive Skills in Radius also grant (1-2)% increased Mana Regeneration Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Mana Regeneration Rate"
+  },
+  "JewelRadiusManaonKill":{
+    "affix":"of Osmosis",
+    "group":"ManaGainedOnKillPercentage",
+    "level":1,
+    "modTags":["resource","mana"],
+    "nodeType":2,
+    "statOrder":[1517],
+    "tradeHashes":{
+      "525523040":["Notable Passive Skills in Radius also grant Recover 1% of maximum Mana on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Recover 1% of maximum Mana on Kill"
+  },
+  "JewelRadiusMarkCastSpeed":{
+    "affix":"of Targeting",
+    "group":"MarkCastSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":1,
+    "statOrder":[1946],
+    "tradeHashes":{
+      "2202308025":["Small Passive Skills in Radius also grant Mark Skills have (2-3)% increased Use Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Mark Skills have (2-3)% increased Use Speed"
+  },
+  "JewelRadiusMarkDuration":{
+    "affix":"of Tracking",
+    "group":"MarkDuration",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[8822],
+    "tradeHashes":{
+      "4162678661":["Small Passive Skills in Radius also grant Mark Skills have (3-4)% increased Skill Effect Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Mark Skills have (3-4)% increased Skill Effect Duration"
+  },
+  "JewelRadiusMarkEffect":{
+    "affix":"Marking",
+    "group":"MarkEffect",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[2378],
+    "tradeHashes":{
+      "179541474":["Notable Passive Skills in Radius also grant (2-3)% increased Effect of your Mark Skills"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Effect of your Mark Skills"
+  },
+  "JewelRadiusMaximumRage":{
+    "affix":"Angry",
+    "group":"MaximumRage",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[9611],
+    "tradeHashes":{
+      "1846980580":["Notable Passive Skills in Radius also grant +1 to Maximum Rage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"+1 to Maximum Rage"
+  },
+  "JewelRadiusMediumSize":{
+    "affix":"Greater",
+    "group":"JewelRadiusLargerRadius",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7760],
+    "tradeHashes":{
+      "3891355829":["Upgrades Radius to Medium"]
+    },
+    "type":"Prefix",
+    "weightKey":["radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Upgrades Radius to Medium"
+  },
+  "JewelRadiusMeleeDamage":{
+    "affix":"Clashing",
+    "group":"MeleeDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1187],
+    "tradeHashes":{
+      "1337740333":["Small Passive Skills in Radius also grant (1-2)% increased Melee Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Melee Damage"
+  },
+  "JewelRadiusMeleeDamageIfProjectileHitRecently":{
+    "affix":"Engaging",
+    "group":"MeleeDamageIfProjectileHitRecently",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[8914],
+    "tradeHashes":{
+      "2421151933":["Small Passive Skills in Radius also grant (2-3)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds"
+  },
+  "JewelRadiusMinionAccuracy":{
+    "affix":"Training",
+    "group":"MinionAccuracyRatingForJewel",
+    "level":1,
+    "modTags":["attack","minion"],
+    "nodeType":1,
+    "statOrder":[8996],
+    "tradeHashes":{
+      "793875384":["Small Passive Skills in Radius also grant (2-3)% increased Minion Accuracy Rating"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-3)% increased Minion Accuracy Rating"
+  },
+  "JewelRadiusMinionArea":{
+    "affix":"Companion",
+    "group":"MinionAreaOfEffect",
+    "level":1,
+    "modTags":["minion"],
+    "nodeType":2,
+    "statOrder":[2759],
+    "tradeHashes":{
+      "2534359663":["Notable Passive Skills in Radius also grant Minions have (3-5)% increased Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (3-5)% increased Area of Effect"
+  },
+  "JewelRadiusMinionAttackandCastSpeed":{
+    "affix":"of Orchestration",
+    "group":"MinionAttackSpeedAndCastSpeed",
+    "level":1,
+    "modTags":["caster_speed","minion_speed","attack","caster","speed","minion"],
+    "nodeType":2,
+    "statOrder":[9003],
+    "tradeHashes":{
+      "3106718406":["Notable Passive Skills in Radius also grant Minions have (1-2)% increased Attack and Cast Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (1-2)% increased Attack and Cast Speed"
+  },
+  "JewelRadiusMinionChaosResistance":{
+    "affix":"of Righteousness",
+    "group":"MinionChaosResistance",
+    "level":1,
+    "modTags":["chaos_resistance","minion_resistance","chaos","resistance","minion"],
+    "nodeType":1,
+    "statOrder":[2668],
+    "tradeHashes":{
+      "1756380435":["Small Passive Skills in Radius also grant Minions have +(1-2)% to Chaos Resistance"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have +(1-2)% to Chaos Resistance"
+  },
+  "JewelRadiusMinionCriticalChance":{
+    "affix":"of Marshalling",
+    "group":"MinionCriticalStrikeChanceIncrease",
+    "level":1,
+    "modTags":["minion","critical"],
+    "nodeType":2,
+    "statOrder":[9030],
+    "tradeHashes":{
+      "3628935286":["Notable Passive Skills in Radius also grant Minions have (5-10)% increased Critical Hit Chance"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (5-10)% increased Critical Hit Chance"
+  },
+  "JewelRadiusMinionCriticalMultiplier":{
+    "affix":"of Gripping",
+    "group":"MinionCriticalStrikeMultiplier",
+    "level":1,
+    "modTags":["minion_damage","damage","minion","critical"],
+    "nodeType":2,
+    "statOrder":[9032],
+    "tradeHashes":{
+      "593241812":["Notable Passive Skills in Radius also grant Minions have (6-12)% increased Critical Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (6-12)% increased Critical Damage Bonus"
+  },
+  "JewelRadiusMinionDamage":{
+    "affix":"Authoritative",
+    "group":"MinionDamage",
+    "level":1,
+    "modTags":["minion_damage","damage","minion"],
+    "nodeType":1,
+    "statOrder":[1720],
+    "tradeHashes":{
+      "2954360902":["Small Passive Skills in Radius also grant Minions deal (1-2)% increased Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions deal (1-2)% increased Damage"
+  },
+  "JewelRadiusMinionLife":{
+    "affix":"Fortuitous",
+    "group":"MinionLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "nodeType":1,
+    "statOrder":[1026],
+    "tradeHashes":{
+      "378796798":["Small Passive Skills in Radius also grant Minions have (1-2)% increased maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (1-2)% increased maximum Life"
+  },
+  "JewelRadiusMinionPhysicalDamageReduction":{
+    "affix":"of Confidence",
+    "group":"MinionPhysicalDamageReduction",
+    "level":1,
+    "modTags":["physical","minion"],
+    "nodeType":1,
+    "statOrder":[2022],
+    "tradeHashes":{
+      "30438393":["Small Passive Skills in Radius also grant Minions have (1-2)% additional Physical Damage Reduction"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have (1-2)% additional Physical Damage Reduction"
+  },
+  "JewelRadiusMinionResistances":{
+    "affix":"of Acclimatisation",
+    "group":"MinionElementalResistance",
+    "level":1,
+    "modTags":["cold_resistance","elemental_resistance","fire_resistance","lightning_resistance","minion_resistance","elemental","fire","cold","lightning","resistance","minion"],
+    "nodeType":1,
+    "statOrder":[2667],
+    "tradeHashes":{
+      "3225608889":["Small Passive Skills in Radius also grant Minions have +(1-2)% to all Elemental Resistances"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Minions have +(1-2)% to all Elemental Resistances"
+  },
+  "JewelRadiusMinionReviveSpeed":{
+    "affix":"of Revival",
+    "group":"MinionReviveSpeed",
+    "level":1,
+    "modTags":["minion"],
+    "nodeType":2,
+    "statOrder":[9085],
+    "tradeHashes":{
+      "50413020":["Notable Passive Skills in Radius also grant Minions Revive (3-7)% faster"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"Minions Revive (3-7)% faster"
+  },
+  "JewelRadiusMovementSpeed":{
+    "affix":"of Speed",
+    "group":"MovementVelocity",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":2,
+    "statOrder":[836],
+    "tradeHashes":{
+      "844449513":["Notable Passive Skills in Radius also grant 1% increased Movement Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% increased Movement Speed"
+  },
+  "JewelRadiusNotableEffect":{
+    "affix":"of Influence",
+    "group":"JewelRadiusSmallNodeEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7784],
+    "tradeHashes":{
+      "1060572482":["(15-25)% increased Effect of Small Passive Skills in Radius"]
+    },
+    "type":"Suffix",
+    "weightKey":["radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(15-25)% increased Effect of Small Passive Skills in Radius"
+  },
+  "JewelRadiusNotableEffectNew":{
+    "affix":"of Supremacy",
+    "group":"JewelRadiusNotableEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7779],
+    "tradeHashes":{
+      "4234573345":["(15-25)% increased Effect of Notable Passive Skills in Radius"]
+    },
+    "type":"Suffix",
+    "weightKey":["radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Effect of Notable Passive Skills in Radius"
+  },
+  "JewelRadiusOfferingDuration":{
+    "affix":"of Offering",
+    "group":"OfferingDuration",
+    "level":1,
+    "modTags":["minion"],
+    "nodeType":2,
+    "statOrder":[9356],
+    "tradeHashes":{
+      "2374711847":["Notable Passive Skills in Radius also grant Offering Skills have (6-12)% increased Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Offering Skills have (6-12)% increased Duration"
+  },
+  "JewelRadiusOfferingLife":{
+    "affix":"Sacrificial",
+    "group":"OfferingLife",
+    "level":1,
+    "modTags":["resource","life","minion"],
+    "nodeType":1,
+    "statOrder":[9357],
+    "tradeHashes":{
+      "2107703111":["Small Passive Skills in Radius also grant Offerings have (2-3)% increased Maximum Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Offerings have (2-3)% increased Maximum Life"
+  },
+  "JewelRadiusParriedDebuffDuration":{
+    "affix":"of Unsettling",
+    "group":"ParriedDebuffDuration",
+    "level":1,
+    "modTags":["block"],
+    "nodeType":2,
+    "statOrder":[9393],
+    "tradeHashes":{
+      "1514844108":["Notable Passive Skills in Radius also grant (5-10)% increased Parried Debuff Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Parried Debuff Duration"
+  },
+  "JewelRadiusParryDamage":{
+    "affix":"Parrying",
+    "group":"ParryDamage",
+    "level":1,
+    "modTags":["block","damage"],
+    "nodeType":1,
+    "statOrder":[9385],
+    "tradeHashes":{
+      "1007380041":["Small Passive Skills in Radius also grant (2-3)% increased Parry Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Parry Damage"
+  },
+  "JewelRadiusPhysicalDamage":{
+    "affix":"Sharpened",
+    "group":"PhysicalDamagePercent",
+    "level":1,
+    "modTags":["physical_damage","damage","physical"],
+    "nodeType":1,
+    "statOrder":[1185],
+    "tradeHashes":{
+      "1417267954":["Small Passive Skills in Radius also grant (1-2)% increased Global Physical Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Global Physical Damage"
+  },
+  "JewelRadiusPiercingProjectiles":{
+    "affix":"of Piercing",
+    "group":"ChanceToPierce",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[1068],
+    "tradeHashes":{
+      "1800303440":["Notable Passive Skills in Radius also grant (5-10)% chance to Pierce an Enemy"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% chance to Pierce an Enemy"
+  },
+  "JewelRadiusPinBuildup":{
+    "affix":"of Pinning",
+    "group":"PinBuildup",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[7196],
+    "tradeHashes":{
+      "1944020877":["Notable Passive Skills in Radius also grant (5-10)% increased Pin Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Pin Buildup"
+  },
+  "JewelRadiusPlantDamage":{
+    "affix":"Overgrown",
+    "group":"PlantDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[9487],
+    "tradeHashes":{
+      "1590846356":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Plant Skills"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","str_radius_jewel","dex_radius_jewel","jewel"],
+    "weightVal":[1,1,1,0],
+    "1":"(1-2)% increased Damage with Plant Skills"
+  },
+  "JewelRadiusPoisonChance":{
+    "affix":"of Poisoning",
+    "group":"BaseChanceToPoison",
+    "level":1,
+    "modTags":["ailment"],
+    "nodeType":1,
+    "statOrder":[2899],
+    "tradeHashes":{
+      "2840989393":["Small Passive Skills in Radius also grant 1% chance to Poison on Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"1% chance to Poison on Hit"
+  },
+  "JewelRadiusPoisonDamage":{
+    "affix":"Venomous",
+    "group":"PoisonEffect",
+    "level":1,
+    "modTags":["damage","ailment"],
+    "nodeType":2,
+    "statOrder":[9500],
+    "tradeHashes":{
+      "462424929":["Notable Passive Skills in Radius also grant (3-7)% increased Magnitude of Poison you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Magnitude of Poison you inflict"
+  },
+  "JewelRadiusPoisonDuration":{
+    "affix":"of Infection",
+    "group":"PoisonDuration",
+    "level":1,
+    "modTags":["poison","chaos","ailment"],
+    "nodeType":2,
+    "statOrder":[2896],
+    "tradeHashes":{
+      "221701169":["Notable Passive Skills in Radius also grant (3-7)% increased Poison Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Poison Duration"
+  },
+  "JewelRadiusPresenceRadius":{
+    "affix":"Iconic",
+    "group":"PresenceRadius",
+    "level":1,
+    "modTags":["aura"],
+    "nodeType":2,
+    "statOrder":[1069],
+    "tradeHashes":{
+      "4032352472":["Notable Passive Skills in Radius also grant (8-12)% increased Presence Area of Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(8-12)% increased Presence Area of Effect"
+  },
+  "JewelRadiusProjectileDamage":{
+    "affix":"Archer's",
+    "group":"ProjectileDamage",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[1738],
+    "tradeHashes":{
+      "455816363":["Small Passive Skills in Radius also grant (1-2)% increased Projectile Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Projectile Damage"
+  },
+  "JewelRadiusProjectileDamageIfMeleeHitRecently":{
+    "affix":"Retreating",
+    "group":"ProjectileDamageIfMeleeHitRecently",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[9549],
+    "tradeHashes":{
+      "288364275":["Small Passive Skills in Radius also grant (2-3)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds"
+  },
+  "JewelRadiusProjectileSpeed":{
+    "affix":"Soaring",
+    "group":"ProjectileSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":2,
+    "statOrder":[897],
+    "tradeHashes":{
+      "1777421941":["Notable Passive Skills in Radius also grant (2-3)% increased Projectile Speed"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Projectile Speed"
+  },
+  "JewelRadiusQuarterstaffDamage":{
+    "affix":"Monk's",
+    "group":"IncreasedStaffDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1238],
+    "tradeHashes":{
+      "821948283":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Quarterstaves"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Damage with Quarterstaves"
+  },
+  "JewelRadiusQuarterstaffFreezeBuildup":{
+    "affix":"of Glaciers",
+    "group":"QuarterstaffFreezeBuildup",
+    "level":1,
+    "modTags":["elemental","cold","ailment"],
+    "nodeType":2,
+    "statOrder":[9599],
+    "tradeHashes":{
+      "127081978":["Notable Passive Skills in Radius also grant (5-10)% increased Freeze Buildup with Quarterstaves"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-10)% increased Freeze Buildup with Quarterstaves"
+  },
+  "JewelRadiusQuarterstaffSpeed":{
+    "affix":"of Sequencing",
+    "group":"StaffAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1320],
+    "tradeHashes":{
+      "111835965":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Quarterstaves"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Attack Speed with Quarterstaves"
+  },
+  "JewelRadiusQuiverEffect":{
+    "affix":"Fletching",
+    "group":"QuiverModifierEffect",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[9607],
+    "tradeHashes":{
+      "4180952808":["Notable Passive Skills in Radius also grant (2-3)% increased bonuses gained from Equipped Quiver"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased bonuses gained from Equipped Quiver"
+  },
+  "JewelRadiusRageonHit":{
+    "affix":"of Raging",
+    "group":"RageOnHit",
+    "level":1,
+    "modTags":["attack"],
+    "nodeType":2,
+    "statOrder":[6871],
+    "tradeHashes":{
+      "2969557004":["Notable Passive Skills in Radius also grant Gain 1 Rage on Melee Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain 1 Rage on Melee Hit"
+  },
+  "JewelRadiusRagewhenHit":{
+    "affix":"of Retribution",
+    "group":"GainRageWhenHit",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[6873],
+    "tradeHashes":{
+      "2131720304":["Notable Passive Skills in Radius also grant Gain (1-2) Rage when Hit by an Enemy"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain (1-2) Rage when Hit by an Enemy"
+  },
+  "JewelRadiusShapeshiftDamage":{
+    "affix":"Bestial",
+    "group":"ShapeshiftDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[5958],
+    "tradeHashes":{
+      "266564538":["Small Passive Skills in Radius also grant (1-2)% increased Damage while Shapeshifted"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","str_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(1-2)% increased Damage while Shapeshifted"
+  },
+  "JewelRadiusShapeshiftSpeed":{
+    "affix":"of the Wild",
+    "group":"ShapeshiftSkillSpeedForJewel",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":2,
+    "statOrder":[9918],
+    "tradeHashes":{
+      "3579898587":["Notable Passive Skills in Radius also grant (1-2)% increased Skill Speed while Shapeshifted"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","str_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(1-2)% increased Skill Speed while Shapeshifted"
+  },
+  "JewelRadiusShieldDefences":{
+    "affix":"Shielding",
+    "group":"ShieldArmourIncrease",
+    "level":1,
+    "modTags":["defences"],
+    "nodeType":2,
+    "statOrder":[9840],
+    "tradeHashes":{
+      "3429148113":["Notable Passive Skills in Radius also grant (8-15)% increased Armour, Evasion and Energy Shield from Equipped Shield"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(8-15)% increased Armour, Evasion and Energy Shield from Equipped Shield"
+  },
+  "JewelRadiusShockChance":{
+    "affix":"of Shocking",
+    "group":"ShockChanceIncrease",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "nodeType":1,
+    "statOrder":[1059],
+    "tags":["no_fire_spell_mods","no_cold_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "1039268420":["Small Passive Skills in Radius also grant (2-3)% increased chance to Shock"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(2-3)% increased chance to Shock"
+  },
+  "JewelRadiusShockDuration":{
+    "affix":"of Paralyzing",
+    "group":"ShockDuration",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "nodeType":1,
+    "statOrder":[1613],
+    "tradeHashes":{
+      "3513818125":["Small Passive Skills in Radius also grant (2-3)% increased Shock Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(2-3)% increased Shock Duration"
+  },
+  "JewelRadiusShockEffect":{
+    "affix":"Jolting",
+    "group":"ShockEffect",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "nodeType":2,
+    "statOrder":[9847],
+    "tradeHashes":{
+      "1166140625":["Notable Passive Skills in Radius also grant (5-7)% increased Magnitude of Shock you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","int_radius_jewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-7)% increased Magnitude of Shock you inflict"
+  },
+  "JewelRadiusSlowEffectOnSelf":{
+    "affix":"of Hastening",
+    "group":"SlowPotency",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[4746],
+    "tradeHashes":{
+      "2580617872":["Notable Passive Skills in Radius also grant (2-5)% reduced Slowing Potency of Debuffs on You"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-5)% reduced Slowing Potency of Debuffs on You"
+  },
+  "JewelRadiusSmallNodeEffect":{
+    "affix":"of Potency",
+    "group":"JewelRadiusSmallNodeEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[7784],
+    "tradeHashes":{
+      "1060572482":["(15-25)% increased Effect of Small Passive Skills in Radius"]
+    },
+    "type":"Suffix",
+    "weightKey":["radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Effect of Small Passive Skills in Radius"
+  },
+  "JewelRadiusSpearAttackSpeed":{
+    "affix":"of Spearing",
+    "group":"SpearAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1327],
+    "tradeHashes":{
+      "1266413530":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Spears"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Attack Speed with Spears"
+  },
+  "JewelRadiusSpearCriticalDamage":{
+    "affix":"of Hunting",
+    "group":"SpearCriticalDamage",
+    "level":1,
+    "modTags":["attack","critical"],
+    "nodeType":2,
+    "statOrder":[1393],
+    "tradeHashes":{
+      "138421180":["Notable Passive Skills in Radius also grant (5-10)% increased Critical Damage Bonus with Spears"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Critical Damage Bonus with Spears"
+  },
+  "JewelRadiusSpearDamage":{
+    "affix":"Spearheaded",
+    "group":"SpearDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1267],
+    "tradeHashes":{
+      "2809428780":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Spears"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Damage with Spears"
+  },
+  "JewelRadiusSpellCriticalChance":{
+    "affix":"of Annihilating",
+    "group":"SpellCriticalStrikeChance",
+    "level":1,
+    "modTags":["caster_critical","caster","critical"],
+    "nodeType":2,
+    "statOrder":[978],
+    "tradeHashes":{
+      "2704905000":["Notable Passive Skills in Radius also grant (3-7)% increased Critical Hit Chance for Spells"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Critical Hit Chance for Spells"
+  },
+  "JewelRadiusSpellCriticalDamage":{
+    "affix":"of Unmaking",
+    "group":"SpellCritMultiplierForJewel",
+    "level":1,
+    "modTags":["caster_critical","caster_damage","damage","caster","critical"],
+    "nodeType":2,
+    "statOrder":[982],
+    "tradeHashes":{
+      "2466785537":["Notable Passive Skills in Radius also grant (5-10)% increased Critical Spell Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Critical Spell Damage Bonus"
+  },
+  "JewelRadiusSpellDamage":{
+    "affix":"Mystic",
+    "group":"WeaponSpellDamage",
+    "level":1,
+    "modTags":["caster_damage","damage","caster"],
+    "nodeType":1,
+    "statOrder":[871],
+    "tradeHashes":{
+      "1137305356":["Small Passive Skills in Radius also grant (1-2)% increased Spell Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Spell Damage"
+  },
+  "JewelRadiusStunBuildup":{
+    "affix":"of Stunning",
+    "group":"StunDamageIncrease",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[1051],
+    "tradeHashes":{
+      "4173554949":["Notable Passive Skills in Radius also grant (5-10)% increased Stun Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Stun Buildup"
+  },
+  "JewelRadiusStunThreshold":{
+    "affix":"of Withstanding",
+    "group":"IncreasedStunThreshold",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[2983],
+    "tradeHashes":{
+      "484792219":["Small Passive Skills in Radius also grant (1-2)% increased Stun Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(1-2)% increased Stun Threshold"
+  },
+  "JewelRadiusStunThresholdDuringParry":{
+    "affix":"of Biding",
+    "group":"StunThresholdDuringParry",
+    "level":1,
+    "modTags":["block"],
+    "nodeType":2,
+    "statOrder":[9394],
+    "tradeHashes":{
+      "1495814176":["Notable Passive Skills in Radius also grant (8-12)% increased Stun Threshold while Parrying"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(8-12)% increased Stun Threshold while Parrying"
+  },
+  "JewelRadiusStunThresholdIfNotStunnedRecently":{
+    "affix":"of Stoutness",
+    "group":"IncreasedStunThresholdIfNoRecentStun",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[10146],
+    "tradeHashes":{
+      "654207792":["Small Passive Skills in Radius also grant (2-3)% increased Stun Threshold if you haven't been Stunned Recently"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Stun Threshold if you haven't been Stunned Recently"
+  },
+  "JewelRadiusStunThresholdfromEnergyShield":{
+    "affix":"of Barriers",
+    "group":"StunThresholdfromEnergyShield",
+    "level":1,
+    "modTags":[],
+    "nodeType":1,
+    "statOrder":[10144],
+    "tradeHashes":{
+      "1653682082":["Small Passive Skills in Radius also grant Gain additional Stun Threshold equal to (1-2)% of maximum Energy Shield"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain additional Stun Threshold equal to (1-2)% of maximum Energy Shield"
+  },
+  "JewelRadiusSwordDamage":{
+    "affix":"Vicious",
+    "group":"IncreasedSwordDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[1259],
+    "tradeHashes":{
+      "1417549986":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Swords"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Damage with Swords"
+  },
+  "JewelRadiusSwordSpeed":{
+    "affix":"of Fencing",
+    "group":"SwordAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[1325],
+    "tradeHashes":{
+      "3492019295":["Notable Passive Skills in Radius also grant (1-2)% increased Attack Speed with Swords"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Attack Speed with Swords"
+  },
+  "JewelRadiusThorns":{
+    "affix":"Retaliating",
+    "group":"ThornsDamageIncrease",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[10261],
+    "tradeHashes":{
+      "1320662475":["Small Passive Skills in Radius also grant (2-3)% increased Thorns damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Thorns damage"
+  },
+  "JewelRadiusTotemDamage":{
+    "affix":"Shaman's",
+    "group":"TotemDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[1152],
+    "tradeHashes":{
+      "2108821127":["Small Passive Skills in Radius also grant (2-3)% increased Totem Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Totem Damage"
+  },
+  "JewelRadiusTotemLife":{
+    "affix":"Carved",
+    "group":"IncreasedTotemLife",
+    "level":1,
+    "modTags":["resource","life"],
+    "nodeType":1,
+    "statOrder":[1533],
+    "tradeHashes":{
+      "442393998":["Small Passive Skills in Radius also grant (2-3)% increased Totem Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Totem Life"
+  },
+  "JewelRadiusTotemPlacementSpeed":{
+    "affix":"of Ancestry",
+    "group":"SummonTotemCastSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":1,
+    "statOrder":[2360],
+    "tradeHashes":{
+      "1145481685":["Small Passive Skills in Radius also grant (2-3)% increased Totem Placement speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Totem Placement speed"
+  },
+  "JewelRadiusTrapDamage":{
+    "affix":"Trapping",
+    "group":"TrapDamage",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[872],
+    "tradeHashes":{
+      "836472423":["Small Passive Skills in Radius also grant (1-2)% increased Trap Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Trap Damage"
+  },
+  "JewelRadiusTrapThrowSpeed":{
+    "affix":"of Preparation",
+    "group":"TrapThrowSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":2,
+    "statOrder":[1667],
+    "tradeHashes":{
+      "2391207117":["Notable Passive Skills in Radius also grant (2-4)% increased Trap Throwing Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-4)% increased Trap Throwing Speed"
+  },
+  "JewelRadiusTriggeredSpellDamage":{
+    "affix":"Triggered",
+    "group":"DamageWithTriggeredSpells",
+    "level":1,
+    "modTags":["caster_damage","damage","caster"],
+    "nodeType":1,
+    "statOrder":[10330],
+    "tradeHashes":{
+      "473917671":["Small Passive Skills in Radius also grant Triggered Spells deal (2-3)% increased Spell Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Triggered Spells deal (2-3)% increased Spell Damage"
+  },
+  "JewelRadiusUnarmedAttackSpeed":{
+    "affix":"of Jabbing",
+    "group":"UnarmedAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":2,
+    "statOrder":[10388],
+    "tradeHashes":{
+      "541647121":["Notable Passive Skills in Radius also grant (1-2)% increased Unarmed Attack Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Unarmed Attack Speed"
+  },
+  "JewelRadiusUnarmedDamage":{
+    "affix":"Punching",
+    "group":"UnarmedDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "nodeType":1,
+    "statOrder":[3259],
+    "tradeHashes":{
+      "347569644":["Small Passive Skills in Radius also grant (1-2)% increased Damage with Unarmed Attacks"]
+    },
+    "type":"Prefix",
+    "weightKey":["dex_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(1-2)% increased Damage with Unarmed Attacks"
+  },
+  "JewelRadiusVolatilityOnKillChance":{
+    "affix":"of Volatility",
+    "group":"VolatilityOnKillChance",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[10491],
+    "tradeHashes":{
+      "4225700219":["Notable Passive Skills in Radius also grant 1% chance to gain Volatility on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"1% chance to gain Volatility on Kill"
+  },
+  "JewelRadiusWarcryBuffEffect":{
+    "affix":"of Warcries",
+    "group":"WarcryEffect",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[10513],
+    "tradeHashes":{
+      "2675129731":["Notable Passive Skills in Radius also grant (3-7)% increased Warcry Buff Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(3-7)% increased Warcry Buff Effect"
+  },
+  "JewelRadiusWarcryCooldown":{
+    "affix":"of Rallying",
+    "group":"WarcryCooldownSpeed",
+    "level":1,
+    "modTags":[],
+    "nodeType":2,
+    "statOrder":[3035],
+    "tradeHashes":{
+      "2056107438":["Notable Passive Skills in Radius also grant (3-7)% increased Warcry Cooldown Recovery Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-7)% increased Warcry Cooldown Recovery Rate"
+  },
+  "JewelRadiusWarcryDamage":{
+    "affix":"Yelling",
+    "group":"WarcryDamage",
+    "level":1,
+    "modTags":["damage"],
+    "nodeType":1,
+    "statOrder":[10516],
+    "tradeHashes":{
+      "1160637284":["Small Passive Skills in Radius also grant (2-3)% increased Damage with Warcries"]
+    },
+    "type":"Prefix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Damage with Warcries"
+  },
+  "JewelRadiusWarcrySpeed":{
+    "affix":"of Lungs",
+    "group":"WarcrySpeed",
+    "level":1,
+    "modTags":["speed"],
+    "nodeType":1,
+    "statOrder":[2989],
+    "tradeHashes":{
+      "1602294220":["Small Passive Skills in Radius also grant (2-3)% increased Warcry Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["str_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-3)% increased Warcry Speed"
+  },
+  "JewelRadiusWeaponSwapSpeed":{
+    "affix":"of Swapping",
+    "group":"WeaponSwapSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "nodeType":1,
+    "statOrder":[10543],
+    "tradeHashes":{
+      "1129429646":["Small Passive Skills in Radius also grant (2-4)% increased Weapon Swap Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"(2-4)% increased Weapon Swap Speed"
+  },
+  "JewelRadiusWitheredEffect":{
+    "affix":"Withering",
+    "group":"WitheredEffect",
+    "level":1,
+    "modTags":["chaos"],
+    "nodeType":2,
+    "statOrder":[10565],
+    "tradeHashes":{
+      "3936121440":["Notable Passive Skills in Radius also grant (3-5)% increased Withered Magnitude"]
+    },
+    "type":"Prefix",
+    "weightKey":["int_radius_jewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(3-5)% increased Withered Magnitude"
+  },
+  "JewelRageonHit":{
+    "affix":"of Raging",
+    "group":"RageOnHit",
+    "level":1,
+    "modTags":["attack"],
+    "statOrder":[6871],
+    "tradeHashes":{
+      "2709367754":["Gain 1 Rage on Melee Hit"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain 1 Rage on Melee Hit"
+  },
+  "JewelRagewhenHit":{
+    "affix":"of Retribution",
+    "group":"GainRageWhenHit",
+    "level":1,
+    "modTags":[],
+    "statOrder":[6873],
+    "tradeHashes":{
+      "3292710273":["Gain (1-3) Rage when Hit by an Enemy"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain (1-3) Rage when Hit by an Enemy"
+  },
+  "JewelShapeshiftDamage":{
+    "affix":"Bestial",
+    "group":"ShapeshiftDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[5958],
+    "tradeHashes":{
+      "2440073079":["(5-15)% increased Damage while Shapeshifted"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","strjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(5-15)% increased Damage while Shapeshifted"
+  },
+  "JewelShapeshiftSpeed":{
+    "affix":"of the Wild",
+    "group":"ShapeshiftSkillSpeedForJewel",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[9918],
+    "tradeHashes":{
+      "918325986":["(2-4)% increased Skill Speed while Shapeshifted"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","strjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(2-4)% increased Skill Speed while Shapeshifted"
+  },
+  "JewelShieldDefences":{
+    "affix":"Shielding",
+    "group":"ShieldArmourIncrease",
+    "level":1,
+    "modTags":["defences"],
+    "statOrder":[9840],
+    "tradeHashes":{
+      "2523933828":["(18-32)% increased Armour, Evasion and Energy Shield from Equipped Shield"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(18-32)% increased Armour, Evasion and Energy Shield from Equipped Shield"
+  },
+  "JewelShockChance":{
+    "affix":"of Shocking",
+    "group":"ShockChanceIncrease",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "statOrder":[1059],
+    "tags":["no_fire_spell_mods","no_cold_spell_mods","no_chaos_spell_mods"],
+    "tradeHashes":{
+      "293638271":["(10-20)% increased chance to Shock"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(10-20)% increased chance to Shock"
+  },
+  "JewelShockDuration":{
+    "affix":"of Paralyzing",
+    "group":"ShockDuration",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "statOrder":[1613],
+    "tradeHashes":{
+      "3668351662":["(15-25)% increased Shock Duration"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(15-25)% increased Shock Duration"
+  },
+  "JewelShockEffect":{
+    "affix":"Jolting",
+    "group":"ShockEffect",
+    "level":1,
+    "modTags":["elemental","lightning","ailment"],
+    "statOrder":[9847],
+    "tradeHashes":{
+      "2527686725":["(10-15)% increased Magnitude of Shock you inflict"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","intjewel","jewel"],
+    "weightVal":[1,1,0],
+    "1":"(10-15)% increased Magnitude of Shock you inflict"
+  },
+  "JewelSlowEffectOnSelf":{
+    "affix":"of Hastening",
+    "group":"SlowPotency",
+    "level":1,
+    "modTags":[],
+    "statOrder":[4746],
+    "tradeHashes":{
+      "924253255":["(5-10)% reduced Slowing Potency of Debuffs on You"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% reduced Slowing Potency of Debuffs on You"
+  },
+  "JewelSpearAttackSpeed":{
+    "affix":"of Spearing",
+    "group":"SpearAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1327],
+    "tradeHashes":{
+      "1165163804":["(2-4)% increased Attack Speed with Spears"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(2-4)% increased Attack Speed with Spears"
+  },
+  "JewelSpearCriticalDamage":{
+    "affix":"of Hunting",
+    "group":"SpearCriticalDamage",
+    "level":1,
+    "modTags":["attack","critical"],
+    "statOrder":[1393],
+    "tradeHashes":{
+      "2456523742":["(10-20)% increased Critical Damage Bonus with Spears"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Critical Damage Bonus with Spears"
+  },
+  "JewelSpearDamage":{
+    "affix":"Spearheaded",
+    "group":"SpearDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1267],
+    "tradeHashes":{
+      "2696027455":["(6-16)% increased Damage with Spears"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Damage with Spears"
+  },
+  "JewelSpellCriticalChance":{
+    "affix":"of Annihilating",
+    "group":"SpellCriticalStrikeChance",
+    "level":1,
+    "modTags":["caster_critical","caster","critical"],
+    "statOrder":[978],
+    "tradeHashes":{
+      "737908626":["(5-15)% increased Critical Hit Chance for Spells"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Critical Hit Chance for Spells"
+  },
+  "JewelSpellCriticalDamage":{
+    "affix":"of Unmaking",
+    "group":"SpellCritMultiplierForJewel",
+    "level":1,
+    "modTags":["caster_critical","caster_damage","damage","caster","critical"],
+    "statOrder":[982],
+    "tradeHashes":{
+      "274716455":["(10-20)% increased Critical Spell Damage Bonus"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Critical Spell Damage Bonus"
+  },
+  "JewelSpellDamage":{
+    "affix":"Mystic",
+    "group":"WeaponSpellDamage",
+    "level":1,
+    "modTags":["caster_damage","damage","caster"],
+    "statOrder":[871],
+    "tradeHashes":{
+      "2974417149":["(5-15)% increased Spell Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Spell Damage"
+  },
+  "JewelStunBuildup":{
+    "affix":"of Stunning",
+    "group":"StunDamageIncrease",
+    "level":1,
+    "modTags":[],
+    "statOrder":[1051],
+    "tradeHashes":{
+      "239367161":["(10-20)% increased Stun Buildup"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Stun Buildup"
+  },
+  "JewelStunThreshold":{
+    "affix":"of Withstanding",
+    "group":"IncreasedStunThreshold",
+    "level":1,
+    "modTags":[],
+    "statOrder":[2983],
+    "tradeHashes":{
+      "680068163":["(6-16)% increased Stun Threshold"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(6-16)% increased Stun Threshold"
+  },
+  "JewelStunThresholdDuringParry":{
+    "affix":"of Biding",
+    "group":"StunThresholdDuringParry",
+    "level":1,
+    "modTags":["block"],
+    "statOrder":[9394],
+    "tradeHashes":{
+      "1911237468":["(15-25)% increased Stun Threshold while Parrying"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Stun Threshold while Parrying"
+  },
+  "JewelStunThresholdIfNotStunnedRecently":{
+    "affix":"of Stoutness",
+    "group":"IncreasedStunThresholdIfNoRecentStun",
+    "level":1,
+    "modTags":[],
+    "statOrder":[10146],
+    "tradeHashes":{
+      "1405298142":["(15-25)% increased Stun Threshold if you haven't been Stunned Recently"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(15-25)% increased Stun Threshold if you haven't been Stunned Recently"
+  },
+  "JewelStunThresholdfromEnergyShield":{
+    "affix":"of Barriers",
+    "group":"StunThresholdfromEnergyShield",
+    "level":1,
+    "modTags":[],
+    "statOrder":[10144],
+    "tradeHashes":{
+      "416040624":["Gain additional Stun Threshold equal to (5-15)% of maximum Energy Shield"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Gain additional Stun Threshold equal to (5-15)% of maximum Energy Shield"
+  },
+  "JewelSwordDamage":{
+    "affix":"Vicious",
+    "group":"IncreasedSwordDamageForJewel",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[1259],
+    "tradeHashes":{
+      "83050999":["(6-16)% increased Damage with Swords"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Damage with Swords"
+  },
+  "JewelSwordSpeed":{
+    "affix":"of Fencing",
+    "group":"SwordAttackSpeedForJewel",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[1325],
+    "tradeHashes":{
+      "3293699237":["(2-4)% increased Attack Speed with Swords"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-4)% increased Attack Speed with Swords"
+  },
+  "JewelThorns":{
+    "affix":"Retaliating",
+    "group":"ThornsDamageIncrease",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[10261],
+    "tradeHashes":{
+      "1315743832":["(10-20)% increased Thorns damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Thorns damage"
+  },
+  "JewelTotemDamage":{
+    "affix":"Shaman's",
+    "group":"TotemDamageForJewel",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[1152],
+    "tradeHashes":{
+      "3851254963":["(10-18)% increased Totem Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-18)% increased Totem Damage"
+  },
+  "JewelTotemLife":{
+    "affix":"Carved",
+    "group":"IncreasedTotemLife",
+    "level":1,
+    "modTags":["resource","life"],
+    "statOrder":[1533],
+    "tradeHashes":{
+      "686254215":["(10-20)% increased Totem Life"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Totem Life"
+  },
+  "JewelTotemPlacementSpeed":{
+    "affix":"of Ancestry",
+    "group":"SummonTotemCastSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[2360],
+    "tradeHashes":{
+      "3374165039":["(10-20)% increased Totem Placement speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Totem Placement speed"
+  },
+  "JewelTrapDamage":{
+    "affix":"Trapping",
+    "group":"TrapDamage",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[872],
+    "tradeHashes":{
+      "2941585404":["(6-16)% increased Trap Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Trap Damage"
+  },
+  "JewelTrapThrowSpeed":{
+    "affix":"of Preparation",
+    "group":"TrapThrowSpeed",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[1667],
+    "tradeHashes":{
+      "118398748":["(4-8)% increased Trap Throwing Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(4-8)% increased Trap Throwing Speed"
+  },
+  "JewelTriggeredSpellDamage":{
+    "affix":"Triggered",
+    "group":"DamageWithTriggeredSpells",
+    "level":1,
+    "modTags":["caster_damage","damage","caster"],
+    "statOrder":[10330],
+    "tradeHashes":{
+      "3067892458":["Triggered Spells deal (10-18)% increased Spell Damage"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"Triggered Spells deal (10-18)% increased Spell Damage"
+  },
+  "JewelUnarmedAttackSpeed":{
+    "affix":"of Jabbing",
+    "group":"UnarmedAttackSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[10388],
+    "tradeHashes":{
+      "662579422":["(2-4)% increased Unarmed Attack Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(2-4)% increased Unarmed Attack Speed"
+  },
+  "JewelUnarmedDamage":{
+    "affix":"Punching",
+    "group":"UnarmedDamage",
+    "level":1,
+    "modTags":["damage","attack"],
+    "statOrder":[3259],
+    "tradeHashes":{
+      "2037855018":["(6-16)% increased Damage with Unarmed Attacks"]
+    },
+    "type":"Prefix",
+    "weightKey":["dexjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(6-16)% increased Damage with Unarmed Attacks"
+  },
+  "JewelVolatilityOnKillChance":{
+    "affix":"of Volatility",
+    "group":"VolatilityOnKillChance",
+    "level":1,
+    "modTags":[],
+    "statOrder":[10491],
+    "tradeHashes":{
+      "3749502527":["(2-3)% chance to gain Volatility on Kill"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"(2-3)% chance to gain Volatility on Kill"
+  },
+  "JewelWarcryBuffEffect":{
+    "affix":"of Warcries",
+    "group":"WarcryEffect",
+    "level":1,
+    "modTags":[],
+    "statOrder":[10513],
+    "tradeHashes":{
+      "3037553757":["(5-15)% increased Warcry Buff Effect"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[0,0],
+    "1":"(5-15)% increased Warcry Buff Effect"
+  },
+  "JewelWarcryCooldown":{
+    "affix":"of Rallying",
+    "group":"WarcryCooldownSpeed",
+    "level":1,
+    "modTags":[],
+    "statOrder":[3035],
+    "tradeHashes":{
+      "4159248054":["(5-15)% increased Warcry Cooldown Recovery Rate"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-15)% increased Warcry Cooldown Recovery Rate"
+  },
+  "JewelWarcryDamage":{
+    "affix":"Yelling",
+    "group":"WarcryDamage",
+    "level":1,
+    "modTags":["damage"],
+    "statOrder":[10516],
+    "tradeHashes":{
+      "1594812856":["(10-20)% increased Damage with Warcries"]
+    },
+    "type":"Prefix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Damage with Warcries"
+  },
+  "JewelWarcrySpeed":{
+    "affix":"of Lungs",
+    "group":"WarcrySpeed",
+    "level":1,
+    "modTags":["speed"],
+    "statOrder":[2989],
+    "tradeHashes":{
+      "1316278494":["(10-20)% increased Warcry Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["strjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(10-20)% increased Warcry Speed"
+  },
+  "JewelWeaponSwapSpeed":{
+    "affix":"of Swapping",
+    "group":"WeaponSwapSpeed",
+    "level":1,
+    "modTags":["attack","speed"],
+    "statOrder":[10543],
+    "tradeHashes":{
+      "3233599707":["(15-25)% increased Weapon Swap Speed"]
+    },
+    "type":"Suffix",
+    "weightKey":["jewel"],
+    "weightVal":[0],
+    "1":"(15-25)% increased Weapon Swap Speed"
+  },
+  "JewelWitheredEffect":{
+    "affix":"Withering",
+    "group":"WitheredEffect",
+    "level":1,
+    "modTags":["chaos"],
+    "statOrder":[10565],
+    "tradeHashes":{
+      "3973629633":["(5-10)% increased Withered Magnitude"]
+    },
+    "type":"Prefix",
+    "weightKey":["intjewel","jewel"],
+    "weightVal":[1,0],
+    "1":"(5-10)% increased Withered Magnitude"
+  }
+}

@@ -1,52 +1,54 @@
 {
-  "The Lethal Draw":{
-    "baseType":"Sacral Quiver",
-    "stats":["The Lethal Draw","Sacral Quiver","League: Dawn of the Hunt","Implicits: 1","QuiverImplicitLifeGainPerTarget1","UniqueIncreasedAttackSpeed5","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","UniqueBowDamageFromLifeFlaskCharges1"],
-    "implicitCount":1,
-    "league":" Dawn of the Hunt",
-    "affixes":["QuiverImplicitLifeGainPerTarget1","UniqueIncreasedAttackSpeed5","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","UniqueBowDamageFromLifeFlaskCharges1"]
-  },
-  "Murkshaft":{
-    "baseType":"Toxic Quiver",
-    "stats":["Murkshaft","Toxic Quiver","League: Dawn of the Hunt","Implicits: 2","Grants Skill: Level (1-20) Bursting Fen Toad","QuiverImplicitChanceToPoison1","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"],
-    "implicitCount":2,
-    "league":" Dawn of the Hunt",
-    "affixes":["QuiverImplicitChanceToPoison1","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"],
-    "grantSkill":" Level (1-20) Bursting Fen Toad"
-  },
   "Asphyxia's Wrath":{
-    "baseType":"Broadhead Quiver",
-    "stats":["Asphyxia's Wrath","Broadhead Quiver","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","QuiverImplicitPhysicalDamage1","{variant:2}UniqueAddedColdDamage2","UniqueIncreasedAttackSpeed4","UniqueColdResist4","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1"],
-    "implicitCount":1,
     "variants":["Pre 0.1.1","Current"],
-    "affixes":["QuiverImplicitPhysicalDamage1","UniqueIncreasedAttackSpeed4","UniqueColdResist4","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1","UniqueAddedColdDamage2"]
-  },
-  "Rearguard":{
-    "baseType":"Blunt Quiver",
-    "stats":["Rearguard","Blunt Quiver","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}QuiverImplicitStunThresholdReduction1[20,30]","{variant:2}QuiverImplicitStunThresholdReduction1","UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2"],
-    "implicitCount":2,
-    "variants":["Pre 0.3.0","Current"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2","QuiverImplicitStunThresholdReduction1"]
+    "stats":["Asphyxia's Wrath","Broadhead Quiver","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueAddedColdDamage2","UniqueIncreasedAttackSpeed5","UniqueColdResist18","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1"],
+    "baseType":"Broadhead Quiver",
+    "affixes":["UniqueIncreasedAttackSpeed5","UniqueColdResist18","UniqueEnemiesChilledIncreasedDamageTaken1","UniqueDamageAddedAsColdAttacks1","UniqueAddedColdDamage2"]
   },
   "Beyond Reach":{
     "baseType":"Visceral Quiver",
-    "stats":["Beyond Reach","Visceral Quiver","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","Implicits: 1","QuiverImplicitCriticalStrikeChance1","UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"],
-    "implicitCount":1,
+    "stats":["Beyond Reach","Visceral Quiver","Source: Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}","UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"],
     "source":"Drops from unique{Xesht, We That Are One} in normal{Twisted Domain}",
-    "affixes":["QuiverImplicitCriticalStrikeChance1","UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"]
+    "affixes":["UniqueIncreasedAttackSpeed6","UniqueChaosDamageCanFreeze1","UniqueChaosDamageCanElectrocute1","UniquePhysicalDamageAddedAsChaosAttacks1"]
   },
   "Blackgleam":{
-    "baseType":"Fire Quiver",
-    "stats":["Blackgleam","Fire Quiver","Variant: Pre 0.1.1","Variant: Current","Implicits: 1","QuiverImplicitFireDamage1","{variant:2}UniqueAddedFireDamage1","UniqueIncreasedMana5","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1"],
-    "implicitCount":1,
     "variants":["Pre 0.1.1","Current"],
-    "affixes":["QuiverImplicitFireDamage1","UniqueIncreasedMana5","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1","UniqueAddedFireDamage1"]
+    "stats":["Blackgleam","Fire Quiver","Variant: Pre 0.1.1","Variant: Current","{variant:2}UniqueAddedFireDamage1","UniqueIncreasedMana23","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1"],
+    "baseType":"Fire Quiver",
+    "affixes":["UniqueIncreasedMana23","UniqueIgniteChanceIncrease3","UniqueAlwaysPierceBurningEnemies1","UniqueDamageAddedAsFireAttacks1","UniqueAddedFireDamage1"]
+  },
+  "Murkshaft":{
+    "baseType":"Toxic Quiver",
+    "stats":["Murkshaft","Toxic Quiver","League: Dawn of the Hunt","UniqueTriggerPoisonToadOnKill","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueTriggerPoisonToadOnKill","UniqueAddedPhysicalDamage6","UniqueManaGainedFromEnemyDeath11","UniquePoisonDuration1","ChanceToPoisonWithAttacksUnique___2","UniqueBlindOnPoison1"]
+  },
+  "Drillneck":{
+    "league":" Fate of the Vaal",
+    "baseType":"Penetrating Quiver",
+    "stats":["Drillneck","Penetrating Quiver","Source: Drops from unique{Atziri's Vault} in normal{Vaal Temple}","League: Fate of the Vaal","UniqueIncreasedLife56","UniqueIncreasedAttackSpeed15","UniqueEvasionAppliesToDeflection5","UniqueArrowsReturnAfterPiercingXTimes1","UniqueProjectileIncreasedCriticalHitChancePerPierce1","UniqueProjectileIncreasedDamagePerPierce1"],
+    "source":"Drops from unique{Atziri's Vault} in normal{Vaal Temple}",
+    "affixes":["UniqueIncreasedLife56","UniqueIncreasedAttackSpeed15","UniqueEvasionAppliesToDeflection5","UniqueArrowsReturnAfterPiercingXTimes1","UniqueProjectileIncreasedCriticalHitChancePerPierce1","UniqueProjectileIncreasedDamagePerPierce1"]
   },
   "Cadiro's Gambit":{
     "baseType":"Primed Quiver",
-    "stats":["Cadiro's Gambit","Primed Quiver","League: Dawn of the Hunt","QuiverImplicitIncreasedAttackSpeed1","UniquePerandusArrows1"],
+    "stats":["Cadiro's Gambit","Primed Quiver","League: Dawn of the Hunt","UniquePerandusArrows1"],
     "league":" Dawn of the Hunt",
-    "affixes":["QuiverImplicitIncreasedAttackSpeed1","UniquePerandusArrows1"]
+    "affixes":["UniquePerandusArrows1"]
+  },
+  "The Lethal Draw":{
+    "variants":["Pre 0.4.0","Current"],
+    "baseType":"Sacral Quiver",
+    "stats":["The Lethal Draw","Sacral Quiver","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","UniqueIncreasedAttackSpeed10","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","{variant:1}UniqueBowDamageFromLifeFlaskCharges1[10,10][5,5]","{variant:2}UniqueBowDamageFromLifeFlaskCharges1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueIncreasedAttackSpeed10","UniqueLifeGainPerTarget2","UniqueArrowPierceChance1","UniqueBowDamageFromLifeFlaskCharges1"]
+  },
+  "Rearguard":{
+    "variants":["Pre 0.3.0","Current"],
+    "league":" Dawn of the Hunt",
+    "implicitCount":2,
+    "stats":["Rearguard","Blunt Quiver","Variant: Pre 0.3.0","Variant: Current","League: Dawn of the Hunt","Implicits: 2","{variant:1}QuiverImplicitStunThresholdReduction1[20,30]","{variant:2}QuiverImplicitStunThresholdReduction1","UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2"],
+    "baseType":"Blunt Quiver",
+    "affixes":["UniqueAddedPhysicalDamage5","UniqueIncreasedPhysicalDamageReductionRating4","UniqueProjectileSpeed3","UniqueBlockPercent2","QuiverImplicitStunThresholdReduction1"]
   }
 }

@@ -481,7 +481,19 @@ local function main(...)
     
     -- 配置路径 - 处理从 PathOfBuilding 克隆的 Lua 文件
     local poe1SourceDir = projectRoot .. "/PathOfBuilding/src/Export/Uniques"
+    -- 优先使用仓库内 PathOfBuilding2，其次兼容同级目录的 PathOfBuilding-PoE2
     local poe2SourceDir = projectRoot .. "/PathOfBuilding2/src/Export/Uniques"
+    local poe2AltSourceDir = projectRoot .. "/../PathOfBuilding-PoE2/src/Export/Uniques"
+    local poe2Check = io.open(poe2SourceDir .. "/amulet.lua", "r")
+    if poe2Check then
+        poe2Check:close()
+    else
+        local altCheck = io.open(poe2AltSourceDir .. "/amulet.lua", "r")
+        if altCheck then
+            altCheck:close()
+            poe2SourceDir = poe2AltSourceDir
+        end
+    end
     local outputBaseDir = projectRoot .. "/exported-uniques"
     
     local poe1OutputDir = outputBaseDir .. "/poe1"

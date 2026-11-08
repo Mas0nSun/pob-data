@@ -1,21 +1,41 @@
 {
-  "Splinterheart":{
-    "baseType":"Recurve Bow",
-    "stats":["Splinterheart","Recurve Bow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent3[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent3","UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1"],
-    "affixes":["UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1","UniqueLocalIncreasedPhysicalDamagePercent3"],
-    "variants":["Pre 0.1.1","Current"]
+  "Voltaxic Rift":{
+    "variants":["Pre 0.4.0","Current"],
+    "baseType":"Fanatic Bow",
+    "stats":["Voltaxic Rift","Fanatic Bow","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","{variant:1}UniqueLocalAddedLightningDamage6[1,1][200,300]","{variant:2}UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed13","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedAttackSpeed13","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1","UniqueLocalAddedLightningDamage6"]
+  },
+  "Doomfletch":{
+    "variants":["Pre 0.4.0","Current"],
+    "baseType":"Composite Bow",
+    "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","UniqueLocalAddedPhysicalDamage7","UniqueDexterity17","UniqueManaRegeneration5","{variant:1}UniqueLocalPhysicalDamageAddedAsEachElement1[50,50]","{variant:2}UniqueLocalPhysicalDamageAddedAsEachElement1"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalAddedPhysicalDamage7","UniqueDexterity17","UniqueManaRegeneration5","UniqueLocalPhysicalDamageAddedAsEachElement1"]
+  },
+  "Ironbound":{
+    "baseType":"Warden Bow",
+    "stats":["Ironbound","Warden Bow","League: Runes of Aldur","UniqueLocalIncreasedPhysicalDamageReductionRating6","UniqueLocalIncreasedAttackSpeed31","UniqueBlockPercent3","UniqueBlockChanceFromArmourOnEquipment1","UniqueAddedPhysicalDamagePerGlobalBlockChance1","UniqueProjectilesReturnIfPiercedArmourBroken1"],
+    "league":" Runes of Aldur",
+    "affixes":["UniqueLocalIncreasedPhysicalDamageReductionRating6","UniqueLocalIncreasedAttackSpeed31","UniqueBlockPercent3","UniqueBlockChanceFromArmourOnEquipment1","UniqueAddedPhysicalDamagePerGlobalBlockChance1","UniqueProjectilesReturnIfPiercedArmourBroken1"]
+  },
+  "Lioneye's Glare":{
+    "variants":["Pre 0.4.0","Current"],
+    "baseType":"Heavy Bow",
+    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","Variant: Pre 0.4.0","Variant: Current","UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity42","UniqueLioneyeDodgeRoll1","{variant:1}UniqueRepeatNoEnemyInPresence[1,1]","{variant:2}UniqueRepeatNoEnemyInPresence"],
+    "league":" Dawn of the Hunt",
+    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity42","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"]
+  },
+  "Periphery":{
+    "baseType":"Heartwood Shortbow",
+    "stats":["Periphery","Heartwood Shortbow","League: Runes of Aldur","UniqueAzmerianSwarmSkill1","UniqueLocalAddedFireDamage9","UniqueLocalAddedColdDamage8","UniqueLocalAddedLightningDamage12","UniqueLocalIncreasedAttackSpeed30","UniqueElementalDamageFromHitsContributesToCoreEleAilments1"],
+    "league":" Runes of Aldur",
+    "affixes":["UniqueAzmerianSwarmSkill1","UniqueLocalAddedFireDamage9","UniqueLocalAddedColdDamage8","UniqueLocalAddedLightningDamage12","UniqueLocalIncreasedAttackSpeed30","UniqueElementalDamageFromHitsContributesToCoreEleAilments1"]
   },
   "Quill Rain":{
-    "baseType":"Shortbow",
     "stats":["Quill Rain","Shortbow","UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"],
+    "baseType":"Shortbow",
     "affixes":["UniqueLocalIncreasedAttackSpeed2","UniqueDexterity2","UniqueArrowSpeed1","UniqueWeaponDamageFinalPercent1"]
-  },
-  "Death's Harp":{
-    "baseType":"Dualstring Bow",
-    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: Current","Implicits: 1","BowImplicitAdditionalArrows1","{variant:1}UniqueLocalCriticalMultiplier1[50,70]","{variant:2}UniqueLocalCriticalMultiplier1[30,40]","{variant:3}UniqueLocalCriticalMultiplier1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6"],
-    "implicitCount":1,
-    "variants":["0.2.0","0.3.0","Current"],
-    "affixes":["BowImplicitAdditionalArrows1","UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath4","UniqueManaGainedFromEnemyDeath6","UniqueLocalCriticalMultiplier1"]
   },
   "Slivertongue":{
     "baseType":"Zealot Bow",
@@ -23,35 +43,27 @@
     "league":" Dawn of the Hunt",
     "affixes":["UniqueLocalAddedPhysicalDamage14","UniqueLocalCriticalStrikeChance6","UniqueLifeLeechLocal1","UniqueManaLeechLocal1","UniqueArrowsFork1","UniqueArrowsAlwaysPierceAfterForking1"]
   },
-  "Lioneye's Glare":{
-    "baseType":"Heavy Bow",
-    "stats":["Lioneye's Glare","Heavy Bow","League: Dawn of the Hunt","UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalIncreasedPhysicalDamagePercent14","UniqueLocalIncreasedAccuracy8","UniqueLocalIncreasedAttackSpeed22","UniqueDexterity44","UniqueLioneyeDodgeRoll1","UniqueRepeatNoEnemyInPresence"]
+  "Death's Harp":{
+    "variants":["0.2.0","0.3.0","0.5.0","Current"],
+    "stats":["Death's Harp","Dualstring Bow","Variant: 0.2.0","Variant: 0.3.0","Variant: 0.5.0","Variant: Current","{variant:1}UniqueLocalCriticalMultiplier1[50,70]","{variant:2}UniqueLocalCriticalMultiplier1[30,40]","{variant:3,4}UniqueLocalCriticalMultiplier1","{variant:1,2,3}UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath5","UniqueManaGainedFromEnemyDeath6","{variant:4}UniqueAdditionalArrowChance1"],
+    "baseType":"Dualstring Bow",
+    "affixes":["{variant:3,4}UniqueLocalCriticalMultiplier1","{variant:1,2,3}UniqueAdditionalArrow1","UniqueLifeGainedFromEnemyDeath5","UniqueManaGainedFromEnemyDeath6","UniqueAdditionalArrowChance1","UniqueLocalCriticalMultiplier1[30,40]"]
   },
-  "Voltaxic Rift":{
-    "baseType":"Fanatic Bow",
-    "stats":["Voltaxic Rift","Fanatic Bow","League: Dawn of the Hunt","UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedLightningDamage6","UniqueLocalIncreasedAttackSpeed17","UniqueLightningDamageConvertToChaos1","UniqueChaosDamageCanShock1"]
-  },
-  "Doomfletch":{
-    "baseType":"Composite Bow",
-    "stats":["Doomfletch","Composite Bow","League: Dawn of the Hunt","UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"],
-    "league":" Dawn of the Hunt",
-    "affixes":["UniqueLocalAddedPhysicalDamage7","UniqueDexterity4","UniqueManaRegeneration3","UniqueLocalPhysicalDamageAddedAsEachElement1"]
+  "Splinterheart":{
+    "variants":["Pre 0.1.1","Current"],
+    "stats":["Splinterheart","Recurve Bow","Variant: Pre 0.1.1","Variant: Current","{variant:1}UniqueLocalIncreasedPhysicalDamagePercent3[60,80]","{variant:2}UniqueLocalIncreasedPhysicalDamagePercent3","UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1"],
+    "baseType":"Recurve Bow",
+    "affixes":["UniqueLocalIncreasedAccuracy3","UniqueProjectileSpeed2","UniqueProjectilesSplitCount1","UniqueLocalIncreasedPhysicalDamagePercent3"]
   },
   "Fairgraves' Curse":{
     "baseType":"Artillery Bow",
-    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","Implicits: 2","Grants Skill: Level (1-20) Phantasmal Arrow","BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
-    "implicitCount":2,
+    "stats":["Fairgraves' Curse","Artillery Bow","League: Rise of the Abyssal","GhostfuseArrowUnique_1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
     "league":" Rise of the Abyssal",
-    "affixes":["BowImplicitProjectileAttackRange1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"],
-    "grantSkill":" Level (1-20) Phantasmal Arrow"
+    "affixes":["GhostfuseArrowUnique_1","UniqueLocalAddedFireDamage5","UniqueIgniteChanceIncrease4","UniqueIgniteEffect3","UniqueLifeRecoveryRate2","UniqueFlatPhysicalDamageTaken1","GhostflameOnHitUnique__1"]
   },
   "Widowhail":{
-    "baseType":"Crude Bow",
     "stats":["Widowhail","Crude Bow","UniqueQuiverModifierEffect1"],
+    "baseType":"Crude Bow",
     "affixes":["UniqueQuiverModifierEffect1"]
   }
 }

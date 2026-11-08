@@ -446,12 +446,15 @@ local function main(...)
         
         -- 输出文件（默认）
         targetFile = "merged-uniques/poe2/all_uniques.json",
+
+        -- 根目录 output 下的合并结果
+        outputFile = "output/unique_details.json",
         
         -- 按类别分组的输出目录
         categoryDir = "merged-uniques/poe2/categories",
         
-        -- 排除模式
-        excludePatterns = {"/Special/"},
+        -- 排除模式（跳过 Special 与导出阶段的汇总文件，避免重复合并）
+        excludePatterns = {"/Special/", "all_uniques%.json$"},
         
         -- 多源合并配置
         sources = {
@@ -460,6 +463,11 @@ local function main(...)
             -- { dir = "data/Data/Uniques", prefix = "data", excludePatterns = {"/Special/"} },
         }
     }
+
+    local function mergeToTargets()
+        mergeUniquesJson(config.sourceDir, config.targetFile, {excludePatterns = config.excludePatterns})
+        mergeUniquesJson(config.sourceDir, config.outputFile, {excludePatterns = config.excludePatterns})
+    end
     
     -- 解析命令行参数
     local args = {...}
@@ -467,7 +475,7 @@ local function main(...)
     
     if command == "merge" then
         -- 基本合并
-        mergeUniquesJson(config.sourceDir, config.targetFile, {excludePatterns = config.excludePatterns})
+        mergeToTargets()
     elseif command == "categories" then
         -- 按类别合并
         mergeByCategory(config.sourceDir, config.categoryDir, config.excludePatterns)
@@ -476,7 +484,7 @@ local function main(...)
         mergeMultipleSources(config.sources, config.targetFile:gsub(".json", "_multi.json"))
     elseif command == "all" then
         -- 执行所有合并
-        mergeUniquesJson(config.sourceDir, config.targetFile, {excludePatterns = config.excludePatterns})
+        mergeToTargets()
         mergeByCategory(config.sourceDir, config.categoryDir, config.excludePatterns)
         
         -- 只有在配置了多个源时才执行多源合并
